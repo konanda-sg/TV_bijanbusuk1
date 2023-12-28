@@ -44,7 +44,7 @@ https://linears-playback.astro.com.my/vsg/41iFhU-KKqyLW0EM61UfnvAal7ZakoSsmytmtN
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png", CITRA HD
 https://linears-playback.astro.com.my/vsg/41CJTs6aYGh76t6znU5NkYNoog2uSNYZmTtTYk47i3fJA=hNBM/dash-wv/jitp-dashisowm/2700/default_primary.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7b/Astro_Sensasi-en.png",Astro Sensasi 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7b/Astro_Sensasi-en.png", ASTRO SENSASI
 http://vo01.mohdtv.com:8880/voby1993/85233644/1705
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
