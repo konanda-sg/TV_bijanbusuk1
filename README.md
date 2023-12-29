@@ -1068,7 +1068,9 @@ EXTINF:-1 tvg-logo="https://i.ibb.co/09cQ9CL/Fri-25-08-2023-11-32-23.png",RIA HD
 https://kametv.my.id/putar/astroria.php 
 https://smt.sky4k.eu.org/AEC_V6/index.php?id=AstroRiaHD
 
-EXTINF:-1 tvg-logo="https://i.ibb.co/09cQ9CL/Fri-25-08-2023-11-32-23.png",RIA HD 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/09cQ9CL/Fri-25-08-2023-11-32-23.png",RIA HD 
+http://line.senpay23.com:80/96579d42b9/6c652d0906b9/571236
+
 http://vo01.mohdtv.com:8880/voby1993/85233644/1705 (sensasi)
 
 EXTINF:-1 tvg-logo="https://i.ibb.co/09cQ9CL/Fri-25-08-2023-11-32-23.png",RIA HD 
@@ -1108,7 +1110,9 @@ http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/158347
 
 PRIMA***************** 
 
-EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png", PRIMA HD 
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png", PRIMA HD 
+http://line.senpay23.com:80/96579d42b9/6c652d0906b9/571237
+
 https://kametv.my.id/putar/astroprima.php
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
@@ -1142,7 +1146,9 @@ https://smt.sky4k.eu.org/live20899/index.m3u8?id=AstroWarnaHD
 https://smt.sky4k.eu.org/AEC_V6/index.php?play=stream1&id=AstroWarnaHD
 https://smt.sky4k.eu.org/live20899/index.m3u8?id==AstroWarnaHD
 
-EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png", WARNA HD 
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png", WARNA HD 
+http://line.senpay23.com:80/96579d42b9/6c652d0906b9/571231
+
 https://kametv.my.id/putar/malay/warna.php 
 https://smt.sky4k.eu.org/AEC_V6/index.php?id=AstroWarnaHD
 
@@ -1180,7 +1186,9 @@ EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/cont
 https://kametv.my.id/putar/malay/citra.php 
 https://smt.sky4k.eu.org/AEC_V6/index.php?id=AstroCitraHD
 
-EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/60_144.png", Citra HD 
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/60_144.png", Citra HD 
+http://line.senpay23.com:80/96579d42b9/6c652d0906b9/571242
+
 http://toh-users.xyz:8080/42204120/16250164/798391
 
 EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/60_144.png", Citra HD 
