@@ -113,7 +113,7 @@ EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.p
 #KODIPROP:inputstream.adaptive.license_key={"3f726fd5cbbf5944437a4dbfab431b10": "376b009796e4ad50ea8f68d796676692"}
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7b/Astro_Sensasi-en.png", ASTRO SENSASI
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7b/Astro_Sensasi-en.png", SENSASI HD
 http://vo01.mohdtv.com:8880/voby1993/85233644/1705
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
@@ -285,22 +285,10 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5106/default.mpd
 
 ########################################################## MEDIACORP ##########################################################################################
 
-EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_channels2/104_1920x1080_HTV.png",Suria 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://run.mocky.io/v3/d8ed7731-7bc7-4993-9f9d-c98ba9291b5c 
-https://tglmp04.akamaized.net/out/v1/b200e885125f4787bd2329952ff28fa1/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=7a9ea6df52044841b0c562766e602610:b9380188b4896b25e8d419dfce938c6e 
-EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_channels2/104_1920x1080_HTV.png",SURIA 
-https://tglmp04.akamaized.net/out/v1/b200e885125f4787bd2329952ff28fa1/manifest.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"uTgBiLSJayXo1BnfzpOMbg", "kid":"ep6m31IESEGwxWJ2bmAmEA" } ], "type":"temporary" } 
-#EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_channels2/104_1920x1080_HTV.png",SURIA 
-https://tglmp04.akamaized.net/out/v1/b200e885125f4787bd2329952ff28fa1/manifest.mpd 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZDR09jSGpvbk9ER21rTTRieTBLclV3NFBLdDVzRXJHNXQyNnkwLXAtTXZveFpnMF9yLW5FemNPSjJNeWZhVVBPaExtQ3IycXFuSkxwTFZ5SnFzV0ZsTGRKbWF0WjBvWmR1bmhMXy1OXzlLRkl5Z2NXQi04UWJFc2ZsbEF6azY4NnJYS3BWSDhpTjc0aGVJazBxc29GeGFPU05fQ2d3TlZycjkxWE1PUnBMQkxRenExdzZsZEVIUTFrQnBaMUR6am1oVGRuT25raVNnbVFPQlRpaXZGVTFsUFFFMFhGNkw4eDc3bDByTWF4a193MUctWGNxdUhncl9TemlMYkFhSnNIUURQNVVoLTJjSzBnVE5iamJhb3hTTDlnRHRmelBqYl9qQlNRSHRpSkd4UElmbm5QOTh5LUFSQ2gxUGctNDQ1dmhwQmFtYTVfbHJMcTVUMlJOaWpGb289JmNvbnRleHRUeXBlPW5vbmUmaWQ9NTc1NDA2NiIsImFjY291bnRfaWQiOjIwODIzMTEsImNvbnRlbnRfaWQiOiJmdGFfc3VyaWFfZGFzaF90dl9kcm0iLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TVRRM2ZDR09jSGpvbk9ER21rTTRieTBLclV3NFBLdDVzRXJHNXQyNnkwLXAtTXZveFpnMF9yLW5FemNPSjJNeWZhVVBPaExtQ3IycXFuSkxwTFZ5SnFzV0ZsTGRKbWF0WjBvWmR1bmhMXy1OXzlLRkl5Z2NXQi04UWJFc2ZsbEF6azY4NnJYS3BWSDhpTjc0aGVJazBxc29GeGFPU05fQ2d3TlZycjkxWE1PUnBMQkxRenExdzZsZEVIUTFrQnBaMUR6am1oVGRuT25raVNnbVFPQlRpaXZGVTFsUFFFMFhGNkw4eDc3bDByTWF4a193MUctWGNxdUhncl9TemlMYkFhSnNIUURQNVVoLTJjSzBnVE5iamJhb3hTTDlnRHRmelBqYl9qQlNRSHRpSkd4UElmbm5QOTh5LUFSQ2gxUGctNDQ1dmhwQmFtYTVfbHJMcTVUMlJOaWpGb289IiwidWRpZCI6IiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MTQ3fQ%3d%3d&signature=3VEPqzcZYyRqeylGfFllNqvYqa8%3d
+#EXTINF:-1 tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/%24value?Format=%27png%27&Quality=85&ImageId=%271375229%27&EntityType=%27Item%27&EntityId=%2797084%27&Width=300&Height=300&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Suria
+https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/237652/assetType/media/assetFileId/5754066/contextType/PLAYBACK/isAltUrl/False/a.mpd
 
 ########################################################### RTB GO ############################################################################################
 
