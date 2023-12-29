@@ -1,13 +1,6 @@
-#EXTM3U url-tvg=https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml
-#EXTM3U url-tvg=https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml
-#EXTM3U url-tvg=https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml
-#EXTM3U url-tvg=https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml
-#EXTM3U url-tvg=https://raw.githubusercontent.com/AqFad2811/epg/main/starhubtv.xml
-#EXTM3U url-tvg=https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/us.xml
-#EXTM3U url-tvg=https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/Plex/all.xml
-#EXTM3U url-tvg=https://tsepg.cf/epg.xml.gz,
-https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz
-#EXTM3U url-tvg=https://epgshare01.online/epgshare01/epg_ripper_RAKUTEN_EN1.xml.gz
+#EXTM3U url-tvg="https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml,https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/starhubtv.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/us.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/Plex/all.xml,https://tsepg.cf/epg.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_RAKUTEN_EN1.xml.gz,"
+
+
 
 
 
