@@ -64,7 +64,7 @@ https://linears-playback.astro.com.my/vsg/41bXPmm6Wfa7GHGd9QuNMpge2XT5G2wqFRlReD
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b65326aede3edbe81e6fb40317d5310:8412f444ffbe350cf2ece051f9152e90
-layback.astro.com.my/vsg/41LA3Vg1DbNDzt62QgDhxO2KmqKiw0LNsy3D9TYy-Yrpg=oY9X/dash-wv/jitp-dashisowm/1000/default.mpd?PID=&PAID=1000&deviceIdType=adid&deviceId=955a05bf820f37d35177f8dfa71a3ffb&appId=com.astro.astro&appName=Astro+Go&devModel=an
+https://linears-playback.astro.com.my/vsg/41LA3Vg1DbNDzt62QgDhxO2KmqKiw0LNsy3D9TYy-Yrpg=oY9X/dash-wv/jitp-dashisowm/1000/default.mpd?PID=&PAID=1000&deviceIdType=adid&deviceId=955a05bf820f37d35177f8dfa71a3ffb&appId=com.astro.astro&appName=Astro+Go&devModel=andr
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
