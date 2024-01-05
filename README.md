@@ -1302,8 +1302,10 @@ https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/8872602a-
 
 
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key='499a8f368064b11cc092b7b013db0710':'e151bb81468a8426d6ab12860d314aa3'
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"499a8f368064b11cc092b7b013db0710':'e151bb81468a8426d6ab12860d314aa3"}
 #EXTINF:-1 tvg-logo="",TEST
 https://linears-playback.astro.com.my/vsg/41Q8dE84Xi1kSi2cPtM2taw1DHFRwX_fInkBrnEaAack0=afHt/dash-wv/jitp-linearwm/5099/default_primary.mpd
 
