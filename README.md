@@ -1309,5 +1309,20 @@ https://linears-playback.astro.com.my/vsg/41Q8dE84Xi1kSi2cPtM2taw1DHFRwX_fInkBrn
 
 
 
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/71_144.png",LIVE ADHOC 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key='de761cd285aa2b1c1620d16ddbade010': 'f12de5f0de92c52f841705d9d6449d3a' 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/9989/default_primary.mpd
+
+
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/71_144.png",LIVE ADHOC 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key='89c10c7ef0af145be7d6e88dec090b10': '80558606a13a99d2c543872d8899ced0'
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5076/default.mpd
+
+
+
+
 
 #EXTM3U billed-msg="😎 BijanBusuk 😎"
