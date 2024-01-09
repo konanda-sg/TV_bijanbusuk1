@@ -53,27 +53,10 @@ https://linears-playback.astro.com.my/vsg/412O6wCjqZ075LC-hrUPm9NDUwIIYcuyTffJYp
 EXTINF:-1 tvg-logo="https://i.ibb.co/09cQ9CL/Fri-25-08-2023-11-32-23.png",RIA HD 
 https://linears-playback.astro.com.my/vsg/41MlTsej4YNoyfXCZWARkIQ5vgeqhx9I7sq_P-z3BI5YI=JkKq/dash-wv/jitp-linearwm/1004/default_ott.mpd?10
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"hBL0RP++NQzy7OBR+RUukA", "kid":"C2Uyau3j7b6B5vtAMX1TEA" } ], "type":"temporary" }
-EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png", PRIMA HD 
-https://smt.sky4k.eu.org/AEC_V6/index.php?play=stream1&id=AstroPrimaHD
-https://linears-playback.astro.com.my/vsg/41bXPmm6Wfa7GHGd9QuNMpge2XT5G2wqFRlReDEriZrW8=3QMq/dash-wv/jitp-dashisowm/1000/default_primary.mpd
-
-EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png", PRIMA HD 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png", PRIMA HD 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b65326aede3edbe81e6fb40317d5310:8412f444ffbe350cf2ece051f9152e90
-https://linears-playback.astro.com.my/vsg/41LA3Vg1DbNDzt62QgDhxO2KmqKiw0LNsy3D9TYy-Yrpg=oY9X/dash-wv/jitp-dashisowm/1000/default.mpd?PID=&PAID=1000&deviceIdType=adid&deviceId=955a05bf820f37d35177f8dfa71a3ffb&appId=com.astro.astro&appName=Astro+Go&devModel=andr
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"hBL0RP++NQzy7OBR+RUukA", "kid":"C2Uyau3j7b6B5vtAMX1TEA" } ], "type":"temporary" }
-EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png", PRIMA HD 
-https://linears-playback.astro.com.my/vsg/41bXPmm6Wfa7GHGd9QuNMpge2XT5G2wqFRlReDEriZrW8=3QMq/dash-wv/jitp-dashisowm/1000/default.mpd
+https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_primary.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -86,7 +69,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"CoDiDFaOiOU8cIfBxkkzGA", "kid":"qixlPwwFVnrig8SjJxqYEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png", WARNA HD  
+EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png", WARNA HD  
 http://vo01.mohdtv.com:8880/live/voby1993/85233644/1706.m3u8
 http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/1706
 https://linears-playback.astro.com.my/vsg/41iFhU-KKqyLW0EM61UfnvAcLn6bg1XmlwI4a1vlQxdgA=8oIB/dash-wv/jitp-dashisowm/2402/default_primary.mpd
