@@ -27,7 +27,7 @@ https://unifi-live03.secureswiftcontent.com/UnifiHD/live03.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"N2sAl5bkrVDqj2jXlmdmkg", "kid":"P3Jv1cu/WURDek2/q0MbEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-logo="https://i.ibb.co/09cQ9CL/Fri-25-08-2023-11-32-23.png",RIA HD 
+EXTINF:-1 tvg-logo="https://i.ibb.co/09cQ9CL/Fri-25-08-2023-11-32-23.png",RIA HD 
 http://vo01.mohdtv.com:8880/live/voby1993/85233644/1705.m3u8
 http://muka03.wanicelife.com:8880/live/3ca7283n03/asdf23e423/1705.ts
 https://linears-playback.astro.com.my/vsg/41nXdDj9tmXOFE0tRAwj3i71gVJxzH_jfC1aEN3swstaI=G3cN/dash-wv/jitp-linearwm/1004/default_primary.mpd
@@ -186,7 +186,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default.mpd
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-Oj30_OSCTbA/T__hmGh2tvI/AAAAAAAACWg/d7WUGwrM7ag/w1200-h630-p-k-no-nu/tvikim-logo.png",TV IKIM 
 https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/mobile/channel/logos/hxismd.png",suke-tv 
+EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/mobile/channel/logos/hxismd.png",suke-tv 
 https://t.ly/jepstoremanasuka
 https://trtv.trchannel.xyz/YT_Live.php?id=https://www.youtube.com/channel/UCzh6SMSWad2934rgoq_cNkg/live
 
@@ -1084,7 +1084,7 @@ EXTINF:-1 tvg-logo="https://i.ibb.co/09cQ9CL/Fri-25-08-2023-11-32-23.png",RIA HD
 https://kametv.my.id/putar/astroria.php 
 https://smt.sky4k.eu.org/AEC_V6/index.php?id=AstroRiaHD
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/09cQ9CL/Fri-25-08-2023-11-32-23.png",RIA HD 
+EXTINF:-1 tvg-logo="https://i.ibb.co/09cQ9CL/Fri-25-08-2023-11-32-23.png",RIA HD 
 http://line.senpay23.com:80/96579d42b9/6c652d0906b9/571236
 
 http://vo01.mohdtv.com:8880/voby1993/85233644/1705 (sensasi)
@@ -1126,7 +1126,7 @@ http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/158347
 
 PRIMA***************** 
 
-#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png", PRIMA HD 
+EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png", PRIMA HD 
 http://line.senpay23.com:80/96579d42b9/6c652d0906b9/571237
 
 https://kametv.my.id/putar/astroprima.php
@@ -1162,7 +1162,7 @@ https://smt.sky4k.eu.org/live20899/index.m3u8?id=AstroWarnaHD
 https://smt.sky4k.eu.org/AEC_V6/index.php?play=stream1&id=AstroWarnaHD
 https://smt.sky4k.eu.org/live20899/index.m3u8?id==AstroWarnaHD
 
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png", WARNA HD 
+EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png", WARNA HD 
 http://line.senpay23.com:80/96579d42b9/6c652d0906b9/571231
 
 https://kametv.my.id/putar/malay/warna.php 
@@ -1202,7 +1202,7 @@ EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/cont
 https://kametv.my.id/putar/malay/citra.php 
 https://smt.sky4k.eu.org/AEC_V6/index.php?id=AstroCitraHD
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/60_144.png", Citra HD 
+EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/60_144.png", Citra HD 
 http://line.senpay23.com:80/96579d42b9/6c652d0906b9/571242
 
 http://toh-users.xyz:8080/42204120/16250164/798391
@@ -1271,7 +1271,7 @@ https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/8872602a-
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=74fb8c71b796d01e04355267a174b910:ecf96eae99421f1c836f454512183cf8
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-#EXTINF:-1 group-title="VOD MALAY" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDhjMzU5MjktNjNkYS00NDQ5LTk5YjAtZWQ5ZWQ3ZjFmYmRlXkEyXkFqcGdeQXVyMjgzNDQyMjE@._V1_.jpg",Hantu Kak Limah Balik Rumah
+#EXTINF:-1 type="movie" group-title="VOD MALAY" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDhjMzU5MjktNjNkYS00NDQ5LTk5YjAtZWQ5ZWQ3ZjFmYmRlXkEyXkFqcGdeQXVyMjgzNDQyMjE@._V1_.jpg",Hantu Kak Limah Balik Rumah
 https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/5d23d23c-c910-51a6-a1ae-a13d147ff7f2/default_primary.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1848,9 +1848,6 @@ https://t.ly/jepcitraQWAQW
 #EXTINF:-1 tvg-id="AstroCitra.my" ch-number="108" tvg-name="Astro Citra HD" group-title="MALAYSIA" tvg-logo="https://jepstoreott.jepstore057.workers.dev/0:/jepstore/jepstorelogobaru/CITRA.png",108 Astro Citra (server 2)
 https://jepstoreott.jepstore057.workers.dev/0:/scammer.m3u8
   
-#EXTINF:-1 group-title="MALAYSIA" tvg-id="HubSensasi.sg" tvg-name="Hub Sensasi" tvg-logo="https://i.imgur.com/BVbyCAo.png",109 Astro Sensasi
-#EXTVLCOPT:http-user-agent=CheerVision_TV+_LiVe_.Jiayou.888
-#EXTVLCOPT:http-referrer=CheerVision_TV+_LiVe_888_666_8888
-https://smt.sky4k.eu.org/cheervisiontv/index.m3u8?id=Ria
+
 
 #EXTM3U billed-msg="😎 BijanBusuk 😎"
