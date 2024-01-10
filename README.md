@@ -1665,41 +1665,5 @@ https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/a78fcd65-
 #EXTINF:-1 type="movie" group-title="VOD THAI" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IWJSR_p_IVP_PORT_750x1126_20221028_72415.jpg",Pee Nak 2019
 https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/67f78b61-9c52-5ca4-bb51-14d359df0d17/default_primary.mpd
 
-#EXTINF:-1 group-title="MALAYSIA" tvg-id="AstroRia.my" ch-number="104" tvg-name="Astro Ria HD" tvg-logo="https://jepstoreott.jepstore057.workers.dev/0:/jepstore/jepstorelogobaru/RIA.png", 104 Astro Ria (server 1)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-#EXTVLCOPT:http-user-agent=CheerVision_TV+_LiVe_888_666_8888
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"N2sAl5bkrVDqj2jXlmdmkg", "kid":"P3Jv1cu/WURDek2/q0MbEA" } ], "type":"temporary" }
-https://t.ly/jepriaQWAQW
-
-#EXTINF:-1 group-title="MALAYSIA" tvg-id="AstroRia.my" ch-number="104" tvg-name="Astro Ria HD" tvg-logo="https://jepstoreott.jepstore057.workers.dev/0:/jepstore/jepstorelogobaru/RIA.png", 104 Astro Ria (server 2)
-https://jepstoreott.jepstore057.workers.dev/0:/scammer.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"hBL0RP++NQzy7OBR+RUukA", "kid":"C2Uyau3j7b6B5vtAMX1TEA" } ], "type":"temporary" }
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-#EXTVLCOPT:http-user-agent=CheerVision_TV+_LiVe_888_666_8888
-#EXTINF:-1 tvg-id="Astro Prima" ch-number="105" tvg-name="ASTRO PRIMA HD" tvg-logo="https://jepstoreott.jepstore057.workers.dev/0:/jepstore/jepstorelogobaru/PRIMA.png" group-title="MALAYSIA",105 Astro Prima
-https://t.ly/jepprimaQWAQW
-
-#EXTINF:-1 tvg-id="AstroWarna.my" ch-number="107" tvg-name="Astro Warna HD" group-title="MALAYSIA" tvg-logo="https://jepstoreott.jepstore057.workers.dev/0:/jepstore/jepstorelogobaru/WARNA.png",107 Astro Warna (server 1)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"CoDiDFaOiOU8cIfBxkkzGA","kid":"qixlPwwFVnrig8SjJxqYEA"}],"type":"temporary"}
-https://t.ly/jepwarnaQWAQW
-
-#EXTINF:-1 tvg-id="AstroWarna.my" ch-number="107" tvg-name="Astro Warna HD" group-title="MALAYSIA" tvg-logo="https://jepstoreott.jepstore057.workers.dev/0:/jepstore/jepstorelogobaru/WARNA.png",107 Astro Warna (server 2)
-https://jepstoreott.jepstore057.workers.dev/0:/scammer.m3u8
-  
-#EXTINF:-1 tvg-id="AstroCitra.my" ch-number="108" tvg-name="Astro Citra HD" group-title="MALAYSIA" tvg-logo="https://jepstoreott.jepstore057.workers.dev/0:/jepstore/jepstorelogobaru/CITRA.png",108 Astro Citra (server 1)
-#EXTVLCOPT:http-user-agent=CheerVision_TV+_LiVe_888_666_8888
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"ZU8tJaW/snyeWuCFJYShZg","kid":"hL+a1oSL59sg+dFoI97vEA"}],"type":"temporary"}
-https://t.ly/jepcitraQWAQW
-
-#EXTINF:-1 tvg-id="AstroCitra.my" ch-number="108" tvg-name="Astro Citra HD" group-title="MALAYSIA" tvg-logo="https://jepstoreott.jepstore057.workers.dev/0:/jepstore/jepstorelogobaru/CITRA.png",108 Astro Citra (server 2)
-https://jepstoreott.jepstore057.workers.dev/0:/scammer.m3u8
-  
-
 
 #EXTM3U billed-msg="😎 BijanBusuk 😎"
