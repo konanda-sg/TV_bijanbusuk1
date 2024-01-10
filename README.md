@@ -1666,4 +1666,16 @@ https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/a78fcd65-
 https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/67f78b61-9c52-5ca4-bb51-14d359df0d17/default_primary.mpd
 
 
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/09cQ9CL/Fri-25-08-2023-11-32-23.png",RIA HD 
+http://newlife3.wanicelife.com:8880/29us041803/asdfwe332/1705?play_token=qZDKoCSCLS
+
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png", WARNA HD  
+http://newlife3.wanicelife.com:8880/29us041803/asdfwe332/1706?play_token=qZDKoCSCLS
+
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png", CITRA HD
+http://newlife3.wanicelife.com:8880/29us041803/asdfwe332/71146?play_token=qZDKoCSCLS
+
+
 #EXTM3U billed-msg="😎 BijanBusuk 😎"
