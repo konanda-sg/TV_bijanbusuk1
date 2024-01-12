@@ -766,10 +766,10 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5128/default.mpd
 
 #EXTVLCOPT:http-referrer=https://emturbovid.com/
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/Referer=https://emturbovid.com/
-#EXTINF:-1 type="movie" group-title="SERAM" tvg-logo="https://s7.lk21static.xyz/wp-content/uploads/2017/03/DormMelati_2017_500.jpg",Dorm Melati
+#EXTINF:-1 type="movie" group-title="VOD MALAY" tvg-logo="https://s7.lk21static.xyz/wp-content/uploads/2017/03/DormMelati_2017_500.jpg",Dorm Melati
 https://ss259.sunseanet.com/stream/B/3D/SHVrZxS6rRidT6t2e3tWSxkphnM7nIak9szPIbIw/master.m3u8
 
-#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTU2MmYxMzgtYzJjYy00ZGExLTg3MDItM2NlNDc1NjczOTIyXkEyXkFqcGdeQXVyMTUzMDA3Mjc2._V1_.jpg" group-title="VOD MALAY", Malbatt Misi Bakara 2023
+#EXTINF:-1 type="movie" group-title="VOD MALAY" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTU2MmYxMzgtYzJjYy00ZGExLTg3MDItM2NlNDc1NjczOTIyXkEyXkFqcGdeQXVyMTUzMDA3Mjc2._V1_.jpg", Malbatt Misi Bakara 2023
 https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/aqfantvscammer/VOD%20MALAY/Malbatt_%20Misi%20Bakara.mp4
 
 #EXTINF:-1 type="movie" group-title="VOD MALAY" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KKGPO_IVP_LAND_917x516_2023128_14540.jpg", Gemencheh Boys 
@@ -784,7 +784,7 @@ https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/8872602a-
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=74fb8c71b796d01e04355267a174b910:ecf96eae99421f1c836f454512183cf8
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-#EXTINF:-1 type="movie" group-title="SERAM" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDhjMzU5MjktNjNkYS00NDQ5LTk5YjAtZWQ5ZWQ3ZjFmYmRlXkEyXkFqcGdeQXVyMjgzNDQyMjE@._V1_.jpg",Hantu Kak Limah Balik Rumah
+#EXTINF:-1 type="movie" group-title="VOD MALAY" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDhjMzU5MjktNjNkYS00NDQ5LTk5YjAtZWQ5ZWQ3ZjFmYmRlXkEyXkFqcGdeQXVyMjgzNDQyMjE@._V1_.jpg",Hantu Kak Limah Balik Rumah
 https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/5d23d23c-c910-51a6-a1ae-a13d147ff7f2/default_primary.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -800,7 +800,7 @@ https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/89ea9b06-
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=69ac558debea92af91b80fca29e63210:8359d7e73eaffa20df30549d7af6208c
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-#EXTINF:-1 type="movie" group-title="P.RAMLEE" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzc0ZThjZWYtZjNhOS00NDg3LTllYmUtMmNiMDY1OGI4YWNkXkEyXkFqcGdeQXVyMjgzNDQyMjE@._V1_FMjpg_UX1000_.jpg",Masam Masam Manis
+#EXTINF:-1 type="movie" group-title="VOD MALAY" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzc0ZThjZWYtZjNhOS00NDg3LTllYmUtMmNiMDY1OGI4YWNkXkEyXkFqcGdeQXVyMjgzNDQyMjE@._V1_FMjpg_UX1000_.jpg",Masam Masam Manis
 https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/ba51a685-217c-5725-8221-62f23bbf93a1/default_primary.mpd
   
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -808,7 +808,7 @@ https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/ba51a685-
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=06405eab1fc89e880b043affb7997a10:5158304bb69c3ec1287bc3f548a8df0c
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-#EXTINF:-1 type="movie" group-title="P.RAMLEE" tvg-logo="https://www.cinema.com.my/images/movies/2020/7madutiga_sg00_450.jpg",Madu Tiga
+#EXTINF:-1 type="movie" group-title="VOD MALAY" tvg-logo="https://www.cinema.com.my/images/movies/2020/7madutiga_sg00_450.jpg",Madu Tiga
 https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/c5bbc9fc-1c36-5a60-a8d2-7b1036e2cc50/default_primary.mpd
   
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -816,7 +816,7 @@ https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/c5bbc9fc-
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=568810c75d93711d80a001c904549710:4811edb267f9ab3dee1781fdd22e916a
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-#EXTINF:-1 type="movie" group-title="P.RAMLEE" tvg-logo="https://www.themoviedb.org/t/p/w500/cqHXC95ahqrSAaNxBD2QbAOj6iQ.jpg",Musang Berjanggut
+#EXTINF:-1 type="movie" group-title="VOD MALAY" tvg-logo="https://www.themoviedb.org/t/p/w500/cqHXC95ahqrSAaNxBD2QbAOj6iQ.jpg",Musang Berjanggut
 https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/c7622e9d-d629-5f39-a274-6ca729874360/default_primary.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -824,7 +824,7 @@ https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/c7622e9d-
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d92f253893a8420837531e6d9ccf2810:39267806475e649e100c75046b9e40a9
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-#EXTINF:-1 type="movie" group-title="SERAM" tvg-logo="https://1.bp.blogspot.com/-DkEcxlDf1NY/YBVXwpEXaYI/AAAAAAAALEw/TyjzN4r6IQYjF-7rV6meD_0bl5ANpLC9gCLcBGAsYHQ/w0/44Hari%2BBangkitnya%2BPocong.jpg",44 Hari Bangkitnya Pocong
+#EXTINF:-1 type="movie" group-title="VOD MALAY" tvg-logo="https://1.bp.blogspot.com/-DkEcxlDf1NY/YBVXwpEXaYI/AAAAAAAALEw/TyjzN4r6IQYjF-7rV6meD_0bl5ANpLC9gCLcBGAsYHQ/w0/44Hari%2BBangkitnya%2BPocong.jpg",44 Hari Bangkitnya Pocong
 https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/c7c04c65-c7b3-5f82-83d8-7b57fc0c9800/default_primary.mpd
   
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -832,7 +832,7 @@ https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/c7c04c65-
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ef1203787576f85fa6d5a93f8559d410:c80b1de629f65d06857f7c9cad46e0c5
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-#EXTINF:-1 type="movie" group-title="SERAM" tvg-logo="https://1.bp.blogspot.com/-ehwqR6zDenk/X7zmxlnJUoI/AAAAAAAAKmQ/T9kqkls2EZA6w8-cm5ucsD1XJDTzoovjwCLcBGAsYHQ/w0/Tersimpang%2BKe%2BAlam%2BBunian.jpg",Tersimpang Ke Alam Bunian
+#EXTINF:-1 type="movie" group-title="VOD MALAY" tvg-logo="https://1.bp.blogspot.com/-ehwqR6zDenk/X7zmxlnJUoI/AAAAAAAAKmQ/T9kqkls2EZA6w8-cm5ucsD1XJDTzoovjwCLcBGAsYHQ/w0/Tersimpang%2BKe%2BAlam%2BBunian.jpg",Tersimpang Ke Alam Bunian
 https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/c2b7e229-363b-58fd-a2b1-b4250c00f22c/default_primary.mpd
   
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -840,7 +840,7 @@ https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/c2b7e229-
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=9f247220a3214dfcd1e80b1fc9586110:24a33ac2d4fc047caae5dbbcd84d6973
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-#EXTINF:-1 type="movie" group-title="SERAM" tvg-logo="https://1.bp.blogspot.com/-4-8-H_3ToEM/X7CP6avbKAI/AAAAAAAAz7I/d9n8cg5xPxIxmNZ_C_tQpEnw53hi7mWgQCLcBGAsYHQ/s16000/telefilem-line-puaka.jpg",Line Puaka
+#EXTINF:-1 type="movie" group-title="VOD MALAY" tvg-logo="https://1.bp.blogspot.com/-4-8-H_3ToEM/X7CP6avbKAI/AAAAAAAAz7I/d9n8cg5xPxIxmNZ_C_tQpEnw53hi7mWgQCLcBGAsYHQ/s16000/telefilem-line-puaka.jpg",Line Puaka
 https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/caaa2c45-00f1-5df9-8510-11c739362ac6/default_primary.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -848,7 +848,7 @@ https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/caaa2c45-
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0bb28b3c9dc5e61db490e6d108767010:38622d92c63672ea43a7f90457a1fa5a
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-#EXTINF:-1 type="movie" group-title="SERAM" tvg-logo="https://cdn.moviefone.com/image-assets/681577/xK3E5gdMNsOMSkl0okKcRjaBvEs.jpg?d=360x540&q=60",Santau Maut
+#EXTINF:-1 type="movie" group-title="VOD MALAY" tvg-logo="https://cdn.moviefone.com/image-assets/681577/xK3E5gdMNsOMSkl0okKcRjaBvEs.jpg?d=360x540&q=60",Santau Maut
 https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/a5d7ada4-bf7a-5d01-ae58-c6e029b0ef9b/default_primary.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -856,7 +856,7 @@ https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/a5d7ada4-
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=9e7337397c870247930d935a8c65c610:c13a7b45c0f10302e625cce8892e9bd8
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-#EXTINF:-1 type="movie" group-title="SERAM" tvg-logo="https://1.bp.blogspot.com/-yT_h--2fDU8/YWT9xSfqC6I/AAAAAAAAMao/7ojROqCu6rEVTViI0GQLqg64o7By4TbEgCLcBGAsYHQ/w0/Tahyul%2Btv3.jpg",Tahyul
+#EXTINF:-1 type="movie" group-title="VOD MALAY" tvg-logo="https://1.bp.blogspot.com/-yT_h--2fDU8/YWT9xSfqC6I/AAAAAAAAMao/7ojROqCu6rEVTViI0GQLqg64o7By4TbEgCLcBGAsYHQ/w0/Tahyul%2Btv3.jpg",Tahyul
 https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/0138d7e5-4a41-509e-8aa8-b414c9f30b5a/default_primary.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -864,7 +864,7 @@ https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/0138d7e5-
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=89df0469810b213f02c61037f95b0310:92b4b5e743301226c6f363a26db2f615
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-#EXTINF:-1 type="movie" group-title="SERAM" tvg-logo="https://4.bp.blogspot.com/-nj667QJKaqU/W869f3HeCXI/AAAAAAAAHFs/wn19Fr-Oj74cRBMDnpmUUxk8QRqcodQhwCLcBGAs/w0/Syirik.jpg",Syirik
+#EXTINF:-1 type="movie" group-title="VOD MALAY" tvg-logo="https://4.bp.blogspot.com/-nj667QJKaqU/W869f3HeCXI/AAAAAAAAHFs/wn19Fr-Oj74cRBMDnpmUUxk8QRqcodQhwCLcBGAs/w0/Syirik.jpg",Syirik
 https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/780e151b-9b39-5e36-9eee-fad4f8dbdcb9/default_primary.mpd
   
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -872,7 +872,7 @@ https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/780e151b-
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=168275b1fa5f769d4342d56231dddf10:fad92039dae5171e887099b379ae6940
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-#EXTINF:-1 type="movie" group-title="SERAM" tvg-logo="https://3.bp.blogspot.com/-5l4Hxqwl8JE/W8bd7wdB8DI/AAAAAAAAHEg/gkFgCEcn0YYwMRRuVmTM4tbzOY1TGkAOgCLcBGAs/w0/Korban%2BPenunggu%2BHospital.jpg",Korban Penunggu Hospital
+#EXTINF:-1 type="movie" group-title="VOD MALAY" tvg-logo="https://3.bp.blogspot.com/-5l4Hxqwl8JE/W8bd7wdB8DI/AAAAAAAAHEg/gkFgCEcn0YYwMRRuVmTM4tbzOY1TGkAOgCLcBGAs/w0/Korban%2BPenunggu%2BHospital.jpg",Korban Penunggu Hospital
 https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/0068368d-4fa5-5c62-97db-2803903e81df/default_primary.mpd
   
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -880,7 +880,7 @@ https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/0068368d-
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5808cee957dcbf708575dc8068efc910:517acba217bc33f6a18f169f18d7da53
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-#EXTINF:-1 type="movie" group-title="SERAM" tvg-logo="https://3.bp.blogspot.com/-u1m40-Ko52I/W8HJq8JQ7VI/AAAAAAAACAg/83qA_7y6k1MfZqjLM7nW6f0ypt6rRzRNwCLcBGAs/s1600/Sinopsis%2BTelefilem%2BSetan%2BDalam%2BPoket%2B-%2BAstro%2BCitra.png",Setan Dalam Poket
+#EXTINF:-1 type="movie" group-title="VOD MALAY" tvg-logo="https://3.bp.blogspot.com/-u1m40-Ko52I/W8HJq8JQ7VI/AAAAAAAACAg/83qA_7y6k1MfZqjLM7nW6f0ypt6rRzRNwCLcBGAs/s1600/Sinopsis%2BTelefilem%2BSetan%2BDalam%2BPoket%2B-%2BAstro%2BCitra.png",Setan Dalam Poket
 https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/80b8be56-c86e-5ad1-ad52-b94eab3543cc/default_primary.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -888,7 +888,7 @@ https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/80b8be56-
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=93db2b05dffd6d11fb235a1236589910:aaa750a05ce0165a8571b11ae45cf427
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-#EXTINF:-1 type="movie" group-title="SERAM" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/6/69/Nongkrong.jpeg",Nongkrong
+#EXTINF:-1 type="movie" group-title="VOD MALAY" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/6/69/Nongkrong.jpeg",Nongkrong
 https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/e707f013-2040-531f-bd70-73a6f80d3643/default_primary.mpd
   
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -936,7 +936,7 @@ https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/3fe33d1b-
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=2b1590215db5a9b1690f3c125bfa8110:fd043c9f9df8659483d809c25222b8ce
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-#EXTINF:-1 type="movie" group-title="SERAM" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgU-BXvOdi4VRf9MJWNbZZf6ExzlDIw0rAboWrOBx1CHNvxVrJ2JrMb2xCZJN7NpFoW0iHccZG-6gb-WUxYaugOSwW8Sy0z9ANi4H4tTic_unIzR9C8ZdOrdXOrbbt7w_sl9Eo2DiOF47qfVqujv_1DB-y40hnCmcR1y_ddXCoiZqOkPK61HbK3xRBXEg",Tanah Kubur Fitnah Akhir Zaman
+#EXTINF:-1 type="movie" group-title="VOD MALAY" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgU-BXvOdi4VRf9MJWNbZZf6ExzlDIw0rAboWrOBx1CHNvxVrJ2JrMb2xCZJN7NpFoW0iHccZG-6gb-WUxYaugOSwW8Sy0z9ANi4H4tTic_unIzR9C8ZdOrdXOrbbt7w_sl9Eo2DiOF47qfVqujv_1DB-y40hnCmcR1y_ddXCoiZqOkPK61HbK3xRBXEg",Tanah Kubur Fitnah Akhir Zaman
 https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/d3b518d8-8b60-5654-8d85-298d1cc52f29/default_primary.mpd
   
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -944,7 +944,7 @@ https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/d3b518d8-
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=44798be2c0c7ae9303d52cebd3697b10:3e82cb2f220017dc0515e62d6b06577f
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-#EXTINF:-1 type="movie" group-title="SERAM" tvg-logo="https://m.media-amazon.com/images/M/MV5BNGViZjJkM2UtYmQ3NC00MjAwLTk4NzEtOGVmNjBjZjUxZGNkXkEyXkFqcGdeQXVyMTA5ODc3MjQ3._V1_.jpg",Tanah Kubur
+#EXTINF:-1 type="movie" group-title="VOD MALAY" tvg-logo="https://m.media-amazon.com/images/M/MV5BNGViZjJkM2UtYmQ3NC00MjAwLTk4NzEtOGVmNjBjZjUxZGNkXkEyXkFqcGdeQXVyMTA5ODc3MjQ3._V1_.jpg",Tanah Kubur
 https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/6a24d734-b7f7-5ab5-927c-d20e63e24a9f/default_primary.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1469,12 +1469,12 @@ https://vod.tonton.com.my/vod/379/6478800/playlist_wifi_high.m3u8
 #EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27jpg%27&Quality=85&ImageId=%275302641%27&EntityType=%27Item%27&EntityId=%27323989%27&Width=1920&Height=1080", Misteri Jam 12 S02 E06
 https://vod.tonton.com.my/vod/379/6478803/playlist_wifi_high.m3u8
 
-#EXTINF:-1 type="movie" group-title="MalayMovies" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/c18c758f33234ddbbf07a723293ab8a9/version/4/width/280/height/158",Suatukala
+#EXTINF:-1 type="movie" group-title="VOD MALAY" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/c18c758f33234ddbbf07a723293ab8a9/version/4/width/280/height/158",Suatukala
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"jDsLqB0RLpBMzc6dFna3kA", "kid":"g7Iyp6G+KE4UyvtB26MjEA" } ], "type":"temporary" }
 https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/8560bfa0-8a17-5207-9a5d-e5c1832c9faa/default_primary.mpd
 
-#EXTINF:-1 type="movie" group-title="MalayMovies" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/2d5a36738a144006adf0aba1bb7976f7/version/4/width/280/height/158",Suatukala 2
+#EXTINF:-1 type="movie" group-title="VOD MALAY" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/2d5a36738a144006adf0aba1bb7976f7/version/4/width/280/height/158",Suatukala 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"+P9LMZ37wE8he9Z4nshiYQ", "kid":"+krEUvzbSdaJw9HyAqGxEA" } ], "type":"temporary" }
 https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/6195dfeb-64e7-5706-a93d-e07b3c0784ae/default_primary.mpd
@@ -1484,7 +1484,7 @@ https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/6195dfeb-
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=9e7337397c870247930d935a8c65c610:c13a7b45c0f10302e625cce8892e9bd8
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-#EXTINF:-1 type="movie" group-title="SERAM" tvg-logo="https://1.bp.blogspot.com/-yT_h--2fDU8/YWT9xSfqC6I/AAAAAAAAMao/7ojROqCu6rEVTViI0GQLqg64o7By4TbEgCLcBGAsYHQ/w0/Tahyul%2Btv3.jpg",Tahyul
+#EXTINF:-1 type="movie" group-title="VOD MALAY" tvg-logo="https://1.bp.blogspot.com/-yT_h--2fDU8/YWT9xSfqC6I/AAAAAAAAMao/7ojROqCu6rEVTViI0GQLqg64o7By4TbEgCLcBGAsYHQ/w0/Tahyul%2Btv3.jpg",Tahyul
 https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/0138d7e5-4a41-509e-8aa8-b414c9f30b5a/default_primary.mpd
   
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1492,7 +1492,7 @@ https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/0138d7e5-
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=18455cf6321cddc7bcd090b6c4a6a610:4544c70738aa8213f822097894137644
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-#EXTINF:-1 type="movie" group-title="SERAM" tvg-logo="https://www.themoviedb.org/t/p/w500/Kw3LsErdLPB8elchRGb47QoGkY.jpg",Dah Mati Pun Cantik
+#EXTINF:-1 type="movie" group-title="VOD MALAY" tvg-logo="https://www.themoviedb.org/t/p/w500/Kw3LsErdLPB8elchRGb47QoGkY.jpg",Dah Mati Pun Cantik
 https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/e73f3377-00c0-5e2f-96b0-23de1a8fe40c/default_primary.mpd
   
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1500,7 +1500,7 @@ https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/e73f3377-
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b5560bd5fc32b727b80be47ab6b93c10:4d197d6662145d7d66f5a90c25730691
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-#EXTINF:-1 type="movie" group-title="SERAM" tvg-logo="https://1.bp.blogspot.com/-CF-T__GJ0n8/XacBA_s85GI/AAAAAAAAIoY/n5mcC-G68OM3FP6pYwkHaWZNAlxVhqukQCLcBGAsYHQ/w0/Penaklukan%2BSyaitan.jpg",Penaklukan Syaitan
+#EXTINF:-1 type="movie" group-title="VOD MALAY" tvg-logo="https://1.bp.blogspot.com/-CF-T__GJ0n8/XacBA_s85GI/AAAAAAAAIoY/n5mcC-G68OM3FP6pYwkHaWZNAlxVhqukQCLcBGAsYHQ/w0/Penaklukan%2BSyaitan.jpg",Penaklukan Syaitan
 https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/ee1c65f8-6706-55bb-a56b-bf36e182dcde/default_primary.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1508,7 +1508,7 @@ https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/ee1c65f8-
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=89df0469810b213f02c61037f95b0310:92b4b5e743301226c6f363a26db2f615
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-#EXTINF:-1 type="movie" group-title="SERAM" tvg-logo="https://4.bp.blogspot.com/-nj667QJKaqU/W869f3HeCXI/AAAAAAAAHFs/wn19Fr-Oj74cRBMDnpmUUxk8QRqcodQhwCLcBGAs/w0/Syirik.jpg",Syirik
+#EXTINF:-1 type="movie" group-title="VOD MALAY" tvg-logo="https://4.bp.blogspot.com/-nj667QJKaqU/W869f3HeCXI/AAAAAAAAHFs/wn19Fr-Oj74cRBMDnpmUUxk8QRqcodQhwCLcBGAs/w0/Syirik.jpg",Syirik
 https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/780e151b-9b39-5e36-9eee-fad4f8dbdcb9/default_primary.mpd
   
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1516,7 +1516,7 @@ https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/780e151b-
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=168275b1fa5f769d4342d56231dddf10:fad92039dae5171e887099b379ae6940
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-#EXTINF:-1 type="movie" group-title="SERAM" tvg-logo="https://3.bp.blogspot.com/-5l4Hxqwl8JE/W8bd7wdB8DI/AAAAAAAAHEg/gkFgCEcn0YYwMRRuVmTM4tbzOY1TGkAOgCLcBGAs/w0/Korban%2BPenunggu%2BHospital.jpg",Korban Penunggu Hospital
+#EXTINF:-1 type="movie" group-title="VOD MALAY" tvg-logo="https://3.bp.blogspot.com/-5l4Hxqwl8JE/W8bd7wdB8DI/AAAAAAAAHEg/gkFgCEcn0YYwMRRuVmTM4tbzOY1TGkAOgCLcBGAs/w0/Korban%2BPenunggu%2BHospital.jpg",Korban Penunggu Hospital
 https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/0068368d-4fa5-5c62-97db-2803903e81df/default_primary.mpd
   
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1524,7 +1524,7 @@ https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/0068368d-
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5808cee957dcbf708575dc8068efc910:517acba217bc33f6a18f169f18d7da53
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-#EXTINF:-1 type="movie" group-title="SERAM" tvg-logo="https://3.bp.blogspot.com/-u1m40-Ko52I/W8HJq8JQ7VI/AAAAAAAACAg/83qA_7y6k1MfZqjLM7nW6f0ypt6rRzRNwCLcBGAs/s1600/Sinopsis%2BTelefilem%2BSetan%2BDalam%2BPoket%2B-%2BAstro%2BCitra.png",Setan Dalam Poket
+#EXTINF:-1 type="movie" group-title="VOD MALAY" tvg-logo="https://3.bp.blogspot.com/-u1m40-Ko52I/W8HJq8JQ7VI/AAAAAAAACAg/83qA_7y6k1MfZqjLM7nW6f0ypt6rRzRNwCLcBGAs/s1600/Sinopsis%2BTelefilem%2BSetan%2BDalam%2BPoket%2B-%2BAstro%2BCitra.png",Setan Dalam Poket
 https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/80b8be56-c86e-5ad1-ad52-b94eab3543cc/default_primary.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1541,7 +1541,7 @@ https://vod.tonton.com.my/vod/379/6447820/playlist_wifi_high.m3u8
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "AfLIIs2BTtM+/z4t4XbyQQ", "kid": "4U+7JV9+wTTOgyPIdApaEA"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=OTT_1/v4.5.1
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-#EXTINF:-1 type="movie" group-title="SERAM" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JQWDL_IVP_LAND_672x378_20221028_23135.jpg",Penunggang Agama 2021
+#EXTINF:-1 type="movie" group-title="VOD MALAY" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JQWDL_IVP_LAND_672x378_20221028_23135.jpg",Penunggang Agama 2021
 https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/e8de65ae-81dc-5bea-965a-69088a68f190/default.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1550,7 +1550,7 @@ https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/e8de65ae-
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "3ObPIYQNQiN66Q+OyqUANw", "kid": "WvG0v/TPK4VWe2Vv/ACNEA"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=OTT_1/v4.5.1
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-#EXTINF:-1 type="movie" group-title="SERAM" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JTGHE_p_IVP_PORT_390x585_2023331_13442.jpg",Penunggang Agama 2 2022
+#EXTINF:-1 type="movie" group-title="VOD MALAY" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JTGHE_p_IVP_PORT_390x585_2023331_13442.jpg",Penunggang Agama 2 2022
 https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/be490a43-c7a5-5ec7-9fd6-46b95a702ed1/default.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1559,7 +1559,7 @@ https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/be490a43-
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "eWiQJnO6zQ1+BySszX/mgQ", "kid": "eRg2LHig9aU06Pn8ViYdEA"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=OTT_1/v4.5.1
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-#EXTINF:-1 type="movie" group-title="SERAM" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_HQBWW_series_p_IVP_PORT_390x585_20221029_10453.jpg",Munafik 2016
+#EXTINF:-1 type="movie" group-title="VOD MALAY" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_HQBWW_series_p_IVP_PORT_390x585_20221029_10453.jpg",Munafik 2016
 https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/312fb914-a99d-55e1-9312-225d38ff08aa/default.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1568,17 +1568,8 @@ https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/312fb914-
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "Et1TqIvkfADRDTAP18CfFA", "kid": "fFDv6VoamCzgGKie3wfVEA"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=OTT_1/v4.5.1
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-#EXTINF:-1 type="movie" group-title="SERAM" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_FNIZG_P_IVP_PORT_390x585_20221028_13587.jpg",Khurafat : Perjanjian Syaitan 2011
+#EXTINF:-1 type="movie" group-title="VOD MALAY" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_FNIZG_P_IVP_PORT_390x585_20221028_13587.jpg",Khurafat : Perjanjian Syaitan 2011
 https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/ae8ea782-4bb7-50c6-abf6-3d6701d7c4e2/default.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "cN8WjCe+1y9ppr+Il6ZGpQ", "kid": "upF+/+/aPfMnwAFENDaiEA"}], "type": "temporary"}
-#EXTVLCOPT:http-user-agent=OTT_1/v4.5.1
-#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-#EXTINF:-1 type="movie" group-title="SERAM" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_HMOJN_p_IVP_PORT_390x585_20221029_24641.jpg",Villa Nabila 2015
-https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/a7901c18-58a5-5791-990b-8253a966e329/default.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1586,7 +1577,7 @@ https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/a7901c18-
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "D/aVOXsG4HJdakO/8qYcHQ", "kid": "T3tLwDRHV7nhkThEF39xEA"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=OTT_1/v4.5.1
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-#EXTINF:-1 type="movie" group-title="P.RAMLEE" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_GMPAI_p_IVP_PORT_390x585_20221030_131229.jpg",Nujum Pak Belalang 1959
+#EXTINF:-1 type="movie" group-title="VOD MALAY" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_GMPAI_p_IVP_PORT_390x585_20221030_131229.jpg",Nujum Pak Belalang 1959
 https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/cb5eda30-0264-5912-946b-f1e8ae80ddc5/default.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1595,7 +1586,7 @@ https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/cb5eda30-
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "xSw1MgEGHAp9eRXOOd3D4A", "kid": "1ytFpDC5dK6Sn1/BqXtOEA"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=OTT_1/v4.5.1
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-#EXTINF:-1 type="movie" group-title="P.RAMLEE" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_GOHBX_p_IVP_PORT_390x585_20221028_1354.jpg",Ali Baba Bujang Lapok 1961
+#EXTINF:-1 type="movie" group-title="VOD MALAY" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_GOHBX_p_IVP_PORT_390x585_20221028_1354.jpg",Ali Baba Bujang Lapok 1961
 https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/557b8f09-ff70-531f-9db3-2c5f671e881a/default.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1604,7 +1595,7 @@ https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/557b8f09-
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "nh18ci729n2aTNerMD1Acw", "kid": "5dFUdJ5EghNY/XAlaINDEA"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=OTT_1/v4.5.1
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-#EXTINF:-1 type="movie" group-title="P.RAMLEE" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_GNPNQ_IVP_LAND_586x330_20221028_51939.jpg",Pendekar Bujang Lapok 1959
+#EXTINF:-1 type="movie" group-title="VOD MALAY" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_GNPNQ_IVP_LAND_586x330_20221028_51939.jpg",Pendekar Bujang Lapok 1959
 https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/4d64370e-245a-58f9-a510-05d43e81e736/default.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1613,7 +1604,7 @@ https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/4d64370e-
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "CQz/7/3IjdLJ7BLDzkttjw", "kid": "03nOegVES1pjR1+QPRNYEA"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=OTT_1/v4.5.1
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-#EXTINF:-1 type="movie" group-title="P.RAMLEE" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_GNJVB_IVP_LAND_672x378_20221028_75738.jpg",Seniman Bujang Lapok 1961
+#EXTINF:-1 type="movie" group-title="VOD MALAY" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_GNJVB_IVP_LAND_672x378_20221028_75738.jpg",Seniman Bujang Lapok 1961
 https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/b5d3f275-7a5d-5d4c-9dcc-7a1b0ac0326f/default.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1622,7 +1613,7 @@ https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/b5d3f275-
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "Tq0DwUNKVnuCrHLSmkuggQ", "kid": "Om6Cfj5k0iNnYeJJwuHbEA"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=OTT_1/v4.5.1
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-#EXTINF:-1 type="movie" group-title="P.RAMLEE" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_FVRYX_IVP_LAND_672x378_20221028_51733.jpg",Bujang Lapok 1957
+#EXTINF:-1 type="movie" group-title="VOD MALAY" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_FVRYX_IVP_LAND_672x378_20221028_51733.jpg",Bujang Lapok 1957
 https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/a59bd445-319e-53c9-baac-6eaccddc25c7/default.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1631,7 +1622,7 @@ https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/a59bd445-
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "KP/9eWE4vqGc0l1zeBxd7A", "kid": "IBDlh+WH1wfqZfIVKuOhEA"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=OTT_1/v4.5.1
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-#EXTINF:-1 type="movie" group-title="SERAM" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KFZLH_p_IVP_PORT_390x585_2023823_01534.jpg",Iblis Dalam Kandungan 2022
+#EXTINF:-1 type="movie" group-title="VOD MALAY" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KFZLH_p_IVP_PORT_390x585_2023823_01534.jpg",Iblis Dalam Kandungan 2022
 https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/eeff4fe7-a516-5dbb-91ed-0d911ce345ee/default_primary.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1640,7 +1631,7 @@ https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/eeff4fe7-
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "BLaBEgJep4l7lJK6P6aubw", "kid": "PI7ZZiNFWDJecvCgKxJ8EA"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=OTT_1/v4.5.1
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-#EXTINF:-1 type="movie" group-title="P.RAMLEE" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_GNADO_IVP_LAND_448x252_20221028_51453.jpg",Sargeant Hassan 1958
+#EXTINF:-1 type="movie" group-title="VOD MALAY" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_GNADO_IVP_LAND_448x252_20221028_51453.jpg",Sargeant Hassan 1958
 https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/92a1547a-f25e-5832-a35e-9898ae4b2a4e/default_primary.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1649,7 +1640,7 @@ https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/92a1547a-
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "SBHtsmf5qz3uF4H90i6Rag", "kid": "VogQx12TcR2AoAHJBFSXEA"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=OTT_1/v4.5.1
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-#EXTINF:-1 type="movie" group-title="P.RAMLEE" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_FZBMO_IVP_LAND_448x252_20221027_191234.jpg",Musang Berjanggut 1959
+#EXTINF:-1 type="movie" group-title="VOD MALAY" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_FZBMO_IVP_LAND_448x252_20221027_191234.jpg",Musang Berjanggut 1959
 https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/c7622e9d-d629-5f39-a274-6ca729874360/default_primary.mpd
 
 
