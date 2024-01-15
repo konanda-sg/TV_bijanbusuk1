@@ -35,8 +35,8 @@ https://linears-playback.astro.com.my/vsg/41RWXbI5_ObvgpYllyu1QkHbnVDO2a4QxNnNYH
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3f726fd5cbbf5944437a4dbfab431b10:376b009796e4ad50ea8f68d796676692
-EXTINF:-1 tvg-logo="https://i.ibb.co/09cQ9CL/Fri-25-08-2023-11-32-23.png",RIA HD 
-https://linears-playback.astro.com.my/vsg/41nXdDj9tmXOFE0tRAwj3i76HOZHMNcVmhPkrIWzZCTkc=2EF8/dash-wv/jitp-linearwm/1004/default_primary.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/09cQ9CL/Fri-25-08-2023-11-32-23.png",RIA HD 
+http://mytv-extra.com:80/t12mgxyb335/9832948789/79321
 
 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png", PRIMA HD 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -59,8 +59,8 @@ https://linears-playback.astro.com.my/vsg/412YC97OfL0tRH7547SNxmrcidxzmkro1OgoSx
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=aa2c653f0c05567ae283c4a3271a9810:0a80e20c568e88e53c7087c1c6493318
-EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png", WARNA HD  
-https://linears-playback.astro.com.my/vsg/41iFhU-KKqyLW0EM61UfnvAUHsKaEwsJIfJUTeFcdS_YY=6N1E/dash-wv/jitp-dashisowm/2402/default_primary.mpd
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png", WARNA HD  
+http://mytv-extra.com:80/t12mgxyb335/9832948789/191874
 
 #EXTINF:-1 tvg-logo="https://jepstoreott.jepstore057.workers.dev/0:/jepstore/jepstorelogobaru/themaskedsinger.png", The Masked Singer
 #KODIPROP:inputstream.adaptive.license_type=clearkey
