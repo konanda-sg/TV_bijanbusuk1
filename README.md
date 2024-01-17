@@ -5,7 +5,18 @@
 
 
 ########################################################################################################################################
-
+#EXTINF:-1 group-title="AFC Asian Cup 2023" tvg-id="AFC Asian Cup 2023" tvg-logo="https://img2.pic.in.th/pic/afc-asian-cup-2023-ch1.png",AFC Asian Cup 2023 CH1
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1424742&extension=ts
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1422121&extension=ts
+#EXTINF:-1 group-title="AFC Asian Cup 2023" tvg-id="AFC Asian Cup 2023" tvg-logo="https://img2.pic.in.th/pic/afc-asian-cup-2023-ch2.png",AFC Asian Cup 2023 CH2
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1422125&extension=ts
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1422124&extension=ts
+#EXTINF:-1 group-title="AFC Asian Cup 2023" tvg-id="AFC Asian Cup 2023" tvg-logo="https://img5.pic.in.th/file/secure-sv1/afc-asian-cup-2023-ch3.png",AFC Asian Cup 2023 CH3
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1422128&extension=ts
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1422127&extension=ts
+#EXTINF:-1 group-title="AFC Asian Cup 2023" tvg-id="AFC Asian Cup 2023" tvg-logo="https://img2.pic.in.th/pic/afc-asian-cup-2023-ch4.png",AFC Asian Cup 2023 CH4
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1422131&extension=ts
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1422130&extension=ts
 ################################################################ MY FREEVIEW ##################################################################################
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
