@@ -5,18 +5,7 @@
 
 
 ########################################################################################################################################
-#EXTINF:-1 group-title="AFC Asian Cup 2023" tvg-id="AFC Asian Cup 2023" tvg-logo="https://img2.pic.in.th/pic/afc-asian-cup-2023-ch1.png",AFC Asian Cup 2023 CH1
-http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1424742&extension=ts
-http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1422121&extension=ts
-#EXTINF:-1 group-title="AFC Asian Cup 2023" tvg-id="AFC Asian Cup 2023" tvg-logo="https://img2.pic.in.th/pic/afc-asian-cup-2023-ch2.png",AFC Asian Cup 2023 CH2
-http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1422125&extension=ts
-http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1422124&extension=ts
-#EXTINF:-1 group-title="AFC Asian Cup 2023" tvg-id="AFC Asian Cup 2023" tvg-logo="https://img5.pic.in.th/file/secure-sv1/afc-asian-cup-2023-ch3.png",AFC Asian Cup 2023 CH3
-http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1422128&extension=ts
-http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1422127&extension=ts
-#EXTINF:-1 group-title="AFC Asian Cup 2023" tvg-id="AFC Asian Cup 2023" tvg-logo="https://img2.pic.in.th/pic/afc-asian-cup-2023-ch4.png",AFC Asian Cup 2023 CH4
-http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1422131&extension=ts
-http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1422130&extension=ts
+
 ################################################################ MY FREEVIEW ##################################################################################
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
@@ -39,7 +28,7 @@ https://unifi-live03.secureswiftcontent.com/UnifiHD/live03.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"N2sAl5bkrVDqj2jXlmdmkg", "kid":"P3Jv1cu/WURDek2/q0MbEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-logo="https://i.ibb.co/09cQ9CL/Fri-25-08-2023-11-32-23.png",RIA HD 
+EXTINF:-1 tvg-logo="https://i.ibb.co/09cQ9CL/Fri-25-08-2023-11-32-23.png",RIA HD 
 https://linears-playback.astro.com.my/vsg/41RWXbI5_ObvgpYllyu1QkHS1MX9276OltfBcoK_khhxU=GdV9/dash-wv/jitp-linearwm/1004/default_ott.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -63,7 +52,7 @@ http://linearjitp02-playback.astro.com.my/dash-wv/linear/2505/default_primary.mp
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"CoDiDFaOiOU8cIfBxkkzGA", "kid":"qixlPwwFVnrig8SjJxqYEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png", WARNA HD  
+EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png", WARNA HD  
 https://linears-playback.astro.com.my/vsg/412YC97OfL0tRH7547SNxmrTZUDh2PlsdkMJiXtP_Gzso=iJJo/dash-wv/jitp-dashisowm/2402/default_ott.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -82,15 +71,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/9989/default_primary.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ZU8tJaW/snyeWuCFJYShZg", "kid":"hL+a1oSL59sg+dFoI97vEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png", CITRA HD
-https://linears-playback.astro.com.my/vsg/41O_F8KUa3u_jFFQIAtETDpNhcVYz4eNQ8UBr9d8AlR14=Pvz8/dash-wv/jitp-dashisowm/2700/default_ott.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=84bf9ad6848be7db20f9d16823deef10:654f2d25a5bfb27c9e5ae0852584a166
 EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png", CITRA HD
-https://linears-playback.astro.com.my/vsg/41CJTs6aYGh76t6znU5NkYNrTRoFPnLY353LeYaLfs8fU=bDB8/dash-wv/jitp-dashisowm/2700/default_primary.mpd
+https://linears-playback.astro.com.my/vsg/41O_F8KUa3u_jFFQIAtETDpNhcVYz4eNQ8UBr9d8AlR14=Pvz8/dash-wv/jitp-dashisowm/2700/default_ott.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7b/Astro_Sensasi-en.png", SENSASI HD
 http://vo01.mohdtv.com:8880/voby1993/85233644/1705
