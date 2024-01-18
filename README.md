@@ -1654,7 +1654,12 @@ https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/92a1547a-
 #EXTINF:-1 type="movie" group-title="VOD MALAY" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_FZBMO_IVP_LAND_448x252_20221027_191234.jpg",Musang Berjanggut 1959
 https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/c7622e9d-d629-5f39-a274-6ca729874360/default_primary.mpd
 
-
+#EXTINF:-1 group-title="Malaysia" tvg-logo="https://i.ibb.co/09cQ9CL/Fri-25-08-2023-11-32-23.png",RIA HD
+https://smt.sky4k.eu.org/AEC_V6/index.php?id=AstroRiaHD
+#EXTINF:-1 group-title="Malaysia" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png", WARNA HD
+https://smt.sky4k.eu.org/AEC_V6/index.php?id=AstroWarnaHD
+#EXTINF:-1 group-title="Malaysia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/60_144.png", Citra HD
+https://smt.sky4k.eu.org/AEC_V6/index.php?id=AstroCitraHD
   
 
 #EXTM3U billed-msg="😎 BijanBusuk 😎"
