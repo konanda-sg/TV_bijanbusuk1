@@ -29,13 +29,13 @@ https://unifi-live03.secureswiftcontent.com/UnifiHD/live03.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"N2sAl5bkrVDqj2jXlmdmkg", "kid":"P3Jv1cu/WURDek2/q0MbEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-logo="https://i.ibb.co/09cQ9CL/Fri-25-08-2023-11-32-23.png",RIA HD 
-https://linears-playback.astro.com.my/vsg/412O6wCjqZ075LC-hrUPm9NMbyhntrex_XJYtqolCJkHY=MnPI/dash-wv/jitp-linearwm/1004/default_ott.mpd
+https://linears-playback.astro.com.my/vsg/412O6wCjqZ075LC-hrUPm9NEpXBEppaeH_2sllOQMPy3U=5glt/dash-wv/jitp-linearwm/1004/default_ott.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3f726fd5cbbf5944437a4dbfab431b10:376b009796e4ad50ea8f68d796676692
-#EXTINF:-1 tvg-logo="https://i.ibb.co/09cQ9CL/Fri-25-08-2023-11-32-23.png",RIA HD 
+EXTINF:-1 tvg-logo="https://i.ibb.co/09cQ9CL/Fri-25-08-2023-11-32-23.png",RIA HD 
 https://linears-playback.astro.com.my/vsg/41RWXbI5_ObvgpYllyu1QkHcCnSwErVLYlCbaugftIGq0=UMsD/dash-wv/jitp-linearwm/1004/default_ott.mpd
 
 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png", PRIMA HD 
@@ -53,13 +53,13 @@ http://linearjitp02-playback.astro.com.my/dash-wv/linear/2505/default_primary.mp
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"CoDiDFaOiOU8cIfBxkkzGA", "kid":"qixlPwwFVnrig8SjJxqYEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png", WARNA HD  
-https://linears-playback.astro.com.my/vsg/41xQh1MqYZ305uP-o2O606reb9i6BWkUWwTuMvEaazEjo=3Cy7/dash-wv/jitp-dashisowm/2402/default_ott.mpd
+https://linears-playback.astro.com.my/vsg/41xQh1MqYZ305uP-o2O606rVKF26uiuyfQ3C4TQriafhQ=WKjK/dash-wv/jitp-dashisowm/2402/default_ott.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=aa2c653f0c05567ae283c4a3271a9810:0a80e20c568e88e53c7087c1c6493318
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png", WARNA HD  
+EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png", WARNA HD  
 https://linears-playback.astro.com.my/vsg/412YC97OfL0tRH7547SNxmrRP9ggLubegKqTgS2ADiVfI=97UW/dash-wv/jitp-dashisowm/2402/default_ott.mpd
 
 EXTINF:-1 tvg-logo="https://jepstoreott.jepstore057.workers.dev/0:/jepstore/jepstorelogobaru/themaskedsinger.png", The Masked Singer
@@ -72,14 +72,14 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/9989/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ZU8tJaW/snyeWuCFJYShZg", "kid":"hL+a1oSL59sg+dFoI97vEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png", CITRA HD
-https://linears-playback.astro.com.my/vsg/419Ajf15x1bWlOH8AoCeMdfDgOPCWlMOZN39qKDYRKUvg=QR6Y/dash-wv/jitp-dashisowm/2700/default_ott.mpd
+https://linears-playback.astro.com.my/vsg/419Ajf15x1bWlOH8AoCeMdfNvFENh79-Y-_iLi-siAHNY=bV46/dash-wv/jitp-dashisowm/2700/default_ott.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ZU8tJaW/snyeWuCFJYShZg", "kid":"hL+a1oSL59sg+dFoI97vEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png", CITRA HD
-https://linears-playback.astro.com.my/vsg/41O_F8KUa3u_jFFQIAtETDpH4bjOTjopmc9ZbODRspfsE=-9ag/dash-wv/jitp-dashisowm/2700/default_ott.mpd
+EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png", CITRA HD
+https://linears-playback.astro.com.my/vsg/419Ajf15x1bWlOH8AoCeMdfNvFENh79-Y-_iLi-siAHNY=bV46/dash-wv/jitp-dashisowm/2700/default_ott.mpd
 
 EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7b/Astro_Sensasi-en.png", SENSASI HD
 http://vo01.mohdtv.com:8880/voby1993/85233644/1705
