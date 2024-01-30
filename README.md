@@ -34,7 +34,7 @@ https://linears-playback.astro.com.my/vsg/41RWXbI5_ObvgpYllyu1QkHXrWpjskQjSJ1BLe
 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png", PRIMA HD 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b65326aede3edbe81e6fb40317d5310:8412f444ffbe350cf2ece051f9152e90
-http://linearjitp02-playback.astro.com.my/dash-wv/linear/1000/default_primary.mpd
+https://linears-playback.astro.com.my/vsg/41k5piW7fDOXyn3bkrCuzrflDl8qAphlCdNeVfBFH9qZQ=5oR_/dash-wv/jitp-dashisowm/1000/default_ott.mpd?PID=&PAID=1000&deviceIdType=%5BdevIdType%5D&deviceId=fdd4aea5a0125c8e2f5e28dbf85f56cd&appId=astrogo.astro.com.my&appName=%5BappName%5D&devModel=%5BdevModel%5D&sessionId=abr-linear-7be6f529-42c0-4d8b-96ec-591e8784a91c&optin=true&hhid=6a2352769f52047fbac621d1e31c6a56&kvp=lang%7Emay&kvp=genre%7EHD%2CMALAY&daiEnabled=true
 
 
 https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_primary.mpd
