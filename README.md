@@ -84,12 +84,10 @@ https://linearfast04.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f8
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7046/CPS/images/universal/film/logo/201907/20190716/20190716062504007e6f.png", Salam HD 
 https://centerrrs.hypp.tv/PLTV/88888888/224/3221227558/3221227558.mpd?rrsip=centerrrs.hypp.tv&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=tnUM3pus6bSh1mr%2FQqP7gS%2BLhDQRCdSHNpB7NvbJKHMO5mMHa9B%2BzYQOtwwhTPs9X1Uzxq6NAAqGASx47cKgqfHl2ogHz3eAyG2k7xToFQmJBU24%2BKwsNeA0VE3pRwoj%3A20221124080121%3AUTC%2C1001767137%2C115.164.56.153%2C20221124080121%2Curn:Huawei:liveTV:iptv47777%2C1001767137%2C-1%2C0%2C1%2C%2C%2C2%2C88%2C%2C%2C2%2C1612403%2C0%2C517698%2C2706399750%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOXQuCMBiF_80uR5s25sWuiiCIFWTdxuv2usTpbLOgf5-WXZ6P53DGCAb3W1Wtpcmx4NbWeV5gNWkQmQCb1RIlCpLwoYPixID3Te90sDN2PW9ubEVXlHNGGSflPLfz4JamfnYVRpX9sTPGV2NQ2VTTFyQKzkV0MDahpycP70v0S4VguVxjQhRc5oJzIRkZZ7eE1E4JuUPahG6AiPYQ3BdQNfiEZADTgkMNHar-6f2PO0Y7vfkAzoOp1vQAAAA&tenantId=6001
 
-
-EXTINF:-1 tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202209/20220901/20220901155400159gcw.png",Sensasi 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"m/YWIPzWgY0F6IWNqrUq1Q", "kid":"s4OL9oWqjbozCGqiNp4P5w" } ], "type":"temporary" }
-https://rs.fullstory.com/rec/bundle/v2?OrgId=o-1FZ3B4-na1&UserId=09cb2972-bee4-4245-b65f-eb8fd3a3affd&SessionId=724d0e69-b7d4-4e18-9d0a-7413507ea314&PageId=e02dfc78-93fa-4d82-9c66-5864c31524c6&Seq=49&PageStart=1705316262362&PrevBundleTime=1705316492726&LastActivity=1061&IsNewSession=true
-
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=ZTA1ZDNiYTYtNmM4NC0zYWNkLTlhYjMtYzkwZDg4ODE3NTM3
+#EXTINF:-1 tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202209/20220901/20220901155400159gcw.png",Sensasi 
+https://centerrrs.hypp.tv/PLTV/88888888/224/3221227598/3221227598.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=ZGlr1wUdBOOGDryKF0kvMe7dTGJCSdWH7tK%2Fg6W5gxujrPQF9pwkaerc6gP1KF0lt33NQpwOkdVlGBjywbBJh%2B9Joeh7PRKNfNvLjM3vn7Ezq5XlKJ7JMabmxeM83fZv%3A20231223014319%3AUTC%2C1005926114%2C210.186.229.255%2C20231223014319%2Curn:Huawei:liveTV:SP000004015718%2C1005926114%2C-1%2C0%2C1%2C%2C%2C2%2C595%2C%2C%2C2%2C1615850%2C0%2C521145%2C1239023847%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOQYvCMBhE_02OoWnaiIecFEFYugtWrzImX2IxbdykCv57rdbrzLzhjQmGtmtthLOQgKtVVZGrlicSpKxSzsnKKmKZ_puoS2YQQjf4JtoJO-xWR1Hwgpel4KJk7XS3CfDzsrn1J0pafLEdpXtnSNvs-B2Zw_tEHmMXB_4X8NinME8YtbOaWBRSirqQ9UIu2TilLfLl1bAz8ir2VySyP9G_Ae0QMrErzAWeGvSkh1sIH-432ZfNE0HrdA_0AAAA&tenantId=6001
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Unifi_Inspirasi.png", Inspirasi 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
