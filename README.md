@@ -29,14 +29,14 @@ https://unifi-live03.secureswiftcontent.com/UnifiHD/live03.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"N2sAl5bkrVDqj2jXlmdmkg", "kid":"P3Jv1cu/WURDek2/q0MbEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-logo="https://i.ibb.co/09cQ9CL/Fri-25-08-2023-11-32-23.png",RIA HD 
-https://linears-playback.astro.com.my/vsg/41RWXbI5_ObvgpYllyu1QkHSy7Oj8Cv4iUPFYIn5CPZ9I=aqJK/dash-wv/jitp-linearwm/1004/default_ott.mpd
+https://linears-playback.astro.com.my/vsg/41RWXbI5_ObvgpYllyu1QkHXAn09NK17zgd8QWkr7eZZk=rome/dash-wv/jitp-linearwm/1004/default_ott.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"hBL0RP++NQzy7OBR+RUukA", "kid":"C2Uyau3j7b6B5vtAMX1TEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png", PRIMA HD 
-https://linears-playback.astro.com.my/vsg/41k5piW7fDOXyn3bkrCuzrfse_nKgf23cxebr08B8IPhQ=Fy4U/dash-wv/jitp-dashisowm/1000/default_ott.mpd?PID=&PAID=1000&deviceIdType=%5BdevIdType%5D&deviceId=fdd4aea5a0125c8e2f5e28dbf85f56cd&appId=astrogo.astro.com.my&appName=%5BappName%5D&devModel=%5BdevModel%5D&sessionId=abr-linear-5e0c649c-8b34-491d-89ae-d355a1976e82&optin=true&hhid=6a2352769f52047fbac621d1e31c6a56&kvp=lang%7Emay&kvp=genre%7EHD%2CMALAY&daiEnabled=true
+https://linears-playback.astro.com.my/vsg/41k5piW7fDOXyn3bkrCuzrfh8c4Yeqmq_3z2KfW59MhZ0=-MjJ/dash-wv/jitp-dashisowm/1000/default_ott.mpd?PID=&PAID=1000&deviceIdType=%5BdevIdType%5D&deviceId=fdd4aea5a0125c8e2f5e28dbf85f56cd&appId=astrogo.astro.com.my&appName=%5BappName%5D&devModel=%5BdevModel%5D&sessionId=abr-linear-97f2bca0-52fc-458e-99b0-7bb5ce5444d1&optin=true&hhid=6a2352769f52047fbac621d1e31c6a56&kvp=lang%7Emay&kvp=genre%7EHD%2CMALAY&daiEnabled=true
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"XzX4FWmRQOJknYJfDSQCjg", "kid":"F9XWLcYZVLgu4BbaJkq9EA" } ], "type":"temporary" }
@@ -48,7 +48,8 @@ http://linearjitp02-playback.astro.com.my/dash-wv/linear/2505/default_primary.mp
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"CoDiDFaOiOU8cIfBxkkzGA", "kid":"qixlPwwFVnrig8SjJxqYEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png", WARNA HD  
-https://linears-playback.astro.com.my/vsg/412YC97OfL0tRH7547SNxmrXzq9BqH3Lw-R4jM3KSM_vs=oltZ/dash-wv/jitp-dashisowm/2402/default_ott.mpd
+https://linears-playback.astro.com.my/vsg/41O_F8KUa3u_jFFQIAtETDpHxIUKoi-8jM9qGahhbxxwg=guvI/dash-wv/jitp-dashisowm/2700/default_ott.mpd?PID=&PAID=2700&deviceIdType=%5BdevIdType%5D&deviceId=fdd4aea5a0125c8e2f5e28dbf85f56cd&appId=astrogo.astro.com.my&appName=%5BappName%5D&devModel=%5BdevModel%5D&sessionId=abr-linear-89e6fc8c-8bdc-42a5-ae7b-3bcbb5d61816&optin=true&hhid=6a2352769f52047fbac621d1e31c6a56&kvp=lang%7Emay&kvp=genre%7EHD%2CMALAY%2CMOVIES&daiEnabled=true
+
 
 EXTINF:-1 tvg-logo="https://jepstoreott.jepstore057.workers.dev/0:/jepstore/jepstorelogobaru/themaskedsinger.png", The Masked Singer
 #KODIPROP:inputstream.adaptive.license_type=clearkey
