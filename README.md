@@ -29,14 +29,14 @@ https://unifi-live03.secureswiftcontent.com/UnifiHD/live03.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"N2sAl5bkrVDqj2jXlmdmkg", "kid":"P3Jv1cu/WURDek2/q0MbEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-logo="https://i.ibb.co/09cQ9CL/Fri-25-08-2023-11-32-23.png",RIA HD 
-https://linears-playback.astro.com.my/vsg/41RWXbI5_ObvgpYllyu1QkHXAn09NK17zgd8QWkr7eZZk=rome/dash-wv/jitp-linearwm/1004/default_ott.mpd
+https://linears-playback.astro.com.my/vsg/41RWXbI5_ObvgpYllyu1QkHRZY-lbDAGlJE0c3xx62qA8=kaJk/dash-wv/jitp-linearwm/1004/default_ott.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"hBL0RP++NQzy7OBR+RUukA", "kid":"C2Uyau3j7b6B5vtAMX1TEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png", PRIMA HD 
-https://linears-playback.astro.com.my/vsg/41k5piW7fDOXyn3bkrCuzrfh8c4Yeqmq_3z2KfW59MhZ0=-MjJ/dash-wv/jitp-dashisowm/1000/default_ott.mpd?PID=&PAID=1000&deviceIdType=%5BdevIdType%5D&deviceId=fdd4aea5a0125c8e2f5e28dbf85f56cd&appId=astrogo.astro.com.my&appName=%5BappName%5D&devModel=%5BdevModel%5D&sessionId=abr-linear-97f2bca0-52fc-458e-99b0-7bb5ce5444d1&optin=true&hhid=6a2352769f52047fbac621d1e31c6a56&kvp=lang%7Emay&kvp=genre%7EHD%2CMALAY&daiEnabled=true
+https://linears-playback.astro.com.my/vsg/41k5piW7fDOXyn3bkrCuzrfnYCRvkjgivccqBMyRxOI1M=T_Z3/dash-wv/jitp-dashisowm/1000/default_ott.mpd?PID=&PAID=1000&deviceIdType=%5BdevIdType%5D&deviceId=fdd4aea5a0125c8e2f5e28dbf85f56cd&appId=astrogo.astro.com.my&appName=%5BappName%5D&devModel=%5BdevModel%5D&sessionId=abr-linear-91a49a27-51fd-4d78-be54-9f0b2dfb18bf&optin=true&hhid=6a2352769f52047fbac621d1e31c6a56&kvp=lang%7Emay&kvp=genre%7EHD%2CMALAY&daiEnabled=true
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"XzX4FWmRQOJknYJfDSQCjg", "kid":"F9XWLcYZVLgu4BbaJkq9EA" } ], "type":"temporary" }
@@ -48,7 +48,7 @@ http://linearjitp02-playback.astro.com.my/dash-wv/linear/2505/default_primary.mp
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"CoDiDFaOiOU8cIfBxkkzGA", "kid":"qixlPwwFVnrig8SjJxqYEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png", WARNA HD  
-https://linears-playback.astro.com.my/vsg/412YC97OfL0tRH7547SNxmreaERYSPPa1cpH7JYOI5gsg=H1Xf/dash-wv/jitp-dashisowm/2402/default_ott.mpd
+https://linears-playback.astro.com.my/vsg/412YC97OfL0tRH7547SNxmrX7cuMNIuI-zvM-wyI7Yg_I=vHlu/dash-wv/jitp-dashisowm/2402/default_ott.mpd
 
 
 EXTINF:-1 tvg-logo="https://jepstoreott.jepstore057.workers.dev/0:/jepstore/jepstorelogobaru/themaskedsinger.png", The Masked Singer
@@ -61,7 +61,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/9989/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ZU8tJaW/snyeWuCFJYShZg", "kid":"hL+a1oSL59sg+dFoI97vEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png", CITRA HD
-https://linears-playback.astro.com.my/vsg/41O_F8KUa3u_jFFQIAtETDpHxIUKoi-8jM9qGahhbxxwg=guvI/dash-wv/jitp-dashisowm/2700/default_ott.mpd
+https://linears-playback.astro.com.my/vsg/41O_F8KUa3u_jFFQIAtETDpNPz8Rf_66hw6lDfaruVUdU=kKK_/dash-wv/jitp-dashisowm/2700/default_ott.mpd?PID=&PAID=2700&deviceIdType=%5BdevIdType%5D&deviceId=fdd4aea5a0125c8e2f5e28dbf85f56cd&appId=astrogo.astro.com.my&appName=%5BappName%5D&devModel=%5BdevModel%5D&sessionId=abr-linear-62cd52ea-b942-4a6f-ac8e-84c890e248e1&optin=true&hhid=6a2352769f52047fbac621d1e31c6a56&kvp=lang%7Emay&kvp=genre%7EHD%2CMALAY%2CMOVIES&daiEnabled=true
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPremier.png",Astro Premier
 #KODIPROP:inputstream.adaptive.license_type=clearkey
