@@ -65,8 +65,8 @@ https://linears-playback.astro.com.my/vsg/419Ajf15x1bWlOH8AoCeMdfL2RG9Oh9UI-p2Xt
 #KODIPROP:inputstream.adaptive.license_key=88b324e7e763532b770d84d370d7c810:0ad1e7b2d71fd73a5c199739e534da4b
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/5070/default.mpd
 
-EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7b/Astro_Sensasi-en.png", SENSASI HD
-http://vo01.mohdtv.com:8880/voby1993/85233644/1705
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7b/Astro_Sensasi-en.png", SENSASI HD
+http://50.7.234.10:8278/Sensasi/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/c8dS6nh/Sooka-Drama-Hebat.png",Drama Hebat 
 https://linearfast04.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_1_Ad/dash.mpd
