@@ -27,19 +27,19 @@ https://unifi-live03.secureswiftcontent.com/UnifiHD/live03.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3f726fd5cbbf5944437a4dbfab431b10:376b009796e4ad50ea8f68d796676692
-#EXTINF:-1 tvg-logo="https://i.ibb.co/09cQ9CL/Fri-25-08-2023-11-32-23.png",RIA HD 
+EXTINF:-1 tvg-logo="https://i.ibb.co/09cQ9CL/Fri-25-08-2023-11-32-23.png",RIA HD 
 http://185.225.191.46:25461/live/LT186743/8181/13.ts?token=SRFdBBdcFwpGBFFRDFVTUgQMB14MUVoCBgQNClRSBgUBVVFQAAUGBQJHTUNGQhBRVlVsD1wSAwZWHBZHFlMRb1tXF19GBgwHXEdNQ0FfD1EVAgJRCAkJDlYBBAJJFBNZVhEPR1YFAAZcR01DUE4WUUVWUgpnVFxBDFNREF9YFlxeHxcKCmtRVQkEDwUXDEAEFRQRD0tAGw0LRVheSRQBWUZBVBEBFg8SVVZQWBcaQFdYTV0SSkkbDUd9bRBJFAZIRlZbFg1bWxJeRxUSFxpAXURnQQNLREtSBF1RQEcMQQAQHxcIBUxqUwsLDwRWQgtbWUsRXBoCGxtHXVtcDEIMQm1DXAFGDhcCVVBQVRdL
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=0b65326aede3edbe81e6fb40317d5310&key=8412f444ffbe350cf2ece051f9152e90
-#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png", PRIMA HD
+EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png", PRIMA HD
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_ott.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b65326aede3edbe81e6fb40317d5310:8412f444ffbe350cf2ece051f9152e90
-#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png", PRIMA HD
+EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png", PRIMA HD
 http://185.225.191.46:25461/live/LT186743/8181/14.ts?token=SRFdBBdcFwpGBFFRDFVTUgQMB14MUVoCBgQNClRSBgUBVVFQAAUGBQJHTUNGQhBRVlVsD1wSAwZWHBZHFlMRb1tXF19GBgwHXEdNQ0FfD1EVAgJRCAkJDlYBBAJJFBNZVhEPR1YFAAZcR01DUE4WUUVWUgpnVFxBDFNREF9YFlxeHxcKCmtRVQkEDwUXDEAEFRQRD0tAGw0LRVheSRQBWUZBVBEBFg8SVVZQWBcaQFdYTV0SSkkbDUd9bRBJFAZIRlZbFg1bWxJeRxUSFxpAXURnQQNLREtSBF1RQEcMQQAQHxcIBUxqUwsLDwRWQgtbWUsRXBoCGxtHXVtcDEIMQm1DXAFGDhcCVVBQVRdL
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -50,7 +50,7 @@ http://linearjitp02-playback.astro.com.my/dash-wv/linear/2505/default_primary.mp
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=aa2c653f0c05567ae283c4a3271a9810:0a80e20c568e88e53c7087c1c6493318
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png", WARNA HD
+EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png", WARNA HD
 http://185.225.191.46:25461/live/LT186743/8181/16.ts?token=SRFdBBdcFwpGBFFRDFVTUgQMB14MUVoCBgQNClRSBgUBVVFQAAUGBQJHTUNGQhBRVlVsD1wSAwZWHBZHFlMRb1tXF19GBgwHXEdNQ0FfD1EVAgJRCAkJDlYBBAJJFBNZVhEPR1YFAAZcR01DUE4WUUVWUgpnVFxBDFNREF9YFlxeHxcKCmtRVQkEDwUXDEAEFRQRD0tAGw0LRVheSRQBWUZBVBEBFg8SVVZQWBcaQFdYTV0SSkkbDUd9bRBJFAZIRlZbFg1bWxJeRxUSFxpAXURnQQNLREtSBF1RQEcMQQAQHxcIBUxqUwsLDwRWQgtbWUsRXBoCGxtHXVtcDEIMQm1DXAFGDhcCVVBQVRdL
 
 EXTINF:-1 tvg-logo="https://jepstoreott.jepstore057.workers.dev/0:/jepstore/jepstorelogobaru/themaskedsinger.png", The Masked Singer
@@ -62,7 +62,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/9989/default_primary.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ZU8tJaW/snyeWuCFJYShZg", "kid":"hL+a1oSL59sg+dFoI97vEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png", CITRA HD
+EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png", CITRA HD
 http://185.225.191.46:25461/live/LT186743/8181/17.ts?token=SRFdBBdcFwpGBFFRDFVTUgQMB14MUVoCBgQNClRSBgUBVVFQAAUGBQJHTUNGQhBRVlVsD1wSAwZWHBZHFlMRb1tXF19GBgwHXEdNQ0FfD1EVAgJRCAkJDlYBBAJJFBNZVhEPR1YFAAZcR01DUE4WUUVWUgpnVFxBDFNREF9YFlxeHxcKCmtRVQkEDwUXDEAEFRQRD0tAGw0LRVheSRQBWUZBVBEBFg8SVVZQWBcaQFdYTV0SSkkbDUd9bRBJFAZIRlZbFg1bWxJeRxUSFxpAXURnQQNLREtSBF1RQEcMQQAQHxcIBUxqUwsLDwRWQgtbWUsRXBoCGxtHXVtcDEIMQm1DXAFGDhcCVVBQVRdL
 
 
@@ -71,7 +71,7 @@ http://185.225.191.46:25461/live/LT186743/8181/17.ts?token=SRFdBBdcFwpGBFFRDFVTU
 #KODIPROP:inputstream.adaptive.license_key=88b324e7e763532b770d84d370d7c810:0ad1e7b2d71fd73a5c199739e534da4b
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/5070/default.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7b/Astro_Sensasi-en.png", SENSASI HD
+EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7b/Astro_Sensasi-en.png", SENSASI HD
 http://50.7.234.10:8278/Sensasi/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/c8dS6nh/Sooka-Drama-Hebat.png",Drama Hebat 
@@ -94,7 +94,7 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live32.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YmE1ODUyNDctMTU5NS0zMWEzLWJhYWYtZDVmMjI3Y2VjODIz
-EXTINF:-1 tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202209/20220901/20220901155400159gcw.png",Sensasi 
+#EXTINF:-1 tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202209/20220901/20220901155400159gcw.png",Sensasi 
 https://centerrrs.hypp.tv/PLTV/88888888/224/3221227598/3221227598.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=ZGlr1wUdBOOGDryKF0kvMe7dTGJCSdWH7tK%2Fg6W5gxujrPQF9pwkaerc6gP1KF0lt33NQpwOkdVlGBjywbBJh%2B9Joeh7PRKNfNvLjM3vn7Ezq5XlKJ7JMabmxeM83fZv%3A20231223014319%3AUTC%2C1005926114%2C210.186.229.255%2C20231223014319%2Curn:Huawei:liveTV:SP000004015718%2C1005926114%2C-1%2C0%2C1%2C%2C%2C2%2C595%2C%2C%2C2%2C1615850%2C0%2C521145%2C1239023847%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOQYvCMBhE_02OoWnaiIecFEFYugtWrzImX2IxbdykCv57rdbrzLzhjQmGtmtthLOQgKtVVZGrlicSpKxSzsnKKmKZ_puoS2YQQjf4JtoJO-xWR1Hwgpel4KJk7XS3CfDzsrn1J0pafLEdpXtnSNvs-B2Zw_tEHmMXB_4X8NinME8YtbOaWBRSirqQ9UIu2TilLfLl1bAz8ir2VySyP9G_Ae0QMrErzAWeGvSkh1sIH-432ZfNE0HrdA_0AAAA&tenantId=6001fo=rLAPSyV3250CUM7Ef4R%2FiuyYvCyqfVlqhlwKyVQwLxULc%2FJIrrJLfLKOOAZhciCB9TgLfGc8kJqpFLcIfLVtlYw78cj0EGETkJ041y1sgbw%3D%3A20240117105020%3AUTC%2C1002248582%2C60.50.88.139%2C20240117105020%2Curn:Huawei:liveTV:SP000004015718%2C1002248582%2C-1%2C0%2C1%2C%2C%2C2%2CHESA2001%2C%2C%2C2%2C2915748%2C0%2C1827874%2C4277622550%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAAD2Oyw7CIBRE_4YlAWwrLFhpTExMNbG6Nbdwi01pUagm_r3W13ZmzuSMEQyul5rPURXcZKqpZTaTVhVzVctaojGqMSBJwmsZtCAGvG8HVwY7Ycf94sQZZVQITjNJqulu5cF9l-WtrzFq_sP2GO-tQW1TQ--QKDgX0cHYhoHuPDwO0X8nBKu_GstzVgiZMyHIOKUVpO7VkDOkRegvENFugnsDugGfkFzAdOCwhB71cPP-w22jfdk8AZz5dRj0AAAA&tenantId=6003
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
