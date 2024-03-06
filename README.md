@@ -27,15 +27,14 @@ https://unifi-live03.secureswiftcontent.com/UnifiHD/live03.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#EXTINF:-1 tvg-logo="https://i.ibb.co/09cQ9CL/Fri-25-08-2023-11-32-23.png",RIA HD 
-#http://metatvpro.com:25461/live/LT186743/8181/13.ts
+EXTINF:-1 tvg-logo="https://i.ibb.co/09cQ9CL/Fri-25-08-2023-11-32-23.png",RIA HD 
 #KODIPROP:inputstream.adaptive.license_key={"3f726fd5cbbf5944437a4dbfab431b10": "376b009796e4ad50ea8f68d796676692"}
 http://185.225.191.46:25461/live/LT186743/8181/13.ts?token=SRFdBBdcFwpGVVlYAwZXAQUJAwQPCQlUVFUGBVEAAQcKAgRSAgFRB1xHTUNGQhBRVlVsD1wSAwZWHBZHFlMRb1tXF19GBgwHXEdNQ0FfD1EVAgJRCAkPD1wBBwNJFBNZVhEPR1UCBwBTR01DUE4WUUVWUgpnVFxBDFNREF9YFlxeHxcKCmtRVQkEDwUXDEAEFRQRD0tAGw0LRVheSRQBWUZBVBEBFg8SVlxQWBcaQFdYTV0SSkkbDUd9bRBJFAZIRlZbFg1bWxJeRxUSFxpAXURnQQNLREtSBF1RQEcMQQAQHxcIBUxqUwsLDwRWQgtbWUsRXBoCGxtHXVtcDEIMQm1DXAFGDhcCVVBQVRdL
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png", PRIMA HD
+EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png", PRIMA HD
 #KODIPROP:inputstream.adaptive.license_key={"0b65326aede3edbe81e6fb40317d5310": "8412f444ffbe350cf2ece051f9152e90"}
 #https://linears-playback.astro.com.my/vsg/41LfSXPqMpKUTq_TT0-eOkBJlSrW5aZvbuP-yttYJPYIE=7oQZ/dash-wv/jitp-linearwm/1000/default_primary.mpd
 http://185.225.191.46:25461/live/LT186743/8181/14.ts?token=SRFdBBdcFwpGVVlYAwZXAQUJAwQPCQlUVFUGBVEAAQcKAgRSAgFRB1xHTUNGQhBRVlVsD1wSAwZWHBZHFlMRb1tXF19GBgwHXEdNQ0FfD1EVAgJRCAkPD1wBBwNJFBNZVhEPR1UCBwBTR01DUE4WUUVWUgpnVFxBDFNREF9YFlxeHxcKCmtRVQkEDwUXDEAEFRQRD0tAGw0LRVheSRQBWUZBVBEBFg8SVlxQWBcaQFdYTV0SSkkbDUd9bRBJFAZIRlZbFg1bWxJeRxUSFxpAXURnQQNLREtSBF1RQEcMQQAQHxcIBUxqUwsLDwRWQgtbWUsRXBoCGxtHXVtcDEIMQm1DXAFGDhcCVVBQVRdL
@@ -48,7 +47,7 @@ http://linearjitp02-playback.astro.com.my/dash-wv/linear/2505/default_primary.mp
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png", WARNA HD
+EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png", WARNA HD
 #KODIPROP:inputstream.adaptive.license_key={"aa2c653f0c05567ae283c4a3271a9810": "0a80e20c568e88e53c7087c1c6493318"}
 http://185.225.191.46:25461/live/LT186743/8181/16.ts?token=SRFdBBdcFwpGVVlYAwZXAQUJAwQPCQlUVFUGBVEAAQcKAgRSAgFRB1xHTUNGQhBRVlVsD1wSAwZWHBZHFlMRb1tXF19GBgwHXEdNQ0FfD1EVAgJRCAkPD1wBBwNJFBNZVhEPR1UCBwBTR01DUE4WUUVWUgpnVFxBDFNREF9YFlxeHxcKCmtRVQkEDwUXDEAEFRQRD0tAGw0LRVheSRQBWUZBVBEBFg8SVlxQWBcaQFdYTV0SSkkbDUd9bRBJFAZIRlZbFg1bWxJeRxUSFxpAXURnQQNLREtSBF1RQEcMQQAQHxcIBUxqUwsLDwRWQgtbWUsRXBoCGxtHXVtcDEIMQm1DXAFGDhcCVVBQVRdL
 
@@ -60,7 +59,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/9989/default_primary.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png", CITRA HD
+EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png", CITRA HD
 #KODIPROP:inputstream.adaptive.license_key={"84bf9ad6848be7db20f9d16823deef10": "654f2d25a5bfb27c9e5ae0852584a166"}
 http://185.225.191.46:25461/live/LT186743/8181/17.ts?token=SRFdBBdcFwpGVVlYAwZXAQUJAwQPCQlUVFUGBVEAAQcKAgRSAgFRB1xHTUNGQhBRVlVsD1wSAwZWHBZHFlMRb1tXF19GBgwHXEdNQ0FfD1EVAgJRCAkPD1wBBwNJFBNZVhEPR1UCBwBTR01DUE4WUUVWUgpnVFxBDFNREF9YFlxeHxcKCmtRVQkEDwUXDEAEFRQRD0tAGw0LRVheSRQBWUZBVBEBFg8SVlxQWBcaQFdYTV0SSkkbDUd9bRBJFAZIRlZbFg1bWxJeRxUSFxpAXURnQQNLREtSBF1RQEcMQQAQHxcIBUxqUwsLDwRWQgtbWUsRXBoCGxtHXVtcDEIMQm1DXAFGDhcCVVBQVRdL
 
@@ -69,7 +68,7 @@ http://185.225.191.46:25461/live/LT186743/8181/17.ts?token=SRFdBBdcFwpGVVlYAwZXA
 #KODIPROP:inputstream.adaptive.license_key=88b324e7e763532b770d84d370d7c810:0ad1e7b2d71fd73a5c199739e534da4b
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/5070/default.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7b/Astro_Sensasi-en.png",Astro Sensasi HD
+EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7b/Astro_Sensasi-en.png",Astro Sensasi HD
 http://ktpremium.com:2095/A1270/3388/25964
 http://50.7.234.10:8278/Sensasi/playlist.m3u8
 
