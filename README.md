@@ -1665,10 +1665,24 @@ http://metatvpro.com:25461/live/LT186743/8181/13.m3u8
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://startv365.com:80//live/D85A79B4/55A7743D/79321.m3u8
 
+#EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="AstroRia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Astro_Ria.png/220px-Astro_Ria.png",Astro Ria
+#http://dmtn.tv:8080/live/steveny5997/54332611/420464.m3u8
+#http://muka03.wanicelife.com:8880/29us05283n02/t6g7yuefr/1705
+#https://smt.sky4k.eu.org/AEC_V6/index.php?play=stream1&id=AstroRiaHD
+#http://mytv-extra.com:80/t12mgxyb335/9832948789/79321
+http://ktpremium.com:2095/A1270/3388/912833
+
+
 #EXTINF:-1 tvg-name="Astro Prima" tvg-id="105" group-title="Astro" ch-number="105" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c4/Astro_Prima_2019.png/revision/latest?cb=20190111152445",Astro Prima HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b65326aede3edbe81e6fb40317d5310:8412f444ffbe350cf2ece051f9152e90
 http://newlife3.wanicelife.com:8880/live/3ca05163n16/76tgs8vsv/1702.ts
+
+#EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="AstroPrima" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Astro_Prima.png/220px-Astro_Prima.png",Astro Prima
+#http://dmtn.tv:8080/live/steveny5997/54332611/380155.m3u8
+#http://muka03.wanicelife.com:8880/29us05283n02/t6g7yuefr/1702
+#https://smt.sky4k.eu.org/AEC_V6/index.php?play=stream1&id=AstroPrimaHD
+http://ktpremium.com:2095/A1270/3388/25862
 
 #EXTINF:-1 tvg-name="Astro Warna HD" tvg-id="107" group-title="Astro" ch-number="107" tvg-logo="https://telegra.ph/file/f5b89c7905945e0ae354c.png",Astro Warna HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1693,6 +1707,13 @@ http://metatvpro.com:25461/live/W1808/1109/16.m3u8?type=hls
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://startv365.com:80//live/D85A79B4/55A7743D/191874.m3u8
 
+#EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="AstroWarna" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Astro_Warna_NEW.png/220px-Astro_Warna_NEW.png",Astro Warna
+#http://dmtn.tv:8080/live/steveny5997/54332611/379997.m3u8
+#http://muka03.wanicelife.com:8880/29us05283n02/t6g7yuefr/1706
+#https://smt.sky4k.eu.org/AEC_V6/index.php?play=stream1&id=AstroWarnaHD
+http://ktpremium.com:2095/A1270/3388/25867
+#http://ktpremium.com:2095/A1270/3388/912836
+
 #EXTINF:-1 tvg-id="Astro Citra HD" group-title="Astro" ch-number="108" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Astro_Citra_Logo_2018.png/revision/latest?cb=20200917121355",Astro Citra HD
 ##KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1712,7 +1733,16 @@ https://shorturl.at/pszP4
 http://metatvpro.com:25461//live/W1808/1109/17.m3u8
 
 
+#EXTINF:-1 tvg-id="AstroCitra" tvg-name="Astro Citra HD" group-title="Astro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Astro_Citra.png",Astro Citra
+#https://smt.sky4k.eu.org/AEC_V6/index.php?play=stream1&id=AstroCitraHD
+http://ktpremium.com:2095/A1270/3388/25852
 
+#EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="Astro Sensasi HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Astro_Sensasi.png",Astro Sensasi
+#http://dmtn.tv:8080/live/steveny5997/54332611/407476.m3u8
+#https://smt.sky4k.eu.org/AEC_V6/index.php?play=stream1&id=Sensasi
+#http://muka03.wanicelife.com:8880/29us05283n02/t6g7yuefr/1705
+#http://mytv-extra.com:80/t12mgxyb335/9832948789/191867
+http://50.7.234.10:8278/Sensasi/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
 
 
 
