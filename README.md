@@ -1733,6 +1733,16 @@ http://startv365.com:80/live/0664251418/9924187372/400200335.m3u8
 #http://mytv-extra.com:80/t12mgxyb335/9832948789/191867
 http://50.7.234.10:8278/Sensasi/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
 
+MY| OASIS HD [ASTRO],http://line.senpay23.com:80/96579d42b9/6c652d0906b9/571238
+MY| PRIMA HD [ASTRO],http://line.senpay23.com:80/96579d42b9/6c652d0906b9/571237
+MY| RIA HD [ASTRO],http://line.senpay23.com:80/96579d42b9/6c652d0906b9/571236
+MY| WARNA HD [ASTRO],http://line.senpay23.com:80/96579d42b9/6c652d0906b9/571231
+
+Astro Ria HD,http://metatvpro.com:25461/live/F2590/4729/13.ts
+Astro Prima HD,http://metatvpro.com:25461/live/F2590/4729/14.ts
+Astro Oasis HD,http://metatvpro.com:25461/live/F2590/4729/15.ts
+Astro Warna HD,http://metatvpro.com:25461/live/F2590/4729/16.ts
+Astro Citra,http://metatvpro.com:25461/live/F2590/4729/17.ts
 
 
 
