@@ -1793,4 +1793,21 @@ https://d3j4fjrwclc3o8.cloudfront.net/CH5/masterCH5.mpd
 #EXTINF:-1 tvg-id="AstroSupersport4" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport4_v1.png" group-title="SPORTS",Astro Supersport 4
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/2506/default.mpd
 
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png" group-title="SaniMpd", Astro Ria B
+http://50.7.234.10:8278/Ria/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/3_144.png" group-title="SaniMpd", Astro Prima B
+http://50.7.234.10:8278/Prima/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JCn7Yd0.png" group-title="SaniMpd", Astro Warna B
+http://50.7.234.10:8278/Warna/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/BOO_v1.png" group-title="SaniMpd", Astro Boo B
+http://50.7.234.10:8278/Boo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/128_300.png" group-title="SaniMpd", Astro Citra B
+http://50.7.234.10:8278/Citra/playlist.m3u
+
+
 #EXTM3U billed-msg="😎 BijanBusuk 😎"
