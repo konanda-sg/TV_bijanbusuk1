@@ -1650,11 +1650,22 @@ https://shorturl.at/kAPT2
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=3f726fd5cbbf5944437a4dbfab431b10&key=376b009796e4ad50ea8f68d796676692
 http://startv365.com//live/D85A79B4/55A7743D/79321.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/09cQ9CL/Fri-25-08-2023-11-32-23.png",RIA HD 
+http://line.senpay23.com:80/96579d42b9/6c652d0906b9/571236
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/09cQ9CL/Fri-25-08-2023-11-32-23.png",RIA HD 
+http://metatvpro.com:25461/live/F2590/4729/13.ts
+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png", PRIMA HD
 #KODIPROP:inputstream.adaptive.license_key={"0b65326aede3edbe81e6fb40317d5310": "8412f444ffbe350cf2ece051f9152e90"}
 http://startv365.com:80/live/0664251418/9924187372/400438338.m3u8
 
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png", PRIMA HD
+http://line.senpay23.com:80/96579d42b9/6c652d0906b9/571237
+
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png", PRIMA HD
+http://metatvpro.com:25461/live/F2590/4729/14.ts
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png", WARNA HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1663,7 +1674,11 @@ http://startv365.com:80/live/0664251418/9924187372/400438338.m3u8
 #KODIPROP:inputstream.adaptive.license_key={"aa2c653f0c05567ae283c4a3271a9810": "0a80e20c568e88e53c7087c1c6493318"}
 https://shorturl.at/jsyDX
 
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png", WARNA HD
+http://line.senpay23.com:80/96579d42b9/6c652d0906b9/571231
 
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png", WARNA HD
+http://metatvpro.com:25461/live/F2590/4729/16.ts
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png", CITRA HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1679,24 +1694,37 @@ https://shorturl.at/pszP4
 #KODIPROP:inputstream.adaptive.license_key={"84bf9ad6848be7db20f9d16823deef10": "654f2d25a5bfb27c9e5ae0852584a166"}
 http://startv365.com:80/live/0664251418/9924187372/400200335.m3u8
 
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png", CITRA HD
+http://metatvpro.com:25461/live/F2590/4729/17.ts
+
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="Astro Sensasi HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Astro_Sensasi.png",Astro Sensasi
-#http://dmtn.tv:8080/live/steveny5997/54332611/407476.m3u8
-#https://smt.sky4k.eu.org/AEC_V6/index.php?play=stream1&id=Sensasi
-#http://muka03.wanicelife.com:8880/29us05283n02/t6g7yuefr/1705
-#http://mytv-extra.com:80/t12mgxyb335/9832948789/191867
 http://50.7.234.10:8278/Sensasi/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
 
-MY| OASIS HD [ASTRO],http://line.senpay23.com:80/96579d42b9/6c652d0906b9/571238
-MY| PRIMA HD [ASTRO],http://line.senpay23.com:80/96579d42b9/6c652d0906b9/571237
-MY| RIA HD [ASTRO],http://line.senpay23.com:80/96579d42b9/6c652d0906b9/571236
-MY| WARNA HD [ASTRO],http://line.senpay23.com:80/96579d42b9/6c652d0906b9/571231
-
-Astro Ria HD,http://metatvpro.com:25461/live/F2590/4729/13.ts
-Astro Prima HD,http://metatvpro.com:25461/live/F2590/4729/14.ts
-Astro Oasis HD,http://metatvpro.com:25461/live/F2590/4729/15.ts
-Astro Warna HD,http://metatvpro.com:25461/live/F2590/4729/16.ts
-Astro Citra,http://metatvpro.com:25461/live/F2590/4729/17.ts
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YqQIrY0.png",Astro SuperSport 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
+https://webhdrus.onlinehdhls.ru/lb/premium123/index.m3u8|Origin=https://claplivehdplay.ru/
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4wXmnDY.png",Astro SuperSport 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
+https://webhdrus.onlinehdhls.ru/lb/premium124/index.m3u8|Origin=https://claplivehdplay.ru/
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3SFILZl.png",Astro SuperSport 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
+https://webhdrus.onlinehdhls.ru/lb/premium125/index.m3u8|Origin=https://claplivehdplay.ru/
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/v6cGRFh.png",Astro SuperSport 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
+https://webhdrus.onlinehdhls.ru/lb/premium126/index.m3u8|Origin=https://claplivehdplay.ru/
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jb1igcv.png",Astro SuperSport 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
+https://webhdrus.onlinehdhls.ru/lb/premium43/index.m3u8|Origin=https://claplivehdplay.ru/
 
 #EXTM3U billed-msg="😎 BijanBusuk 😎"
