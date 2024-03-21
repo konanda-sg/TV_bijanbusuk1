@@ -29,8 +29,17 @@ https://unifi-live03.secureswiftcontent.com/UnifiHD/live03.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #EXTINF:-1 tvg-logo="https://i.ibb.co/09cQ9CL/Fri-25-08-2023-11-32-23.png",RIA HD 
 #KODIPROP:inputstream.adaptive.license_key={"3f726fd5cbbf5944437a4dbfab431b10": "376b009796e4ad50ea8f68d796676692"}
-https://linears-playback.astro.com.my/vsg/41nXdDj9tmXOFE0tRAwj3i72l3qITM2x1OJpToOLClqnc=ilOI/dash-wv/jitp-linearwm/1004/default_primary.mpd
+http://dreamsmart.me:8080/play/live.php?mac=00:1A:79:20:34:1F&stream=306310_&extension=m3u8
+###https://linears-playback.astro.com.my/vsg/41nXdDj9tmXOFE0tRAwj3i72l3qITM2x1OJpToOLClqnc=ilOI/dash-wv/jitp-linearwm/1004/default_primary.mpd
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/09cQ9CL/Fri-25-08-2023-11-32-23.png",RIA HD 
+http://50.7.234.10:8278/Ria/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/09cQ9CL/Fri-25-08-2023-11-32-23.png",RIA HD 
+http://50.7.234.10:8278/Ria_mega/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/09cQ9CL/Fri-25-08-2023-11-32-23.png",RIA HD 
+http://50.7.234.10:8278/Ria-0/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png", PRIMA HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -41,6 +50,9 @@ https://linears-playback.astro.com.my/vsg/41bXPmm6Wfa7GHGd9QuNMpgWsLxx_SY82jYUxo
 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png", PRIMA HD
 #KODIPROP:inputstream.adaptive.license_key={"0b65326aede3edbe81e6fb40317d5310": "8412f444ffbe350cf2ece051f9152e90"}
 http://startv365.com:80/live/0664251418/9924187372/400438338.m3u8
+
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png", PRIMA HD
+http://50.7.234.10:8278/Primabk_mega/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"XzX4FWmRQOJknYJfDSQCjg", "kid":"F9XWLcYZVLgu4BbaJkq9EA" } ], "type":"temporary" }
@@ -54,6 +66,12 @@ http://linearjitp02-playback.astro.com.my/dash-wv/linear/2505/default_primary.mp
 #KODIPROP:inputstream.adaptive.license_key={"aa2c653f0c05567ae283c4a3271a9810": "0a80e20c568e88e53c7087c1c6493318"}
 https://linears-playback.astro.com.my/vsg/41iFhU-KKqyLW0EM61UfnvASUe39i1Tmx09QMpqAP79UQ=slFH/dash-wv/jitp-dashisowm/2402/default_primary.mpd
 
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png", WARNA HD
+http://50.7.234.10:8278/Warna-O/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png", WARNA HD
+http://50.7.234.10:8278/Warna/playlist.m3u8
+
 EXTINF:-1 tvg-logo="https://jepstoreott.jepstore057.workers.dev/0:/jepstore/jepstorelogobaru/themaskedsinger.png", The Masked Singer
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"8S3l8N6SxS+EFwXZ1kSdOg", "kid":"3nYc0oWqKxwWINFt263gEA" } ], "type":"temporary" }
@@ -64,7 +82,11 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/9989/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png", CITRA HD
 #KODIPROP:inputstream.adaptive.license_key={"84bf9ad6848be7db20f9d16823deef10": "654f2d25a5bfb27c9e5ae0852584a166"}
-https://linears-playback.astro.com.my/vsg/41CJTs6aYGh76t6znU5NkYNj4h5kaRHsiD8HGNkr36uJQ=9UWB/dash-wv/jitp-dashisowm/2700/default_primary.mpd
+http://vipopisth.top:8080/live/VIP0174169149114811/71701348213393/34538.m3u8
+#https://linears-playback.astro.com.my/vsg/41CJTs6aYGh76t6znU5NkYNj4h5kaRHsiD8HGNkr36uJQ=9UWB/dash-wv/jitp-dashisowm/2700/default_primary.mpd
+
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png", CITRA HD
+http://50.7.234.10:8278/Citra/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPremier.png",Astro Premier
 #KODIPROP:inputstream.adaptive.license_type=clearkey
