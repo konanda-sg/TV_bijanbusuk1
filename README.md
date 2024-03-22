@@ -34,6 +34,14 @@ https://linears-playback.astro.com.my/vsg/41nXdDj9tmXOFE0tRAwj3i71ajPxBQ-twMNoaS
 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png", PRIMA HD
 https://linears-playback.astro.com.my/vsg/41bXPmm6Wfa7GHGd9QuNMpgaFcAxq5OLXOfTJZMqQ37gM=0OTx/dash-wv/jitp-dashisowm/1000/default_primary.mpd
 
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png", PRIMA HD
+http://176868.cloud/2b90412204f1d42f71a8c0e9153aad19/343cef9d126e1a2327fd4842328b89f3/6fa72fa6e96d36ee5f7690be9d151b7a/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png", PRIMA HD
+http://176868.cloud/bf2cc2a3fa26f6a8151e5d01f0eedb91/343cef9d126e1a2327fd4842328b89f3/93711ee972bd68847b4a341bdaacd587/index.m3u8
+
+
+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png", PRIMA HD
 #KODIPROP:inputstream.adaptive.license_key={"0b65326aede3edbe81e6fb40317d5310": "8412f444ffbe350cf2ece051f9152e90"}
