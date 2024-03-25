@@ -106,13 +106,13 @@ https://linearfast04.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f8
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live32.mpd
 
 
-
-EXTINF:-1 tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202209/20220901/20220901155400159gcw.png",Sensasi 
+#EXTVLCOPT:http-user-agent=DmpPlayer/20.0.25.15 (Android 13; e31b5561-5463-483d-8238-c514aefca85e; V2246)
+#EXTVLCOPT:http-best-effort=true
+#EXTVLCOPT:http-DownLoadRate=40960.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=ZTA1ZDNiYTYtNmM4NC0zYWNkLTlhYjMtYzkwZDg4ODE3NTM3
-https://centerrrs.hypp.tv/PLTV/88888888/224/3221227598/3221227598.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=ZGlr1wUdBOOGDryKF0kvMe7dTGJCSdWH7tK%2Fg6W5gxujrPQF9pwkaerc6gP1KF0lt33NQpwOkdVlGBjywbBJh%2B9Joeh7PRKNfNvLjM3vn7Ezq5XlKJ7JMabmxeM83fZv%3A20231223014319%3AUTC%2C1005926114%2C210.186.229.255%2C20231223014319%2Curn:Huawei:liveTV:SP000004015718%2C1005926114%2C-1%2C0%2C1%2C%2C%2C2%2C595%2C%2C%2C2%2C1615850%2C0%2C521145%2C1239023847%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOQYvCMBhE_02OoWnaiIecFEFYugtWrzImX2IxbdykCv57rdbrzLzhjQmGtmtthLOQgKtVVZGrlicSpKxSzsnKKmKZ_puoS2YQQjf4JtoJO-xWR1Hwgpel4KJk7XS3CfDzsrn1J0pafLEdpXtnSNvs-B2Zw_tEHmMXB_4X8NinME8YtbOaWBRSirqQ9UIu2TilLfLl1bAz8ir2VySyP9G_Ae0QMrErzAWeGvSkh1sIH-432ZfNE0HrdA_0AAAA&tenantId=6001
-
-
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=OGQ0ZGMxNmYtY2QwNC0zZjQ1LWJmYjktYTFjZjM5ZWI5ODdm
+#EXTINF:-1 tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202209/20220901/20220901155400159gcw.png",Sensasi 
+https://web.hypp.tv:443/PLTV/88888888/224/3221227598/3221227598.mpd?rrsip=centerrrs.hypp.tv&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=H8USOZqD4I2bxHIyzKB%2BnKlIQxA%2Filc84DDFfsHKhno0fF7WRczKep1ijxO3BzygaB2sHsytI8XRvEMUKTg5zwR0XBaHIYPUxvUjKdISFjcjXZpCsTD8HLppp%2BR%2F70n5l1Gu6dfQIjZRtiMM1k%2B5qA%3D%3D%3A20231129122528%3AUTC%2C1004320542%2C14.1.246.174%2C20231129122528%2Curn:Huawei:liveTV:SP000004015718%2C1004320542%2C-1%2C0%2C1%2C%2C%2C2%2CHESA2010%2C%2C%2C2%2C3692854%2C0%2C2611154%2C2b9f924f-2e21-e330-87b4-2daffcd7b85b%2C%2C%2C2%2C1%2CEND&GuardEncType=2&tenantId=6003&from=5&ocs=2_1.9.62.164_80&hms_devid=1765&mount=1000002&targetdev=1765&it=H4sIAAAAAAAAA0XMQQvCIBiA4X-zo6j7sl08FUEXCVZd41M_RXCTdA3697EIur_Pu1R0dD7q4Htlw25PYAGUg8GBHTiiEMEq8Lxr9DRF953DnNMcTfEbu4-Hh-CMMykFE7y7brtTxqjltzSvyVL9s5Hqmhxp3wJbsTGMsVLEJZWZXTK-bzX_kg9_ucQ5mQAAAA
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -196,10 +196,10 @@ https://unifi-live08.secureswiftcontent.com/UnifiHD/live08.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Zfavh1DSSyMNkbmEI3rB5A", "kid":"HfqKZFr0HoPFIL3fkTk0yg" } ], "type":"temporary" }
 https://unifi-live09.secureswiftcontent.com/UnifiHD/live09.mpd
 
+#EXTINF:-1 tvg-logo="https://www.xtra.com.my/live-tv/assets/img/dramasangat.png",Drama Sangat 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.chooser_resolution_secure_max=360p
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"J6L3HYe/XrEFrwlvtmBdlw", "kid":"Ov4w7k6iSmf+Wi7wboPbCw" } ], "type":"temporary" }
-EXTINF:-1 tvg-logo="https://www.xtra.com.my/live-tv/assets/img/dramasangat.png",Drama Sangat 
 #EXTVLCOPT:http-referrer=https://live-xtra-sg1.global.ssl.fastly.net/embed/index.html?vid=11056648&autoplay=1&mute=0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
 https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton5.m3u8
