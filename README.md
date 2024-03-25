@@ -8,6 +8,13 @@
 
 ################################################################ MY FREEVIEW ##################################################################################
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"JlC/KXhPdgNVb6vANhXfSA", "kid":"Cytx+xXoJ9eJl37ejuiYEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/bb98264a1b78c06533540.png",Too FUN!
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5098/default.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"vqLQ+J+z+6+h/J80uoc0pg", "kid":"kSdgxAnrWv8+BgQixQL0EA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV1_v1.png",TV1 
@@ -31,14 +38,22 @@ http://dreamsmart.me:8080/play/live.php?mac=00:1A:79:20:34:1F&stream=306310_&ext
 https://linears-playback.astro.com.my/vsg/41nXdDj9tmXOFE0tRAwj3i71ajPxBQ-twMNoaSd7IX8EQ=9E11/dash-wv/jitp-linearwm/1004/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"N2sAl5bkrVDqj2jXlmdmkg", "kid":"P3Jv1cu/WURDek2/q0MbEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-logo="https://i.ibb.co/09cQ9CL/Fri-25-08-2023-11-32-23.png",RIA HD 
+http://muka03.wanicelife.com:8880/29us05283n02/t6g7yuefr/1705
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"hBL0RP++NQzy7OBR+RUukA", "kid":"C2Uyau3j7b6B5vtAMX1TEA" } ], "type":"temporary" }
-EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png", PRIMA HD
-https://linears-playback.astro.com.my/vsg/41bXPmm6Wfa7GHGd9QuNMpgaFcAxq5OLXOfTJZMqQ37gM=0OTx/dash-wv/jitp-dashisowm/1000/default_primary.mpd
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png", PRIMA HD
+https://linears-playback.astro.com.my/vsg/41LfSXPqMpKUTq_TT0-eOkBJlSrW5aZvbuP-yttYJPYIE=7oQZ/dash-wv/jitp-linearwm/1000/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png", PRIMA HD
 #KODIPROP:inputstream.adaptive.license_key={"0b65326aede3edbe81e6fb40317d5310": "8412f444ffbe350cf2ece051f9152e90"}
 http://startv365.com:80/live/0664251418/9924187372/400438338.m3u8
+
+
+
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"XzX4FWmRQOJknYJfDSQCjg", "kid":"F9XWLcYZVLgu4BbaJkq9EA" } ], "type":"temporary" }
@@ -47,8 +62,14 @@ http://linearjitp02-playback.astro.com.my/dash-wv/linear/2505/default_primary.mp
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"CoDiDFaOiOU8cIfBxkkzGA", "kid":"qixlPwwFVnrig8SjJxqYEA" } ], "type":"temporary" }
-EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png", WARNA HD
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png", WARNA HD
+http://muka03.wanicelife.com:8880/D12m2370/88152514/1706
 https://linears-playback.astro.com.my/vsg/41iFhU-KKqyLW0EM61UfnvAcGwJByAU4N2R_D_obiAFxc=wQUh/dash-wv/jitp-dashisowm/2402/default_primary.mpd
+
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png", WARNA HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://run.mocky.io/v3/be6fbdde-8931-4b2e-bb5f-66e39e3e51f6
+https://sini.la/vjpjd
 
 EXTINF:-1 tvg-logo="https://jepstoreott.jepstore057.workers.dev/0:/jepstore/jepstorelogobaru/themaskedsinger.png", The Masked Singer
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -64,7 +85,13 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/9989/default_primary.mpd
 http://vipopisth.top:8080/live/VIP0174169149114811/71701348213393/34538.m3u8
 https://linears-playback.astro.com.my/vsg/41CJTs6aYGh76t6znU5NkYNnkiTG2uPbSs9anAbROG7mc=fKwl/dash-wv/jitp-dashisowm/2700/default_primary.mpd
 
-
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png", CITRA HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ZU8tJaW/snyeWuCFJYShZg", "kid":"hL+a1oSL59sg+dFoI97vEA" } ], "type":"temporary" }
+http://startv365.com:80/live/0664251418/9924187372/400200335.m3u8
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPremier.png",Astro Premier
 #KODIPROP:inputstream.adaptive.license_type=clearkey
