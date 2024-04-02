@@ -9,6 +9,18 @@
 
 
 ########################################################################################################################################
+#EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Astro_Ria.png",ช่อง Astro Ria HD
+http://mykingtv.net:2082/mkhairil77/60192752752/8444
+
+#EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Astro_Warna_NEW.png?20230806103453",ช่อง Astro Warna HD
+http://50.7.234.10:8278/Warna/playlist.m3u8
+
+#EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1a/Astro_Citra_HD.png",ช่อง Astro Citra HD
+http://mykingtv.net:2082/mkhairil77/60192752752/8453
+
+#EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Astro_Sensasi.png",ช่อง Astro Sensasi HD
+http://50.7.234.10:8278/Ria/playlist.m3u8
+
 
 ################################################################ MY FREEVIEW ##################################################################################
 
