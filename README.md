@@ -999,6 +999,13 @@ https://23733.live.streamtheworld.com/PERAK_FMAAC.aac?dist=triton-widget&tdsdk=j
 https://23733.live.streamtheworld.com/MELAKA_FMAAC.aac?dist=triton-widget&tdsdk=js-2.9&swm=false&pname=tdwidgets&pversion=2.9&banners=none&burst-time=15&sbmid=1207a94f-369e-4a49-c0f0-98e4dd39329f
 
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"bhcdw24jVsJOTlmxm8mPxQ", "kid":"aXljcdxORX2Y+isCXqv8lA" } ], "type":"temporary" }
+#EXTINF:-1 group-logo="https://telegra.ph/file/5231dea66798aba2c94b7.png" group-title="ASTRO GO - VPN" tvg-logo="https://telegra.ph/file/02ba9491fbe0c89a3b0b9.png" tvg-id="AstroWarna",Astro Warna
+https://linear05-playback.sooka.my/CH1/masterCH1.mpd
+
 
 
 
