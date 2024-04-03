@@ -909,6 +909,46 @@ https://mediaprima.rastream.com/mediaprima-molekfm?n=a667b8170d765e5dd8ca
 #EXTINF:-1,Rock Rock Kapak
 https://stream.zeno.fm/q6xy0didftcvv?n=95c3c6654162b2dfb838
 
+#EXTINF:-1 tvg-group="radio" tvg-id="Hot Fm" tvg-name="HotFm" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/HotFm.png",HotFm
+https://mediaprima.rastream.com/mediaprima-hotfm
+
+#EXTINF:-1 tvg-group="radio" tvg-id="Best Fm" tvg-name="bestfm" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/bestfm.png",BestFm
+https://mifntechnology.github.io/siaranMy/radio/BestFm/playlist.m3u8
+ 
+#EXTINF:-1 tvg-group="radio" tvg-id="Buletin Fm" tvg-name="BuletinFm" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/BuletinFm.png",BuletinFm
+https://mediaprima.rastream.com/mediaprima-koolfm
+
+#EXTINF:-1 tvg-group="radio" tvg-id="Era" tvg-name="Era" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Era.png",Era
+https://mifntechnology.github.io/siaranMy/radio/Era/playlist.m3u8
+ 
+#EXTINF:-1 tvg-group="radio" tvg-id="Fly Fm" tvg-name="FlyFm" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/FlyFm.png",FlyFm
+https://mediaprima.rastream.com/mediaprima-flyfm
+ 
+#EXTINF:-1 tvg-group="radio" tvg-id="Hitz Fm" tvg-name="Hitz Fm" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/HitzFm.png",HitzFm
+https://mifntechnology.github.io/siaranMy/radio/HitzFm/playlist.m3u8
+ 
+#EXTINF:-1 tvg-group="radio" tvg-id="Johor Fm" tvg-name="JohorFm" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/JohorFm.png",JohorFm
+https://22273.live.streamtheworld.com:443/JOHOR_FMAAC.aac
+ 
+#EXTINF:-1 tvg-group="radio" tvg-id="Nasional Fm" tvg-name="NasionalFm" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/NasionalFm.png",NasionalFm
+https://23693.live.streamtheworld.com:443/NASIONAL_FMAAC.aac
+ 
+#EXTINF:-1 tvg-group="radio" tvg-id="Radio Klasik" tvg-name="RadioKlasik" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/RadioKlasik.png",RadioKlasik
+https://23693.live.streamtheworld.com:443/RADIO_KLASIKAAC_SC
+ 
+#EXTINF:-1 tvg-group="radio" tvg-id="Sinar Fm" tvg-name="SinarFm" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/SinarFm.png",SinarFm
+https://mifntechnology.github.io/siaranMy/radio/SinarFm/playlist.m3u8
+ 
+#EXTINF:-1 tvg-group="radio" tvg-id="Suria Fm" tvg-name="SuriaFm" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Suria.png",SuriaFm
+https://23683.live.streamtheworld.com/SURIA_FMAAC.aac
+
+#EXTINF:-1 tvg-group="radio" tvg-id="Ria Fm" tvg-name="RiaFm" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/RiaFm.png",RiaFm
+https://23253.live.streamtheworld.com/RIA897FMAAC.aac?dist=radiosingapore
+
+#EXTINF:-1 tvg-group="radio" tvg-id="Ikim Fm" tvg-name="IkimFm" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/IkimFm.png",IkimFm
+https://mifntechnology.github.io/siaranMy/radio/IkimFm/playlist.m3u8
+
+
 #EXTINF:-1 tvg-id="HITZ" tvg-name="Hitz FM" group-title="RADIO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/17_144.png", 852 HITZ FM
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ltoLvoO49UGU5CQo4f1mMg", "kid":"x1n0vBV7AKex26eHMZf8EA" } ], "type":"temporary" }
