@@ -899,6 +899,19 @@ http://50.7.234.10:8278/Citra/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe62
 #EXTINF:-1 tvg-id="AstroSensasi" tvg-name="Astro Sensasi HD" group-title="AOTG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Astro_Sensasi.png",ASTRO SENSASIᴴᴰ
 http://50.7.234.10:8278/Sensasi/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
 
+#EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/Astro_Oasis.png",ช่อง Astro Oasis HD
+http://mykingtv.net:2082/mkhairil77/60192752752/8451
+
+#EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Astro_Ria.png",ช่อง Astro Ria HD
+http://mykingtv.net:2082/mkhairil77/60192752752/8444
+
+#EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Astro_Warna_NEW.png?20230806103453",ช่อง Astro Warna HD
+http://50.7.234.10:8278/Warna/playlist.m3u8
+
+#EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1a/Astro_Citra_HD.png",ช่อง Astro Citra HD
+http://mykingtv.net:2082/mkhairil77/60192752752/8453
+
+
 
 #EXTINF:-1,Suria FM
 https://23683.live.streamtheworld.com/SURIA_FMAAC.aac?n=3b81392e5ec84c1982bc
