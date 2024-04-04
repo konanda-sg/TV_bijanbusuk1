@@ -30,20 +30,12 @@ http://linearjitp02-playback.astro.com.my/dash-wv/linear/5027/default_primary.mp
 #KODIPROP:inputstream.adaptive.license_key=3afe30ee4ea24a67fe5a2ef06e83db0b:27a2f71d87bf5eb105af096fb6605d97 
 https://unifi-live03.secureswiftcontent.com/UnifiHD/live03.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/09cQ9CL/Fri-25-08-2023-11-32-23.png",RIA HD 
+EXTINF:-1 tvg-logo="https://i.ibb.co/09cQ9CL/Fri-25-08-2023-11-32-23.png",RIA HD 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys": [ {"kty":"oct", "k":"N2sAl5bkrVDqj2jXlmdmkg", "kid": "P3Jv1cu/WURDek2/q0MbEA" } ], "type": "temporary"}
 https://linears-playback.astro.com.my/vsg/41RWXbI5_ObvgpYllyu1QkHVynhCKmsSCcmn2y7xRnyEc=UyQX/dash-wv/jitp-linearwm/1004/default_ott.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/09cQ9CL/Fri-25-08-2023-11-32-23.png",RIA HD 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"3f726fd5cbbf5944437a4dbfab431b10": "376b009796e4ad50ea8f68d796676692"}
-https://linears-playback.astro.com.my/vsg/41RWXbI5_ObvgpYllyu1QkHVynhCKmsSCcmn2y7xRnyEc=UyQX/dash-wv/jitp-linearwm/1004/default_ott.mpd
-
-
-#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png", PRIMA HD
+EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png", PRIMA HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"hBL0RP++NQzy7OBR+RUukA","kid":"C2Uyau3j7b6B5vtAMX1TEA"}],"type":"temporary"}
 #EXTVLCOPT:http-referrer=https://02d13e52-6540-28a2-8eac-7434f56a77bd.ref
@@ -55,14 +47,14 @@ https://linears-playback.astro.com.my/vsg/41k5piW7fDOXyn3bkrCuzrfqHYMfjmfW3Zyr_7
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Oasis_v1.png", OASIS HD 
 http://linearjitp02-playback.astro.com.my/dash-wv/linear/2505/default_primary.mpd
 
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png", WARNA HD
+EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png", WARNA HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"CoDiDFaOiOU8cIfBxkkzGA","kid":"qixlPwwFVnrig8SjJxqYEA"}],"type":"temporary"}
 #EXTVLCOPT:http-referrer=https://02d13e52-6540-28a2-8eac-7434f56a77bd.ref
 https://linears-playback.astro.com.my/vsg/412YC97OfL0tRH7547SNxmrfzl2Yagy5QdirQAmw93Vpk=COp5/dash-wv/jitp-linearwm/2402/default_ott.mpd
 
 
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png", CITRA HD
+EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png", CITRA HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"ZU8tJaW/snyeWuCFJYShZg","kid":"hL+a1oSL59sg+dFoI97vEA"}],"type":"temporary"}
 #EXTVLCOPT:http-referrer=https://02d13e52-6540-28a2-8eac-7434f56a77bd.ref
@@ -796,66 +788,66 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5128/default.mpd
 *************************************************************************************
 
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png", ASTRO RIA
+EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png", ASTRO RIA
 http://startv365.com:80/live/0664251418/9924187372/79321.m3u8
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png", ASTRO RIA
+EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png", ASTRO RIA
 http://startv365.com/live/0664251418/9924187372/79321.m3u8
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png", ASTRO RIA
+EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png", ASTRO RIA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"N2sAl5bkrVDqj2jXlmdmkg", "kid":"P3Jv1cu/WURDek2/q0MbEA" } ], "type":"temporary" } 
 #https://linearjitp02-playback.astro.com.my/dash-wv/jitp-linear/1004/default.mpd
 http://50.7.234.10:8278/Ria-0/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png", ASTRO RIA
+EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png", ASTRO RIA
 http://mykingtv.net:2082/mkhairil77/60192752752/8444
 
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png", ASTRO PRIMA
+EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png", ASTRO PRIMA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b65326aede3edbe81e6fb40317d5310:8412f444ffbe350cf2ece051f9152e90
 #https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_primary.mpd
 http://50.7.234.10:8278/Prima-0/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png", ASTRO PRIMA
+EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png", ASTRO PRIMA
 http://startv365.com:80/live/0664251418/9924187372/191865.m3u8
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png", ASTRO PRIMA
+EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png", ASTRO PRIMA
 http://startv365.com/live/0664251418/9924187372/191865.m3u8
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png", ASTRO PRIMA
+EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png", ASTRO PRIMA
 http://metatvpro.com:25461/live/C783388/36785/14.m3u8
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png", ASTRO PRIMA
+EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png", ASTRO PRIMA
 http://muka03.wanicelife.com:8880/29us05283n02/t6g7yuefr/1702
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png", ASTRO WARNA
+EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png", ASTRO WARNA
 http://50.7.234.10:8278/Warna/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png", ASTRO WARNA
+EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png", ASTRO WARNA
 http://50.7.234.10:8278/Warna/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png", ASTRO WARNA
 http://startv365.com:80/live/0664251418/9924187372/191874.m3u8
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png", ASTRO WARNA
+EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png", ASTRO WARNA
 http://startv365.com/live/0664251418/9924187372/191874.m3u8
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png", ASTRO WARNA
+EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png", ASTRO WARNA
 http://muka03.wanicelife.com:8880/29us05283n02/t6g7yuefr/1706
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png", ASTRO WARNA
+EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png", ASTRO WARNA
 http://metatvpro.com:25461/live/C783388/36785/16.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1a/Astro_Citra_HD.png", Astro Citra
+EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1a/Astro_Citra_HD.png", Astro Citra
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ZU8tJaW/snyeWuCFJYShZg", "kid":"hL+a1oSL59sg+dFoI97vEA" } ], "type":"temporary" }
 #https://linearjitp02-playback.astro.com.my/dash-wv/linear/2700/default.mpd
 http://50.7.234.10:8278/Citra/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1a/Astro_Citra_HD.png", Astro Citra
+EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1a/Astro_Citra_HD.png", Astro Citra
 http://mykingtv.net:2082/mkhairil77/60192752752/8453
 
 
@@ -865,21 +857,9 @@ http://startv365.com:80/live/0664251418/9924187372/400200335.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1a/Astro_Citra_HD.png", Astro Citra
 http://startv365.com/live/0664251418/9924187372/400200335.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1a/Astro_Citra_HD.png", Astro Citra
+EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1a/Astro_Citra_HD.png", Astro Citra
 http://metatvpro.com:25461/live/C783388/36785/17.m3u8
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"bhcdw24jVsJOTlmxm8mPxQ", "kid":"aXljcdxORX2Y+isCXqv8lA" } ], "type":"temporary" }
-#EXTINF:-1 group-logo="https://telegra.ph/file/5231dea66798aba2c94b7.png" group-title="ASTRO GO - VPN" tvg-logo="https://telegra.ph/file/02ba9491fbe0c89a3b0b9.png" tvg-id="AstroWarna",Astro Warna
-https://linear05-playback.sooka.my/CH1/masterCH1.mpd
-
-#EXTINF:-1 group-title="Radio Stations" tvg-id="CHN" ch-number="958" tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/koUQs6gN",SURIA FM
-https://22283.live.streamtheworld.com/SURIA_FMAAC.aac
-
-#EXTINF:-1 group-title="Radio Stations" tvg-id="CHN" ch-number="958" tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/koUQs6gN",SURIA (YouTube Live)
-https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/SuriaFM.m3u8
 
 #EXTINF:-1 group-title="Radio Stations" tvg-id="CHN" ch-number="721" tvg-logo="https://aqfadtv.xyz/logos/HotFM.png", Hot FM
 https://mediaprima.rastream.com/mediaprima-hotfm
@@ -925,70 +905,6 @@ https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/Gegar.m3u8
 
 #EXTINF:-1 group-title="Radio Stations" tvg-id="NASFM" ch-number="869" tvg-logo="https://user-images.githubusercontent.com/85995579/128818868-1f01f150-d8ec-4d0a-913c-efbd58b35536.png",Nasional FM
 https://aqfadtv.xyz/live/radio/rtmklik/nasionalfm
-
-#EXTINF:-1 type="movie" group-title="Malay" tvg-logo="https://aqfadtv.xyz/images/Upin&IpinKerisSiamangTunggal.png",Upin & Ipin: Keris Siamang Tunggal
-https://beaqfad.vercel.app/api/raw/?path=/VOD/Movies/Upin.%26.Ipin.Keris.Siamang.Tunggal.2019.1080p.DHM.WEB-DL.H264.AAC-AqFadTV.mp4
-
-#EXTINF:-1 type="movie" group-title="Malay" tvg-logo="https://aqfadtv.xyz/images/BoBoiBoyMovie2.png",BoBoiBoy Movie 2
-https://beaqfad.vercel.app/api/raw/?path=/VOD/Movies/BoBoiBoy.Movie.2.2019.1080p.Sooka.WEB-DL.H264.AAC-AqFadTV.mp4
-
-#EXTINF:-1 type="movie" group-title="Malay" tvg-logo="https://aqfadtv.xyz/images/EjenAliTheMovie.png",Ejen Ali The Movie
-https://beaqfad.vercel.app/api/raw/?path=/VOD/Movies/Ejen.Ali.The.Movie.2019.1080p.DHM.WEB-DL.H264.AAC-AqFadTV.mp4
-
-#EXTINF:-1 type="movie" group-title="Malay" tvg-logo="https://aqfadtv.xyz/images/MechamatoMovie.jpg",Mechamato Movie
-https://onedrive-bdfsds.vercel.app/api/raw/?path=/Movies/Mechamato.Movie.2022.1080p.AOTG.WEB-DL.H264.AAC-AstradaMY.mp4
-
-#EXTINF:-1 type="movie" group-title="Marvel" tvg-logo="https://aqfadtv.xyz/images/GOTG.png",Guardians of the Galaxy
-http://onedrive-by-aqfadtv-vod.on.drv.tw/VOD/Movies/Guardians.of.the.Galaxy.2014.1080p.DHM.WEB-DL.H264.AAC-AqFadTV.mkv
-
-#EXTINF:-1 type="movie" group-title="Marvel" tvg-logo="https://aqfadtv.xyz/images/GOTGVol2.png",Guardians of the Galaxy Vol. 2
-http://onedrive-by-aqfadtv-vod.on.drv.tw/VOD/Movies/Guardians.of.the.Galaxy.Vol.2.2017.1080p.DHM.WEB-DL.H264.AAC-AqFadTV.mkv
-
-#EXTINF:-1 type="movie" group-title="Marvel" tvg-logo="https://aqfadtv.xyz/images/GOTGVol3.png",Guardians of the Galaxy Vol. 3
-http://onedrive-by-aqfadtv-vod.on.drv.tw/VOD/Movies/Guardians.of.the.Galaxy.Vol.3.2023.1080p.DHM.WEB-DL.H264.AAC-AqFadTV.mkv
-
-#EXTINF-1 type="series" group-title="Mechamato" tvg-logo="https://aqfadtv.xyz/images/Mechamato/S1/01.jpg",S1 E01
-http://onedrive-by-aqfadtv-vod.on.drv.tw/VOD/Series/Mechamato/S1/Mechamato.S01E01.mp4
-
-#EXTINF-1 type="series" group-title="Mechamato" tvg-logo="https://aqfadtv.xyz/images/Mechamato/S1/02.jpg",S1 E02
-http://onedrive-by-aqfadtv-vod.on.drv.tw/VOD/Series/Mechamato/S1/Mechamato.S01E02.mp4
-
-#EXTINF-1 type="series" group-title="Mechamato" tvg-logo="https://aqfadtv.xyz/images/Mechamato/S1/03.jpg",S1 E03
-http://onedrive-by-aqfadtv-vod.on.drv.tw/VOD/Series/Mechamato/S1/Mechamato.S01E03.mp4
-
-#EXTINF-1 type="series" group-title="Mechamato" tvg-logo="https://aqfadtv.xyz/images/Mechamato/S1/04.jpg",S1 E04
-http://onedrive-by-aqfadtv-vod.on.drv.tw/VOD/Series/Mechamato/S1/Mechamato.S01E04.mp4
-
-#EXTINF-1 type="series" group-title="Mechamato" tvg-logo="https://aqfadtv.xyz/images/Mechamato/S1/05.jpg",S1 E05
-http://onedrive-by-aqfadtv-vod.on.drv.tw/VOD/Series/Mechamato/S1/Mechamato.S01E05.mp4
-
-#EXTINF-1 type="series" group-title="Mechamato" tvg-logo="https://aqfadtv.xyz/images/Mechamato/S1/06.jpg",S1 E06
-http://onedrive-by-aqfadtv-vod.on.drv.tw/VOD/Series/Mechamato/S1/Mechamato.S01E06.mp4
-
-#EXTINF-1 type="series" group-title="Mechamato" tvg-logo="https://aqfadtv.xyz/images/Mechamato/S1/07.jpg",S1 E07
-http://onedrive-by-aqfadtv-vod.on.drv.tw/VOD/Series/Mechamato/S1/Mechamato.S01E07.mp4
-
-#EXTINF-1 type="series" group-title="Mechamato" tvg-logo="https://aqfadtv.xyz/images/Mechamato/S1/08.jpg",S1 E08
-http://onedrive-by-aqfadtv-vod.on.drv.tw/VOD/Series/Mechamato/S1/Mechamato.S01E08.mp4
-
-#EXTINF-1 type="series" group-title="Mechamato" tvg-logo="https://aqfadtv.xyz/images/Mechamato/S1/09.jpg",S1 E09
-http://onedrive-by-aqfadtv-vod.on.drv.tw/VOD/Series/Mechamato/S1/Mechamato.S01E09.mp4
-
-#EXTINF-1 type="series" group-title="Mechamato" tvg-logo="https://aqfadtv.xyz/images/Mechamato/S1/10.jpg",S1 E10
-http://onedrive-by-aqfadtv-vod.on.drv.tw/VOD/Series/Mechamato/S1/Mechamato.S01E10.mp4
-
-#EXTINF-1 type="series" group-title="Mechamato" tvg-logo="https://aqfadtv.xyz/images/Mechamato/S1/11.jpg",S1 E11
-http://onedrive-by-aqfadtv-vod.on.drv.tw/VOD/Series/Mechamato/S1/Mechamato.S01E11.mp4
-
-#EXTINF-1 type="series" group-title="Mechamato" tvg-logo="https://aqfadtv.xyz/images/Mechamato/S1/12.jpg",S1 E12
-http://onedrive-by-aqfadtv-vod.on.drv.tw/VOD/Series/Mechamato/S1/Mechamato.S01E12.mp4
-
-#EXTINF-1 type="series" group-title="Mechamato" tvg-logo="https://aqfadtv.xyz/images/Mechamato/S1/13.jpg",S1 E13
-http://onedrive-by-aqfadtv-vod.on.drv.tw/VOD/Series/Mechamato/S1/Mechamato.S01E13.mp4
-
-
-
-
 
 
 #EXTM3U billed-msg="😎 BijanBusuk 😎"
