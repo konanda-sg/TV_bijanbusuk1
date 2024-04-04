@@ -868,153 +868,124 @@ http://startv365.com/live/0664251418/9924187372/400200335.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1a/Astro_Citra_HD.png", Astro Citra
 http://metatvpro.com:25461/live/C783388/36785/17.m3u8
 
-
-
-
-
-
-#EXTINF:-1,Suria FM
-https://23683.live.streamtheworld.com/SURIA_FMAAC.aac?n=3b81392e5ec84c1982bc
-
-#EXTINF:-1,Molek FM
-https://mediaprima.rastream.com/mediaprima-molekfm?n=a667b8170d765e5dd8ca
-
-#EXTINF:-1,Rock Rock Kapak
-https://stream.zeno.fm/q6xy0didftcvv?n=95c3c6654162b2dfb838
-
-#EXTINF:-1 tvg-group="radio" tvg-id="Hot Fm" tvg-name="HotFm" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/HotFm.png",HotFm
-https://mediaprima.rastream.com/mediaprima-hotfm
-
-#EXTINF:-1 tvg-group="radio" tvg-id="Best Fm" tvg-name="bestfm" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/bestfm.png",BestFm
-https://mifntechnology.github.io/siaranMy/radio/BestFm/playlist.m3u8
- 
-#EXTINF:-1 tvg-group="radio" tvg-id="Buletin Fm" tvg-name="BuletinFm" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/BuletinFm.png",BuletinFm
-https://mediaprima.rastream.com/mediaprima-koolfm
-
-#EXTINF:-1 tvg-group="radio" tvg-id="Era" tvg-name="Era" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Era.png",Era
-https://mifntechnology.github.io/siaranMy/radio/Era/playlist.m3u8
- 
-#EXTINF:-1 tvg-group="radio" tvg-id="Fly Fm" tvg-name="FlyFm" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/FlyFm.png",FlyFm
-https://mediaprima.rastream.com/mediaprima-flyfm
- 
-#EXTINF:-1 tvg-group="radio" tvg-id="Hitz Fm" tvg-name="Hitz Fm" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/HitzFm.png",HitzFm
-https://mifntechnology.github.io/siaranMy/radio/HitzFm/playlist.m3u8
- 
-#EXTINF:-1 tvg-group="radio" tvg-id="Johor Fm" tvg-name="JohorFm" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/JohorFm.png",JohorFm
-https://22273.live.streamtheworld.com:443/JOHOR_FMAAC.aac
- 
-#EXTINF:-1 tvg-group="radio" tvg-id="Nasional Fm" tvg-name="NasionalFm" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/NasionalFm.png",NasionalFm
-https://23693.live.streamtheworld.com:443/NASIONAL_FMAAC.aac
- 
-#EXTINF:-1 tvg-group="radio" tvg-id="Radio Klasik" tvg-name="RadioKlasik" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/RadioKlasik.png",RadioKlasik
-https://23693.live.streamtheworld.com:443/RADIO_KLASIKAAC_SC
- 
-#EXTINF:-1 tvg-group="radio" tvg-id="Sinar Fm" tvg-name="SinarFm" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/SinarFm.png",SinarFm
-https://mifntechnology.github.io/siaranMy/radio/SinarFm/playlist.m3u8
- 
-#EXTINF:-1 tvg-group="radio" tvg-id="Suria Fm" tvg-name="SuriaFm" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Suria.png",SuriaFm
-https://23683.live.streamtheworld.com/SURIA_FMAAC.aac
-
-#EXTINF:-1 tvg-group="radio" tvg-id="Ria Fm" tvg-name="RiaFm" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/RiaFm.png",RiaFm
-https://23253.live.streamtheworld.com/RIA897FMAAC.aac?dist=radiosingapore
-
-#EXTINF:-1 tvg-group="radio" tvg-id="Ikim Fm" tvg-name="IkimFm" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/IkimFm.png",IkimFm
-https://mifntechnology.github.io/siaranMy/radio/IkimFm/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="HITZ" tvg-name="Hitz FM" group-title="RADIO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/17_144.png", 852 HITZ FM
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ltoLvoO49UGU5CQo4f1mMg", "kid":"x1n0vBV7AKex26eHMZf8EA" } ], "type":"temporary" }
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/121/default_primary.mpd
-
-#EXTINF:0 tvg-ID="MY" tvg-name="MY FM" group-title="RADIO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/15_144.png", 853 MY FM
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Qz+mjW7JgGdclrta4uAXiQ", "kid":"j2GMEpVaxcQx9fkBRRydEA" } ], "type":"temporary" }
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/119/default_primary.mpd
-
-#EXTINF:-1 tvg-id="LITE" tvg-name="LITE FM" group-title="RADIO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/19_144.png", 854 LITE
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"tZ1I5dpeNKHRe8tujMNiZw", "kid":"6Ks1BJHgUSgjWFnxJyJbEA" } ], "type":"temporary" }
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/123/default_primary.mpd
-
-#EXTINF:-1 tvg-id="MIX" tvg-name="MIX FM" group-title="RADIO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/18_144.png", 855 MIX FM❌
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/122
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/122/default_primary.mpd
-
-#EXTINF:-1 tvg-id="ERA" tvg-name="Era FM" group-title="RADIO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/14_144.png", 856 ERA FM❌
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"TVWfzBIFLZ5/zg+PZZK7oQ", "kid":"hSlCUcius3NonqoOqVh4EA" } ], "type":"temporary" }
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/118/default_primary.mpd
-
-#EXTINF:-1 tvg-id="SINAR" tvg-name="Sinar FM" group-title="RADIO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/26_144.png", 857 SINAR FM
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"lFjtduhfGtiqfu/NvWKJCA", "kid":"evPsHy2wd65jdKAYy7SFEA" } ], "type":"temporary" }
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/130/default_primary.mpd
-
-#EXTINF:-1 tvg-id="GEGAR" tvg-name="THR GEGAR" group-title="RADIO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/22_144.png", 863 THR GEGAR
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"oP7KOBC5InWSvYk7+58fiQ", "kid":"cLap0cX10nWszwqMUdv3EA" } ], "type":"temporary" }
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/126/default_primary.mpd
-
-#EXTINF:-1 tvg-id="NASFM" tvg-name="NAS FM" group-title="RADIO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/25_144.png", 869 NAS FM
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"nAgyqNvDbSq1iSYA6mlg/Q", "kid":"rowgBwxwYzOtEyMPBUEcEA" } ], "type":"temporary" }
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/129/default_primary.mpd
-
-#EXTINF:0 tvg-ID="VFM" tvg-name="V FM" group-title="RADIO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/29_144.png", 870 V FM
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"V9QpBgepo6Fj3gc4j831jQ", "kid":"7U3HtuIiXEVjTp1jJyqbEA" } ], "type":"temporary" }
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/133/default_primary.mpd
-
-#EXTINF:-1 tvg-id="TRAXXFM" tvg-name="TRAXX FM" group-title="RADIO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/312_144.png", 872 TRAXX FM
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"hlolq6gTQWR5Gyl5PXuX2w", "kid":"dMauIP9+Me4qoYErx5MTEA" } ], "type":"temporary" }
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/138/default_primary.mpd
-
-#EXTINF:0 tvg-ID="ASYIKFM" tvg-name="ASYIK FM" group-title="RADIO" tvg-logo="https://cdn.webrad.io/images/logos/radioonline-my/asyik-kuala-lumpur.png", 875 ASYIK FM
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"jBmOlxGeRtrZpNaT9agq/w", "kid":"ugGy9zx2Qy5kkJJ2fxBwEA" } ], "type":"temporary" }
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/141/default_primary.mpd
-
-
-
-### NATIONAL RADIO 📻
-
-
-#EXTINF:-1 tvg-id="Nasional FM" tvg-name="Nasional FM" group-logo="https://static.wikia.nocookie.net/logopedia/images/9/97/Rtm_Klik_2022.png/revision/latest?cb=20230702130847" group-title="RADIO" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-nasional.21cbcdbf.jpg", NATIONAL FM
-https://22273.live.streamtheworld.com/NASIONAL_FMAAC.aac?dist=triton-widget&tdsdk=js-2.9&swm=false&pname=tdwidgets&pversion=2.9&banners=none&burst-time=15&sbmid=d3582763-5db7-449e-ab1a-91a4948b0201
-
-
-#EXTINF:-1 tvg-id="Asyik FM" tvg-name="Asyik FM" group-logo="https://static.wikia.nocookie.net/logopedia/images/9/97/Rtm_Klik_2022.png/revision/latest?cb=20230702130847" group-title="RADIO" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-asyik.1aa893cd.jpg", ASYIK FM
-https://22273.live.streamtheworld.com/ASYIK_FMAAC.aac?dist=triton-widget&tdsdk=js-2.9&swm=false&pname=tdwidgets&pversion=2.9&banners=none&burst-time=15&sbmid=2a6e8f96-a3da-456c-af58-d155b8ed1344
-
-
-### STATE RADIO 📻
-
-
-#EXTINF:-1 tvg-id="KL FM" tvg-name="KL FM" group-logo="https://static.wikia.nocookie.net/logopedia/images/9/97/Rtm_Klik_2022.png/revision/latest?cb=20230702130847" group-title="RADIO" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-kl.cf9e2e96.jpg", KL FM
-https://22273.live.streamtheworld.com/KL_FMAAC.aac?dist=triton-widget&tdsdk=js-2.9&swm=false&pname=tdwidgets&pversion=2.9&banners=none&burst-time=15&sbmid=0a70232d-a94b-4f4c-ea45-00b979cfdd73
-
-#EXTINF:-1 tvg-id="Pahang FM" tvg-name="Pahang FM" group-logo="https://static.wikia.nocookie.net/logopedia/images/9/97/Rtm_Klik_2022.png/revision/latest?cb=20230702130847" group-title="RADIO" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-pahang.9e046615.jpg", PAHANG FM
-https://23733.live.streamtheworld.com/PAHANG_FMAAC.aac?dist=triton-widget&tdsdk=js-2.9&swm=false&pname=tdwidgets&pversion=2.9&banners=none&burst-time=15&sbmid=8ff14978-5358-444c-ea41-398da4e17327
-
-#EXTINF:-1 tvg-id="Negeri FM" tvg-name="Negeri FM" group-logo="https://static.wikia.nocookie.net/logopedia/images/9/97/Rtm_Klik_2022.png/revision/latest?cb=20230702130847" group-title="RADIO" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-negeri-sembilan.d75a96b1.jpg", NEGERI FM
-https://22273.live.streamtheworld.com/NEGERI_FMAAC.aac?dist=triton-widget&tdsdk=js-2.9&swm=false&pname=tdwidgets&pversion=2.9&banners=none&burst-time=15&sbmid=7894c848-afb5-4bb4-aa53-687dc830688c
-
-#EXTINF:-1 tvg-id="Perak FM" tvg-name="Perak FM" group-logo="https://static.wikia.nocookie.net/logopedia/images/9/97/Rtm_Klik_2022.png/revision/latest?cb=20230702130847" group-title="RADIO" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-perak.5157e833.jpg", PERAK FM
-https://23733.live.streamtheworld.com/PERAK_FMAAC.aac?dist=triton-widget&tdsdk=js-2.9&swm=false&pname=tdwidgets&pversion=2.9&banners=none&burst-time=15&sbmid=21c9b092-cf8a-4dde-ee4f-77436584b1c6
-
-#EXTINF:-1 tvg-id="Melaka FM" tvg-name="Melaka FM" group-logo="https://static.wikia.nocookie.net/logopedia/images/9/97/Rtm_Klik_2022.png/revision/latest?cb=20230702130847" group-title="RADIO" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-melaka.ddf4e356.jpg", MELAKA FM
-https://23733.live.streamtheworld.com/MELAKA_FMAAC.aac?dist=triton-widget&tdsdk=js-2.9&swm=false&pname=tdwidgets&pversion=2.9&banners=none&burst-time=15&sbmid=1207a94f-369e-4a49-c0f0-98e4dd39329f
-
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"bhcdw24jVsJOTlmxm8mPxQ", "kid":"aXljcdxORX2Y+isCXqv8lA" } ], "type":"temporary" }
 #EXTINF:-1 group-logo="https://telegra.ph/file/5231dea66798aba2c94b7.png" group-title="ASTRO GO - VPN" tvg-logo="https://telegra.ph/file/02ba9491fbe0c89a3b0b9.png" tvg-id="AstroWarna",Astro Warna
 https://linear05-playback.sooka.my/CH1/masterCH1.mpd
+
+#EXTINF:-1 group-title="Radio Stations" tvg-id="CHN" ch-number="958" tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/koUQs6gN",SURIA FM
+https://22283.live.streamtheworld.com/SURIA_FMAAC.aac
+
+#EXTINF:-1 group-title="Radio Stations" tvg-id="CHN" ch-number="958" tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/koUQs6gN",SURIA (YouTube Live)
+https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/SuriaFM.m3u8
+
+#EXTINF:-1 group-title="Radio Stations" tvg-id="CHN" ch-number="721" tvg-logo="https://aqfadtv.xyz/logos/HotFM.png", Hot FM
+https://mediaprima.rastream.com/mediaprima-hotfm
+
+#EXTINF:-1 group-title="Radio Stations" tvg-id="CHN" ch-number="721" tvg-logo="https://aqfadtv.xyz/logos/HotFM.png", Hot FM (YouTube Live)
+https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/HotFM.m3u8
+
+#EXTINF:-1 group-title="Radio Stations" tvg-id="CHN" ch-number="722" tvg-logo="https://aqfadtv.xyz/logos/Kool101.png",Kool 101
+https://mediaprima.rastream.com/mediaprima-koolfm
+
+#EXTINF:-1 group-title="Radio Stations" tvg-id="CHN" ch-number="723" tvg-logo="https://aqfadtv.xyz/logos/Kool101.png",Kool 101 (YouTube Live)
+https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/Kool101.m3u8
+
+#EXTINF:-1 group-title="Radio Stations" tvg-id="CHN" ch-number="725" tvg-logo="https://aqfadtv.xyz/logos/MolekFM_v1.png",Molek FM
+https://mediaprima.rastream.com/mediaprima-molekfm
+
+#EXTINF:-1 group-title="Radio Stations" tvg-id="CHN" ch-number="725" tvg-logo="https://aqfadtv.xyz/logos/MolekFM_v1.png",Molek FM (YouTube Live)
+https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/MolekFM.m3u8
+
+#EXTINF:-1 group-title="Radio Stations" tvg-id="HITZ" ch-number="852" tvg-logo="https://aqfadtv.xyz/logos/Hitz.png",HITZ
+https://live.aqfadtv.xyz/radio/hitz
+
+#EXTINF:-1 group-title="Radio Stations" tvg-id="HITZ" ch-number="852" tvg-logo="https://aqfadtv.xyz/logos/Hitz.png",HITZ (YouTube Live)
+https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/Hitz.m3u8
+
+#EXTINF:-1 group-title="Radio Stations" tvg-id="ERA" ch-number="856" tvg-logo="https://aqfadtv.xyz/logos/ERA.png",ERA
+https://live.aqfadtv.xyz/radio/era
+
+#EXTINF:-1 group-title="Radio Stations" tvg-id="ERA" ch-number="856" tvg-logo="https://aqfadtv.xyz/logos/ERA.png",ERA (YouTube Live)
+https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/ERA.m3u8
+
+#EXTINF:-1 group-title="Radio Stations" tvg-id="SINAR" ch-number="857" tvg-logo="https://aqfadtv.xyz/logos/Sinar.png",SINAR
+https://live.aqfadtv.xyz/radio/sinar
+
+#EXTINF:-1 group-title="Radio Stations" tvg-id="SINAR" ch-number="857" tvg-logo="https://aqfadtv.xyz/logos/Sinar.png",SINAR (YouTube Live)
+https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/SINAR.m3u8
+
+#EXTINF:-1 group-title="Radio Stations" tvg-id="GEGAR" ch-number="863" tvg-logo="https://aqfadtv.xyz/logos/Gegar.png",GEGAR
+https://live.aqfadtv.xyz/radio/gegar
+
+#EXTINF:-1 group-title="Radio Stations" tvg-id="GEGAR" ch-number="863" tvg-logo="https://aqfadtv.xyz/logos/Gegar.png",GEGAR (YouTube Live)
+https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/Gegar.m3u8
+
+#EXTINF:-1 group-title="Radio Stations" tvg-id="NASFM" ch-number="869" tvg-logo="https://user-images.githubusercontent.com/85995579/128818868-1f01f150-d8ec-4d0a-913c-efbd58b35536.png",Nasional FM
+https://aqfadtv.xyz/live/radio/rtmklik/nasionalfm
+
+#EXTINF:-1 type="movie" group-title="Malay" tvg-logo="https://aqfadtv.xyz/images/Upin&IpinKerisSiamangTunggal.png",Upin & Ipin: Keris Siamang Tunggal
+https://beaqfad.vercel.app/api/raw/?path=/VOD/Movies/Upin.%26.Ipin.Keris.Siamang.Tunggal.2019.1080p.DHM.WEB-DL.H264.AAC-AqFadTV.mp4
+
+#EXTINF:-1 type="movie" group-title="Malay" tvg-logo="https://aqfadtv.xyz/images/BoBoiBoyMovie2.png",BoBoiBoy Movie 2
+https://beaqfad.vercel.app/api/raw/?path=/VOD/Movies/BoBoiBoy.Movie.2.2019.1080p.Sooka.WEB-DL.H264.AAC-AqFadTV.mp4
+
+#EXTINF:-1 type="movie" group-title="Malay" tvg-logo="https://aqfadtv.xyz/images/EjenAliTheMovie.png",Ejen Ali The Movie
+https://beaqfad.vercel.app/api/raw/?path=/VOD/Movies/Ejen.Ali.The.Movie.2019.1080p.DHM.WEB-DL.H264.AAC-AqFadTV.mp4
+
+#EXTINF:-1 type="movie" group-title="Malay" tvg-logo="https://aqfadtv.xyz/images/MechamatoMovie.jpg",Mechamato Movie
+https://onedrive-bdfsds.vercel.app/api/raw/?path=/Movies/Mechamato.Movie.2022.1080p.AOTG.WEB-DL.H264.AAC-AstradaMY.mp4
+
+#EXTINF:-1 type="movie" group-title="Marvel" tvg-logo="https://aqfadtv.xyz/images/GOTG.png",Guardians of the Galaxy
+http://onedrive-by-aqfadtv-vod.on.drv.tw/VOD/Movies/Guardians.of.the.Galaxy.2014.1080p.DHM.WEB-DL.H264.AAC-AqFadTV.mkv
+
+#EXTINF:-1 type="movie" group-title="Marvel" tvg-logo="https://aqfadtv.xyz/images/GOTGVol2.png",Guardians of the Galaxy Vol. 2
+http://onedrive-by-aqfadtv-vod.on.drv.tw/VOD/Movies/Guardians.of.the.Galaxy.Vol.2.2017.1080p.DHM.WEB-DL.H264.AAC-AqFadTV.mkv
+
+#EXTINF:-1 type="movie" group-title="Marvel" tvg-logo="https://aqfadtv.xyz/images/GOTGVol3.png",Guardians of the Galaxy Vol. 3
+http://onedrive-by-aqfadtv-vod.on.drv.tw/VOD/Movies/Guardians.of.the.Galaxy.Vol.3.2023.1080p.DHM.WEB-DL.H264.AAC-AqFadTV.mkv
+
+#EXTINF-1 type="series" group-title="Mechamato" tvg-logo="https://aqfadtv.xyz/images/Mechamato/S1/01.jpg",S1 E01
+http://onedrive-by-aqfadtv-vod.on.drv.tw/VOD/Series/Mechamato/S1/Mechamato.S01E01.mp4
+
+#EXTINF-1 type="series" group-title="Mechamato" tvg-logo="https://aqfadtv.xyz/images/Mechamato/S1/02.jpg",S1 E02
+http://onedrive-by-aqfadtv-vod.on.drv.tw/VOD/Series/Mechamato/S1/Mechamato.S01E02.mp4
+
+#EXTINF-1 type="series" group-title="Mechamato" tvg-logo="https://aqfadtv.xyz/images/Mechamato/S1/03.jpg",S1 E03
+http://onedrive-by-aqfadtv-vod.on.drv.tw/VOD/Series/Mechamato/S1/Mechamato.S01E03.mp4
+
+#EXTINF-1 type="series" group-title="Mechamato" tvg-logo="https://aqfadtv.xyz/images/Mechamato/S1/04.jpg",S1 E04
+http://onedrive-by-aqfadtv-vod.on.drv.tw/VOD/Series/Mechamato/S1/Mechamato.S01E04.mp4
+
+#EXTINF-1 type="series" group-title="Mechamato" tvg-logo="https://aqfadtv.xyz/images/Mechamato/S1/05.jpg",S1 E05
+http://onedrive-by-aqfadtv-vod.on.drv.tw/VOD/Series/Mechamato/S1/Mechamato.S01E05.mp4
+
+#EXTINF-1 type="series" group-title="Mechamato" tvg-logo="https://aqfadtv.xyz/images/Mechamato/S1/06.jpg",S1 E06
+http://onedrive-by-aqfadtv-vod.on.drv.tw/VOD/Series/Mechamato/S1/Mechamato.S01E06.mp4
+
+#EXTINF-1 type="series" group-title="Mechamato" tvg-logo="https://aqfadtv.xyz/images/Mechamato/S1/07.jpg",S1 E07
+http://onedrive-by-aqfadtv-vod.on.drv.tw/VOD/Series/Mechamato/S1/Mechamato.S01E07.mp4
+
+#EXTINF-1 type="series" group-title="Mechamato" tvg-logo="https://aqfadtv.xyz/images/Mechamato/S1/08.jpg",S1 E08
+http://onedrive-by-aqfadtv-vod.on.drv.tw/VOD/Series/Mechamato/S1/Mechamato.S01E08.mp4
+
+#EXTINF-1 type="series" group-title="Mechamato" tvg-logo="https://aqfadtv.xyz/images/Mechamato/S1/09.jpg",S1 E09
+http://onedrive-by-aqfadtv-vod.on.drv.tw/VOD/Series/Mechamato/S1/Mechamato.S01E09.mp4
+
+#EXTINF-1 type="series" group-title="Mechamato" tvg-logo="https://aqfadtv.xyz/images/Mechamato/S1/10.jpg",S1 E10
+http://onedrive-by-aqfadtv-vod.on.drv.tw/VOD/Series/Mechamato/S1/Mechamato.S01E10.mp4
+
+#EXTINF-1 type="series" group-title="Mechamato" tvg-logo="https://aqfadtv.xyz/images/Mechamato/S1/11.jpg",S1 E11
+http://onedrive-by-aqfadtv-vod.on.drv.tw/VOD/Series/Mechamato/S1/Mechamato.S01E11.mp4
+
+#EXTINF-1 type="series" group-title="Mechamato" tvg-logo="https://aqfadtv.xyz/images/Mechamato/S1/12.jpg",S1 E12
+http://onedrive-by-aqfadtv-vod.on.drv.tw/VOD/Series/Mechamato/S1/Mechamato.S01E12.mp4
+
+#EXTINF-1 type="series" group-title="Mechamato" tvg-logo="https://aqfadtv.xyz/images/Mechamato/S1/13.jpg",S1 E13
+http://onedrive-by-aqfadtv-vod.on.drv.tw/VOD/Series/Mechamato/S1/Mechamato.S01E13.mp4
+
 
 
 
