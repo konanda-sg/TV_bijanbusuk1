@@ -906,5 +906,7 @@ https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/Gegar.m3u8
 #EXTINF:-1 group-title="Radio Stations" tvg-id="NASFM" ch-number="869" tvg-logo="https://user-images.githubusercontent.com/85995579/128818868-1f01f150-d8ec-4d0a-913c-efbd58b35536.png",Nasional FM
 https://aqfadtv.xyz/live/radio/rtmklik/nasionalfm
 
+#EXTINF:-1 group-title="Radio Stations" tvg-id="suriafm" tvg-logo="",SURIA FM
+https://raw.githubusercontent.com/mastrolive/Stream/master/SuriaFM.m3u8
 
 #EXTM3U billed-msg="😎 BijanBusuk 😎"
