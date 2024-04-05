@@ -30,10 +30,10 @@ http://linearjitp02-playback.astro.com.my/dash-wv/linear/5027/default_primary.mp
 #KODIPROP:inputstream.adaptive.license_key=3afe30ee4ea24a67fe5a2ef06e83db0b:27a2f71d87bf5eb105af096fb6605d97 
 https://unifi-live03.secureswiftcontent.com/UnifiHD/live03.mpd
 
-EXTINF:-1 tvg-logo="https://i.ibb.co/09cQ9CL/Fri-25-08-2023-11-32-23.png",RIA HD 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/09cQ9CL/Fri-25-08-2023-11-32-23.png",RIA HD 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys": [ {"kty":"oct", "k":"N2sAl5bkrVDqj2jXlmdmkg", "kid": "P3Jv1cu/WURDek2/q0MbEA" } ], "type": "temporary"}
-https://linears-playback.astro.com.my/vsg/41RWXbI5_ObvgpYllyu1QkHVynhCKmsSCcmn2y7xRnyEc=UyQX/dash-wv/jitp-linearwm/1004/default_ott.mpd
+http://www.goldentv.tech:80/play/NjpPgy3Hv96YGbmBtOIHppdRpiD_oOxyY14BR2ng5AJKtCzf-vAa7olVIkAwO05W/ts
 
 EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png", PRIMA HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -47,18 +47,18 @@ https://linears-playback.astro.com.my/vsg/41k5piW7fDOXyn3bkrCuzrfqHYMfjmfW3Zyr_7
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Oasis_v1.png", OASIS HD 
 http://linearjitp02-playback.astro.com.my/dash-wv/linear/2505/default_primary.mpd
 
-EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png", WARNA HD
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png", WARNA HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"CoDiDFaOiOU8cIfBxkkzGA","kid":"qixlPwwFVnrig8SjJxqYEA"}],"type":"temporary"}
 #EXTVLCOPT:http-referrer=https://02d13e52-6540-28a2-8eac-7434f56a77bd.ref
-https://linears-playback.astro.com.my/vsg/412YC97OfL0tRH7547SNxmrfzl2Yagy5QdirQAmw93Vpk=COp5/dash-wv/jitp-linearwm/2402/default_ott.mpd
+http://www.goldentv.tech:80/play/NjpPgy3Hv96YGbmBtOIHpvJawkvEin_w43Rcnhpin98Xx9nkw0ilTnSk1CrckndB/ts
 
 
-EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png", CITRA HD
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png", CITRA HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"ZU8tJaW/snyeWuCFJYShZg","kid":"hL+a1oSL59sg+dFoI97vEA"}],"type":"temporary"}
 #EXTVLCOPT:http-referrer=https://02d13e52-6540-28a2-8eac-7434f56a77bd.ref
-https://linears-playback.astro.com.my/vsg/41O_F8KUa3u_jFFQIAtETDpD1UY2kuXsrtKFxJMaXGZ4c=kAsm/dash-wv/jitp-linearwm/2700/default_ott.mpd
+http://www.goldentv.tech:80/play/NjpPgy3Hv96YGbmBtOIHppdRpiD_oOxyY14BR2ng5AJlZhDyhSAJWPODrUIUDgzr/ts
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPremier.png",Astro Premier
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -803,6 +803,8 @@ http://50.7.234.10:8278/Ria-0/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe62
 EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png", ASTRO RIA
 http://mykingtv.net:2082/mkhairil77/60192752752/8444
 
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png", ASTRO RIA
+http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/1705
 
 EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png", ASTRO PRIMA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -906,7 +908,7 @@ https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/Gegar.m3u8
 #EXTINF:-1 group-title="Radio Stations" tvg-id="NASFM" ch-number="869" tvg-logo="https://user-images.githubusercontent.com/85995579/128818868-1f01f150-d8ec-4d0a-913c-efbd58b35536.png",Nasional FM
 https://aqfadtv.xyz/live/radio/rtmklik/nasionalfm
 
-#EXTINF:-1 group-title="Radio Stations" tvg-id="suriafm" tvg-logo="",SURIA FM
+#EXTINF:-1 group-title="Radio" tvg-id="suriafm"  tvg-name="SURIA FM" tvg-logo="https://vectorise.net/logo/wp-content/uploads/2013/05/Logo-Radio-Suria-fm-New2013.png",Suria FM
 https://raw.githubusercontent.com/mastrolive/Stream/master/SuriaFM.m3u8
 
 #EXTM3U billed-msg="😎 BijanBusuk 😎"
