@@ -825,6 +825,15 @@ http://startv365.com:80/live/0664251418/9924187372/79321.m3u8
 EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png", ASTRO RIA
 http://startv365.com/live/0664251418/9924187372/79321.m3u8
 
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png", ASTRO RIA
+http://startv365.com:80/8521968645/9588171370/191867
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png", ASTRO RIA
+http://startv365.com:80/8521968645/9588171370/79321
+
+
+
+
 EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png", ASTRO RIA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"N2sAl5bkrVDqj2jXlmdmkg", "kid":"P3Jv1cu/WURDek2/q0MbEA" } ], "type":"temporary" } 
@@ -843,17 +852,28 @@ EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/cont
 #https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_primary.mpd
 http://50.7.234.10:8278/Prima-0/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
 
-EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png", ASTRO PRIMA
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png", ASTRO PRIMA
 http://startv365.com:80/live/0664251418/9924187372/191865.m3u8
 
-EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png", ASTRO PRIMA
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png", ASTRO PRIMA
 http://startv365.com/live/0664251418/9924187372/191865.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png", ASTRO PRIMA
+http://startv365.com:80/8521968645/9588171370/191865
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png", ASTRO PRIMA
+http://startv365.com:80/8521968645/9588171370/400438338
+
 
 EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png", ASTRO PRIMA
 http://metatvpro.com:25461/live/C783388/36785/14.m3u8
 
 EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png", ASTRO PRIMA
 http://muka03.wanicelife.com:8880/29us05283n02/t6g7yuefr/1702
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png", ASTRO PRIMA
+http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/157467
 
 EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png", ASTRO WARNA
 http://50.7.234.10:8278/Warna/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
@@ -864,8 +884,14 @@ http://50.7.234.10:8278/Warna/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png", ASTRO WARNA
 http://startv365.com:80/live/0664251418/9924187372/191874.m3u8
 
-EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png", ASTRO WARNA
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png", ASTRO WARNA
 http://startv365.com/live/0664251418/9924187372/191874.m3u8
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png", ASTRO WARNA
+http://startv365.com:80/8521968645/9588171370/191874
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png", ASTRO WARNA
+http://startv365.com:80/8521968645/9588171370/79322
 
 EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png", ASTRO WARNA
 http://muka03.wanicelife.com:8880/29us05283n02/t6g7yuefr/1706
@@ -889,6 +915,9 @@ http://startv365.com:80/live/0664251418/9924187372/400200335.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1a/Astro_Citra_HD.png", Astro Citra
 http://startv365.com/live/0664251418/9924187372/400200335.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1a/Astro_Citra_HD.png", Astro Citra
+http://startv365.com:80/8521968645/9588171370/400200335
 
 EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1a/Astro_Citra_HD.png", Astro Citra
 http://metatvpro.com:25461/live/C783388/36785/17.m3u8
