@@ -885,34 +885,20 @@ https://mediaprima.rastream.com/mediaprima-molekfm
 #EXTINF:-1 group-title="Radio Stations" tvg-id="CHN" ch-number="725" tvg-logo="https://aqfadtv.xyz/logos/MolekFM_v1.png",Molek FM (YouTube Live)
 https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/MolekFM.m3u8
 
-#EXTINF:-1 group-title="Radio Stations" tvg-id="HITZ" ch-number="852" tvg-logo="https://aqfadtv.xyz/logos/Hitz.png",HITZ
-https://live.aqfadtv.xyz/radio/hitz
-
-#EXTINF:-1 group-title="Radio Stations" tvg-id="HITZ" ch-number="852" tvg-logo="https://aqfadtv.xyz/logos/Hitz.png",HITZ (YouTube Live)
-https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/Hitz.m3u8
-
 #EXTINF:-1 group-title="Radio Stations" tvg-id="ERA" ch-number="856" tvg-logo="https://aqfadtv.xyz/logos/ERA.png",ERA
 https://live.aqfadtv.xyz/radio/era
-
-#EXTINF:-1 group-title="Radio Stations" tvg-id="ERA" ch-number="856" tvg-logo="https://aqfadtv.xyz/logos/ERA.png",ERA (YouTube Live)
-https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/ERA.m3u8
 
 #EXTINF:-1 group-title="Radio Stations" tvg-id="SINAR" ch-number="857" tvg-logo="https://aqfadtv.xyz/logos/Sinar.png",SINAR
 https://live.aqfadtv.xyz/radio/sinar
 
-#EXTINF:-1 group-title="Radio Stations" tvg-id="SINAR" ch-number="857" tvg-logo="https://aqfadtv.xyz/logos/Sinar.png",SINAR (YouTube Live)
-https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/SINAR.m3u8
-
 #EXTINF:-1 group-title="Radio Stations" tvg-id="GEGAR" ch-number="863" tvg-logo="https://aqfadtv.xyz/logos/Gegar.png",GEGAR
 https://live.aqfadtv.xyz/radio/gegar
 
-#EXTINF:-1 group-title="Radio Stations" tvg-id="GEGAR" ch-number="863" tvg-logo="https://aqfadtv.xyz/logos/Gegar.png",GEGAR (YouTube Live)
-https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/Gegar.m3u8
-
-#EXTINF:-1 group-title="Radio Stations" tvg-id="NASFM" ch-number="869" tvg-logo="https://user-images.githubusercontent.com/85995579/128818868-1f01f150-d8ec-4d0a-913c-efbd58b35536.png",Nasional FM
-https://aqfadtv.xyz/live/radio/rtmklik/nasionalfm
-
 #EXTINF:-1 group-title="Radio" tvg-id="suriafm"  tvg-name="SURIA FM" tvg-logo="https://vectorise.net/logo/wp-content/uploads/2013/05/Logo-Radio-Suria-fm-New2013.png",Suria FM
 https://raw.githubusercontent.com/mastrolive/Stream/master/SuriaFM.m3u8
+
+
+#EXTINF:-1 group-title="Radio Stations" tvg-id="HITZ" ch-number="852" tvg-logo="https://aqfadtv.xyz/logos/Hitz.png",HITZ
+https://live.aqfadtv.xyz/radio/hitz
 
 #EXTM3U billed-msg="😎 BijanBusuk 😎"
