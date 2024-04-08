@@ -817,6 +817,9 @@ http://mykingtv.net:2082/mkhairil77/60192752752/8444
 EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png", ASTRO RIA
 http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/1705
 
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png", ASTRO RIA
+https://catowrap.live/mrgamingbtsport1.m3u8
+
 EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png", ASTRO PRIMA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b65326aede3edbe81e6fb40317d5310:8412f444ffbe350cf2ece051f9152e90
@@ -846,6 +849,11 @@ http://muka03.wanicelife.com:8880/29us05283n02/t6g7yuefr/1702
 EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png", ASTRO PRIMA
 http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/157467
 
+
+#
+EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png", ASTRO PRIMA
+http://vo01.mohdtv.com:8880/live/smarttv585cde005260/50168743/1702.m3u8
+
 EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png", ASTRO WARNA
 http://50.7.234.10:8278/Warna/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
 
@@ -871,6 +879,9 @@ EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/cont
 http://metatvpro.com:25461/live/C783388/36785/16.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png
+http://50.7.234.10:8278/Warna-O/playlist.m3u8
+
 EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1a/Astro_Citra_HD.png", Astro Citra
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ZU8tJaW/snyeWuCFJYShZg", "kid":"hL+a1oSL59sg+dFoI97vEA" } ], "type":"temporary" }
@@ -893,6 +904,9 @@ http://startv365.com:80/8521968645/9588171370/400200335
 EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1a/Astro_Citra_HD.png", Astro Citra
 http://metatvpro.com:25461/live/C783388/36785/17.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1a/Astro_Citra_HD.png", Astro Citra
+http://startv365.com:80/live/0664251418/9924187372/400200335.m3u8
 
 #EXTINF:-1 group-title="Radio Stations" tvg-id="CHN" ch-number="721" tvg-logo="https://aqfadtv.xyz/logos/HotFM.png", Hot FM
 https://mediaprima.rastream.com/mediaprima-hotfm
