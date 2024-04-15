@@ -87,6 +87,8 @@ http://muka03.wanicelife.com:8880/29us05283n02/t6g7yuefr/1706
 #EXTVLCOPT:http-referrer=https://02d13e52-6540-28a2-8eac-7434f56a77bd.ref
 http://mykingtv.net:2082/mkhairil77/60192752752/8454
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Astro_Sensasi.png",Astro Sensasi
+http://mytv-extra.com:80/t12mgxyb335/9832948789/191867
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPremier.png",Astro Premier
 #KODIPROP:inputstream.adaptive.license_type=clearkey
