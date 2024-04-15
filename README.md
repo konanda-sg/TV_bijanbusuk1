@@ -24,6 +24,27 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/9987/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key=http://103.91.64.73/ott/mdi7y2xnnu/livegv2/
 https://linearjitp-playback.astro.com.my/dash-wv/linear/9989/default_primary.mpd
 
+#EXTINF:-1 tvg-ID="Hel.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/ria.png" group-title="MY",ASTRO RIA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"N2sAl5bkrVDqj2jXlmdmkg", "kid":"P3Jv1cu/WURDek2/q0MbEA" } ], "type":"temporary" } 
+https://linears-playback.astro.com.my/vsg/41RWXbI5_ObvgpYllyu1QkHTIYvogRufopuv9F-Q0k-l8=B5jy/dash-wv/jitp-linearwm/1004/default_ott.mpd
+
+#EXTINF:-1 tvg-ID="Hel.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/prima.png" group-title="MY",ASTRO PRIMA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"hBL0RP++NQzy7OBR+RUukA", "kid":"C2Uyau3j7b6B5vtAMX1TEA" } ], "type":"temporary" }
+https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_primary.mpd
+
+#EXTINF:-1 tvg-ID="Hel.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/warna.png" group-title="MY",ASTRO WARNA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"CoDiDFaOiOU8cIfBxkkzGA", "kid":"qixlPwwFVnrig8SjJxqYEA" } ], "type":"temporary" }
+https://linears-playback.astro.com.my/vsg/412YC97OfL0tRH7547SNxmrW3HZ4cQP1VCkmckc5TJNZE=aSRR/dash-wv/jitp-dashisowm/2402/default_ott.mpd
+
+#EXTINF:-1 tvg-ID="Hel.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/citra.png" group-title="MY",ASTRO CITRA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ZU8tJaW/snyeWuCFJYShZg", "kid":"hL+a1oSL59sg+dFoI97vEA" } ], "type":"temporary" }
+https://linears-playback.astro.com.my/vsg/41O_F8KUa3u_jFFQIAtETDpBa5VbFVyX74IJ4JroFYMAo=4U81/dash-wv/jitp-dashisowm/2700/default_ott.mpd
+
+
 ################################################################ MY FREEVIEW ##################################################################################
 
 
