@@ -676,15 +676,18 @@ https://d1fk7kbmz4il3.cloudfront.net/CH1/masterCH1.mpd
 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArenaBola_v1.png",ARENA BOLA 2
 https://d1fk7kbmz4il3.cloudfront.net/CH5/masterCH5.mpd
 
+#EXTINF:-1 tvg-logo="http://origintvsolutions.co.uk/Logos/Logos/skymotogpfake.png",Sky Sport MotoGP FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=0036ea2e908d4cc20ef08595da9ff991:08e1ae9fa0ee4d9ec2b194c4908613ae
+https://linear306-it-dash1-prd.selector.skycdn.it/016a/31483/FHD/skysportmotogp/master.mpd
 
-
+#EXTINF:-1 tvg-logo="http://origintvsolutions.co.uk/Logos/Logos/skysportf1hd.png",Sky Sport F1 FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1HWm1ZamxpT0dRdE5tTmxaaTAwTXpGaExXSTBaak10TkRJMllUUXpZVEZtT0dVMCIsIndtb3BpZCI6MzIsImV4cCI6MTY5MzIyODkxNiwiaWF0IjoxNjkyNjI0OTE2fQ.IKG1JXGjCKdFjMO-KMWimiKgwkDJahxRMCPoOpBXdr4"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"EQD+KXFG99AktZlE8J5tGg", "kid":"yk9f9ORpTVS9/cm9NDhCkA" } ], "type":"temporary" }
-EXTINF:-1 tvg-logo="https://telegra.ph/file/3872d10a3e8f9ed89cfa2.png",Arena Bola 3
-https://d1fk7kbmz4il3.cloudfront.net/CH3/masterCH3.mpd
+#KODIPROP:inputstream.adaptive.license_key=0003cbfae95b7b788879af8addd77635:c3510d26e94e19c65f73f0f57fa045f3
+http://linear028-gb-dash1-prd-ak.cdn.skycdp.com/100e/Content/DASH_003_720_30/Live/channel(sportsf150)/manifest_mob.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik4yVmpNbUppTWprdE5tRXlaUzAwTXpkakxXSTBORFF0TTJJMFpXUTRPRFl5TURBMCIsIndtb3BpZCI6MzIsImV4cCI6MTcxMzUyNjUxNywiaWF0IjoxNzEyOTIyNTE3fQ.2vZ_CsdzuN46KnjBPzMY7AnecL-ZKa2juMx-Q1F53bE"}
@@ -727,11 +730,7 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/9986/default_primary.m
 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport4_v1.png",ASSP4 HD
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/2506/default.mpd
 
-#EXTINF:-1 tvg-logo="http://origintvsolutions.co.uk/Logos/Logos/skymotogpfake.png",Sky Sport MotoGP FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=0036ea2e908d4cc20ef08595da9ff991:08e1ae9fa0ee4d9ec2b194c4908613ae
-https://linear306-it-dash1-prd.selector.skycdn.it/016a/31483/FHD/skysportmotogp/master.mpd
+
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"zYTtE2sMxx+KuM1NT2ouTA", "kid":"A8Lgry+BWfnwzptdvIZfEA" } ], "type":"temporary" }
