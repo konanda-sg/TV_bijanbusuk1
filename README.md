@@ -60,6 +60,22 @@ https://live.astradamy.com/astro/ria/index.mpd
 https://raw.githubusercontent.com/YokisJo90/Hontakk/main/Vcriaoo.mpd
 http://abcnew.site:8880/48mmk110009/91991171/1705
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/09cQ9CL/Fri-25-08-2023-11-32-23.png",RIA HD 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=b770d5b4bb6b594daf985845aae9aa5f:b0cb46d2d31cf044bc73db71e9865f6f
+https://raw.githubusercontent.com/YokisJo90/Hontakk/main/Vcriaoo.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/09cQ9CL/Fri-25-08-2023-11-32-23.png",RIA HD 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=c5cad211ca264f958e92097ea1e48ff6:92ae7bfc0cc30d2abb5d7643e5537c75
+https://raw.githubusercontent.com/YokisJo90/Hontakk/main/Vcriaoo.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/09cQ9CL/Fri-25-08-2023-11-32-23.png",RIA HD 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=e2c661f85a194c20b64ccfb2262baf26:af3beedbcfa3fee1e8094bece866c74f
+https://raw.githubusercontent.com/YokisJo90/Hontakk/main/Vcriaoo.mpd
+
+
     
 
 EXTINF:-1 tvg-logo="https://i.ibb.co/09cQ9CL/Fri-25-08-2023-11-32-23.png",RIA HD 
