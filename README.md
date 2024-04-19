@@ -48,38 +48,11 @@ https://live.astradamy.com/astro/ria/index.mpd
 https://raw.githubusercontent.com/YokisJo90/Hontakk/main/Vcriaoo.mpd
 http://abcnew.site:8880/48mmk110009/91991171/1705
 
-EXTINF:-1 tvg-logo="https://i.ibb.co/09cQ9CL/Fri-25-08-2023-11-32-23.png",RIA HD 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=b770d5b4bb6b594daf985845aae9aa5f:b0cb46d2d31cf044bc73db71e9865f6f
-https://raw.githubusercontent.com/YokisJo90/Hontakk/main/Vcriaoo.mpd
-
-EXTINF:-1 tvg-logo="https://i.ibb.co/09cQ9CL/Fri-25-08-2023-11-32-23.png",RIA HD 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=c5cad211ca264f958e92097ea1e48ff6:92ae7bfc0cc30d2abb5d7643e5537c75
-https://raw.githubusercontent.com/YokisJo90/Hontakk/main/Vcriaoo.mpd
-
-EXTINF:-1 tvg-logo="https://i.ibb.co/09cQ9CL/Fri-25-08-2023-11-32-23.png",RIA HD 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=e2c661f85a194c20b64ccfb2262baf26:af3beedbcfa3fee1e8094bece866c74f
-https://raw.githubusercontent.com/YokisJo90/Hontakk/main/Vcriaoo.mpd
-
-
-    
-
-EXTINF:-1 tvg-logo="https://i.ibb.co/09cQ9CL/Fri-25-08-2023-11-32-23.png",RIA HD 
-http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/1705
-
-EXTINF:-1 tvg-logo="https://i.ibb.co/09cQ9CL/Fri-25-08-2023-11-32-23.png",RIA HD 
-http://mykingtv.net:2082/mkhairil77/60192752752/8445
-
 EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png", PRIMA HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"hBL0RP++NQzy7OBR+RUukA","kid":"C2Uyau3j7b6B5vtAMX1TEA"}],"type":"temporary"}
 #EXTVLCOPT:http-referrer=https://02d13e52-6540-28a2-8eac-7434f56a77bd.ref
 https://us.dispatch.ulivetv.net/v/live/cg49a7nnj64g.m3u8?stream_id=cg49a7nnj64g&timestamp=1688226215&rand=ApkvMQY2h3&uuid=9b647b3816b2a66a&from=web&sign=5daa358e33b5d54fdfb5cead5dedd977
-
-EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png", PRIMA HD
-http://muka03.wanicelife.com:8880/29us05283n02/t6g7yuefr/1706
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"XzX4FWmRQOJknYJfDSQCjg", "kid":"F9XWLcYZVLgu4BbaJkq9EA" } ], "type":"temporary" }
@@ -92,11 +65,6 @@ EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.p
 #EXTVLCOPT:http-referrer=https://02d13e52-6540-28a2-8eac-7434f56a77bd.ref
 https://raw.githubusercontent.com/YokisJo90/Hontakk/main/PiWarna.mpd
 http://startv365.com/live/0664251418/9924187372/191874.ts
-
-EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png", WARNA HD
-http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/1706
-http://muka03.wanicelife.com:8880/29us05283n02/t6g7yuefr/1706
-
 
 EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png", CITRA HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -127,7 +95,6 @@ EXTINF:-1 tvg-logo="https://www.xtra.com.my/live-tv/assets/img/dramasangat.png",
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
 https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton5_720p/index.m3u8|Referer=https://live-xtra-sg1.global.ssl.fastly.net/embed/index.html?vid=11056637&autoplay=1&mute=0
 
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -135,12 +102,10 @@ https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton5_720p/index.m3u8|Ref
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7046/CPS/images/universal/film/logo/201907/20190716/20190716062504007e6f.png", Salam HD 
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live32.mpd
 
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=OGQ0ZGMxNmYtY2QwNC0zZjQ1LWJmYjktYTFjZjM5ZWI5ODdm
 EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7042/CPS/images/universal/film/logo/202209/20220901/20220901155400159gcw.png",SENSASI
 https://pop28clustera00de08172376d246317c.hypp.tv/PLTV/88888888/224/3221227598/3221227598.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=rKYifC4cgUH4ajqf5oEB0XSn%2BUpPSbQzzi2nJsCu4qFhh0mZthy9iDsPY4qTtavHrDMmTH1P%2FCKuaDcCdbv3kCNdmkKxMPwcummn5H%2FvSfmXUa7p19AiNlG2IwzWT7mo%3A20230923152033%3AUTC%2C10001003897360%2C115.132.173.157%2C20230923152033%2Curn:Huawei:liveTV:SP000004015718%2C10001003897360%2C-1%2C0%2C1%2C%2C%2C2%2CHESA0006%2C%2C%2C2%2C10000106865763%2C0%2C10000104587428%2C3028494234%2C%2C%2C2%2C1%2CEND&GuardEncType=2&tenantId=6003&from=28&ocs=2_1.9.15.102_80&hms_devid=1601&online=1695482627&mag_hms=1601,1602,1885&it=H4sIAAAAAAAAAzXMvQrCMBRA4bfJeMlPpc2QSRFcilB1lZvkJgRig0kt-PZS0f18Z6no6HQw1g3Ue-cpqF2nBQ2WAvaKSCvPdSdZo-dYjGIOc05zHIvf2G3a3wUHDlIKEIpdtt0xYzTyW46vh6VqxJ9NVNfkyPgWYMUGGGOliEsqM5wzvq81_5IP9-nDnpkAAAA
-
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"nBBcxoyqnPZTFeBu9Qhgqw", "kid":"GQDQ/Y39I1fKJoXGZii/Bw" } ], "type":"temporary" }
@@ -248,7 +213,7 @@ http://linearjitp02-playback.astro.com.my/dash-wv/linear/2611/default_primary.mp
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/298_144.png", COLORS TAMIL 
 http://linearjitp02-playback.astro.com.my/dash-wv/linear/2101/default_primary.mpd
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/397_144.png", >VAANAVIL HD
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/397_144.png", VAANAVIL HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -404,7 +369,7 @@ http://linearjitp02-playback.astro.com.my/dash-wv/linear/5067/default_primary.mp
 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/CBeebies_V1.png", CBeebies  
 http://linearjitp02-playback.astro.com.my/dash-wv/linear/5093/default_primary.mpd
 
-#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/74/MNCKids_tegak.png/revision/latest?cb=20170509144708",Kids TV
+EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/74/MNCKids_tegak.png/revision/latest?cb=20170509144708",Kids TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-referrer=https://visionplus.id 
 #KODIPROP:inputstream.adaptive.license_key=17340c4223a4674b1b7da8d8d9e11174:11a73aad2c75ddf338840b08fb915993
@@ -414,7 +379,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mp
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YmE1ODUyNDctMTU5NS0zMWEzLWJhYWYtZDVmMjI3Y2VjODIz
-#EXTINF:-1 tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202307/20230727/20230727155824262s56.png",Cartoonito
+EXTINF:-1 tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202307/20230727/20230727155824262s56.png",Cartoonito
 https://web.hypp.tv:443/PLTV/88888888/224/3221227534/3221227534.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=tnUM3pus6bSh1mr%2FQqP7gS%2BLUnifiHDQRCdSHNpB7NvbJKHORk%2F7o9ZSvEMcUnifiHDX5yljqg9BPtBbwcQhknqc39VUJpD%2FHl2ogHz3eAyG2k7xToFQmJBU24%2BKwsNeA0VE3pRwoj%3A20221124094239%3AUTC%2C1001767137%2C115.164.56.153%2C20221124094239%2Curn:Huawei:liveTV:SP0010059884%2C1001767137%2C-1%2C0%2C1%2C%2C%2C2%2C595%2C%2C%2C2%2C1612403%2C0%2C517698%2C2706399750%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOUQuCMBzEv80exzaHtoc9FUEQFmS9xt_5d4nT1aZC3z4tezq4u99xQwCDh50uJcs4T6DeGClnUSZLZFIyxoSCjEsS8ZV7LYgB55re5r5asNtle-eMMioEp1yQYpnbO7BrMx-7EoNO_tgFw9QY1FWs6QSRgrUBLQyN7-nZwfsa3FohWKzXeJoqoVjGUqUkGRa3gNjOCXlA3PruCQGro7dfQNfgIpInmBYs5tCh7kfnftwpVPObD9dw2Of0AAAA&tenantId=6001
 
 
@@ -516,7 +481,7 @@ http://linearjitp02-playback.astro.com.my/dash-wv/linear/5055/default_primary.mp
 EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png",HBO Signature 
 https://cdnjkt4.transvision.co.id:1004/live/master/4/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png",HBO Signature
+EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png",HBO Signature
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu-grup-anti.anakkampang1.workers.dev/license
 https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
@@ -526,7 +491,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0c
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Warner-TV_v1.png",Warner TV    
 http://linearjitp02-playback.astro.com.my/dash-wv/linear/2605/default_primary.mpd
 
-#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Paramount.png",Paramount Network  
+EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Paramount.png",Paramount Network  
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -681,19 +646,6 @@ https://d1fk7kbmz4il3.cloudfront.net/CH1/masterCH1.mpd
 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArenaBola_v1.png",ARENA BOLA 2
 https://d1fk7kbmz4il3.cloudfront.net/CH5/masterCH5.mpd
 
-#EXTINF:-1 tvg-logo="http://origintvsolutions.co.uk/Logos/Logos/skymotogpfake.png",Sky Sport MotoGP FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=0036ea2e908d4cc20ef08595da9ff991:08e1ae9fa0ee4d9ec2b194c4908613ae
-https://linear306-it-dash1-prd.selector.skycdn.it/016a/31483/FHD/skysportmotogp/master.mpd
-
-#EXTINF:-1 tvg-logo="http://origintvsolutions.co.uk/Logos/Logos/skysportf1hd.png",Sky Sport F1 FHD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0003cbfae95b7b788879af8addd77635:c3510d26e94e19c65f73f0f57fa045f3
-http://linear028-gb-dash1-prd-ak.cdn.skycdp.com/100e/Content/DASH_003_720_30/Live/channel(sportsf150)/manifest_mob.mpd
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik4yVmpNbUppTWprdE5tRXlaUzAwTXpkakxXSTBORFF0TTJJMFpXUTRPRFl5TURBMCIsIndtb3BpZCI6MzIsImV4cCI6MTcxMzUyNjUxNywiaWF0IjoxNzEyOTIyNTE3fQ.2vZ_CsdzuN46KnjBPzMY7AnecL-ZKa2juMx-Q1F53bE"}
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://sooka.my/&user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
@@ -703,6 +655,8 @@ http://linear028-gb-dash1-prd-ak.cdn.skycdp.com/100e/Content/DASH_003_720_30/Liv
 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png",ASSP HD
 https://d3j4fjrwclc3o8.cloudfront.net/CH1/masterCH1.mpd
 
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png",ASSP HD
+http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&extension=ts&stream=186387
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik4yVmpNbUppTWprdE5tRXlaUzAwTXpkakxXSTBORFF0TTJJMFpXUTRPRFl5TURBMCIsIndtb3BpZCI6MzIsImV4cCI6MTcxMzUyNjUxNywiaWF0IjoxNzEyOTIyNTE3fQ.2vZ_CsdzuN46KnjBPzMY7AnecL-ZKa2juMx-Q1F53bE"}
@@ -712,6 +666,9 @@ https://d3j4fjrwclc3o8.cloudfront.net/CH1/masterCH1.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"QfI0+4hZCvOw0iQRGmG/cQ", "kid":"jx2jmTJSR+ymrN17r7lfog" } ], "type":"temporary" }
 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport2_v1.png",ASSP2 HD
 https://d3j4fjrwclc3o8.cloudfront.net/CH4/masterCH4.mpd
+
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport2_v1.png",ASSP2 HD
+http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&extension=ts&stream=186388
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik4yVmpNbUppTWprdE5tRXlaUzAwTXpkakxXSTBORFF0TTJJMFpXUTRPRFl5TURBMCIsIndtb3BpZCI6MzIsImV4cCI6MTcxMzUyNjUxNywiaWF0IjoxNzEyOTIyNTE3fQ.2vZ_CsdzuN46KnjBPzMY7AnecL-ZKa2juMx-Q1F53bE"}
@@ -729,13 +686,16 @@ https://d3j4fjrwclc3o8.cloudfront.net/CH5/masterCH5.mpd
 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport3_v1.png",ASSP3 HD
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/9986/default_primary.mpd
 
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport3_v1.png",ASSP3 HD
+http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&extension=ts&stream=186389
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=79f4028730acca9ab8b00f26158ddb10:91febe843c08c7cc523efd827292e40e
 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport4_v1.png",ASSP4 HD
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/2506/default.mpd
 
-
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport4_v1.png",ASSP4 HD
+http://mku0414.oknirvana.club:8880/3us02233n01/adsf232e23/59217
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"zYTtE2sMxx+KuM1NT2ouTA", "kid":"A8Lgry+BWfnwzptdvIZfEA" } ], "type":"temporary" }
@@ -842,42 +802,32 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5128/default.mpd
 
 
 *************************************************************************************
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png", ASTRO RIA
+http://dreamsmart.me:8080/play/live.php?mac=00:1A:79:20:34:1F&stream=306310_&extension=m3u8
 
-
-EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png", ASTRO RIA
-http://startv365.com:80/live/0664251418/9924187372/79321.m3u8
-
-EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png", ASTRO RIA
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png", ASTRO RIA
 http://startv365.com/live/0664251418/9924187372/79321.m3u8
 
-EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png", ASTRO RIA
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png", ASTRO RIA
 http://startv365.com:80/8521968645/9588171370/191867
 
-EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png", ASTRO RIA
-http://startv365.com:80/8521968645/9588171370/79321
-
-
-
-
-EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png", ASTRO RIA
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png", ASTRO RIA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"N2sAl5bkrVDqj2jXlmdmkg", "kid":"P3Jv1cu/WURDek2/q0MbEA" } ], "type":"temporary" } 
-#https://linearjitp02-playback.astro.com.my/dash-wv/jitp-linear/1004/default.mpd
 http://50.7.234.10:8278/Ria-0/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
 
-EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png", ASTRO RIA
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png", ASTRO RIA
 http://mykingtv.net:2082/mkhairil77/60192752752/8444
 
-EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png", ASTRO RIA
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png", ASTRO RIA
 http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/1705
 
-EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png", ASTRO RIA
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png", ASTRO RIA
 https://catowrap.live/mrgamingbtsport1.m3u8
 
 EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png", ASTRO PRIMA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b65326aede3edbe81e6fb40317d5310:8412f444ffbe350cf2ece051f9152e90
-#https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_primary.mpd
 http://50.7.234.10:8278/Prima-0/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
 
 EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png", PRIMA HD
@@ -945,6 +895,7 @@ http://50.7.234.10:8278/Citra/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe62
 http://mykingtv.net:2082/mkhairil77/60192752752/8453
 
 
+
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png", CITRA HD
 http://startv365.com:80/live/0664251418/9924187372/400200335.m3u8
 
@@ -961,38 +912,217 @@ http://metatvpro.com:25461/live/C783388/36785/17.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1a/Astro_Citra_HD.png", Astro Citra
 http://startv365.com:80/live/0664251418/9924187372/400200335.m3u8
 
-#EXTINF:-1 group-title="Radio Stations" tvg-id="CHN" ch-number="721" tvg-logo="https://aqfadtv.xyz/logos/HotFM.png", Hot FM
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1a/Astro_Citra_HD.png", Astro Citra
+http://vipopisth.top:8080/live/VIP0174169149114811/71701348213393/34538.m3u8
+
+
+
+#EXTINF:-1 group-title="Radio Stations" tvg-logo="https://aqfadtv.xyz/logos/HotFM.png", Hot FM
 https://mediaprima.rastream.com/mediaprima-hotfm
 
-#EXTINF:-1 group-title="Radio Stations" tvg-id="CHN" ch-number="721" tvg-logo="https://aqfadtv.xyz/logos/HotFM.png", Hot FM (YouTube Live)
+#EXTINF:-1 group-title="Radio Stations" tvg-logo="https://aqfadtv.xyz/logos/HotFM.png", Hot FM (YouTube Live)
 https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/HotFM.m3u8
 
-#EXTINF:-1 group-title="Radio Stations" tvg-id="CHN" ch-number="722" tvg-logo="https://aqfadtv.xyz/logos/Kool101.png",Kool 101
+#EXTINF:-1 group-title="Radio Stations" tvg-logo="https://aqfadtv.xyz/logos/Kool101.png",Kool 101
 https://mediaprima.rastream.com/mediaprima-koolfm
 
-#EXTINF:-1 group-title="Radio Stations" tvg-id="CHN" ch-number="723" tvg-logo="https://aqfadtv.xyz/logos/Kool101.png",Kool 101 (YouTube Live)
+#EXTINF:-1 group-title="Radio Stations" tvg-logo="https://aqfadtv.xyz/logos/Kool101.png",Kool 101 (YouTube Live)
 https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/Kool101.m3u8
 
-#EXTINF:-1 group-title="Radio Stations" tvg-id="CHN" ch-number="725" tvg-logo="https://aqfadtv.xyz/logos/MolekFM_v1.png",Molek FM
+#EXTINF:-1 group-title="Radio Stations" tvg-logo="https://aqfadtv.xyz/logos/MolekFM_v1.png",Molek FM
 https://mediaprima.rastream.com/mediaprima-molekfm
 
-#EXTINF:-1 group-title="Radio Stations" tvg-id="CHN" ch-number="725" tvg-logo="https://aqfadtv.xyz/logos/MolekFM_v1.png",Molek FM (YouTube Live)
+#EXTINF:-1 group-title="Radio Stations" tvg-logo="https://aqfadtv.xyz/logos/MolekFM_v1.png",Molek FM (YouTube Live)
 https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/MolekFM.m3u8
 
-#EXTINF:-1 group-title="Radio Stations" tvg-id="ERA" ch-number="856" tvg-logo="https://aqfadtv.xyz/logos/ERA.png",ERA
+#EXTINF:-1 group-title="Radio Stations" tvg-logo="https://aqfadtv.xyz/logos/ERA.png",ERA
 https://live.aqfadtv.xyz/radio/era
 
-#EXTINF:-1 group-title="Radio Stations" tvg-id="SINAR" ch-number="857" tvg-logo="https://aqfadtv.xyz/logos/Sinar.png",SINAR
+#EXTINF:-1 group-title="Radio Stations" tvg-logo="https://aqfadtv.xyz/logos/Sinar.png",SINAR
 https://live.aqfadtv.xyz/radio/sinar
 
-#EXTINF:-1 group-title="Radio Stations" tvg-id="GEGAR" ch-number="863" tvg-logo="https://aqfadtv.xyz/logos/Gegar.png",GEGAR
+#EXTINF:-1 group-title="Radio Stations" tvg-logo="https://aqfadtv.xyz/logos/Gegar.png",GEGAR
 https://live.aqfadtv.xyz/radio/gegar
 
-#EXTINF:-1 group-title="Radio" tvg-id="suriafm"  tvg-name="SURIA FM" tvg-logo="https://vectorise.net/logo/wp-content/uploads/2013/05/Logo-Radio-Suria-fm-New2013.png",Suria FM
+#EXTINF:-1 group-title="Radio Stations" tvg-logo="https://vectorise.net/logo/wp-content/uploads/2013/05/Logo-Radio-Suria-fm-New2013.png",Suria FM
 https://raw.githubusercontent.com/mastrolive/Stream/master/SuriaFM.m3u8
 
-
-#EXTINF:-1 group-title="Radio Stations" tvg-id="HITZ" ch-number="852" tvg-logo="https://aqfadtv.xyz/logos/Hitz.png",HITZ
+#EXTINF:-1 group-title="Radio Stations" tvg-id="HITZ" tvg-logo="https://aqfadtv.xyz/logos/Hitz.png",HITZ
 https://live.aqfadtv.xyz/radio/hitz
+
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://i.imgur.com/B9VgH7A.jpeg", Khunsa (2024) S1 E01
+https://dtacmuar-my.sharepoint.com/personal/series5_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EemW092J-CRAqo08QzmeIsIBftG4lx3YIahU86m9h5dnzA
+
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://i.imgur.com/B9VgH7A.jpeg", Khunsa (2024) S1 E02
+https://dtacmuar-my.sharepoint.com/personal/series5_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=ERWyHRD4mAhDo0ISDtS2zAIBu9Bo4baP988N0UK75CwPJA
+
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://i.imgur.com/B9VgH7A.jpeg", Khunsa (2024) S1 E03
+https://dtacmuar-my.sharepoint.com/personal/series5_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EbXqDANr9wNLr-zW_70plDcBhJsHufEuFBkJdstX__xatQ
+
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://i.imgur.com/B9VgH7A.jpeg", Khunsa (2024) S1 E04
+https://dtacmuar-my.sharepoint.com/personal/series5_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=ER7AE3UiRtdKnNSJgnStyD0BR17cxjQ9ZTFx2bGsNRVi0g
+
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://i.imgur.com/B9VgH7A.jpeg", Khunsa (2024) S1 E05
+https://dtacmuar-my.sharepoint.com/personal/series5_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EW86BCS-r6xLqVbjNopcqgQBGltasqlOl6YKHpYzsztmrw
+
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://i.imgur.com/B9VgH7A.jpeg", Khunsa (2024) S1 E06
+https://dtacmuar-my.sharepoint.com/personal/series5_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EeDl6mxnrZBBhsS5GAAGtWQBC5-uA8XPWuK1WgBDselAEA
+
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://i.imgur.com/B9VgH7A.jpeg", Khunsa (2024) S1 E07
+https://dtacmuar-my.sharepoint.com/personal/series5_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EZXJg9BnTZ5JlSfOl8eRDUsBC81OVvYam8zbYRtQ3uHjGg
+
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://i.imgur.com/B9VgH7A.jpeg", Khunsa (2024) S1 E08
+https://dtacmuar-my.sharepoint.com/personal/series5_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EfxFCDB4OBZFj4ZwNU5gQ2sBXzYrwuBOlbvWL0DWu7bbAA
+
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://i.imgur.com/B9VgH7A.jpeg", Khunsa (2024) S1 E09
+https://dtacmuar-my.sharepoint.com/personal/series5_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EZBxyepUCC1FuXpNKeEZ0pcBmI5ZAZ0HfUn_E1F-kAXNSA
+
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://i.imgur.com/B9VgH7A.jpeg", Khunsa (2024) S1 E10
+https://dtacmuar-my.sharepoint.com/personal/series5_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EXvh8678hX5FnTDh35QZ6aIBElvWy-D4o4vYKNcB_mMOpw
+
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://i.imgur.com/B9VgH7A.jpeg", Khunsa (2024) S1 E11
+https://dtacmuar-my.sharepoint.com/personal/series5_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EZwU6IJDrmhJj-Mx8h01poIB6csAsru6QzscL7gDjLYflg
+
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://i.imgur.com/B9VgH7A.jpeg", Khunsa (2024) S1 E12
+https://dtacmuar-my.sharepoint.com/personal/series5_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EUAsK45po3ZDjQm7-QluEagB7R7JGHwkADkhaBiypVicYQ
+
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://i.imgur.com/B9VgH7A.jpeg", Khunsa (2024) S1 E13
+https://dtacmuar-my.sharepoint.com/personal/series5_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=Efv-rZO6FqRGhYC60PzLMOEBT8Eb9jJDzCgs6gxTL-p7Tg
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=abeb2f5917922b42965232432b08dd10:7b23e7877031951c23eaa8b283c7c310
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://i.imgur.com/B9VgH7A.jpeg", Khunsa (2024) S1 E14
+https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/3a9132b9-56e1-514f-9422-30d6e7cf7abf/default.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=33fb2b0f67ee03a99866de748230ed10:3df946233c5c4e659a5772d682ba0a91
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://i.imgur.com/B9VgH7A.jpeg", Khunsa (2024) S1 E15
+https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/ebc8b217-9cbb-5a7c-8892-7e21bbafa0f9/default.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a39235631c3ae0246770aea26fc00810:3124a0054d5c9b4119cb27409716e842
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://i.imgur.com/B9VgH7A.jpeg", Khunsa (2024) S1 E16
+https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/fcb2972a-36f4-5672-b706-8498faf350b9/default.mpd
+
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://i.imgur.com/B9VgH7A.jpeg", Khunsa (2024) S1 E17
+https://dtacmuar-my.sharepoint.com/personal/series5_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EXGKyefj10xFsc457yZLFB4BVGMXtC28glpuPu_yAxa-3A
+
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://i.imgur.com/B9VgH7A.jpeg", Khunsa (2024) S1 E18
+https://dtacmuar-my.sharepoint.com/personal/series5_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EY2ya9JL-jFGjYpcvjOoP6UB9nBt22cZ_ES68D8e1s1nmw
+
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://i.imgur.com/B9VgH7A.jpeg", Khunsa (2024) S1 E19
+https://dtacmuar-my.sharepoint.com/personal/series5_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=ETk86CavMbVFswdqwmj6L3EBUUvyoOHnktO4AYv1H-Ra9w
+
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://i.imgur.com/B9VgH7A.jpeg", Khunsa (2024) S1 E20
+https://dtacmuar-my.sharepoint.com/personal/series5_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EVmrFjCbnn1LthIivGnUawUBCeqyuZto8msR76Tn1aMscw
+
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://i.imgur.com/B9VgH7A.jpeg", Khunsa (2024) S1 E21
+https://dtacmuar-my.sharepoint.com/personal/series5_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EQ4E2MQoLbRJsmeZ4i7GdngBJSZjGBWass9481ZTwiAzHQ
+
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://i.imgur.com/B9VgH7A.jpeg", Khunsa (2024) S1 E22
+https://dtacmuar-my.sharepoint.com/personal/series5_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=Ef7HePTT6IpApe9a-xakSY4BbjttcOwr_C3XGWoAOBWyOg
+
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://i.imgur.com/B9VgH7A.jpeg", Khunsa (2024) S1 E23
+https://dtacmuar-my.sharepoint.com/personal/series5_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=Ecs7kefQGyhBh3vOCKRXLecBx2nEgPyy61xNBjA51ecEdw
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"B/9yVhrZcj4Bvik+/91rjQ", "kid":"alWAZ2QW+4shXiNjjdzWEA" } ], "type":"temporary" }
+#EXTINF:-1 type="movie" group-title="VOD MALAY" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IDMVZ_p_IVP_PORT_750x1126_2024221_204328.jpg",16 Puasa 2017
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTVLCOPT:http-user-agent=OTT_1/v4.11.3
+https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/cbfc1b59-d17a-57e3-9a55-6b72c59ef9db/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"kXl14frDE+Y6idx2gDJtAg", "kid":"7bk21LznGMZ9qVxZWLxgEA" } ], "type":"temporary" }
+#EXTINF:-1 type="movie" group-title="VOD MALAY" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IVIHW_p_IVP_PORT_750x1126_2024221_204432.jpg",17 Puasa 2019
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTVLCOPT:http-user-agent=OTT_1/v4.11.3
+https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/c5dfdbee-1bfb-59dc-bc04-047e7da111ef/default_primary.mpd
+
+#EXTINF:-1 type="movie" group-title="VOD MALAY" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bNhtm5Tu0QwRTQlH1zBcdtJ1K53.jpg", Sayu Yang Syukur (2024) FHD
+https://dtacmuar-my.sharepoint.com/personal/sitamil_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=Ea0SvG9N6YhGgBtDEDunXUIB28beAGwMbYpCTr_ScYClRA
+
+#EXTINF:-1 type="movie" group-title="VOD MALAY" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGYwNGJmOWItYTM4YS00ZjZjLTkyZGMtMDA4MWM1OTFjZTBlXkEyXkFqcGdeQXVyMDU2NjAwNg@@._V1_.jpg", Peluang Ketiga (2024)
+https://dtacmuar-my.sharepoint.com/personal/sitamil_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EZI7_lwC9AJFk5MojbhcX1IBCAIga2C2Zvli5gcOuh-wBw
+
+#EXTINF:-1 type="movie" group-title="VOD MALAY" tvg-logo="https://i.imgur.com/aEbKkDK.png", Asan Lembu (2024)
+https://dtacmuar-my.sharepoint.com/personal/sitamil_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EfhO9maiqgVBgHORbP4MvDgBU0xBE9waKHewUyIXx33jcA
+
+#EXTINF:-1 type="movie" group-title="VOD MALAY" tvg-logo="https://i.imgur.com/qkN8lLM.jpeg", Daddy Duda (2024)
+https://dtacmuar-my.sharepoint.com/personal/sitamil_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EaqER-zb9WdIsqIP9ppqFQoBM2x1qYX5JOUAyl1GWlMfSg
+
+#EXTINF:-1 type="movie" group-title="VOD MALAY" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cykmv1tPLJWHX4sml2VziRbrdr4.jpg", Anak Perjanjian Syaitan 2 (2024)
+https://dtacmuar-my.sharepoint.com/personal/mubi2_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EbRWIHH2eZBKhyGdrriQ770BP6tApHbxpnTxAs6C8uufMg
+
+#EXTINF:-1 type="movie" group-title="VOD MALAY" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/3fb697edbb8d484b93a40b5718e26526/version/3/width/1280/height/720", Mati Hidup Balik (2024) FHD
+https://dtacmuar-my.sharepoint.com/personal/sitamil_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=ETnKKBQqUvVIq7eExFvQ9xsBhAxXjUr2Ka6Fm5yWSZbcDA
+
+#EXTINF:-1 type="movie" group-title="VOD MALAY" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/3fb697edbb8d484b93a40b5718e26526/version/3/width/1280/height/720", Mati Hidup Balik (2024) HD
+https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/Malay/Mati.Hidup.Balik.2024.720p.AAC.x264-KSO.mp4
+
+#EXTINF:-1 type="movie" group-title="VOD MALAY" tvg-logo="https://i.imgur.com/vXGsh50.jpg", Hentian Gerik (2024) FHD
+https://dtacmuar-my.sharepoint.com/personal/sitamil_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EdWdNO82ghtKr_wJdBmJrGUBYlNi7pVDWFM9n00J-nrE9w
+
+#EXTINF:-1 type="movie" group-title="VOD MALAY" tvg-logo="https://i.imgur.com/vXGsh50.jpg", Hentian Gerik (2024) HD
+https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/Malay/Perhentian.Gerik..2024.720p.AAC.x264-KSO.mp4
+
+#EXTINF:-1 type="movie" group-title="VOD MALAY" tvg-logo="https://i.imgur.com/tOtN2hG.jpg", Rampok (2024)
+https://dtacmuar-my.sharepoint.com/personal/sitamil_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=ETxqcmvy8H1Nre6zxjTHag4B80NbrEIiP48LdFPY1pJcgQ
+
+#EXTINF:-1 type="movie" group-title="VOD MALAY" tvg-logo="https://i.imgur.com/LD1shgE.jpg", Langgar Pantang (2024)
+https://worker-kasyah.buntai.workers.dev/0:/movie/Malay/Langgar.Pantang.2024.1080p.AAC.x264-KSO.mp4
+
+#EXTINF:-1 type="movie" group-title="VOD MALAY" tvg-logo="https://i.imgur.com/aByMV4j.jpg", Warong (2024)
+https://dtacmuar-my.sharepoint.com/personal/sitamil_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EbA4YOwfbU1LjqGOGW31XVIBwkOEkAsFf8t1UJ7Vf_XJjw
+
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://i.imgur.com/FXSM6mK.jpg", Hikayat Pak Belalang (2023) S1 E01
+https://worker-kasyah.buntai.workers.dev/0:/series/Hikayat%20Pak%20Belalang/Hikayat%20Pak%20Belalang%20(2023)%20EP1.mp4
+
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://i.imgur.com/FXSM6mK.jpg", Hikayat Pak Belalang (2023) S1 E02
+https://worker-kasyah.buntai.workers.dev/0:/series/Hikayat%20Pak%20Belalang/Hikayat%20Pak%20Belalang%20(2023)%20EP2.mp4
+
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://i.imgur.com/FXSM6mK.jpg", Hikayat Pak Belalang (2023) S1 E03
+https://worker-kasyah.buntai.workers.dev/0:/series/Hikayat%20Pak%20Belalang/Hikayat%20Pak%20Belalang%20(2023)%20EP3.mp4
+
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://i.imgur.com/FXSM6mK.jpg", Hikayat Pak Belalang (2023) S1 E04
+https://worker-kasyah.buntai.workers.dev/0:/series/Hikayat%20Pak%20Belalang/Hikayat%20Pak%20Belalang%20(2023)%20EP4.mp4
+
+#EXTINF:-1 type="movie" group-title="VOD MALAY" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2UjXKTrlPnEqqnhSwnZBoqxg8mq.jpg", 19 Puasa : Playboys of Plestik Hitam HD (2024)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Malay/19%20Puasa.mp4
+
+#EXTINF:-1 type="movie" group-title="VOD MALAY" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/289ddab636c94c579efc5824274ece22/version/4/width/1280/height/720", Travelawak Bapak-Bapak Balik Kampung (2024)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Malay/Travelawak%20Bapak%20Bapak%20Balik%20Kampung%20(2024).mkv
+
+#EXTINF:-1 type="movie" group-title="VOD MALAY" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6xQ0ld7J67WVaBLqYqoKPOapOSk.jpg", Gila-Gila Remaja (1985)
+https://dtacmuar-my.sharepoint.com/personal/mubi2_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EVf-BBkWYkFLmoluOHdXV7IBpwUByz7Bi3p3AAkOBpHeKw
+
+#EXTINF:-1 type="movie" group-title="VOD MALAY" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/z2NujbgBfD0fId0Go1pHLmujYf.jpg", Malbatt Misi Bakara (2023)
+https://dtacmuar-my.sharepoint.com/personal/mubi1_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EdTvx3tjX1ZFv8-3BagATcQBvExBZlF3AfaVitd6qTzd0g
+
+#EXTINF:-1 type="movie" group-title="VOD MALAY" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/z2NujbgBfD0fId0Go1pHLmujYf.jpg", Malbatt Misi Bakara B (2023)
+https://worker-kasyah.buntai.workers.dev/0:/movie/Malay/Malbatt.Misi.Bakara.2023.1080p.WEB-DL-en.id.ms-PENCURiMOViE.AUTOS.mkv
+
+#EXTINF:-1 type="movie" group-title="VOD MALAY" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bcpiMo3wrhCxiDOFXxvpBepHYMy.jpg", Zombi Kampung Pisang (2007)
+https://hello-world-yellow-lake-ae51.buntai.workers.dev/0:/movie/Malay/Zombi%20Kampung%20Pisang.mp4
+
+#EXTINF:-1 type="movie" group-title="VOD MALAY" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eR4MDbv9lnwOXmqXPy4B7uSipUx.jpg", Prebet Lapok (1979)
+https://hello-world-yellow-lake-ae51.buntai.workers.dev/0:/movie/Malay/Prebet%20Lapok.mp4
+
+#EXTVLCOPT:http-referrer=https://emturbovid.com/
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/Referer=https://emturbovid.com/
+#EXTINF:-1 type="movie" group-title="VOD MALAY" tvg-logo="https://s4.lk21static.xyz/wp-content/uploads/2017/10/film-polis-evo-2015.jpg",Polis Evo
+https://ss89.fileoncl.com/stream/0/8C/O2OwXiD1hTo0OGoYUCWsEPZ7BceHaxn3GfG/master.m3u8
+
+#EXTINF:-1 type="movie" group-title="VOD MALAY" tvg-logo="https://ww69.ohflix.net/uploads/video_thumb/6983.jpg", Polis Evo 2 
+https://hello-si-kacak.buntai.workers.dev/0:/movie/Malay/Polis%20Evo%202.mp4
+
+#EXTINF:-1 type="movie" group-title="VOD MALAY" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Polis_Evo.jpg/220px-Polis_Evo.jpg", Polis Evo
+https://hello-si-kacak.buntai.workers.dev/0:/movie/Malay/Polis%20Evo.mp4
+
+#EXTINF:-1 type="movie" group-title="VOD MALAY" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eHt8LAmNbuP7rhGWtGyFSLNEdla.jpg", Polis Evo 3
+https://dtacmuar-my.sharepoint.com/personal/sitamil_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=ETtaQ2HY1eZIpCw3sO9cA6wBpZiV8Q8VUbfbV8z-0qOtMQ
+
+
 
 #EXTM3U billed-msg="😎 BijanBusuk 😎"
