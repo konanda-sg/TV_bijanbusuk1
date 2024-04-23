@@ -160,6 +160,15 @@ https://ktpremium.com:443/FTV6306/Aa1234/25852
 #EXTVLCOPT:http-referrer=https://sg-sg-sg.astro.com.my
 https://ktpremium.com:443/FTV6306/Aa1234/25852
 
+#EXTINF:-1 tvg-id="Astro.Prima.HD.my" tvg-name="Astro Prima HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png" group-title="",Astro Prima
+http://mohdtv.com:8880/live/voby4681/59596648/1702.ts
+
+#EXTINF:-1 tvg-id="Astro.Warna.HD.my" tvg-name="Astro Warna HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png" group-title="",Astro Warna
+http://mohdtv.com:8880/live/voby4681/59596648/1706.ts
+
+
+
+
 ################################################################ MY FREEVIEW ##################################################################################
 
 
