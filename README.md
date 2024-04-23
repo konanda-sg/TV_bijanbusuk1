@@ -1103,6 +1103,9 @@ https://dtacmuar-my.sharepoint.com/personal/series5_dtacmuar_onmicrosoft_com/_la
 #EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://i.imgur.com/B9VgH7A.jpeg", Khunsa (2024) S1 E23
 https://dtacmuar-my.sharepoint.com/personal/series5_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=Ecs7kefQGyhBh3vOCKRXLecBx2nEgPyy61xNBjA51ecEdw
 
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://i.imgur.com/B9VgH7A.jpeg", Khunsa (2024) S1 E24
+https://www.dailymotion.com/embed/video/k1QBgkWMT71yi1Av6AW
+
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"B/9yVhrZcj4Bvik+/91rjQ", "kid":"alWAZ2QW+4shXiNjjdzWEA" } ], "type":"temporary" }
