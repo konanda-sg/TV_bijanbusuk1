@@ -1103,8 +1103,8 @@ https://dtacmuar-my.sharepoint.com/personal/series5_dtacmuar_onmicrosoft_com/_la
 #EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://i.imgur.com/B9VgH7A.jpeg", Khunsa (2024) S1 E23
 https://dtacmuar-my.sharepoint.com/personal/series5_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=Ecs7kefQGyhBh3vOCKRXLecBx2nEgPyy61xNBjA51ecEdw
 
-#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://i.imgur.com/B9VgH7A.jpeg", Khunsa (2024) S1 E24
-https://www.dailymotion.com/embed/video/k1QBgkWMT71yi1Av6AW
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://i.imgur.com/B9VgH7A.jpeg", Khunsa (2024) 
+https://raw.githubusercontent.com/jeffsrightnow/movies/master/Khunsa.xml
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
