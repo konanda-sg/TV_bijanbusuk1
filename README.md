@@ -55,12 +55,12 @@ https://unifi-live03.secureswiftcontent.com/UnifiHD/live03.mpd
 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/TV3_v1.png", TV3 
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/809/default_primary.mpd
 
-EXTINF:-1 tvg-logo="https://i.ibb.co/09cQ9CL/Fri-25-08-2023-11-32-23.png",RIA HD 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/09cQ9CL/Fri-25-08-2023-11-32-23.png",RIA HD 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys": [ {"kty":"oct", "k":"N2sAl5bkrVDqj2jXlmdmkg", "kid": "P3Jv1cu/WURDek2/q0MbEA" } ], "type": "temporary"}
-https://live.astradamy.com/astro/ria/index.mpd
-https://raw.githubusercontent.com/YokisJo90/Hontakk/main/Vcriaoo.mpd
-http://abcnew.site:8880/48mmk110009/91991171/1705
+https://linears-playback.astro.com.my/vsg/412O6xBisU354UG-hrUPm9NBDh2Wn6ik8gm0dByG4L7x0=g9i/dash-wv/jitp-linearwm/1004/default_ott.mpd
+
+
 
 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png", PRIMA HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
