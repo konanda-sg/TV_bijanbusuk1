@@ -67,7 +67,7 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/809/default_primary.mp
 https://linears-playback.astro.com.my/vsg/
 41n80pyr45gBSIYpX6hgklVB9pCUXAN3tKhISmVkI7JpuCMP-s/dash-wv/jitp-linearwm/1004/default_ott.mpd
 
-#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png", PRIMA HD
+EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png", PRIMA HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/1000/
 http://startv365.com/live/9794783213/6955630461/191865.m3u8
