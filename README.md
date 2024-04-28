@@ -10,15 +10,15 @@
 
 ########################################################################################################################################
 
-#EXTINF:-1 type="movie" group-title="VOD MALAY" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2UjXKTrlPnEqqnhSwnZBoqxg8mq.jpg", 19 Puasa : Playboys of Plestik Hitam (2024)
+EXTINF:-1 type="movie" group-title="VOD MALAY" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2UjXKTrlPnEqqnhSwnZBoqxg8mq.jpg", 19 Puasa : Playboys of Plestik Hitam (2024)
 https://dtacmuar-my.sharepoint.com/personal/sitamil_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=Eb1gnl--JGZGu1wJ5umsGdgB9K2v5Wg_laXrShRjSUvoYw
 
-#EXTINF:-1 tvg-logo="vg-logo="https://i.ibb.co/XVRyC81/sooka", LIVE SHOW ONLY 1 
+EXTINF:-1 tvg-logo="vg-logo="https://i.ibb.co/XVRyC81/sooka", LIVE SHOW ONLY 1 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=http://103.91.64.73/ott/mdi7y2xnnu/livegv1/
 https://linearjitp-playback.astro.com.my/dash-wv/linear/9987/default_primary.mpd 
 
-#EXTINF:-1 tvg-logo="vg-logo="https://i.ibb.co/XVRyC81/sooka", LIVE SHOW ONLY 2
+EXTINF:-1 tvg-logo="vg-logo="https://i.ibb.co/XVRyC81/sooka", LIVE SHOW ONLY 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=http://103.91.64.73/ott/mdi7y2xnnu/livegv2/
 https://linearjitp-playback.astro.com.my/dash-wv/linear/9989/default_primary.mpd
@@ -61,12 +61,10 @@ https://unifi-live03.secureswiftcontent.com/UnifiHD/live03.mpd
 EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/TV3_v1.png", TV3 
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/809/default_primary.mpd
 
-EXTINF:-1 tvg-logo="https://i.ibb.co/09cQ9CL/Fri-25-08-2023-11-32-23.png",RIA HD 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/09cQ9CL/Fri-25-08-2023-11-32-23.png",RIA HD 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys": [ {"kty":"oct", "k":"N2sAl5bkrVDqj2jXlmdmkg", "kid": "P3Jv1cu/WURDek2/q0MbEA" } ], "type": "temporary"}
-https://linears-playback.astro.com.my/vsg/
-
-/dash-wv/jitp-linearwm/1004/default_ott.mpd
+http://trtv.my.id/live/index.mpd?e=eXZpckhFWT1xSnFhTDJMNllsOWpvSjAzWXpNMUx6SWFZYUVmWTJJMm90PT0maD1HMFpsQVFObVptUmpaUVI9
 
 EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png", PRIMA HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -76,8 +74,8 @@ http://startv365.com/live/9794783213/6955630461/191865.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"hBL0RP++NQzy7OBR+RUukA", "kid":"C2Uyau3j7b6B5vtAMX1TEA" } ], "type":"temporary" }
-EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png", PRIMA HD
-https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_primary.mpd
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png", PRIMA HD
+http://trtv.my.id/live/index.mpd?e=eXZpckhFWT1xSnFhTDJMNllsOWpvSjAzWXpNMUx6SWFZYUVmWTJBeXFhY2gmaD1HMFpsQVFObVptUmpaUVI9
 
 EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png", PRIMA HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -89,18 +87,18 @@ https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1000/default.mpd
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Oasis_v1.png", OASIS HD 
 http://linearjitp02-playback.astro.com.my/dash-wv/linear/2505/default_primary.mpd
 
-EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png", WARNA HD
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png", WARNA HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"CoDiDFaOiOU8cIfBxkkzGA","kid":"qixlPwwFVnrig8SjJxqYEA"}],"type":"temporary"}
 #EXTVLCOPT:http-referrer=https://02d13e52-6540-28a2-8eac-7434f56a77bd.ref
-https://linears-playback.astro.com.my/vsg/  /dash-wv/jitp-dashisowm/2402/default_ott.mpd
+http://trtv.my.id/live/index.mpd?e=eXZpckhFWT1xSnFhTDJMNllsOWpvSjAzWXpNMUx6SWFZYUVmWTJjaE1KU2gmaD1HMFpsQVFObVptUmpaUVI9
 
 
-EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png", CITRA HD
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png", CITRA HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"ZU8tJaW/snyeWuCFJYShZg","kid":"hL+a1oSL59sg+dFoI97vEA"}],"type":"temporary"}
 #EXTVLCOPT:http-referrer=https://02d13e52-6540-28a2-8eac-7434f56a77bd.ref
-https://linears-playback.astro.com.my/vsg/  /dash-wv/jitp-dashisowm/2700/default_ott.mpd
+http://trtv.my.id/live/index.mpd?e=eXZpckhFWT1xSnFhTDJMNllsOWpvSjAzWXpNMUx6SWFZYUVmWTNPMk0ySWgmaD1HMFpsQVFObVptUmpaUVI9
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Q4+2LpcnhSZobZIRJjQ9Mg", "kid":"LzI4FCNIeJ7VqZuaG9jgEA" } ], "type":"temporary" }
