@@ -394,16 +394,6 @@ http://linearjitp02-playback.astro.com.my/dash-wv/linear/2511/default_primary.mp
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/392_144.png", NICK JR 
 http://linearjitp02-playback.astro.com.my/dash-wv/linear/9982/default_primary.mpd
 
-#EXTINF:-1 tvg-logo="https://pictr.com/images/2024/01/07/EyUjo2.png", Disney Channel
-http://wayforward.xyz/uugjnauw/zNtU7zdSk/53407
-
-#EXTINF:-1 tvg-logo="https://pictr.com/images/2024/01/07/EyUTNU.png", Disney Junior
-http://wayforward.xyz/uugjnauw/zNtU7zdSk/53479
-
-#EXTINF:-1 tvg-logo="https://pictr.com/images/2024/01/07/EyUcd9.png", Disney XD
-http://wayforward.xyz/uugjnauw/zNtU7zdSk/53405
-
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"irCTravcNDuHNLfs8K6hGg", "kid":"48t0mXEHhusQX6t7UkWZEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Moonbug_V1.png", Moonbug Kids
@@ -414,7 +404,7 @@ http://linearjitp02-playback.astro.com.my/dash-wv/linear/5067/default_primary.mp
 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/CBeebies_V1.png", CBeebies  
 http://linearjitp02-playback.astro.com.my/dash-wv/linear/5093/default_primary.mpd
 
-#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/74/MNCKids_tegak.png/revision/latest?cb=20170509144708",Kids TV
+EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/74/MNCKids_tegak.png/revision/latest?cb=20170509144708",Kids TV
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/visionplus/KidsChannel
@@ -523,7 +513,7 @@ http://linearjitp02-playback.astro.com.my/dash-wv/linear/5055/default_primary.mp
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.openwindow040.workers.dev/
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png",HBO Signature 
+EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png",HBO Signature 
 https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -537,12 +527,6 @@ EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Paramount.png",
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/visionplus/Paramount-HD
 https://nyanv-live-cdn.mncnow.id/live/eds/Paramount-HD/sa_dash_vmx/Paramount-HD.mpd
 
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/SonyPixV3.png",Sony Pix    
-https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
-
-
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -551,10 +535,9 @@ https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3
 
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/StarMovies.png",Star Movies
+http://103.107.79.87:8080/CH8109HD05/tracks-v1a1/mono.m3u8
 http://uhd3.one:80/play/live.php?mac=00:1A:79:19:06:50&stream=282639&extension=ts
-
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/StarMoviesSelect.png",Star Movies Select 
 http://uhd3.one:80/play/live.php?mac=00:1A:79:19:06:50&stream=155729&extension=ts
