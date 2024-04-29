@@ -14,10 +14,24 @@
 https://epg.pw/stream/80738e7952cdfa7eff74449f9b12956abb259efb5c5ca0d180bf3a8ec2383037.ctv
 
 #EXTINF:-1 tvg-logo="",TEST
+http://www.biaozhun114.com/dl/dl888/histar.php?astro-ria
+
+#EXTINF:-1 tvg-logo="",TEST
 https://epg.pw/stream/b72f42d21e29b4ab4e1e88a4a8bbb00f502f730acca4ef8891f40b175c164661.ctv
+
+#EXTINF:-1 tvg-logo="",TEST
+http://www.biaozhun114.com/dl/dl888/histar.php?astro-warna
 
 #EXTINF:-1 tvg-logo="",TEST 
 https://epg.pw/stream/30048dbc6e2283f5ce1da5012eede6532c41eacd9dcf0e556ceaa358edc83a56.ctv
+
+#EXTINF:-1 tvg-logo="",TEST
+http://www.biaozhun114.com/dl/dl888/histar.php?astro-citra
+
+
+#EXTINF:-1 tvg-logo="",TEST
+http://www.biaozhun114.com/dl/dl888/histar.php?astro-prima
+
 
 ################################################################ MY FREEVIEW ##################################################################################
 
