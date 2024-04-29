@@ -9,20 +9,8 @@
 
 
 ########################################################################################################################################
-#EXTINF:-1 group-title="Movie" ,Movie Now
-http://aflaxtv.xyz:8080/myhdosama/6JbVUE4zXTpRr2pf/169118
-#EXTINF:-1 group-title="Movie" ,Movie Now2
-http://line.lion-ott.com:80/abcd1234/abcd1234/281391
-#EXTINF:-1 group-title="Movie" ,Star Movie
-http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-MOVIES-HD/video.m3u8
-#EXTINF:-1 group-title="Movie" ,Star Movie Selected
-http://tv.cloudcdn.me:80/live.ts?channelId=199&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 group-title="Movie" ,Star Movie Selected2
-http://line.lion-ott.com:80/abcd1234/abcd1234/281644
-#EXTINF:-1 tvg-id="ts632" tvg-logo="https://i.ibb.co/RYsYthb/Screenshot-2024-01-08-172016.png" group-title="Movies",Movies Now2
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://mag.greatott.me/play/live.php?mac=00:1a:79:17:a5:fd&stream=1116477&extension=ts
+
+
 ################################################################ MY FREEVIEW ##################################################################################
 
 
@@ -571,6 +559,10 @@ http://uhd3.one:80/play/live.php?mac=00:1A:79:19:06:50&stream=282639&extension=t
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/StarMoviesSelect.png",Star Movies Select 
 http://uhd3.one:80/play/live.php?mac=00:1A:79:19:06:50&stream=155729&extension=ts
 
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/802xnx0dlm9pznb/amrbd.png",Movies Now
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mag.greatott.me/play/live.php?mac=00:1a:79:17:a5:fd&stream=1116477&extension=ts
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"wyGv4WibB9W35VvQJcSDzg", "kid":"wkp4EdmrRrSLdGoOfiaSEA" } ], "type":"temporary" }
