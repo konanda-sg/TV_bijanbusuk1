@@ -18,6 +18,18 @@
 
 #EXTINF:-1 tvg-id="" tvg-name="Astro SuperSport 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="|SPORTS| Asia Indonesia🚩",Astro Supersport 4 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 https://webhdrus.onlinehdhls.ru/lb/premium126/index.m3u8|Origin=https://weblivehdplay.ru
 
+
+#EXTINF:-1 tvg-logo="",TEST 1
+http://dreamsmart.me:2082/play/live.php?mac=00:1a:79:20:34:1f&stream=277339&extension=m3u8&play_token=wlG1rz0e3q
+
+#EXTINF:-1 tvg-logo="",TEST 2
+http://dreamsmart.me:2082/play/live.php?mac=00:1a:79:20:34:1f&stream=287783&extension=m3u8&play_token=wlG1rz0e3q
+
+#EXTINF:-1 tvg-logo="",TEST 3
+http://livein1.com/play/live.php?mac=00:1a:79:b1:85:5e&stream=186480&extension=m3u8
+
+#EXTINF:-1 tvg-logo="",TEST 4
+http://livein1.com/play/live.php?mac=00:1a:79:b1:85:5e&stream=186481&extension=m3u8
 ################################################################ MY FREEVIEW ##################################################################################
 
 
