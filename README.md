@@ -520,6 +520,11 @@ http://linearjitp02-playback.astro.com.my/dash-wv/linear/5055/default_primary.mp
 #KODIPROP:inputstream.adaptive.license_key=90480f571f5d410891d7add7103c1e84:b64f887d2480bcaea992c2f0826449a9
 https://tglmp02.akamaized.net/out/v1/b37a81eb3585471cb9c639c78edcdefa/manifest.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://worker-bold-king-f3d4.aimiemah.workers.dev/
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7WkmhKD/Untitled-3-12.png",HBO Signature (Trans)
+https://cdnjkt4.transvision.co.id:1004/live/master/4/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"+DJvZox77jCeUwK1E+W99w", "kid":"YJPhJjmyTNZR7ms8E0RtEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Warner-TV_v1.png",Warner TV    
