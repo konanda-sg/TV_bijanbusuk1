@@ -146,11 +146,9 @@ EXTINF:-1 tvg-logo="https://www.xtra.com.my/live-tv/assets/img/dramasangat.png",
 https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton5_720p/index.m3u8|Referer=https://live-xtra-sg1.global.ssl.fastly.net/embed/index.html?vid=11056637&autoplay=1&mute=0
 
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7046/CPS/images/universal/film/logo/201907/20190716/20190716062504007e6f.png", Salam HD 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1cd0f33db5a826c850e0ef6ca9331a82:207f3ac36c8d5c85395c147154d41581
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live32.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=OGQ0ZGMxNmYtY2QwNC0zZjQ1LWJmYjktYTFjZjM5ZWI5ODdm
+https://web.hypp.tv:443/PLTV/88888888/224/3221227558/3221227558.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=tnUM3pus6bSh1mr%2FQqP7gS%2BLhDQRCdSHNpB7NvbJKHMO5mMHa9B%2BzYQOtwwhTPs9X1Uzxq6NAAqGASx47cKgqfHl2ogHz3eAyG2k7xToFQmJBU24%2BKwsNeA0VE3pRwoj%3A20221124080121%3AUTC%2C1001767137%2C115.164.56.153%2C20221124080121%2Curn:Huawei:liveTV:iptv47777%2C1001767137%2C-1%2C0%2C1%2C%2C%2C2%2C88%2C%2C%2C2%2C1612403%2C0%2C517698%2C2706399750%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOXQuCMBiF_80uR5s25sWuiiCIFWTdxuv2usTpbLOgf5-WXZ6P53DGCAb3W1Wtpcmx4NbWeV5gNWkQmQCb1RIlCpLwoYPixID3Te90sDN2PW9ubEVXlHNGGSflPLfz4JamfnYVRpX9sTPGV2NQ2VTTFyQKzkV0MDahpycP70v0S4VguVxjQhRc5oJzIRkZZ7eE1E4JuUPahG6AiPYQ3BdQNfiEZADTgkMNHar-6f2PO0Y7vfkAzoOp1vQAAAA&tenantId=6001
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
