@@ -480,6 +480,11 @@ http://linearjitp02-playback.astro.com.my/dash-wv/linear/2305/default_primary.mp
 #EXTINF:-1 tvg-logo="https://hometv.pw/logo/movies2/thrill.png",Thrill
 https://melon-live-cdn.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CbDMYW9/Untitled-3-19.png", THRILL
+#EXTVLCOPT:http-user-agent=ExoPlayerLib
+#EXTVLCOPT:http-referrer=https://www.dens.tv/ 
+http://op-group1-swiftservehd-1.dens.tv/h/h240/02.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"8yZr7GB/JYefSGQPMPHIiA", "kid":"6k1RreAbvzlG4N6XMFG6EA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/BOO_v1.png", BOO 
