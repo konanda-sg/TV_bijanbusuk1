@@ -522,11 +522,12 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(774b9a1e-aa1a
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Warner-TV_v1.png",Warner TV    
 http://linearjitp02-playback.astro.com.my/dash-wv/linear/2605/default_primary.mpd
 
-EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Paramount.png",Paramount Network  
-#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Paramount.png",Paramount Network  
 https://nyanv-live-cdn.mncnow.id/live/eds/Paramount-HD/sa_dash_vmx/Paramount-HD.mpd
+
 
 #EXTINF:-1 tvg-logo="https://ws.kapallayar.cc//image//Logo//ENT//New//E_SonyPix.png",Sony Pix HD
 https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
