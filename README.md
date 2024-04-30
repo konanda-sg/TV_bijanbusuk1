@@ -1221,4 +1221,14 @@ https://dtacmuar-my.sharepoint.com/personal/sitamil_dtacmuar_onmicrosoft_com/_la
 https://beaqfad.vercel.app/api/raw/?path=/VOD/Movies/Mat.Kilau.2022.1080p.NF.WEB-DL.DDP2.0.x264-AqFadTV.mp4
 
 
+
+#EXTINF:-1 group-title="Wayang MIXED" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/98/John_Wick_TeaserPoster.jpg",John Wick (2014)
+https://dl.dropboxusercontent.com/s/228kmlnpie52hyo/John%20Wick.mp4
+
+#EXTINF:-1 group-title="Wayang MIXED" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/John_Wick_Chapter_Two.png",John Wick: Chapter 2 (2017)
+https://dl.dropboxusercontent.com/s/wt9mviuxy6nr3tr/John%20Wick%202.mp4
+
+#EXTINF:-1 group-title="Wayang MIXED" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/94/John_Wick_Chapter_3_Parabellum.png",John Wick: Chapter 3 – Parabellum (2019)
+https://dl.dropboxusercontent.com/s/wzege5tdsohuoi8/John%20Wick%203.mp4
+
 #EXTM3U billed-msg="😎 BijanBusuk 😎"
