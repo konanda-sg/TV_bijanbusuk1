@@ -510,7 +510,7 @@ http://linearjitp02-playback.astro.com.my/dash-wv/linear/5053/default_primary.mp
 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/HBO_Hits.png", HBO Hits
 http://linearjitp02-playback.astro.com.my/dash-wv/linear/5055/default_primary.mpd
 
-EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png",HBO Signature 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png",HBO Signature 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://m.mayvee.workers.dev/hbosign/license-proxy-widevine/cenc/?specConform=true 
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(774b9a1e-aa1a-425b-8f24-f90d48787777)/manifest.mpd
