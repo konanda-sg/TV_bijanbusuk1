@@ -1159,8 +1159,6 @@ https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/cbfc1b59-
 #EXTVLCOPT:http-user-agent=OTT_1/v4.11.3
 https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/c5dfdbee-1bfb-59dc-bc04-047e7da111ef/default_primary.mpd
 
-#EXTINF:-1 type="movie" group-title="VOD MALAY" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bNhtm5Tu0QwRTQlH1zBcdtJ1K53.jpg", Sayu Yang Syukur (2024) FHD
-https://dtacmuar-my.sharepoint.com/personal/sitamil_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=Ea0SvG9N6YhGgBtDEDunXUIB28beAGwMbYpCTr_ScYClRA
 
 #EXTINF:-1 type="movie" group-title="VOD MALAY" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGYwNGJmOWItYTM4YS00ZjZjLTkyZGMtMDA4MWM1OTFjZTBlXkEyXkFqcGdeQXVyMDU2NjAwNg@@._V1_.jpg", Peluang Ketiga (2024)
 https://dtacmuar-my.sharepoint.com/personal/sitamil_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EZI7_lwC9AJFk5MojbhcX1IBCAIga2C2Zvli5gcOuh-wBw
@@ -1174,14 +1172,8 @@ https://dtacmuar-my.sharepoint.com/personal/sitamil_dtacmuar_onmicrosoft_com/_la
 #EXTINF:-1 type="movie" group-title="VOD MALAY" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cykmv1tPLJWHX4sml2VziRbrdr4.jpg", Anak Perjanjian Syaitan 2 (2024)
 https://dtacmuar-my.sharepoint.com/personal/mubi2_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EbRWIHH2eZBKhyGdrriQ770BP6tApHbxpnTxAs6C8uufMg
 
-#EXTINF:-1 type="movie" group-title="VOD MALAY" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/3fb697edbb8d484b93a40b5718e26526/version/3/width/1280/height/720", Mati Hidup Balik (2024) FHD
-https://dtacmuar-my.sharepoint.com/personal/sitamil_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=ETnKKBQqUvVIq7eExFvQ9xsBhAxXjUr2Ka6Fm5yWSZbcDA
-
 #EXTINF:-1 type="movie" group-title="VOD MALAY" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/3fb697edbb8d484b93a40b5718e26526/version/3/width/1280/height/720", Mati Hidup Balik (2024) HD
 https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/Malay/Mati.Hidup.Balik.2024.720p.AAC.x264-KSO.mp4
-
-#EXTINF:-1 type="movie" group-title="VOD MALAY" tvg-logo="https://i.imgur.com/vXGsh50.jpg", Hentian Gerik (2024) FHD
-https://dtacmuar-my.sharepoint.com/personal/sitamil_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EdWdNO82ghtKr_wJdBmJrGUBYlNi7pVDWFM9n00J-nrE9w
 
 #EXTINF:-1 type="movie" group-title="VOD MALAY" tvg-logo="https://i.imgur.com/vXGsh50.jpg", Hentian Gerik (2024) HD
 https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/Malay/Perhentian.Gerik..2024.720p.AAC.x264-KSO.mp4
@@ -1242,49 +1234,8 @@ https://hello-si-kacak.buntai.workers.dev/0:/movie/Malay/Polis%20Evo.mp4
 #EXTINF:-1 type="movie" group-title="VOD MALAY" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eHt8LAmNbuP7rhGWtGyFSLNEdla.jpg", Polis Evo 3
 https://dtacmuar-my.sharepoint.com/personal/sitamil_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=ETtaQ2HY1eZIpCw3sO9cA6wBpZiV8Q8VUbfbV8z-0qOtMQ
 
-#EXTINF:-1 type="movie" group-title="Marvel" tvg-logo="https://aqfadtv.xyz/images/GOTG.png",Guardians of the Galaxy
-http://onedrive-by-aqfadtv-vod.on.drv.tw/VOD/Movies/Guardians.of.the.Galaxy.2014.1080p.DHM.WEB-DL.H264.AAC-AqFadTV.mkv
-
-#EXTINF:-1 type="movie" group-title="Marvel" tvg-logo="https://aqfadtv.xyz/images/GOTGVol2.png",Guardians of the Galaxy Vol. 2
-http://onedrive-by-aqfadtv-vod.on.drv.tw/VOD/Movies/Guardians.of.the.Galaxy.Vol.2.2017.1080p.DHM.WEB-DL.H264.AAC-AqFadTV.mkv
-
-#EXTINF:-1 type="movie" group-title="Marvel" tvg-logo="https://aqfadtv.xyz/images/GOTGVol3.png",Guardians of the Galaxy Vol. 3
-http://onedrive-by-aqfadtv-vod.on.drv.tw/VOD/Movies/Guardians.of.the.Galaxy.Vol.3.2023.1080p.DHM.WEB-DL.H264.AAC-AqFadTV.mkv
-
-#EXTINF:-1 type="movie" group-title="VOD MALAY" tvg-logo="https://aqfadtv.xyz/images/KLSpecialForce.png",KL Special Force
-http://onedrive-by-aqfadtv-vod.on.drv.tw/VOD/Movies/KL.Special.Force.2018.1080p.DHM.WEB-DL.H264.AAC-AqFadTV.mkv
-
-#EXTINF:-1 type="movie" group-title="VOD MALAY" tvg-logo="https://aqfadtv.xyz/images/TalbisIblis.png",Talbis Iblis
-http://onedrive-by-aqfadtv-vod.on.drv.tw/VOD/Movies/Talbis.Iblis.2022.1080p.WEB-DL-ms.en.mkv
-
-#EXTINF:-1 type="movie" group-title="International" tvg-logo="https://aqfadtv.xyz/images/JohnWick.jpg",John Wick
-http://onedrive-by-aqfadtv-vod.on.drv.tw/VOD/Movies/John.Wick.2014.1080p.BluRay.H264.AAC-AqFadTV.mkv
-
-#EXTINF:-1 type="movie" group-title="International" tvg-logo="https://aqfadtv.xyz/images/JohnWickChapter2.jpg",John Wick: Chapter 2
-http://onedrive-by-aqfadtv-vod.on.drv.tw/VOD/Movies/John.Wick.Chapter.2.2017.1080p.BluRay.H264.AAC-AqFadTV.mkv
-
-#EXTINF:-1 type="movie" group-title="International" tvg-logo="https://aqfadtv.xyz/images/JohnWickChapter3Parabellum.jpg",John Wick: Chapter 3 - Parabellum
-http://onedrive-by-aqfadtv-vod.on.drv.tw/VOD/Movies/John.Wick.Chapter.3.Parabellum.2019.1080p.BluRay.H264.AAC-AqFadTV.mkv
-
-#EXTINF:-1 type="movie" group-title="International" tvg-logo="https://aqfadtv.xyz/images/JohnWickChapter4.jpg",John Wick: Chapter 4
-http://onedrive-by-aqfadtv-vod.on.drv.tw/VOD/Movies/John.Wick.Chapter.4.2023.1080p.WEBRip.x264-AqFadTV.mkv
-
 #EXTINF:-1 type="movie" group-title="VOD MALAY" tvg-logo="https://aqfadtv.xyz/images/MatKilau.png",Mat Kilau
 https://beaqfad.vercel.app/api/raw/?path=/VOD/Movies/Mat.Kilau.2022.1080p.NF.WEB-DL.DDP2.0.x264-AqFadTV.mp4
 
-#EXTINF:-1 type="movie" group-title="VOD MALAY" tvg-logo="https://aqfadtv.xyz/images/AbangLongFadil.png",Abang Long Fadil
-http://onedrive-by-aqfadtv-vod.on.drv.tw/VOD/Movies/Abang.Long.Fadil.2014.1080p.mkv
-
-#EXTINF:-1 type="movie" group-title="VOD MALAY" tvg-logo="https://aqfadtv.xyz/images/AbangLongFadil2.png",Abang Long Fadil 2
-http://onedrive-by-aqfadtv-vod.on.drv.tw/VOD/Movies/Abang.Long.Fadil.2.2017.1080p.mkv
-
-#EXTINF:-1 type="movie" group-title="VOD MALAY" tvg-logo="https://aqfadtv.xyz/images/AbangLongFadil3.png",Abang Long Fadil 3
-http://onedrive-by-aqfadtv-vod.on.drv.tw/VOD/Movies/Abang.Long.Fadil.3.2022.1080p.AOTG.WEB-DL.H264.AAC-AqFadTV.mkv
-
-#EXTINF:-1 type="movie" group-title="VOD MALAY" tvg-logo="https://aqfadtv.xyz/images/PenunggangAgama.jpg",Penunggang Agama
-https://onedrive-bdfsds.vercel.app/api?path=/Movies/Penunggang.Agama/Penunggang%20Agama%20(2021)%20HDTV%201080p-OMG-Anonymous.mp4&raw=true&type=file.mp4
-
-#EXTINF:-1 type="movie" group-title="VOD MALAY" tvg-logo="https://aqfadtv.xyz/images/PenunggangAgama2.jpg",Penunggang Agama 2
-https://onedrive-bdfsds.vercel.app/api?path=/Movies/Penunggang.Agama/Penunggang.Agama.2.2021.1080p.WEB-DL-ms.en-PENCURiMOViE.CYOU.mkv&raw=true&type=file.mp4
 
 #EXTM3U billed-msg="😎 BijanBusuk 😎"
