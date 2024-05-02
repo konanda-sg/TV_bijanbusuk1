@@ -100,9 +100,11 @@ https://linears-playback.astro.com.my/vsg/41t5dfddBzl82p9ZbSMm0KVkyDL9MvaSRDjHZV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ZU8tJaW/snyeWuCFJYShZg", "kid":"hL+a1oSL59sg+dFoI97vEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png", CITRA HD
-http://gamsgo.cyou:8080/c4596f70/c3848d92/157569
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/79327.m3u8
 https://linears-playback.astro.com.my/vsg/41CJTs6aYGh76t6znU5NkYNnkiTG2uPbSs9anAbROG7mc=fKwl/dash-wv/jitp-dashisowm/2700/default_primary.mpd
 
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png", CITRA HD
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/400200335.m3u8
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
