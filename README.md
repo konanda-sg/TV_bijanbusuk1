@@ -52,6 +52,7 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/809/default_primary.mp
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"3f726fd5cbbf5944437a4dbfab431b10": "376b009796e4ad50ea8f68d796676692"}
+http://dreamsmart.me:8080/play/live.php?mac=00:1A:79:20:34:1F&stream=306310_&extension=m3u8
 http://trtv.my.id/live/index.mpd?e=eXZpckhFWT1xSnFhTDJMNllsOWpvSjAzWXpNMUx6SWFZYUVmWTJJMm90PT0maD1HMFpsQVFObVptUmpaUVI9
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1107,8 +1108,20 @@ https://dtacmuar-my.sharepoint.com/personal/series5_dtacmuar_onmicrosoft_com/_la
 #EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://i.imgur.com/B9VgH7A.jpeg", Khunsa (2024) S1 E23
 https://dtacmuar-my.sharepoint.com/personal/series5_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=Ecs7kefQGyhBh3vOCKRXLecBx2nEgPyy61xNBjA51ecEdw
 
-#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://i.imgur.com/B9VgH7A.jpeg", Khunsa (2024) 
-https://raw.githubusercontent.com/jeffsrightnow/movies/master/Khunsa.xml
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://i.imgur.com/B9VgH7A.jpeg", Khunsa (2024) S1 E24
+https://dtacmuar-my.sharepoint.com/personal/series5_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EUa7fgxSmnlLuDVnHToskJYBZ1IXIX4CaxLGHqLUDhvPOw
+
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://i.imgur.com/B9VgH7A.jpeg", Khunsa (2024) S1 E25
+https://dtacmuar-my.sharepoint.com/personal/series5_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EUQkB4we5RdKmX0vdE7ITB0BtW9EAzmXBDfSlAN_Yz3yvg
+
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://i.imgur.com/B9VgH7A.jpeg", Khunsa (2024) S1 E26
+https://dtacmuar-my.sharepoint.com/personal/series5_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EUO5PZQ9BXNLmVuwcY86PFABMZR6Sroo3YZ3BOvuS2Ss8Q
+
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://i.imgur.com/B9VgH7A.jpeg", Khunsa (2024) S1 E27
+https://dtacmuar-my.sharepoint.com/personal/series5_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=Ec06GYP1BmNIlQ38Xeminf4BXF9kbfXIZu5BnaoMJ2ERUQ
+
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://i.imgur.com/B9VgH7A.jpeg", Khunsa (2024) S1 E28
+https://dtacmuar-my.sharepoint.com/personal/series5_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EVHCJgvEftRFhR7eHZo7iXYBxTgbQaYlZcnu-kcf0dQpyg
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1124,6 +1137,16 @@ https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/cbfc1b59-
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 #EXTVLCOPT:http-user-agent=OTT_1/v4.11.3
 https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/c5dfdbee-1bfb-59dc-bc04-047e7da111ef/default_primary.mpd
+
+
+#EXTINF:-1 type="movie" group-title="VOD MALAY" tvg-logo="https://d3avoj45mekucs.cloudfront.net/rojakdaily/media/iylia/news/poster-18-puasa-di-kampong-pisang.jpg", 18 Puasa
+https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/Malay/18%20Puasa%20Di%20Kampong%20Pisang.mp4
+#EXTINF:-1 type="movie" group-title="VOD MALAY" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vr60hHWj4K8woFDtpAWk01qQQO8.jpg", 17 Puasa
+##https://hello-world-yellow-lake-ae51.buntai.workers.dev/0:/movie/Malay/17%20Puasa.mp4
+#EXTINF:-1 type="movie" group-title="VOD MALAY" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wHB9DID2AAcvsL5qPLBYRbM0h9p.jpg", 16 Puasa
+##https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/Malay/16%20Puasa.mp4
+#EXTINF:-1 type="movie" group-title="VOD MALAY" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1mNOoDq2UFcXJVJ9roAdBTp4G4M.jpg", 15 Puasa 1971
+https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/Malay/15%20Puasa.mp4
 
 
 #EXTINF:-1 type="movie" group-title="VOD MALAY" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGYwNGJmOWItYTM4YS00ZjZjLTkyZGMtMDA4MWM1OTFjZTBlXkEyXkFqcGdeQXVyMDU2NjAwNg@@._V1_.jpg", Peluang Ketiga (2024)
@@ -1251,13 +1274,647 @@ https://www.googleapis.com/drive/v3/files/1Kq4xCUzVxxw7Zq8GaPLuxayRhE7XCuBH?alt=
 #EXTINF:-1 type="movie" tvg-logo="https://cdn.textstudio.com/output/sample/normal/4/9/6/5/series-logo-570-5694.webp" group-title="FILM BARAT",The Bourne Legacy 
 https://www.googleapis.com/drive/v3/files/1BH3fKMygPonozus81_qFtQYEjx3Dd-ba?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4 
 
-#EXTINF:-1 type="movie" tvg-logo="https://cdn.textstudio.com/output/sample/normal/4/9/6/5/series-logo-570-5694.webp" group-title="FILM BARAT",Transformers 
-https://www.googleapis.com/drive/v3/files/1D8I-c3sw8zgGO25U9spcXvEo4s7w8WuB?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4 
 
-#EXTINF:-1 type="movie" tvg-logo="https://cdn.textstudio.com/output/sample/normal/4/9/6/5/series-logo-570-5694.webp" group-title="FILM BARAT",Transformers: Revenge of the Fallen 
-https://www.googleapis.com/drive/v3/files/1TZeqatF4rJXDv2F5xngczJHQk0yvf2MX?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4 
+#EXTINF:-1 type="series" group-title="KOREAN SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5WC5zEItQk7Av75osRRjbcKfHWD.jpg", Dr Romantic S1 E01
+https://hello-si-kacak.buntai.workers.dev/0:/series/Dr_%20Romantic/Season%201/Dr_%20Romantic_S01E01_Episode%201.mp4
+#EXTINF:-1 type="series" group-title="KOREAN SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5WC5zEItQk7Av75osRRjbcKfHWD.jpg", Dr Romantic S1 E02
+https://hello-si-kacak.buntai.workers.dev/0:/series/Dr_%20Romantic/Season%201/Dr_%20Romantic_S01E02_Episode%202.mp4
+#EXTINF:-1 type="series" group-title="KOREAN SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5WC5zEItQk7Av75osRRjbcKfHWD.jpg", Dr Romantic S1 E03
+https://hello-si-kacak.buntai.workers.dev/0:/series/Dr_%20Romantic/Season%201/Dr_%20Romantic_S01E03_Episode%203.mp4
+#EXTINF:-1 type="series" group-title="KOREAN SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5WC5zEItQk7Av75osRRjbcKfHWD.jpg", Dr Romantic S1 E04
+https://hello-si-kacak.buntai.workers.dev/0:/series/Dr_%20Romantic/Season%201/Dr_%20Romantic_S01E04_Episode%204.mp4
+#EXTINF:-1 type="series" group-title="KOREAN SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5WC5zEItQk7Av75osRRjbcKfHWD.jpg", Dr Romantic S1 E05
+https://hello-si-kacak.buntai.workers.dev/0:/series/Dr_%20Romantic/Season%201/Dr_%20Romantic_S01E05_Episode%205.mp4
+#EXTINF:-1 type="series" group-title="KOREAN SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5WC5zEItQk7Av75osRRjbcKfHWD.jpg", Dr Romantic S1 E06
+https://hello-si-kacak.buntai.workers.dev/0:/series/Dr_%20Romantic/Season%201/Dr_%20Romantic_S01E06_Episode%206.mp4
+#EXTINF:-1 type="series" group-title="KOREAN SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5WC5zEItQk7Av75osRRjbcKfHWD.jpg", Dr Romantic S1 E07
+https://hello-si-kacak.buntai.workers.dev/0:/series/Dr_%20Romantic/Season%201/Dr_%20Romantic_S01E07_Episode%207.mp4
+#EXTINF:-1 type="series" group-title="KOREAN SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5WC5zEItQk7Av75osRRjbcKfHWD.jpg", Dr Romantic S1 E08
+https://hello-si-kacak.buntai.workers.dev/0:/series/Dr_%20Romantic/Season%201/Dr_%20Romantic_S01E08_Episode%208.mp4
+#EXTINF:-1 type="series" group-title="KOREAN SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5WC5zEItQk7Av75osRRjbcKfHWD.jpg", Dr Romantic S1 E09
+https://hello-si-kacak.buntai.workers.dev/0:/series/Dr_%20Romantic/Season%201/Dr_%20Romantic_S01E09_Episode%209.mp4
+#EXTINF:-1 type="series" group-title="KOREAN SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5WC5zEItQk7Av75osRRjbcKfHWD.jpg", Dr Romantic S1 E10
+https://hello-si-kacak.buntai.workers.dev/0:/series/Dr_%20Romantic/Season%201/Dr_%20Romantic_S01E10_Episode%2010.mp4
+#EXTINF:-1 type="series" group-title="KOREAN SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5WC5zEItQk7Av75osRRjbcKfHWD.jpg", Dr Romantic S1 E11
+https://hello-si-kacak.buntai.workers.dev/0:/series/Dr_%20Romantic/Season%201/Dr_%20Romantic_S01E11_Episode%2011.mp4
+#EXTINF:-1 type="series" group-title="KOREAN SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5WC5zEItQk7Av75osRRjbcKfHWD.jpg", Dr Romantic S1 E12
+https://hello-si-kacak.buntai.workers.dev/0:/series/Dr_%20Romantic/Season%201/Dr_%20Romantic_S01E12_Episode%2012.mp4
+#EXTINF:-1 type="series" group-title="KOREAN SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5WC5zEItQk7Av75osRRjbcKfHWD.jpg", Dr Romantic S1 E13
+https://hello-si-kacak.buntai.workers.dev/0:/series/Dr_%20Romantic/Season%201/Dr_%20Romantic_S01E13_Episode%2013.mp4
+#EXTINF:-1 type="series" group-title="KOREAN SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5WC5zEItQk7Av75osRRjbcKfHWD.jpg", Dr Romantic S1 E14
+https://hello-si-kacak.buntai.workers.dev/0:/series/Dr_%20Romantic/Season%201/Dr_%20Romantic_S01E14_Episode%2014.mp4
+#EXTINF:-1 type="series" group-title="KOREAN SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5WC5zEItQk7Av75osRRjbcKfHWD.jpg", Dr Romantic S1 E15
+https://hello-si-kacak.buntai.workers.dev/0:/series/Dr_%20Romantic/Season%201/Dr_%20Romantic_S01E15_Episode%2015.mp4
+#EXTINF:-1 type="series" group-title="KOREAN SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5WC5zEItQk7Av75osRRjbcKfHWD.jpg", Dr Romantic S1 E16
+https://hello-si-kacak.buntai.workers.dev/0:/series/Dr_%20Romantic/Season%201/Dr_%20Romantic_S01E16_Episode%2016.mp4
+#EXTINF:-1 type="series" group-title="KOREAN SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5WC5zEItQk7Av75osRRjbcKfHWD.jpg", Dr Romantic S1 E17
+https://hello-si-kacak.buntai.workers.dev/0:/series/Dr_%20Romantic/Season%201/Dr_%20Romantic_S01E17_Episode%2017.mp4
+#EXTINF:-1 type="series" group-title="KOREAN SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5WC5zEItQk7Av75osRRjbcKfHWD.jpg", Dr Romantic S1 E18
+https://hello-si-kacak.buntai.workers.dev/0:/series/Dr_%20Romantic/Season%201/Dr_%20Romantic_S01E18_Episode%2018.mp4
+#EXTINF:-1 type="series" group-title="KOREAN SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5WC5zEItQk7Av75osRRjbcKfHWD.jpg", Dr Romantic S1 E19
+https://hello-si-kacak.buntai.workers.dev/0:/series/Dr_%20Romantic/Season%201/Dr_%20Romantic_S01E19_Episode%2019.mp4
+#EXTINF:-1 type="series" group-title="KOREAN SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5WC5zEItQk7Av75osRRjbcKfHWD.jpg", Dr Romantic S1 E20
+https://hello-si-kacak.buntai.workers.dev/0:/series/Dr_%20Romantic/Season%201/Dr_%20Romantic_S01E20_Episode%2020.mp4
+#EXTINF:-1 type="series" group-title="KOREAN SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5WC5zEItQk7Av75osRRjbcKfHWD.jpg", Dr Romantic S1 E21
+https://hello-si-kacak.buntai.workers.dev/0:/series/Dr_%20Romantic/Season%201/Dr_%20Romantic_S01E21_Episode%2021.mp4
 
-#EXTINF:-1 type="movie" tvg-logo="https://cdn.textstudio.com/output/sample/normal/4/9/6/5/series-logo-570-5694.webp" group-title="FILM BARAT",Transformers: Dark of the Moon 
-https://www.googleapis.com/drive/v3/files/1LIgP9wx6Bq0Y3mAKuCrfrKofVGmDXedl?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4 
+#EXTINF:-1 type="series" group-title="KOREAN SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nPHQL0EvaGcPXISsTh3iFm3I9B2.jpg", Dr Romantic S2 E01
+https://hello-si-kacak.buntai.workers.dev/0:/series/Dr_%20Romantic/Season%202/Dr_%20Romantic_S02E01_Episode%201.mp4
+#EXTINF:-1 type="series" group-title="KOREAN SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nPHQL0EvaGcPXISsTh3iFm3I9B2.jpg", Dr Romantic S2 E02
+https://hello-si-kacak.buntai.workers.dev/0:/series/Dr_%20Romantic/Season%202/Dr_%20Romantic_S02E02_Episode%202.mp4
+#EXTINF:-1 type="series" group-title="KOREAN SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nPHQL0EvaGcPXISsTh3iFm3I9B2.jpg", Dr Romantic S2 E03
+https://hello-si-kacak.buntai.workers.dev/0:/series/Dr_%20Romantic/Season%202/Dr_%20Romantic_S02E03_Episode%203.mp4
+#EXTINF:-1 type="series" group-title="KOREAN SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nPHQL0EvaGcPXISsTh3iFm3I9B2.jpg", Dr Romantic S2 E04
+https://hello-si-kacak.buntai.workers.dev/0:/series/Dr_%20Romantic/Season%202/Dr_%20Romantic_S02E04_Episode%204.mp4
+#EXTINF:-1 type="series" group-title="KOREAN SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nPHQL0EvaGcPXISsTh3iFm3I9B2.jpg", Dr Romantic S2 E05
+https://hello-si-kacak.buntai.workers.dev/0:/series/Dr_%20Romantic/Season%202/Dr_%20Romantic_S02E05_Episode%205.mp4
+#EXTINF:-1 type="series" group-title="KOREAN SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nPHQL0EvaGcPXISsTh3iFm3I9B2.jpg", Dr Romantic S2 E06
+https://hello-si-kacak.buntai.workers.dev/0:/series/Dr_%20Romantic/Season%202/Dr_%20Romantic_S02E06_Episode%206.mp4
+#EXTINF:-1 type="series" group-title="KOREAN SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nPHQL0EvaGcPXISsTh3iFm3I9B2.jpg", Dr Romantic S2 E07
+https://hello-si-kacak.buntai.workers.dev/0:/series/Dr_%20Romantic/Season%202/Dr_%20Romantic_S02E07_Episode%207.mp4
+#EXTINF:-1 type="series" group-title="KOREAN SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nPHQL0EvaGcPXISsTh3iFm3I9B2.jpg", Dr Romantic S2 E08
+https://hello-si-kacak.buntai.workers.dev/0:/series/Dr_%20Romantic/Season%202/Dr_%20Romantic_S02E08_Episode%208.mp4
+#EXTINF:-1 type="series" group-title="KOREAN SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nPHQL0EvaGcPXISsTh3iFm3I9B2.jpg", Dr Romantic S2 E09
+https://hello-si-kacak.buntai.workers.dev/0:/series/Dr_%20Romantic/Season%202/Dr_%20Romantic_S02E09_Episode%209.mp4
+#EXTINF:-1 type="series" group-title="KOREAN SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nPHQL0EvaGcPXISsTh3iFm3I9B2.jpg", Dr Romantic S2 E10
+https://hello-si-kacak.buntai.workers.dev/0:/series/Dr_%20Romantic/Season%202/Dr_%20Romantic_S02E10_Episode%2010.mp4
+#EXTINF:-1 type="series" group-title="KOREAN SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nPHQL0EvaGcPXISsTh3iFm3I9B2.jpg", Dr Romantic S2 E11
+https://hello-si-kacak.buntai.workers.dev/0:/series/Dr_%20Romantic/Season%202/Dr_%20Romantic_S02E11_Episode%2011.mp4
+#EXTINF:-1 type="series" group-title="KOREAN SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nPHQL0EvaGcPXISsTh3iFm3I9B2.jpg", Dr Romantic S2 E12
+https://hello-si-kacak.buntai.workers.dev/0:/series/Dr_%20Romantic/Season%202/Dr_%20Romantic_S02E12_Episode%2012.mp4
+#EXTINF:-1 type="series" group-title="KOREAN SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nPHQL0EvaGcPXISsTh3iFm3I9B2.jpg", Dr Romantic S2 E13
+https://hello-si-kacak.buntai.workers.dev/0:/series/Dr_%20Romantic/Season%202/Dr_%20Romantic_S02E13_Episode%2013.mp4
+#EXTINF:-1 type="series" group-title="KOREAN SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nPHQL0EvaGcPXISsTh3iFm3I9B2.jpg", Dr Romantic S2 E14
+https://hello-si-kacak.buntai.workers.dev/0:/series/Dr_%20Romantic/Season%202/Dr_%20Romantic_S02E14_Episode%2014.mp4
+#EXTINF:-1 type="series" group-title="KOREAN SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nPHQL0EvaGcPXISsTh3iFm3I9B2.jpg", Dr Romantic S2 E15
+https://hello-si-kacak.buntai.workers.dev/0:/series/Dr_%20Romantic/Season%202/Dr_%20Romantic_S02E15_Episode%2015.mp4
+#EXTINF:-1 type="series" group-title="KOREAN SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nPHQL0EvaGcPXISsTh3iFm3I9B2.jpg", Dr Romantic S2 E16
+https://hello-si-kacak.buntai.workers.dev/0:/series/Dr_%20Romantic/Season%202/Dr_%20Romantic_S02E16_Episode%2016.mp4
+
+#EXTINF:-1 type="series" group-title="KOREAN SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9fbRJgZ2zDTnSUId1bOwsllHNr7.jpg", Dr Romantic S3 E01
+https://dtacmuar-my.sharepoint.com/personal/series3_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EazkeKWNZJZAnxc3TooP8VwBJ0sv1h9daunZTENdENMerQ
+#EXTINF:-1 type="series" group-title="KOREAN SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9fbRJgZ2zDTnSUId1bOwsllHNr7.jpg", Dr Romantic S3 E02
+https://dtacmuar-my.sharepoint.com/personal/series3_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EQz32oD2CjZLpwrg30iWc-YBOzXPDWu4MBGuJWqAzAvKxg
+#EXTINF:-1 type="series" group-title="KOREAN SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9fbRJgZ2zDTnSUId1bOwsllHNr7.jpg", Dr Romantic S3 E03
+https://dtacmuar-my.sharepoint.com/personal/series3_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=Ecap0PixloNGomUmAJSZvA4BNGVoLDkXnF26aeZ751u_DA
+#EXTINF:-1 type="series" group-title="KOREAN SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9fbRJgZ2zDTnSUId1bOwsllHNr7.jpg", Dr Romantic S3 E04
+https://dtacmuar-my.sharepoint.com/personal/series3_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EdM7WdCMtYlMoD8d4-1uR4oBxuAErLk211p0AQwY0coMKA
+#EXTINF:-1 type="series" group-title="KOREAN SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9fbRJgZ2zDTnSUId1bOwsllHNr7.jpg", Dr Romantic S3 E05
+https://dtacmuar-my.sharepoint.com/personal/series3_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=ERNB1zujYAhGpctRw9mWo8wB54ZkTOsJI7aDZLFWbBus8A
+#EXTINF:-1 type="series" group-title="KOREAN SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9fbRJgZ2zDTnSUId1bOwsllHNr7.jpg", Dr Romantic S3 E06
+https://dtacmuar-my.sharepoint.com/personal/series3_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EQWjWwTnfoZLnsArW_GBgQUBlvDw7UD-XLXUIpKloJQ2ZA
+#EXTINF:-1 type="series" group-title="KOREAN SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9fbRJgZ2zDTnSUId1bOwsllHNr7.jpg", Dr Romantic S3 E07
+https://dtacmuar-my.sharepoint.com/personal/series3_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EWH__B8tOXBMnquZgXaUiDgBf3M2TN3THhYB0bVc6cfLVw
+#EXTINF:-1 type="series" group-title="KOREAN SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9fbRJgZ2zDTnSUId1bOwsllHNr7.jpg", Dr Romantic S3 E08
+https://dtacmuar-my.sharepoint.com/personal/series3_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EUuTVJg2BT9EjgnVJiWV40MBxMsZgGi69Zt3ak4HjV-7lg
+#EXTINF:-1 type="series" group-title="KOREAN SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9fbRJgZ2zDTnSUId1bOwsllHNr7.jpg", Dr Romantic S3 E09
+https://dtacmuar-my.sharepoint.com/personal/series3_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EXTeySP9-95Kmx_suqoH_PsBjJRIX2FIeSJdqUAHvvUuTg
+#EXTINF:-1 type="series" group-title="KOREAN SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9fbRJgZ2zDTnSUId1bOwsllHNr7.jpg", Dr Romantic S3 E10
+https://dtacmuar-my.sharepoint.com/personal/series3_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EVIs6skTb-pPkszrisVMYAsB3kRBMlQNZgS_3fo_to4aNw
+#EXTINF:-1 type="series" group-title="KOREAN SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9fbRJgZ2zDTnSUId1bOwsllHNr7.jpg", Dr Romantic S3 E11
+https://dtacmuar-my.sharepoint.com/personal/series3_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=ESNTUiDcX-5IjLzCNZ1CvScBsvtPZShk_qIx2CsbKSFcdA
+#EXTINF:-1 type="series" group-title="KOREAN SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9fbRJgZ2zDTnSUId1bOwsllHNr7.jpg", Dr Romantic S3 E12
+https://dtacmuar-my.sharepoint.com/personal/series3_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=Ee28tJzsbDtBlMsoD1h8ZfcBDnjJmoKz5JBzrEmyFaMvaA
+#EXTINF:-1 type="series" group-title="KOREAN SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9fbRJgZ2zDTnSUId1bOwsllHNr7.jpg", Dr Romantic S3 E13
+https://dtacmuar-my.sharepoint.com/personal/series3_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EVmn4y0g7w1KrtNWbomcEnEBATq2qi_A_a_WZnGMpqnQAA
+#EXTINF:-1 type="series" group-title="KOREAN SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9fbRJgZ2zDTnSUId1bOwsllHNr7.jpg", Dr Romantic S3 E14
+https://dtacmuar-my.sharepoint.com/personal/series3_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EfcG3FVruylOmrVFMamGEK0B0Qi5J36dN_yB9tYrsh_Y0Q
+#EXTINF:-1 type="series" group-title="KOREAN SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9fbRJgZ2zDTnSUId1bOwsllHNr7.jpg", Dr Romantic S3 E15
+https://dtacmuar-my.sharepoint.com/personal/series3_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=ESjeD1BIXG1FsDdvdzFKpyQBIW-NbMY99ag0VcF3sXPVqw
+#EXTINF:-1 type="series" group-title="KOREAN SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9fbRJgZ2zDTnSUId1bOwsllHNr7.jpg", Dr Romantic S3 E16
+https://dtacmuar-my.sharepoint.com/personal/series3_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EaLYKoDwjGxPsCjZWbxlIQcB_nRn7IpkfhjvcIOE8xtegw
+
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pgQi1PWt7Wop3o7XJLv2zGbPW5E.jpg", Lelaki Itu (2024) S1 E01
+https://calm-rain-70b4.buntai.workers.dev/0:/series/Lelaki%20Itu/%5B@Kongsi_Series%5Dlelaki.itu.EP1.720p.AAC.x264-KSO.mp4
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pgQi1PWt7Wop3o7XJLv2zGbPW5E.jpg", Lelaki Itu (2024) S1 E02
+https://calm-rain-70b4.buntai.workers.dev/0:/series/Lelaki%20Itu/%5B@Kongsi_Series%5Dlelaki.itu.EP2.720p.AAC.x264-KSO.mp4
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pgQi1PWt7Wop3o7XJLv2zGbPW5E.jpg", Lelaki Itu (2024) S1 E03
+https://calm-rain-70b4.buntai.workers.dev/0:/series/Lelaki%20Itu/%5B@Kongsi_Series%5Dlelaki.itu.EP3.720p.AAC.x264-KSO.mp4
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pgQi1PWt7Wop3o7XJLv2zGbPW5E.jpg", Lelaki Itu (2024) S1 E04
+https://calm-rain-70b4.buntai.workers.dev/0:/series/Lelaki%20Itu/%5B@Kongsi_Series%5Dlelaki.itu.EP4.720p.AAC.x264-KSO.mp4
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pgQi1PWt7Wop3o7XJLv2zGbPW5E.jpg", Lelaki Itu (2024) S1 E05
+https://calm-rain-70b4.buntai.workers.dev/0:/series/Lelaki%20Itu/%5B@Kongsi_Series%5Dlelaki.itu.EP5.720p.AAC.x264-KSO.mp4
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pgQi1PWt7Wop3o7XJLv2zGbPW5E.jpg", Lelaki Itu (2024) S1 E06
+https://calm-rain-70b4.buntai.workers.dev/0:/series/Lelaki%20Itu/%5B@Kongsi_Series%5Dlelaki.itu.EP6.720p.AAC.x264-KSO.mp4
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pgQi1PWt7Wop3o7XJLv2zGbPW5E.jpg", Lelaki Itu (2024) S1 E07
+https://calm-rain-70b4.buntai.workers.dev/0:/series/Lelaki%20Itu/%5B@Kongsi_Series%5Dlelaki.itu.EP7.720p.AAC.x264-KSO.mp4
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pgQi1PWt7Wop3o7XJLv2zGbPW5E.jpg", Lelaki Itu (2024) S1 E08
+https://calm-rain-70b4.buntai.workers.dev/0:/series/Lelaki%20Itu/%5B@Kongsi_Series%5Dlelaki.itu.EP8.720p.AAC.x264-KSO.mp4
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pgQi1PWt7Wop3o7XJLv2zGbPW5E.jpg", Lelaki Itu (2024) S1 E09
+https://calm-rain-70b4.buntai.workers.dev/0:/series/Lelaki%20Itu/%5B@Kongsi_Series%5Dlelaki.itu.EP9.720p.AAC.x264-KSO.mp4
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pgQi1PWt7Wop3o7XJLv2zGbPW5E.jpg", Lelaki Itu (2024) S1 E10
+https://calm-rain-70b4.buntai.workers.dev/0:/series/Lelaki%20Itu/%5B@Kongsi_Series%5Dlelaki.itu.EP10.720p.AAC.x264-KSO.mp4
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pgQi1PWt7Wop3o7XJLv2zGbPW5E.jpg", Lelaki Itu (2024) S1 E11
+https://calm-rain-70b4.buntai.workers.dev/0:/series/Lelaki%20Itu/%5B@Kongsi_Series%5Dlelaki.itu.EP11.720p.AAC.x264-KSO.mp4
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pgQi1PWt7Wop3o7XJLv2zGbPW5E.jpg", Lelaki Itu (2024) S1 E12
+https://calm-rain-70b4.buntai.workers.dev/0:/series/Lelaki%20Itu/%5B@Kongsi_Series%5Dlelaki.itu.EP12.720p.AAC.x264-KSO.mp4
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pgQi1PWt7Wop3o7XJLv2zGbPW5E.jpg", Lelaki Itu (2024) S1 E13
+https://calm-rain-70b4.buntai.workers.dev/0:/series/Lelaki%20Itu/%5B@Kongsi_Series%5Dlelaki.itu.EP13.720p.AAC.x264-KSO.mp4
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pgQi1PWt7Wop3o7XJLv2zGbPW5E.jpg", Lelaki Itu (2024) S1 E14
+https://calm-rain-70b4.buntai.workers.dev/0:/series/Lelaki%20Itu/%5B@Kongsi_Series%5Dlelaki.itu.EP14.720p.AAC.x264-KSO.mp4
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pgQi1PWt7Wop3o7XJLv2zGbPW5E.jpg", Lelaki Itu (2024) S1 E15
+https://calm-rain-70b4.buntai.workers.dev/0:/series/Lelaki%20Itu/%5B@Kongsi_Series%5Dlelaki.itu.EP15.720p.AAC.x264-KSO.mp4
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pgQi1PWt7Wop3o7XJLv2zGbPW5E.jpg", Lelaki Itu (2024) S1 E16
+https://calm-rain-70b4.buntai.workers.dev/0:/series/Lelaki%20Itu/%5B@Kongsi_Series%5Dlelaki.itu.EP16.720p.AAC.x264-KSO.mp4
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pgQi1PWt7Wop3o7XJLv2zGbPW5E.jpg", Lelaki Itu (2024) S1 E17
+https://calm-rain-70b4.buntai.workers.dev/0:/series/Lelaki%20Itu/%5B@Kongsi_Series%5Dlelaki.itu.EP17.720p.AAC.x264-KSO.mp4
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pgQi1PWt7Wop3o7XJLv2zGbPW5E.jpg", Lelaki Itu (2024) S1 E18
+https://calm-rain-70b4.buntai.workers.dev/0:/series/Lelaki%20Itu/%5B@Kongsi_Series%5Dlelaki.itu.EP18.720p.AAC.x264-KSO.mp4
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pgQi1PWt7Wop3o7XJLv2zGbPW5E.jpg", Lelaki Itu (2024) S1 E19
+https://calm-rain-70b4.buntai.workers.dev/0:/series/Lelaki%20Itu/%5B@Kongsi_Series%5Dlelaki.itu.EP19.720p.AAC.x264-KSO.mp4
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pgQi1PWt7Wop3o7XJLv2zGbPW5E.jpg", Lelaki Itu (2024) S1 E20
+https://calm-rain-70b4.buntai.workers.dev/0:/series/Lelaki%20Itu/Lelaki%20Itu%20(2024)%20EP20.mp4
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pgQi1PWt7Wop3o7XJLv2zGbPW5E.jpg", Lelaki Itu (2024) S1 E21
+https://calm-rain-70b4.buntai.workers.dev/0:/series/Lelaki%20Itu/Lelaki%20Itu%20(2024)%20EP21.mp4
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pgQi1PWt7Wop3o7XJLv2zGbPW5E.jpg", Lelaki Itu (2024) S1 E22
+https://calm-rain-70b4.buntai.workers.dev/0:/series/Lelaki%20Itu/%5B@Kongsi_Series%5Dlelaki.itu.EP22.720p.AAC.x264-KSO.mp4
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pgQi1PWt7Wop3o7XJLv2zGbPW5E.jpg", Lelaki Itu (2024) S1 E23
+https://calm-rain-70b4.buntai.workers.dev/0:/series/Lelaki%20Itu/%5B@Kongsi_Series%5Dlelaki.itu.EP23.720p.AAC.x264-KSO.mp4
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pgQi1PWt7Wop3o7XJLv2zGbPW5E.jpg", Lelaki Itu (2024) S1 E24
+https://calm-rain-70b4.buntai.workers.dev/0:/series/Lelaki%20Itu/%5B@Kongsi_Series%5Dlelaki.itu.EP24.720p.AAC.x264-KSO.mp4
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pgQi1PWt7Wop3o7XJLv2zGbPW5E.jpg", Lelaki Itu (2024) S1 E25
+https://calm-rain-70b4.buntai.workers.dev/0:/series/Lelaki%20Itu/lelaki.itu.EP25.720p.AAC.x264-KSO.mp4
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pgQi1PWt7Wop3o7XJLv2zGbPW5E.jpg", Lelaki Itu (2024) S1 E26
+https://calm-rain-70b4.buntai.workers.dev/0:/series/Lelaki%20Itu/Lelaki%20Itu%20(2024)%20EP26.mp4
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pgQi1PWt7Wop3o7XJLv2zGbPW5E.jpg", Lelaki Itu (2024) S1 E27
+https://calm-rain-70b4.buntai.workers.dev/0:/series/Lelaki%20Itu/%5B@Kongsi_Series%5Dlelaki.itu.2024.EP27.720p.AAC.x264-KSO.mp4
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pgQi1PWt7Wop3o7XJLv2zGbPW5E.jpg", Lelaki Itu (2024) S1 E28
+https://calm-rain-70b4.buntai.workers.dev/0:/series/Lelaki%20Itu/Lelaki%20Itu%20(2024)%20EP28.mp4
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pgQi1PWt7Wop3o7XJLv2zGbPW5E.jpg", Lelaki Itu (2024) S1 E29
+https://calm-rain-70b4.buntai.workers.dev/0:/series/Lelaki%20Itu/Lelaki%20Itu%20(2024)%20EP29.mp4
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pgQi1PWt7Wop3o7XJLv2zGbPW5E.jpg", Lelaki Itu (2024) S1 E30
+https://calm-rain-70b4.buntai.workers.dev/0:/series/Lelaki%20Itu/lelaki.itu.2024.EP30.Akhir.720p.AAC.x264-KSO.mp4
+
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://1.bp.blogspot.com/-vMoGhncYQgg/X8T03w9bdcI/AAAAAAAAKpY/D3TUbdCnoxkqCNnVDGqbk9hhLM4HkuxkACLcBGAsYHQ/s16000/Kampong%2BPisang%2BBersiri-Siri.jpg", Kampong Pisang Bersiri-Siri S01 E01
+https://hello-si-kacak.buntai.workers.dev/0:/series/Kampung%20Pisang%20Bersiri%20siri/Kampung%20Pisang%20Bersiri-siri%20Episod%201%20@portalmalay.mp4
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://1.bp.blogspot.com/-vMoGhncYQgg/X8T03w9bdcI/AAAAAAAAKpY/D3TUbdCnoxkqCNnVDGqbk9hhLM4HkuxkACLcBGAsYHQ/s16000/Kampong%2BPisang%2BBersiri-Siri.jpg", Kampong Pisang Bersiri-Siri S01 E02
+https://hello-si-kacak.buntai.workers.dev/0:/series/Kampung%20Pisang%20Bersiri%20siri/Kampung%20Pisang%20Bersiri-siri%20Episod%202%20@portalmalay.mp4
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://1.bp.blogspot.com/-vMoGhncYQgg/X8T03w9bdcI/AAAAAAAAKpY/D3TUbdCnoxkqCNnVDGqbk9hhLM4HkuxkACLcBGAsYHQ/s16000/Kampong%2BPisang%2BBersiri-Siri.jpg", Kampong Pisang Bersiri-Siri S01 E03
+https://hello-si-kacak.buntai.workers.dev/0:/series/Kampung%20Pisang%20Bersiri%20siri/Kampung%20Pisang%20Bersiri-siri%20Episod%203%20@portalmalay.mp4
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://1.bp.blogspot.com/-vMoGhncYQgg/X8T03w9bdcI/AAAAAAAAKpY/D3TUbdCnoxkqCNnVDGqbk9hhLM4HkuxkACLcBGAsYHQ/s16000/Kampong%2BPisang%2BBersiri-Siri.jpg", Kampong Pisang Bersiri-Siri S01 E04
+https://hello-si-kacak.buntai.workers.dev/0:/series/Kampung%20Pisang%20Bersiri%20siri/Kampung%20Pisang%20Bersiri-siri%20Episod%204%20@portalmalay.mkv
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://1.bp.blogspot.com/-vMoGhncYQgg/X8T03w9bdcI/AAAAAAAAKpY/D3TUbdCnoxkqCNnVDGqbk9hhLM4HkuxkACLcBGAsYHQ/s16000/Kampong%2BPisang%2BBersiri-Siri.jpg", Kampong Pisang Bersiri-Siri S01 E05
+https://hello-si-kacak.buntai.workers.dev/0:/series/Kampung%20Pisang%20Bersiri%20siri/Kampung%20Pisang%20Bersiri-siri%20Episod%205%20@portalmalay.mp4
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://1.bp.blogspot.com/-vMoGhncYQgg/X8T03w9bdcI/AAAAAAAAKpY/D3TUbdCnoxkqCNnVDGqbk9hhLM4HkuxkACLcBGAsYHQ/s16000/Kampong%2BPisang%2BBersiri-Siri.jpg", Kampong Pisang Bersiri-Siri S01 E06
+https://hello-si-kacak.buntai.workers.dev/0:/series/Kampung%20Pisang%20Bersiri%20siri/Kampung%20Pisang%20Bersiri-siri%20Episod%206%20@portalmalay.mkv
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://1.bp.blogspot.com/-vMoGhncYQgg/X8T03w9bdcI/AAAAAAAAKpY/D3TUbdCnoxkqCNnVDGqbk9hhLM4HkuxkACLcBGAsYHQ/s16000/Kampong%2BPisang%2BBersiri-Siri.jpg", Kampong Pisang Bersiri-Siri S01 E07
+https://hello-si-kacak.buntai.workers.dev/0:/series/Kampung%20Pisang%20Bersiri%20siri/Kampung%20Pisang%20Bersiri-siri%20Episod%207%20@portalmalay.mp4
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://1.bp.blogspot.com/-vMoGhncYQgg/X8T03w9bdcI/AAAAAAAAKpY/D3TUbdCnoxkqCNnVDGqbk9hhLM4HkuxkACLcBGAsYHQ/s16000/Kampong%2BPisang%2BBersiri-Siri.jpg", Kampong Pisang Bersiri-Siri S01 E08
+https://hello-si-kacak.buntai.workers.dev/0:/series/Kampung%20Pisang%20Bersiri%20siri/Kampung%20Pisang%20Bersiri-siri%20Episod%208%20@portalmalay.mp4
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://1.bp.blogspot.com/-vMoGhncYQgg/X8T03w9bdcI/AAAAAAAAKpY/D3TUbdCnoxkqCNnVDGqbk9hhLM4HkuxkACLcBGAsYHQ/s16000/Kampong%2BPisang%2BBersiri-Siri.jpg", Kampong Pisang Bersiri-Siri S01 E09
+https://hello-si-kacak.buntai.workers.dev/0:/series/Kampung%20Pisang%20Bersiri%20siri/Kampung%20Pisang%20Bersiri-siri%20Episod%209%20@portalmalay.mp4
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://1.bp.blogspot.com/-vMoGhncYQgg/X8T03w9bdcI/AAAAAAAAKpY/D3TUbdCnoxkqCNnVDGqbk9hhLM4HkuxkACLcBGAsYHQ/s16000/Kampong%2BPisang%2BBersiri-Siri.jpg", Kampong Pisang Bersiri-Siri S01 E10
+https://hello-si-kacak.buntai.workers.dev/0:/series/Kampung%20Pisang%20Bersiri%20siri/Kampung%20Pisang%20Bersiri-siri%20Episod%2010%20@portalmalay.mp4
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://1.bp.blogspot.com/-vMoGhncYQgg/X8T03w9bdcI/AAAAAAAAKpY/D3TUbdCnoxkqCNnVDGqbk9hhLM4HkuxkACLcBGAsYHQ/s16000/Kampong%2BPisang%2BBersiri-Siri.jpg", Kampong Pisang Bersiri-Siri S01 E11
+https://hello-si-kacak.buntai.workers.dev/0:/series/Kampung%20Pisang%20Bersiri%20siri/Kampung%20Pisang%20Bersiri-siri%20Episod%2011%20@portalmalay.mp4
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://1.bp.blogspot.com/-vMoGhncYQgg/X8T03w9bdcI/AAAAAAAAKpY/D3TUbdCnoxkqCNnVDGqbk9hhLM4HkuxkACLcBGAsYHQ/s16000/Kampong%2BPisang%2BBersiri-Siri.jpg", Kampong Pisang Bersiri-Siri S01 E12
+https://hello-si-kacak.buntai.workers.dev/0:/series/Kampung%20Pisang%20Bersiri%20siri/Kampung%20Pisang%20Bersiri-siri%20Episod%2012%20@portalmalay.mp4
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://1.bp.blogspot.com/-vMoGhncYQgg/X8T03w9bdcI/AAAAAAAAKpY/D3TUbdCnoxkqCNnVDGqbk9hhLM4HkuxkACLcBGAsYHQ/s16000/Kampong%2BPisang%2BBersiri-Siri.jpg", Kampong Pisang Bersiri-Siri S01 E13
+https://hello-si-kacak.buntai.workers.dev/0:/series/Kampung%20Pisang%20Bersiri%20siri/Kampung%20Pisang%20Bersiri-siri%20Episod%2013%20@portalmalay.mp4
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://1.bp.blogspot.com/-vMoGhncYQgg/X8T03w9bdcI/AAAAAAAAKpY/D3TUbdCnoxkqCNnVDGqbk9hhLM4HkuxkACLcBGAsYHQ/s16000/Kampong%2BPisang%2BBersiri-Siri.jpg", Kampong Pisang Bersiri-Siri S01 E14
+https://hello-si-kacak.buntai.workers.dev/0:/series/Kampung%20Pisang%20Bersiri%20siri/Kampung%20Pisang%20Bersiri-siri%20Episod%2014%20@portalmalay.mp4
+
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://i.imgur.com/Z4C2Vqx.jpeg", Takdir Itu Milik Aku (2024) S1 E01
+https://worker-delicate-rain-inas.buntai.workers.dev/0:/series/Takdir%20Itu%20Milik%20Aku/Takdir.Itu.Milik.Aku.2024.EP1.720p.AACx264-Me&Friend.Mp4
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://i.imgur.com/Z4C2Vqx.jpeg", Takdir Itu Milik Aku (2024) S1 E02
+https://worker-delicate-rain-inas.buntai.workers.dev/0:/series/Takdir%20Itu%20Milik%20Aku/Takdir%20Itu%20Milik%20Aku%20(2024)%20EP2.mp4
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://i.imgur.com/Z4C2Vqx.jpeg", Takdir Itu Milik Aku (2024) S1 E03
+https://worker-delicate-rain-inas.buntai.workers.dev/0:/series/Takdir%20Itu%20Milik%20Aku/Takdir.Itu.Milik.Aku.EP3.720p.AAC.x264-KSO.mp4
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://i.imgur.com/Z4C2Vqx.jpeg", Takdir Itu Milik Aku (2024) S1 E04
+https://worker-delicate-rain-inas.buntai.workers.dev/0:/series/Takdir%20Itu%20Milik%20Aku/Takdir%20Itu%20Milik%20Aku%20(2024)%20EP4.mp4
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://i.imgur.com/Z4C2Vqx.jpeg", Takdir Itu Milik Aku (2024) S1 E05
+https://worker-delicate-rain-inas.buntai.workers.dev/0:/series/Takdir%20Itu%20Milik%20Aku/Takdir.Itu.Milik.Aku.EP5.720p.AAC.x264-KSO.mp4
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://i.imgur.com/Z4C2Vqx.jpeg", Takdir Itu Milik Aku (2024) S1 E06
+https://worker-delicate-rain-inas.buntai.workers.dev/0:/series/Takdir%20Itu%20Milik%20Aku/Takdir.Itu.Milik.Aku.EP6.720p.AAC.x264-KSO.mp4
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://i.imgur.com/Z4C2Vqx.jpeg", Takdir Itu Milik Aku (2024) S1 E07
+https://worker-delicate-rain-inas.buntai.workers.dev/0:/series/Takdir%20Itu%20Milik%20Aku/Takdir%20Itu%20Milik%20Aku%20(2024)%20EP7.mp4
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://i.imgur.com/Z4C2Vqx.jpeg", Takdir Itu Milik Aku (2024) S1 E08
+https://worker-delicate-rain-inas.buntai.workers.dev/0:/series/Takdir%20Itu%20Milik%20Aku/Takdir%20Itu%20Milik%20Aku%20(2024)%20EP8.mp4
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://i.imgur.com/Z4C2Vqx.jpeg", Takdir Itu Milik Aku (2024) S1 E09
+https://worker-delicate-rain-inas.buntai.workers.dev/0:/series/Takdir%20Itu%20Milik%20Aku/Takdir%20Itu%20Milik%20Aku%20(2024)%20EP09%20Malay.mp4
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://i.imgur.com/Z4C2Vqx.jpeg", Takdir Itu Milik Aku (2024) S1 E10
+https://worker-delicate-rain-inas.buntai.workers.dev/0:/series/Takdir%20Itu%20Milik%20Aku/Takdir%20Itu%20Milik%20Aku%20(2024)%20EP10.mp4
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://i.imgur.com/Z4C2Vqx.jpeg", Takdir Itu Milik Aku (2024) S1 E11
+https://worker-delicate-rain-inas.buntai.workers.dev/0:/series/Takdir%20Itu%20Milik%20Aku/Takdir%20Itu%20Milik%20Aku%20(2024)%20EP11.mp4
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://i.imgur.com/Z4C2Vqx.jpeg", Takdir Itu Milik Aku (2024) S1 E12
+https://worker-delicate-rain-inas.buntai.workers.dev/0:/series/Takdir%20Itu%20Milik%20Aku/Takdir%20Itu%20Milik%20Aku%20(2024)%20EP12.mp4
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://i.imgur.com/Z4C2Vqx.jpeg", Takdir Itu Milik Aku (2024) S1 E13
+https://worker-delicate-rain-inas.buntai.workers.dev/0:/series/Takdir%20Itu%20Milik%20Aku/Takdir%20Itu%20Milik%20Aku%20(2024)%20EP13.mp4
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://i.imgur.com/Z4C2Vqx.jpeg", Takdir Itu Milik Aku (2024) S1 E14
+https://worker-delicate-rain-inas.buntai.workers.dev/0:/series/Takdir%20Itu%20Milik%20Aku/Takdir%20Itu%20Milik%20Aku%20(2024)%20EP14.mp4
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://i.imgur.com/Z4C2Vqx.jpeg", Takdir Itu Milik Aku (2024) S1 E15
+https://worker-delicate-rain-inas.buntai.workers.dev/0:/series/Takdir%20Itu%20Milik%20Aku/Takdir%20Itu%20Milik%20Aku%20(2024)%20EP15.mp4
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://i.imgur.com/Z4C2Vqx.jpeg", Takdir Itu Milik Aku (2024) S1 E16
+https://worker-delicate-rain-inas.buntai.workers.dev/0:/series/Takdir%20Itu%20Milik%20Aku/Takdir%20Itu%20Milik%20Aku%20(2024)%20EP16.mp4
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://i.imgur.com/Z4C2Vqx.jpeg", Takdir Itu Milik Aku (2024) S1 E17
+https://worker-delicate-rain-inas.buntai.workers.dev/0:/series/Takdir%20Itu%20Milik%20Aku/Takdir%20Itu%20Milik%20Aku%20(2024)%20EP17.mp4
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://i.imgur.com/Z4C2Vqx.jpeg", Takdir Itu Milik Aku (2024) S1 E18
+https://worker-delicate-rain-inas.buntai.workers.dev/0:/series/Takdir%20Itu%20Milik%20Aku/Takdir%20Itu%20Milik%20Aku%20(2024)%20EP18%20Malay.mp4
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://i.imgur.com/Z4C2Vqx.jpeg", Takdir Itu Milik Aku (2024) S1 E19
+https://worker-delicate-rain-inas.buntai.workers.dev/0:/series/Takdir%20Itu%20Milik%20Aku/Takdir%20Itu%20Milik%20Aku%20(2024)%20EP19.mp4
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://i.imgur.com/Z4C2Vqx.jpeg", Takdir Itu Milik Aku (2024) S1 E20
+https://worker-delicate-rain-inas.buntai.workers.dev/0:/series/Takdir%20Itu%20Milik%20Aku/Takdir%20Itu%20Milik%20Aku%20(2024)%20EP20.mp4
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://i.imgur.com/Z4C2Vqx.jpeg", Takdir Itu Milik Aku (2024) S1 E21
+https://worker-delicate-rain-inas.buntai.workers.dev/0:/series/Takdir%20Itu%20Milik%20Aku/Takdir%20Itu%20Milik%20Aku%20(2024)%20EP21__BasahJeruk.mkv
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://i.imgur.com/Z4C2Vqx.jpeg", Takdir Itu Milik Aku (2024) S1 E22
+https://worker-delicate-rain-inas.buntai.workers.dev/0:/series/Takdir%20Itu%20Milik%20Aku/Takdir%20Itu%20Milik%20Aku%20(2024)%20EP22_Credit%20DramaSangatzzz.mp4
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://i.imgur.com/Z4C2Vqx.jpeg", Takdir Itu Milik Aku (2024) S1 E23
+https://worker-delicate-rain-inas.buntai.workers.dev/0:/series/Takdir%20Itu%20Milik%20Aku/Takdir%20Itu%20Milik%20Aku%20(2024)%20EP23_Credit%20DramaSangatzzz.mkv
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://i.imgur.com/Z4C2Vqx.jpeg", Takdir Itu Milik Aku (2024) S1 E24
+https://worker-delicate-rain-inas.buntai.workers.dev/0:/series/Takdir%20Itu%20Milik%20Aku/Takdir%20Itu%20Milik%20Aku%20(2024)%20EP24.mp4
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://i.imgur.com/Z4C2Vqx.jpeg", Takdir Itu Milik Aku (2024) S1 E25
+https://worker-delicate-rain-inas.buntai.workers.dev/0:/series/Takdir%20Itu%20Milik%20Aku/Takdir%20Itu%20Milik%20Aku%202024%20EP25.mp4
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://i.imgur.com/Z4C2Vqx.jpeg", Takdir Itu Milik Aku (2024) S1 E26
+https://worker-delicate-rain-inas.buntai.workers.dev/0:/series/Takdir%20Itu%20Milik%20Aku/Takdir%20Itu%20Milik%20Aku%20EP26%20APFLIX.mp4
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://i.imgur.com/Z4C2Vqx.jpeg", Takdir Itu Milik Aku (2024) S1 E27
+https://worker-delicate-rain-inas.buntai.workers.dev/0:/series/Takdir%20Itu%20Milik%20Aku/Takdir%20Itu%20Milik%20Aku%20EP27%20APFLIX.mp4
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://i.imgur.com/Z4C2Vqx.jpeg", Takdir Itu Milik Aku (2024) S1 E28
+https://worker-delicate-rain-inas.buntai.workers.dev/0:/series/Takdir%20Itu%20Milik%20Aku/Takdir%20Itu%20Milik%20Aku%20(2024)%20EP28.mp4
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://i.imgur.com/Z4C2Vqx.jpeg", Takdir Itu Milik Aku (2024) S1 E29
+https://worker-delicate-rain-inas.buntai.workers.dev/0:/series/Takdir%20Itu%20Milik%20Aku/Takdir%20Itu%20Milik%20Aku%20(2024)%20EP29.mp4
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://i.imgur.com/Z4C2Vqx.jpeg", Takdir Itu Milik Aku (2024) S1 E30
+https://worker-delicate-rain-inas.buntai.workers.dev/0:/series/Takdir%20Itu%20Milik%20Aku/Takdir%20Itu%20Milik%20Aku%20(2024)%20EP30.mp4
+
+
+#EXTINF:-1 type="series" group-title="ENGLISH SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mYLOqiStMxDK3fYZFirgrMt8z5d.jpg", LOTR The Rings of Power S1 E01
+https://hello-si-kacak.buntai.workers.dev/0:/series/TLOTR/S1/The.Lord.of.the.Rings.The.Rings.of.Power.EP1.1080p.WEB-OMG.mp4
+#EXTINF:-1 type="series" group-title="ENGLISH SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mYLOqiStMxDK3fYZFirgrMt8z5d.jpg", LOTR The Rings of Power S1 E02
+https://hello-si-kacak.buntai.workers.dev/0:/series/TLOTR/S1/The.Lord.of.the.Rings.The.Rings.of.Power.EP2.1080p.WEB-OMG.mp4
+#EXTINF:-1 type="series" group-title="ENGLISH SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mYLOqiStMxDK3fYZFirgrMt8z5d.jpg", LOTR The Rings of Power S1 E03
+https://hello-si-kacak.buntai.workers.dev/0:/series/TLOTR/S1/The.Lord.of.the.Rings.The.Rings.of.Power.EP3.1080p.WEB-OMG.mp4
+#EXTINF:-1 type="series" group-title="ENGLISH SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mYLOqiStMxDK3fYZFirgrMt8z5d.jpg", LOTR The Rings of Power S1 E04
+https://hello-si-kacak.buntai.workers.dev/0:/series/TLOTR/S1/The.Lord.of.the.Rings.The.Rings.of.Power.EP4.1080p.WEB-OMG.mp4
+#EXTINF:-1 type="series" group-title="ENGLISH SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mYLOqiStMxDK3fYZFirgrMt8z5d.jpg", LOTR The Rings of Power S1 E05
+https://hello-si-kacak.buntai.workers.dev/0:/series/TLOTR/S1/The.Lord.of.the.Rings.The.Rings.of.Power.EP5.1080p.WEB-OMG.mp4
+#EXTINF:-1 type="series" group-title="ENGLISH SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mYLOqiStMxDK3fYZFirgrMt8z5d.jpg", LOTR The Rings of Power S1 E06
+https://hello-si-kacak.buntai.workers.dev/0:/series/TLOTR/S1/The.Lord.of.the.Rings.The.Rings.of.Power.EP6.1080p.WEB-OMG.mp4
+#EXTINF:-1 type="series" group-title="ENGLISH SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mYLOqiStMxDK3fYZFirgrMt8z5d.jpg", LOTR The Rings of Power S1 E07
+https://hello-si-kacak.buntai.workers.dev/0:/series/TLOTR/S1/The.Lord.of.the.Rings.The.Rings.of.Power.EP7.1080p.WEB-OMG.mp4
+#EXTINF:-1 type="series" group-title="ENGLISH SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mYLOqiStMxDK3fYZFirgrMt8z5d.jpg", LOTR The Rings of Power S1 E08
+https://hello-si-kacak.buntai.workers.dev/0:/series/TLOTR/S1/The.Lord.of.the.Rings.The.Rings.of.Power.EP8.1080p.WEB-OMG.mp4
+
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://i.imgur.com/VfcjV6g.jpeg", Nak Dengar Cerita Hantu (2023)  S1 E01
+https://dtacmuar-my.sharepoint.com/personal/series4_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EYDNUgn4_k1IrkvYEzPy4NYBz0-P7lYmWYNUvGHv8auxaw
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://i.imgur.com/VfcjV6g.jpeg", Nak Dengar Cerita Hantu (2023)  S1 E02
+https://dtacmuar-my.sharepoint.com/personal/series4_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EZN9WFi8OmdHrpuS02-w9mIBus1nvDootdOa18QYdWKYiw
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://i.imgur.com/VfcjV6g.jpeg", Nak Dengar Cerita Hantu (2023)  S1 E03
+https://dtacmuar-my.sharepoint.com/personal/series4_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=Ea6Jt2F12iVOvnIwwTJ06u4BxOKvN2saW8vCmmo-tlL3Iw
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://i.imgur.com/VfcjV6g.jpeg", Nak Dengar Cerita Hantu (2023)  S1 E04
+https://dtacmuar-my.sharepoint.com/personal/series4_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EZGdRiNxeUxGhu16ZVmS1q8BslJmCaHSt-Yn6ENJfVUKFQ
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://i.imgur.com/VfcjV6g.jpeg", Nak Dengar Cerita Hantu (2023)  S1 E05
+https://dtacmuar-my.sharepoint.com/personal/series4_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EUaVc4WIeXtCs1V8AOpSFpkByIygnhyrQ7VsYTLOKboNJg
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://i.imgur.com/VfcjV6g.jpeg", Nak Dengar Cerita Hantu (2023)  S1 E06
+https://dtacmuar-my.sharepoint.com/personal/series4_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EQq-G2wt3OFCtYsMrZ-jNGoB8iiWonprUota2ZJPw7-Oqw
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://i.imgur.com/VfcjV6g.jpeg", Nak Dengar Cerita Hantu (2023)  S1 E07
+https://dtacmuar-my.sharepoint.com/personal/series4_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=ETrhigf5AalEmz7hu8zkkloBPzmxwatY1b4Gweyt2rT9Ow
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://i.imgur.com/VfcjV6g.jpeg", Nak Dengar Cerita Hantu (2023)  S1 E08
+https://dtacmuar-my.sharepoint.com/personal/series4_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EZO3CRyWMbFFvATpaGl8pBwBt9UDSZD5ZnCwB5j-ofHXzw
+
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://i.imgur.com/IdtMinV.jpg", Layang Layang Perkahwinan (2024)  S1 E01
+https://worker-kasyah.buntai.workers.dev/0:/series/Layang%20Layang%20Perkahwinan/Layang%20Layang%20Perkahwinan%20(2024)%20EP1.mp4
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://i.imgur.com/IdtMinV.jpg", Layang Layang Perkahwinan (2024)  S1 E02
+https://worker-kasyah.buntai.workers.dev/0:/series/Layang%20Layang%20Perkahwinan/Layang%20Layang%20Perkahwinan%20(2024)%20EP2.mp4
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://i.imgur.com/IdtMinV.jpg", Layang Layang Perkahwinan (2024)  S1 E03
+https://worker-kasyah.buntai.workers.dev/0:/series/Layang%20Layang%20Perkahwinan/Layang%20Layang%20Perkahwinan%20(2024)%20EP3.mp4
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://i.imgur.com/IdtMinV.jpg", Layang Layang Perkahwinan (2024)  S1 E04
+https://worker-kasyah.buntai.workers.dev/0:/series/Layang%20Layang%20Perkahwinan/Layang%20Layang%20Perkahwinan%20(2024)%20EP4.mp4
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://i.imgur.com/IdtMinV.jpg", Layang Layang Perkahwinan (2024)  S1 E05
+https://worker-kasyah.buntai.workers.dev/0:/series/Layang%20Layang%20Perkahwinan/Layang%20Layang%20Perkahwinan%20(2024)%20EP5.mp4
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://i.imgur.com/IdtMinV.jpg", Layang Layang Perkahwinan (2024)  S1 E06
+https://worker-kasyah.buntai.workers.dev/0:/series/Layang%20Layang%20Perkahwinan/Layang%20Layang%20Perkahwinan%20(2024)%20EP6.mp4
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://i.imgur.com/IdtMinV.jpg", Layang Layang Perkahwinan (2024)  S1 E07
+https://worker-kasyah.buntai.workers.dev/0:/series/Layang%20Layang%20Perkahwinan/layang_layang_Perkahwinan_2023_EP7_720p_AAC_x264_KSO.mp4
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://i.imgur.com/IdtMinV.jpg", Layang Layang Perkahwinan (2024)  S1 E08
+https://worker-kasyah.buntai.workers.dev/0:/series/Layang%20Layang%20Perkahwinan/layang_layang_Perkahwinan_2023_EP8_720p_AAC_x264_KSO.mp4
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://i.imgur.com/IdtMinV.jpg", Layang Layang Perkahwinan (2024)  S1 E09
+https://worker-kasyah.buntai.workers.dev/0:/series/Layang%20Layang%20Perkahwinan/layang_layang_Perkahwinan_2023_EP9_720p_AAC_x264_KSO.mp4
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://i.imgur.com/IdtMinV.jpg", Layang Layang Perkahwinan (2024)  S1 E10
+https://worker-kasyah.buntai.workers.dev/0:/series/Layang%20Layang%20Perkahwinan/Layang%20Layang%20Perkahwinan%20(2024)%20EP10.mp4
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://i.imgur.com/IdtMinV.jpg", Layang Layang Perkahwinan (2024)  S1 E11
+https://worker-kasyah.buntai.workers.dev/0:/series/Layang%20Layang%20Perkahwinan/Layang%20Layang%20Perkahwinan%20(2024)%20EP11.mp4
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://i.imgur.com/IdtMinV.jpg", Layang Layang Perkahwinan (2024)  S1 E12
+https://worker-delicate-rain-inas.buntai.workers.dev/0:/series/Layang%20Layang%20Perkahwinan/layang_layang_Perkahwinan_2023_EP12_720p_AAC_x264.mp4
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://i.imgur.com/IdtMinV.jpg", Layang Layang Perkahwinan (2024)  S1 E13
+https://worker-delicate-rain-inas.buntai.workers.dev/0:/series/Layang%20Layang%20Perkahwinan/layang_layang_Perkahwinan_2023_EP13_720p_AAC_x264.mp4
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://i.imgur.com/IdtMinV.jpg", Layang Layang Perkahwinan (2024)  S1 E14
+https://worker-delicate-rain-inas.buntai.workers.dev/0:/series/Layang%20Layang%20Perkahwinan/layang_layang_Perkahwinan_2023_EP14_720p_AAC_x264.mp4
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://i.imgur.com/IdtMinV.jpg", Layang Layang Perkahwinan (2024)  S1 E15
+https://worker-delicate-rain-inas.buntai.workers.dev/0:/series/Layang%20Layang%20Perkahwinan/layang_layang_Perkahwinan_2023_EP15_720p_AAC_x264.mp4
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://i.imgur.com/IdtMinV.jpg", Layang Layang Perkahwinan (2024)  S1 E16
+https://worker-delicate-rain-inas.buntai.workers.dev/0:/series/Layang%20Layang%20Perkahwinan/layang_layang_Perkahwinan_2023_EP16_720p_AAC_x264.mp4
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://i.imgur.com/IdtMinV.jpg", Layang Layang Perkahwinan (2024)  S1 E17
+https://worker-delicate-rain-inas.buntai.workers.dev/0:/series/Layang%20Layang%20Perkahwinan/layang_layang_Perkahwinan_2023_EP17_720p_AAC_x264.mp4
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://i.imgur.com/IdtMinV.jpg", Layang Layang Perkahwinan (2024)  S1 E18
+https://worker-delicate-rain-inas.buntai.workers.dev/0:/series/Layang%20Layang%20Perkahwinan/Layang-layang%20Perkahwinan%20(2024)%20EP18.mp4
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://i.imgur.com/IdtMinV.jpg", Layang Layang Perkahwinan (2024)  S1 E19
+https://worker-delicate-rain-inas.buntai.workers.dev/0:/series/Layang%20Layang%20Perkahwinan/Layang-layang%20Perkahwinan%20(2024)%20EP19.mp4
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://i.imgur.com/IdtMinV.jpg", Layang Layang Perkahwinan (2024)  S1 E20
+https://worker-delicate-rain-inas.buntai.workers.dev/0:/series/Layang%20Layang%20Perkahwinan/layang_layang_Perkahwinan_2023_EP20_720p_AAC_.mp4
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://i.imgur.com/IdtMinV.jpg", Layang Layang Perkahwinan (2024)  S1 E21
+https://worker-delicate-rain-inas.buntai.workers.dev/0:/series/Layang%20Layang%20Perkahwinan/Layang%20Layang%20Perkahwinan%20(2024)%20EP21.mp4
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://i.imgur.com/IdtMinV.jpg", Layang Layang Perkahwinan (2024)  S1 E22
+https://worker-delicate-rain-inas.buntai.workers.dev/0:/series/Layang%20Layang%20Perkahwinan/Layang%20Layang%20Perkahwinan%20(2024)%20EP22.mp4
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://i.imgur.com/IdtMinV.jpg", Layang Layang Perkahwinan (2024)  S1 E23
+https://worker-delicate-rain-inas.buntai.workers.dev/0:/series/Layang%20Layang%20Perkahwinan/Layang%20Layang%20Perkahwinan%20(2024)%20EP23.mp4
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://i.imgur.com/IdtMinV.jpg", Layang Layang Perkahwinan (2024)  S1 E24
+https://worker-delicate-rain-inas.buntai.workers.dev/0:/series/Layang%20Layang%20Perkahwinan/Layang%20Layang%20Perkahwinan%20(2024)%20EP24.mp4
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://i.imgur.com/IdtMinV.jpg", Layang Layang Perkahwinan (2024)  S1 E25
+https://worker-delicate-rain-inas.buntai.workers.dev/0:/series/Layang%20Layang%20Perkahwinan/layang_layang_Perkahwinan_2023_EP25_720p_AAC_x264.mp4
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://i.imgur.com/IdtMinV.jpg", Layang Layang Perkahwinan (2024)  S1 E26
+https://worker-delicate-rain-inas.buntai.workers.dev/0:/series/Layang%20Layang%20Perkahwinan/layang_layang_Perkahwinan_2023_EP26_720p_AAC_x264.mp4
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://i.imgur.com/IdtMinV.jpg", Layang Layang Perkahwinan (2024)  S1 E27
+https://worker-delicate-rain-inas.buntai.workers.dev/0:/series/Layang%20Layang%20Perkahwinan/Layang%20Layang%20Perkahwinan%20(2024)%20EP27.mp4
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://i.imgur.com/IdtMinV.jpg", Layang Layang Perkahwinan (2024)  S1 E28
+https://worker-delicate-rain-inas.buntai.workers.dev/0:/series/Layang%20Layang%20Perkahwinan/Layang%20Layang%20Perkahwinan%20(2024)%20EP28%20Akhir.mp4
+
+ROCK
+
+#EXTINF:-1 type="movie" group-title="VOD MALAY" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/thumb/8/84/Rock_01.jpg/220px-Rock_01.jpg", Rock
+https://hello-si-kacak.buntai.workers.dev/0:/movie/Malay/Rock.mp4
+#EXTINF:-1 type="movie" group-title="VOD MALAY" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/d/d1/Rock_Oo_Poster_01.png", Rock Oo! Rimba Bara is back
+https://hello-si-kacak.buntai.workers.dev/0:/movie/Malay/Rock%20Oo!%20Rimba%20Bara%20is%20back.mp4
+#EXTINF:-1 type="movie" group-title="VOD MALAY" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzAyNTg0NTAtNTRmYy00YzhkLWI3MzUtYWY1OTc1ZDE1YWY4L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMzQyMjc3ODI@._V1_.jpg", Rock Bro
+https://hello-si-kacak.buntai.workers.dev/0:/movie/Malay/Rock%20Bro.mp4
+#EXTINF:-1 type="movie" group-title="VOD MALAY" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTkyMGZjMDEtYTc4Yi00MzUzLWEzYjUtNWU1N2M2OWE2MmU1XkEyXkFqcGdeQXVyODc1ODUxNjE@._V1_.jpg", Rock 4 Rockers Never Dai
+https://hello-si-kacak.buntai.workers.dev/0:/movie/Malay/Rock%204-%20Rockers%20Never%20Dai.mkv
+
+FAST & FURIOUS
+
+#EXTINF:-1 type="movie" group-title="VOD ENGLISH" tvg-logo="https://www.themoviedb.org/t/p/w500/gqY0ITBgT7A82poL9jv851qdnIb.jpg", The Fast and The Furious [2001]
+https://dtacmuar-my.sharepoint.com/personal/mubi1_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=Ed_85BTygldFo0BVmMnOA5QBBwb8Iu9zlZKmJf-Gju5Ezw
+#EXTINF:-1 type="movie" group-title="VOD ENGLISH" tvg-logo="https://www.themoviedb.org/t/p/w500/qC167IbZpSrwX7wWgg3BeDQbTDr.jpg", 2 Fast 2 Furious [2003]
+https://dtacmuar-my.sharepoint.com/personal/mubi1_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=ETO1JXohTiFEmIFcko69eWQBes5gVGjjK1WU5m_djKENKA
+#EXTINF:-1 type="movie" group-title="VOD ENGLISH" tvg-logo="https://www.themoviedb.org/t/p/w500/cm2ffqb3XovzA5ZSzyN3jnn8qv0.jpg", The Fast and The Furious Tokyo Drift [2006]
+https://dtacmuar-my.sharepoint.com/personal/mubi1_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EW9C5Y9CnkZNs_00AzmzLQsBJJEzq4D3SZab5UP1okWgTA
+#EXTINF:-1 type="movie" group-title="VOD ENGLISH" tvg-logo="https://www.themoviedb.org/t/p/original/pk8TyMix5QtQ1ND5MROfIPvx4XJ.jpg", Fast and Furious [2009]
+https://dtacmuar-my.sharepoint.com/personal/mubi1_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EaH8dIVoIApEjeGV0AhUug8BvhyIsmFgo5-EUVEJ2zKKuA
+#EXTINF:-1 type="movie" group-title="VOD ENGLISH" tvg-logo="https://www.themoviedb.org/t/p/w500/vDztZS30sheoqnJnKyO4QMnf3f8.jpg", Fast Five [2011]
+https://dtacmuar-my.sharepoint.com/personal/mubi1_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EQIqVF8BScJKpfwcaYJHcRoBvHfm2re3miK4YuVSqN5OKg
+#EXTINF:-1 type="movie" group-title="VOD ENGLISH" tvg-logo="https://www.themoviedb.org/t/p/w500/n31VRDodbaZxkrZmmzyYSFNVpW5.jpg", Fast and Furious 6 [2013]
+https://dtacmuar-my.sharepoint.com/personal/mubi1_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EWBgbiVY0JxPoZx3yZ5DN58BAr_xqFNvltCTC9iSRT-BJA
+#EXTINF:-1 type="movie" group-title="VOD ENGLISH" tvg-logo="https://www.themoviedb.org/t/p/original/jPFsjmFlTFmpIY41BP3C4sVYOKw.jpg", Furious 7 [2015]
+https://dtacmuar-my.sharepoint.com/personal/mubi1_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=Ea889maKkjVDge6x6VcSBogBccvvv5w4MnvSZaFPhsAphA
+#EXTINF:-1 type="movie" group-title="VOD ENGLISH" tvg-logo="https://www.themoviedb.org/t/p/w500/dImWM7GJqryWJO9LHa3XQ8DD5NH.jpg", The Fate Of The Furious [2017]
+https://dtacmuar-my.sharepoint.com/personal/mubi1_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EQ74OIUwaZ9Li3OWr4Le5XwBjO36Da8p4MPFAoIFWl6uCA
+#EXTINF:-1 type="movie" group-title="VOD ENGLISH" tvg-logo="https://www.themoviedb.org/t/p/w500/qRyy2UmjC5ur9bDi3kpNNRCc5nc.jpg", Fast & Furious Presents Hobbs & Shaw [2019]
+https://dtacmuar-my.sharepoint.com/personal/mubi1_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EYFJJhoqTdJOnXSIglFaOkUBV3yWfkGLT3gOj1s5HIeMKg
+
+TRANSPOTER
+
+#EXTINF:-1 type="movie" group-title="VOD ENGLISH" tvg-logo="https://www.themoviedb.org/t/p/w500/v3QIFUWgtVN4wejVuDZowuyJ20W.jpg", Transporter
+https://dtacmuar-my.sharepoint.com/personal/mubi1_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=Ec-qP4rgQAlGkh5IR8Y-ByQBrclpeMGZ0dv_KSHBcCmW4Q
+#EXTINF:-1 type="movie" group-title="VOD ENGLISH" tvg-logo="https://www.themoviedb.org/t/p/w500/cdm17vK8PxHfTi7ayZf6WKbOgUO.jpg", Transporter 2
+https://dtacmuar-my.sharepoint.com/personal/mubi1_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=Ecn5kiQ4R7BAnqvmHrWtLOABFwMApPpOeZK7D-iBIwcXUg
+#EXTINF:-1 type="movie" group-title="VOD ENGLISH" tvg-logo="https://www.themoviedb.org/t/p/w500/ngpLhUccj6mlvAVpiIa7jUcFxhT.jpg", Transporter 3
+https://dtacmuar-my.sharepoint.com/personal/mubi1_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EVRurJvLQPRCgNtkzY2xtywBC_KYUepK-3W_3SSaQ-QyPA
+#EXTINF:-1 type="movie" group-title="VOD ENGLISH" tvg-logo="https://www.themoviedb.org/t/p/w500/71kaQfdrMy0LHSeLRADsvlDGCgb.jpg", Transporter Refueled
+https://dtacmuar-my.sharepoint.com/personal/mubi1_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EZKqF7A79n1EhTb_xpg34DABHV6OZYPSdKA6kDIhkYCvRg
+
+JOHN WICK
+
+#EXTINF:-1 type="movie" group-title="VOD ENGLISH" tvg-logo="https://www.themoviedb.org/t/p/w500/fZPSd91yGE9fCcCe6OoQr6E3Bev.jpg", John Wick
+https://dtacmuar-my.sharepoint.com/personal/mubi2_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EUTDiYr__YRMi1m5qWQtVvEBlT6RN0N9mXW-jePR7uz2Bg
+#EXTINF:-1 type="movie" group-title="VOD ENGLISH" tvg-logo="https://www.themoviedb.org/t/p/original/vn4vJSzAvkHeVp6TSnjppotoLqQ.jpg", John Wick Chapter 2
+https://dtacmuar-my.sharepoint.com/personal/mubi2_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EcL4ZBQgbl5Ep6eAGyhVBdwBq3Xw_deL3yg_u2pPrcBAtg
+#EXTINF:-1 type="movie" group-title="VOD ENGLISH" tvg-logo="https://www.themoviedb.org/t/p/original/skprszS1enWcPFQk6eQ3k29pU29.jpg", John Wick Chapter 3 Parabellum
+https://dtacmuar-my.sharepoint.com/personal/mubi2_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=ER-PE-XMXGpGroHbkv9E2mABS61INyWFJ6j5FIS_EvfMww
+
+PLANET OF THE APES
+
+#EXTINF:-1 type="movie" group-title="VOD ENGLISH" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2IZcJHsTugOdyg0Y8ejj4CM2X3a.jpg", The Planet of The Apes (2001)
+https://dtacmuar-my.sharepoint.com/personal/sitamil_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EUqLJfn_TiJIvtljGjYk6BgBaATH6gRB6gMBluv4SnNKjw
+#EXTINF:-1 type="movie" group-title="VOD ENGLISH" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cjLsuP75UDlRdJVMXzXg3TJ4umX.jpg", Rise of The Planet of The Apes (2011)
+https://dtacmuar-my.sharepoint.com/personal/sitamil_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EQJkGc-h4VVJpW06b9mYic0BbcogiEIthDAODDiSvFVzwA
+#EXTINF:-1 type="movie" group-title="VOD ENGLISH" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kScdQEwS9jPEdnO23XjGAtaoRcT.jpg", Dawn of The Planet of The Apes (2014)
+https://dtacmuar-my.sharepoint.com/personal/sitamil_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EbjLkoBo6j1OoIj80_ni6ksBIAPzJmsQG1QjMTNO1y9mUA
+#EXTINF:-1 type="movie" group-title="VOD ENGLISH" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pbPwGTyiH5TjoTtarY5gM0z56kQ.jpg", War for The Planet of The Apes (2017)
+https://dtacmuar-my.sharepoint.com/personal/sitamil_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EbrFwptjxe1FtqUYwpJfvp8BaLoO4h1mCrmdUAeugwBZuw
+
+THE AVENGERS
+
+#EXTINF:-1 type="movie" group-title="VOD ENGLISH" tvg-logo="https://ww69.ohflix.net/uploads/video_thumb/955.jpg", The Avengers (2012)
+https://hello-si-kacak.buntai.workers.dev/0:/movie/English/The%20Avengers.mp4
+#EXTINF:-1 type="movie" group-title="VOD ENGLISH" tvg-logo="https://ww69.ohflix.net/uploads/video_thumb/1806.jpg", Avengers: Age of Ultron (2015)
+https://hello-si-kacak.buntai.workers.dev/0:/movie/English/AVENGERS%20AGE%20OF%20ULTRON%20(2015)%20.mp4
+#EXTINF:-1 type="movie" group-title="VOD ENGLISH" tvg-logo="https://ww69.ohflix.net/uploads/video_thumb/1041.jpg", Avengers: Infinity War (2018)
+https://hello-si-kacak.buntai.workers.dev/0:/movie/English/Avengers-%20Infinity%20War.mp4
+#EXTINF:-1 type="movie" group-title="VOD ENGLISH" tvg-logo="https://ww69.ohflix.net/uploads/video_thumb/638.jpg", Avengers: Endgame (2019)
+https://hello-si-kacak.buntai.workers.dev/0:/movie/English/Avengers-%20Endgame.mp4
+
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1rkM4tLoNKC33sLVyAWgogZGo3B.jpg", Mechamato S1 E01
+https://hello-si-kacak.buntai.workers.dev/0:/series/Mechamato/Season%201/%2523NPRH22%20Mechamato%20(2021)%20S01%20EP01%20Malay.mp4
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1rkM4tLoNKC33sLVyAWgogZGo3B.jpg", Mechamato S1 E02
+https://hello-si-kacak.buntai.workers.dev/0:/series/Mechamato/Season%201/%2523NPRH22%20Mechamato%20(2021)%20S01%20EP02%20Malay.mp4
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1rkM4tLoNKC33sLVyAWgogZGo3B.jpg", Mechamato S1 E03
+https://hello-si-kacak.buntai.workers.dev/0:/series/Mechamato/Season%201/%2523NPRH22%20Mechamato%20(2021)%20S01%20EP03%20Malay.mp4
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1rkM4tLoNKC33sLVyAWgogZGo3B.jpg", Mechamato S1 E04
+https://hello-si-kacak.buntai.workers.dev/0:/series/Mechamato/Season%201/%2523NPRH22%20Mechamato%20(2021)%20S01%20EP04%20Malay.mp4
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1rkM4tLoNKC33sLVyAWgogZGo3B.jpg", Mechamato S1 E05
+https://hello-si-kacak.buntai.workers.dev/0:/series/Mechamato/Season%201/%2523NPRH22%20Mechamato%20(2021)%20S01%20EP05%20Malay.mp4
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1rkM4tLoNKC33sLVyAWgogZGo3B.jpg", Mechamato S1 E06
+https://hello-si-kacak.buntai.workers.dev/0:/series/Mechamato/Season%201/%2523NPRH22%20Mechamato%20(2021)%20S01%20EP06%20Malay.mp4
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1rkM4tLoNKC33sLVyAWgogZGo3B.jpg", Mechamato S1 E07
+https://hello-si-kacak.buntai.workers.dev/0:/series/Mechamato/Season%201/%2523NPRH22%20Mechamato%20(2021)%20S01%20EP07%20Malay.mp4
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1rkM4tLoNKC33sLVyAWgogZGo3B.jpg", Mechamato S1 E08
+https://hello-si-kacak.buntai.workers.dev/0:/series/Mechamato/Season%201/%2523NPRH22%20Mechamato%20(2021)%20S01%20EP08%20Malay.mp4
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1rkM4tLoNKC33sLVyAWgogZGo3B.jpg", Mechamato S1 E09
+https://hello-si-kacak.buntai.workers.dev/0:/series/Mechamato/Season%201/%2523NPRH22%20Mechamato%20(2021)%20S01%20EP09%20Malay.mkv
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1rkM4tLoNKC33sLVyAWgogZGo3B.jpg", Mechamato S1 E10
+https://hello-si-kacak.buntai.workers.dev/0:/series/Mechamato/Season%201/%2523NPRH22%20Mechamato%20(2021)%20S01%20EP10%20Malay.mp4
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1rkM4tLoNKC33sLVyAWgogZGo3B.jpg", Mechamato S1 E11
+https://hello-si-kacak.buntai.workers.dev/0:/series/Mechamato/Season%201/%2523NPRH22%20Mechamato%20(2021)%20S01%20EP11%20Malay.mkv
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1rkM4tLoNKC33sLVyAWgogZGo3B.jpg", Mechamato S1 E12
+https://hello-si-kacak.buntai.workers.dev/0:/series/Mechamato/Season%201/%2523NPRH22%20Mechamato%20(2021)%20S01%20EP12%20Malay.mkv
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1rkM4tLoNKC33sLVyAWgogZGo3B.jpg", Mechamato S1 E13
+https://hello-si-kacak.buntai.workers.dev/0:/series/Mechamato/Season%201/%2523NPRH22%20Mechamato%20(2021)%20S01%20EP13%20Malay.mp4
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/auIcuZ5MpgRJlMb8I0jYsBdwjki.jpg", Mechamato S2 E01
+https://hello-world-old-queen-61b0.buntai.workers.dev/0:/series/Mechamato%20The%20Animated%20Series/Season%202/Mechamato%20The%20Animated%20Series_S02E01_Episode%201.mp4
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/auIcuZ5MpgRJlMb8I0jYsBdwjki.jpg", Mechamato S2 E02
+https://hello-world-old-queen-61b0.buntai.workers.dev/0:/series/Mechamato%20The%20Animated%20Series/Season%202/Mechamato%20The%20Animated%20Series_S02E02_Episode%202.mp4
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/auIcuZ5MpgRJlMb8I0jYsBdwjki.jpg", Mechamato S2 E03
+https://hello-world-old-queen-61b0.buntai.workers.dev/0:/series/Mechamato%20The%20Animated%20Series/Season%202/Mechamato%20The%20Animated%20Series_S02E03_Episode%203.mp4
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/auIcuZ5MpgRJlMb8I0jYsBdwjki.jpg", Mechamato S2 E04
+https://hello-world-old-queen-61b0.buntai.workers.dev/0:/series/Mechamato%20The%20Animated%20Series/Season%202/Mechamato%20The%20Animated%20Series_S02E04_Episode%204.mp4
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/auIcuZ5MpgRJlMb8I0jYsBdwjki.jpg", Mechamato S2 E05
+https://hello-world-old-queen-61b0.buntai.workers.dev/0:/series/Mechamato%20The%20Animated%20Series/Season%202/Mechamato%20The%20Animated%20Series_S02E05_Episode%205.mp4
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/auIcuZ5MpgRJlMb8I0jYsBdwjki.jpg", Mechamato S2 E06
+https://hello-world-old-queen-61b0.buntai.workers.dev/0:/series/Mechamato%20The%20Animated%20Series/Season%202/Mechamato%20The%20Animated%20Series_S02E06_Episode%206.mp4
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/auIcuZ5MpgRJlMb8I0jYsBdwjki.jpg", Mechamato S2 E07
+https://hello-world-old-queen-61b0.buntai.workers.dev/0:/series/Mechamato%20The%20Animated%20Series/Season%202/Mechamato%20The%20Animated%20Series_S02E07_Episode%207.mp4
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/auIcuZ5MpgRJlMb8I0jYsBdwjki.jpg", Mechamato S2 E08
+https://hello-world-old-queen-61b0.buntai.workers.dev/0:/series/Mechamato%20The%20Animated%20Series/Season%202/Mechamato%20The%20Animated%20Series_S02E08_Episode%208.mp4
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/auIcuZ5MpgRJlMb8I0jYsBdwjki.jpg", Mechamato S2 E09
+https://hello-world-old-queen-61b0.buntai.workers.dev/0:/series/Mechamato%20The%20Animated%20Series/Season%202/Mechamato%20The%20Animated%20Series_S02E09_Episode%209.mp4
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/auIcuZ5MpgRJlMb8I0jYsBdwjki.jpg", Mechamato S2 E10
+https://hello-world-old-queen-61b0.buntai.workers.dev/0:/series/Mechamato%20The%20Animated%20Series/Season%202/Mechamato%20The%20Animated%20Series_S02E10_Episode%2010.mp4
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/auIcuZ5MpgRJlMb8I0jYsBdwjki.jpg", Mechamato S2 E11
+https://hello-world-old-queen-61b0.buntai.workers.dev/0:/series/Mechamato%20The%20Animated%20Series/Season%202/Mechamato%20The%20Animated%20Series_S02E11_Episode%2011.mp4
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/auIcuZ5MpgRJlMb8I0jYsBdwjki.jpg", Mechamato S2 E12
+https://hello-world-old-queen-61b0.buntai.workers.dev/0:/series/Mechamato%20The%20Animated%20Series/Season%202/Mechamato%20The%20Animated%20Series_S02E12_Episode%2012.mp4
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/auIcuZ5MpgRJlMb8I0jYsBdwjki.jpg", Mechamato S2 E13
+https://hello-world-old-queen-61b0.buntai.workers.dev/0:/series/Mechamato%20The%20Animated%20Series/Season%202/Mechamato%20The%20Animated%20Series_S02E13_Episode%2013.mp4
+
+
+
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pC7MTsEjJVXlCEaTRFWhVUS113i.jpg", Ejen Ali S1 E01
+https://hello-si-kacak.buntai.workers.dev/0:/series/Ejen%20Ali/Season%201/Ejen%20Ali_S01E01_Mission_%20Iris.mp4
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pC7MTsEjJVXlCEaTRFWhVUS113i.jpg", Ejen Ali S1 E02
+https://hello-si-kacak.buntai.workers.dev/0:/series/Ejen%20Ali/Season%201/Ejen%20Ali_S01E02_Mission_%20Alpha.mp4
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pC7MTsEjJVXlCEaTRFWhVUS113i.jpg", Ejen Ali S1 E03
+https://hello-si-kacak.buntai.workers.dev/0:/series/Ejen%20Ali/Season%201/Ejen%20Ali_S01E03_Mission_%20Equal.mp4
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pC7MTsEjJVXlCEaTRFWhVUS113i.jpg", Ejen Ali S1 E04
+https://hello-si-kacak.buntai.workers.dev/0:/series/Ejen%20Ali/Season%201/Ejen%20Ali_S01E04_Mission_%20Comot.mp4
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pC7MTsEjJVXlCEaTRFWhVUS113i.jpg", Ejen Ali S1 E05
+https://hello-si-kacak.buntai.workers.dev/0:/series/Ejen%20Ali/Season%201/Ejen%20Ali%20Episod%205%20-%20Misi-%20BLUEPRINT.mp4
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pC7MTsEjJVXlCEaTRFWhVUS113i.jpg", Ejen Ali S1 E06
+https://hello-si-kacak.buntai.workers.dev/0:/series/Ejen%20Ali/Season%201/Ejen%20Ali%20Episod%206%20-%20Misi-%20BANGKIT.mp4
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pC7MTsEjJVXlCEaTRFWhVUS113i.jpg", Ejen Ali S1 E07
+https://hello-si-kacak.buntai.workers.dev/0:/series/Ejen%20Ali/Season%201/Ejen%20Ali%20Episod%207%20-%20Misi-%20PROTOKOL%20GEGAS.mp4
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pC7MTsEjJVXlCEaTRFWhVUS113i.jpg", Ejen Ali S1 E08
+https://hello-si-kacak.buntai.workers.dev/0:/series/Ejen%20Ali/Season%201/Ejen%20Ali%20Episod%208%20-%20Misi%20-%20PRESTASI.mp4
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pC7MTsEjJVXlCEaTRFWhVUS113i.jpg", Ejen Ali S1 E09
+https://hello-si-kacak.buntai.workers.dev/0:/series/Ejen%20Ali/Season%201/Ejen%20Ali%20Episod%209%20-%20Misi%20-%20Potensi.mp4
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pC7MTsEjJVXlCEaTRFWhVUS113i.jpg", Ejen Ali S1 E10
+https://hello-si-kacak.buntai.workers.dev/0:/series/Ejen%20Ali/Season%201/Ejen%20Ali%20%20Episod%2010%20-%20Misi%20-%20Sensasi.mp4
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pC7MTsEjJVXlCEaTRFWhVUS113i.jpg", Ejen Ali S1 E11
+https://hello-si-kacak.buntai.workers.dev/0:/series/Ejen%20Ali/Season%201/Ejen%20Ali%20Episod%2011%20-%20Misi%20-%20Bukti.mp4
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pC7MTsEjJVXlCEaTRFWhVUS113i.jpg", Ejen Ali S1 E12
+https://hello-si-kacak.buntai.workers.dev/0:/series/Ejen%20Ali/Season%201/Ejen%20Ali%20%20Episod%2012%20-%20Misi%20-%20Uno.mp4
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pC7MTsEjJVXlCEaTRFWhVUS113i.jpg", Ejen Ali S1 E13
+https://hello-si-kacak.buntai.workers.dev/0:/series/Ejen%20Ali/Season%201/Ejen%20Ali%20Episod%2013%20-%20Misi-%20Override.mp4
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sd7Sk3gqcjZ7qP1nhwNU9cqHOXP.jpg", Ejen Ali S2 E01
+https://hello-si-kacak.buntai.workers.dev/0:/series/Ejen%20Ali/Season%202/Ejen%20Ali%20Episod%201%20-%20Misi-%20Akademi.mp4
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sd7Sk3gqcjZ7qP1nhwNU9cqHOXP.jpg", Ejen Ali S2 E02
+https://hello-si-kacak.buntai.workers.dev/0:/series/Ejen%20Ali/Season%202/Ejen%20Ali%20Episod%202%20-%20Misi-%20Orientasi.mp4
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sd7Sk3gqcjZ7qP1nhwNU9cqHOXP.jpg", Ejen Ali S2 E03
+https://hello-si-kacak.buntai.workers.dev/0:/series/Ejen%20Ali/Season%202/Ejen%20Ali%20Episod%203%20-%20Misi-%20Main.mp4
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sd7Sk3gqcjZ7qP1nhwNU9cqHOXP.jpg", Ejen Ali S2 E04
+https://hello-si-kacak.buntai.workers.dev/0:/series/Ejen%20Ali/Season%202/Ejen%20Ali%20Episod%204%20-%20Misi-%20Analog.mp4
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sd7Sk3gqcjZ7qP1nhwNU9cqHOXP.jpg", Ejen Ali S2 E05
+https://hello-si-kacak.buntai.workers.dev/0:/series/Ejen%20Ali/Season%202/Ejen%20Ali%20Episod%205%20-%20Misi-%20Cabar.mp4
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sd7Sk3gqcjZ7qP1nhwNU9cqHOXP.jpg", Ejen Ali S2 E06
+https://hello-si-kacak.buntai.workers.dev/0:/series/Ejen%20Ali/Season%202/Ejen%20Ali%20Episod%206%20-%20Misi-%20Susu.mp4
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sd7Sk3gqcjZ7qP1nhwNU9cqHOXP.jpg", Ejen Ali S2 E07
+https://hello-si-kacak.buntai.workers.dev/0:/series/Ejen%20Ali/Season%202/Ejen%20Ali%20Episod%207%20-%20Misi-%20Kembali.mp4
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sd7Sk3gqcjZ7qP1nhwNU9cqHOXP.jpg", Ejen Ali S2 E08
+https://hello-si-kacak.buntai.workers.dev/0:/series/Ejen%20Ali/Season%202/Ejen%20Ali%20Episod%208%20-%20Misi-%20Tujuan.mp4
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sd7Sk3gqcjZ7qP1nhwNU9cqHOXP.jpg", Ejen Ali S2 E09
+https://hello-si-kacak.buntai.workers.dev/0:/series/Ejen%20Ali/Season%202/Ejen%20Ali%20Episod%209%20-%20Misi-%20Peranan.mp4
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sd7Sk3gqcjZ7qP1nhwNU9cqHOXP.jpg", Ejen Ali S2 E10
+https://hello-si-kacak.buntai.workers.dev/0:/series/Ejen%20Ali/Season%202/Ejen%20Ali%20Episod%2010%20-%20Misi-%20Atlas.mp4
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sd7Sk3gqcjZ7qP1nhwNU9cqHOXP.jpg", Ejen Ali S2 E11
+https://hello-si-kacak.buntai.workers.dev/0:/series/Ejen%20Ali/Season%202/Ejen%20Ali%20Episod%2011%20-%20Misi-%20Harapan.mp4
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sd7Sk3gqcjZ7qP1nhwNU9cqHOXP.jpg", Ejen Ali S2 E12
+https://hello-si-kacak.buntai.workers.dev/0:/series/Ejen%20Ali/Season%202/Ejen%20Ali%20Episod%2012%20-%20Misi-%20Diez.mp4
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sd7Sk3gqcjZ7qP1nhwNU9cqHOXP.jpg", Ejen Ali S2 E13
+https://hello-si-kacak.buntai.workers.dev/0:/series/Ejen%20Ali/Season%202/Ejen%20Ali%20Episod%2013%20-%20Misi-%20Legasi.mp4
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mm4eEccoYPlMtze3egPwldn8rpx.jpg", Ejen Ali S3 E01
+https://dtacmuar-my.sharepoint.com/personal/mixflix_dtac_edu_my/_layouts/15/download.aspx?share=ERFKmLSTq_NCpRqw0DykcdUBUt_xWVB1QqZ_chMp2dpDOQ
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mm4eEccoYPlMtze3egPwldn8rpx.jpg", Ejen Ali S3 E02
+https://dtacmuar-my.sharepoint.com/personal/mixflix_dtac_edu_my/_layouts/15/download.aspx?share=EWPDxBRzTh9IpjjgKC6EH9wBMrauxHTwXKV-s4xUm3Vspg
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mm4eEccoYPlMtze3egPwldn8rpx.jpg", Ejen Ali S3 E03
+https://dtacmuar-my.sharepoint.com/personal/mixflix_dtac_edu_my/_layouts/15/download.aspx?share=EYj1F2tXlV1Bu81FElpxsWYBu_K_VnvKphE3RhfnfpYQog
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mm4eEccoYPlMtze3egPwldn8rpx.jpg", Ejen Ali S3 E04
+https://dtacmuar-my.sharepoint.com/personal/mixflix_dtac_edu_my/_layouts/15/download.aspx?share=EXmI61mLUIdGl5y7yTUi8HQBUZpdrxal1GtDmHxxFmer4g
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mm4eEccoYPlMtze3egPwldn8rpx.jpg", Ejen Ali S3 E05
+https://dtacmuar-my.sharepoint.com/personal/mixflix_dtac_edu_my/_layouts/15/download.aspx?share=EccvS1BRd0RKg-m3d6gPLLsBjZmVIjkXQwSSIsMTerAUGg
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mm4eEccoYPlMtze3egPwldn8rpx.jpg", Ejen Ali S3 E06
+https://dtacmuar-my.sharepoint.com/personal/mixflix_dtac_edu_my/_layouts/15/download.aspx?share=EQgi0Rvwi1FGm4idSkx0nn8By-KspOAQ3T0isDr52R26ng
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mm4eEccoYPlMtze3egPwldn8rpx.jpg", Ejen Ali S3 E07
+https://dtacmuar-my.sharepoint.com/personal/mixflix_dtac_edu_my/_layouts/15/download.aspx?share=EReeySnpzcRJpEXcVUw6_PEBpV0_ZSXn9YZy_dgmDTgN2Q
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mm4eEccoYPlMtze3egPwldn8rpx.jpg", Ejen Ali S3 E08
+https://dtacmuar-my.sharepoint.com/personal/mixflix_dtac_edu_my/_layouts/15/download.aspx?share=EWDOxpRVv2ZIm4vWi_2HvIMBle_BZj_DeZ9KeqmjM0Nq9A
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mm4eEccoYPlMtze3egPwldn8rpx.jpg", Ejen Ali S3 E09
+https://dtacmuar-my.sharepoint.com/personal/mixflix_dtac_edu_my/_layouts/15/download.aspx?share=EZBw5K6RVxVBnfPt08G-LNQBJrwBvt2TKdUKjKB_LIBHYA
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mm4eEccoYPlMtze3egPwldn8rpx.jpg", Ejen Ali S3 E10
+https://dtacmuar-my.sharepoint.com/personal/mixflix_dtac_edu_my/_layouts/15/download.aspx?share=EZHmaXvADmFHrKc1KBr9xdEBYbCD-C2eMvXIWyn0rrjfpQ
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mm4eEccoYPlMtze3egPwldn8rpx.jpg", Ejen Ali S3 E11
+https://dtacmuar-my.sharepoint.com/personal/mixflix_dtac_edu_my/_layouts/15/download.aspx?share=EU-fhY5qOphCvvfYYQUrB8cBb-hpLAsWuNGe4zDge_ssRg
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mm4eEccoYPlMtze3egPwldn8rpx.jpg", Ejen Ali S3 E12
+https://dtacmuar-my.sharepoint.com/personal/mixflix_dtac_edu_my/_layouts/15/download.aspx?share=EXqZYZCX8EpGj6hg4Wg4qswB_-Y67GYrLE_nZDcc5ELq6Q
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mm4eEccoYPlMtze3egPwldn8rpx.jpg", Ejen Ali S3 E13
+https://dtacmuar-my.sharepoint.com/personal/mixflix_dtac_edu_my/_layouts/15/download.aspx?share=EX7Sq9yWvbFNgz2jo4CKIKUBCyyTwflKnnxoGickWcjS0g
+
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uKPthNIc06g1DIO60J2ysz8j65d.jpg", Anak-Anak Sidek S1 E01
+https://hello-world-old-queen-61b0.buntai.workers.dev/0:/series/Anak%20Anak%20Sidek/AAS%20Adik%20baru%20kelahiran%20rasyhid.mp4
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uKPthNIc06g1DIO60J2ysz8j65d.jpg", Anak-Anak Sidek S1 E02
+https://hello-world-old-queen-61b0.buntai.workers.dev/0:/series/Anak%20Anak%20Sidek/AAS%20Puasa%20,aman%20tak%20dapat%20raya.mp4
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uKPthNIc06g1DIO60J2ysz8j65d.jpg", Anak-Anak Sidek S1 E03
+https://hello-world-old-queen-61b0.buntai.workers.dev/0:/series/Anak%20Anak%20Sidek/Anak%20-%20Anak%20Sidek%20-%20Adik%20Baru%20-%20(%20kelahiran%20Rashid%20).mp4
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uKPthNIc06g1DIO60J2ysz8j65d.jpg", Anak-Anak Sidek S1 E04
+https://hello-world-old-queen-61b0.buntai.workers.dev/0:/series/Anak%20Anak%20Sidek/Anak%20-%20anak%20Sidek%20-%20Bun%20&%20Bidadari%20-.mp4
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uKPthNIc06g1DIO60J2ysz8j65d.jpg", Anak-Anak Sidek S1 E05
+https://hello-world-old-queen-61b0.buntai.workers.dev/0:/series/Anak%20Anak%20Sidek/Anak%20-%20anak%20Sidek%20-%20Kasih%20Ibu%20-.mp4
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uKPthNIc06g1DIO60J2ysz8j65d.jpg", Anak-Anak Sidek S1 E06
+https://hello-world-old-queen-61b0.buntai.workers.dev/0:/series/Anak%20Anak%20Sidek/Anak%20-%20Anak%20Sidek%20-%20Kehilangan%20Buyot%20-.mp4
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uKPthNIc06g1DIO60J2ysz8j65d.jpg", Anak-Anak Sidek S1 E07
+https://hello-world-old-queen-61b0.buntai.workers.dev/0:/series/Anak%20Anak%20Sidek/Anak%20Anak%20Sidek%20-%20Dugaan%20Bulan%20Puasa.mp4
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uKPthNIc06g1DIO60J2ysz8j65d.jpg", Anak-Anak Sidek S1 E08
+https://hello-world-old-queen-61b0.buntai.workers.dev/0:/series/Anak%20Anak%20Sidek/Anak%20anak%20Sidek%20-Ikan%20membawa%20padah..mp4
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uKPthNIc06g1DIO60J2ysz8j65d.jpg", Anak-Anak Sidek S1 E09
+https://hello-world-old-queen-61b0.buntai.workers.dev/0:/series/Anak%20Anak%20Sidek/Anak%20Anak%20Sidek%20Banjir%20Kilat.mp4
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uKPthNIc06g1DIO60J2ysz8j65d.jpg", Anak-Anak Sidek S1 E10
+https://hello-world-old-queen-61b0.buntai.workers.dev/0:/series/Anak%20Anak%20Sidek/Anak%20Anak%20Sidek-%20Ubat%20tradisional.mp4
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uKPthNIc06g1DIO60J2ysz8j65d.jpg", Anak-Anak Sidek S1 E11
+https://hello-world-old-queen-61b0.buntai.workers.dev/0:/series/Anak%20Anak%20Sidek/Anak-Anak%20Sidek%20-%20Api%20Oh%20Api%201-2.mp4
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uKPthNIc06g1DIO60J2ysz8j65d.jpg", Anak-Anak Sidek S1 E12
+https://hello-world-old-queen-61b0.buntai.workers.dev/0:/series/Anak%20Anak%20Sidek/Anak-Anak%20Sidek%20-%20Api%20Oh%20Api%202-2.mp4
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uKPthNIc06g1DIO60J2ysz8j65d.jpg", Anak-Anak Sidek S1 E13
+https://hello-world-old-queen-61b0.buntai.workers.dev/0:/series/Anak%20Anak%20Sidek/Anak-Anak%20Sidek%20-%20Cabaran%201-2.mp4
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uKPthNIc06g1DIO60J2ysz8j65d.jpg", Anak-Anak Sidek S1 E14
+https://hello-world-old-queen-61b0.buntai.workers.dev/0:/series/Anak%20Anak%20Sidek/Anak-Anak%20Sidek%20-%20Cabaran%202-2.mp4
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uKPthNIc06g1DIO60J2ysz8j65d.jpg", Anak-Anak Sidek S1 E15
+https://hello-world-old-queen-61b0.buntai.workers.dev/0:/series/Anak%20Anak%20Sidek/Anak-Anak%20Sidek%20-%20Nakal%201-2.mp4
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uKPthNIc06g1DIO60J2ysz8j65d.jpg", Anak-Anak Sidek S1 E16
+https://hello-world-old-queen-61b0.buntai.workers.dev/0:/series/Anak%20Anak%20Sidek/Anak-Anak%20Sidek%20-%20Nakal%202-2.mp4
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uKPthNIc06g1DIO60J2ysz8j65d.jpg", Anak-Anak Sidek S1 E17
+https://hello-world-old-queen-61b0.buntai.workers.dev/0:/series/Anak%20Anak%20Sidek/Anak-Anak%20Sidek%20Sempena%20Aidilfitri%20Special!.mp4
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uKPthNIc06g1DIO60J2ysz8j65d.jpg", Anak-Anak Sidek S1 E18
+https://hello-world-old-queen-61b0.buntai.workers.dev/0:/series/Anak%20Anak%20Sidek/Anak-Anak%20Sidek%20Suka%20Menjadi%20Duka.mp4
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uKPthNIc06g1DIO60J2ysz8j65d.jpg", Anak-Anak Sidek S1 E19
+https://hello-world-old-queen-61b0.buntai.workers.dev/0:/series/Anak%20Anak%20Sidek/Anak-Anak%20Sidek%20Vol.%208%20Part%20(1-2).mp4
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uKPthNIc06g1DIO60J2ysz8j65d.jpg", Anak-Anak Sidek S1 E20
+https://hello-world-old-queen-61b0.buntai.workers.dev/0:/series/Anak%20Anak%20Sidek/Anak-Anak%20Sidek%20Vol.%208%20Part%20(2-2).mp4
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uKPthNIc06g1DIO60J2ysz8j65d.jpg", Anak-Anak Sidek S1 E21
+https://hello-world-old-queen-61b0.buntai.workers.dev/0:/series/Anak%20Anak%20Sidek/Anak-Anak%20Sidek-%20rumah%20ayam%20berhantu.mp4
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uKPthNIc06g1DIO60J2ysz8j65d.jpg", Anak-Anak Sidek S1 E22
+https://hello-world-old-queen-61b0.buntai.workers.dev/0:/series/Anak%20Anak%20Sidek/Anak-Anak.Sidek-Bun.Dilamun.Cinta.Www.karnaiNtraCk.Org.avi
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uKPthNIc06g1DIO60J2ysz8j65d.jpg", Anak-Anak Sidek S1 E23
+https://hello-world-old-queen-61b0.buntai.workers.dev/0:/series/Anak%20Anak%20Sidek/Anak-Anak.Sidek-Muslihat.Bun.Dan.Biawak.Www.karnaiNtraCk.Org.flv
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uKPthNIc06g1DIO60J2ysz8j65d.jpg", Anak-Anak Sidek S1 E24
+https://hello-world-old-queen-61b0.buntai.workers.dev/0:/series/Anak%20Anak%20Sidek/Muslihat%20Bun%20dan%20Biawak.flv
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uKPthNIc06g1DIO60J2ysz8j65d.jpg", Anak-Anak Sidek S1 E25
+https://hello-world-old-queen-61b0.buntai.workers.dev/0:/series/Anak%20Anak%20Sidek/Senapang%20(Bahagian%201).flv
+
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iU2LbfmQrjff0GDuMFafuG8n0Hm.jpg", Usop Sontorian S1 E01
+https://hello-world-old-queen-61b0.buntai.workers.dev/0:/series/Usop%20Sontorian/Usop%20Sontorian%20-%20Berkhemah.mp4
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iU2LbfmQrjff0GDuMFafuG8n0Hm.jpg", Usop Sontorian S1 E02
+https://hello-world-old-queen-61b0.buntai.workers.dev/0:/series/Usop%20Sontorian/Usop%20Sontorian%20-%20Budin%20Masuk%20Lokap.mp4
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iU2LbfmQrjff0GDuMFafuG8n0Hm.jpg", Usop Sontorian S1 E03
+https://hello-world-old-queen-61b0.buntai.workers.dev/0:/series/Usop%20Sontorian/Usop%20Sontorian%20-%20Dinasor.mp4
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iU2LbfmQrjff0GDuMFafuG8n0Hm.jpg", Usop Sontorian S1 E04
+https://hello-world-old-queen-61b0.buntai.workers.dev/0:/series/Usop%20Sontorian/Usop%20Sontorian%20-%20Dol%20Pindah.mp4
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iU2LbfmQrjff0GDuMFafuG8n0Hm.jpg", Usop Sontorian S1 E05
+https://hello-world-old-queen-61b0.buntai.workers.dev/0:/series/Usop%20Sontorian/Usop%20Sontorian%20-%20Dunia%20Air.mp4
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iU2LbfmQrjff0GDuMFafuG8n0Hm.jpg", Usop Sontorian S1 E06
+https://hello-world-old-queen-61b0.buntai.workers.dev/0:/series/Usop%20Sontorian/Usop%20Sontorian%20-%20Harta%20Karun.mp4
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iU2LbfmQrjff0GDuMFafuG8n0Hm.jpg", Usop Sontorian S1 E07
+https://hello-world-old-queen-61b0.buntai.workers.dev/0:/series/Usop%20Sontorian/Usop%20Sontorian%20-%20Kartini%20Selamanya.mp4
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iU2LbfmQrjff0GDuMFafuG8n0Hm.jpg", Usop Sontorian S1 E08
+https://hello-world-old-queen-61b0.buntai.workers.dev/0:/series/Usop%20Sontorian/Usop%20Sontorian%20-%20Kisah%20Seorang%20Biduan.mp4
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iU2LbfmQrjff0GDuMFafuG8n0Hm.jpg", Usop Sontorian S1 E09
+https://hello-world-old-queen-61b0.buntai.workers.dev/0:/series/Usop%20Sontorian/Usop%20Sontorian%20-%20Melawat%20Kuala%20Lumpur.mp4
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iU2LbfmQrjff0GDuMFafuG8n0Hm.jpg", Usop Sontorian S1 E10
+https://hello-world-old-queen-61b0.buntai.workers.dev/0:/series/Usop%20Sontorian/Usop%20Sontorian%20-%20Merdeka.mp4
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iU2LbfmQrjff0GDuMFafuG8n0Hm.jpg", Usop Sontorian S1 E11
+https://hello-world-old-queen-61b0.buntai.workers.dev/0:/series/Usop%20Sontorian/Usop%20Sontorian%20-%20Meriam%20Buluh.mp4
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iU2LbfmQrjff0GDuMFafuG8n0Hm.jpg", Usop Sontorian S1 E12
+https://hello-world-old-queen-61b0.buntai.workers.dev/0:/series/Usop%20Sontorian/Usop%20Sontorian%20-%20Misi%20Mustahil.mp4
+
+
 
 #EXTM3U billed-msg="😎 BijanBusuk 😎"
