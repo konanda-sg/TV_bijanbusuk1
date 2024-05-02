@@ -99,7 +99,8 @@ https://linears-playback.astro.com.my/vsg/41t5dfddBzl82p9ZbSMm0KVkyDL9MvaSRDjHZV
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ZU8tJaW/snyeWuCFJYShZg", "kid":"hL+a1oSL59sg+dFoI97vEA" } ], "type":"temporary" }
-EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png", CITRA HD
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png", CITRA HD
+http://gamsgo.cyou:8080/c4596f70/c3848d92/157569
 https://linears-playback.astro.com.my/vsg/41CJTs6aYGh76t6znU5NkYNnkiTG2uPbSs9anAbROG7mc=fKwl/dash-wv/jitp-dashisowm/2700/default_primary.mpd
 
 
@@ -1202,13 +1203,59 @@ https://beaqfad.vercel.app/api/raw/?path=/VOD/Movies/Mat.Kilau.2022.1080p.NF.WEB
 
 
 
-#EXTINF:-1 group-title="Wayang MIXED" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/98/John_Wick_TeaserPoster.jpg",John Wick (2014)
+#EXTINF:-1 type="movie" group-title="FILM BARAT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/98/John_Wick_TeaserPoster.jpg",John Wick (2014)
 https://dl.dropboxusercontent.com/s/228kmlnpie52hyo/John%20Wick.mp4
 
-#EXTINF:-1 group-title="Wayang MIXED" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/John_Wick_Chapter_Two.png",John Wick: Chapter 2 (2017)
+#EXTINF:-1 type="movie" group-title="FILM BARAT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/John_Wick_Chapter_Two.png",John Wick: Chapter 2 (2017)
 https://dl.dropboxusercontent.com/s/wt9mviuxy6nr3tr/John%20Wick%202.mp4
 
-#EXTINF:-1 group-title="Wayang MIXED" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/94/John_Wick_Chapter_3_Parabellum.png",John Wick: Chapter 3 – Parabellum (2019)
+#EXTINF:-1 type="movie" group-title="FILM BARAT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/94/John_Wick_Chapter_3_Parabellum.png",John Wick: Chapter 3 – Parabellum (2019)
 https://dl.dropboxusercontent.com/s/wzege5tdsohuoi8/John%20Wick%203.mp4
+
+
+#EXTINF:-1 type="movie" tvg-logo="https://cdn.textstudio.com/output/sample/normal/4/9/6/5/series-logo-570-5694.webp" group-title="FILM BARAT",The Transporter 
+https://www.googleapis.com/drive/v3/files/1trdpJH9mXK8yxDzMZBq9HBotfE-T6Okl?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4 
+
+#EXTINF:-1 type="movie" tvg-logo="https://cdn.textstudio.com/output/sample/normal/4/9/6/5/series-logo-570-5694.webp" group-title="FILM BARAT",Transporter 2 
+https://www.googleapis.com/drive/v3/files/1aHNMwzVw8B8H7b_HkW8tYfyhw7DyNMdi?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4 
+
+#EXTINF:-1 type="movie" tvg-logo="https://cdn.textstudio.com/output/sample/normal/4/9/6/5/series-logo-570-5694.webp" group-title="FILM BARAT",Transporter 3 
+https://www.googleapis.com/drive/v3/files/1KecYpsXXUIpsM8u3spCJzRc37xo0fgKz?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4 
+
+#EXTINF:-1 type="movie" tvg-logo="https://assets.stickpng.com/images/580b57fbd9996e24bc43c081.png" group-title="FILM BARAT", Transformers 1 (2007) 
+https://privatemaster.xyz/cdn/stream/master/BiNuTIxLWoxzhMeSkMAFTAmXEGth1GgHuAH9MAwfjPmHaM9OpokycTYNTRYvb9QDpFz1iSDc52PUd75BH9LuyYWoNiWAMVrkbDffNQsbKRdSIlCg2rZEAn7iw5lGYMoz/master.m3u8 
+
+#EXTINF:-1 type="movie" tvg-logo="https://assets.stickpng.com/images/580b57fbd9996e24bc43c081.png" group-title="FILM BARAT", Transformers 2: Revenge of the Fallen (2009) 
+https://privatemaster.xyz/cdn/stream/master/UGuj5PLTomDTpMas2PAyDjv4B2X0by7Foj0Tcf1SVVAm4mvpAUBMroJu9yzACxIlyRZM9exgPI36I6w4AyjMUQHTGZjuz8Y09gxIrBr4dcqpJNS3eTpvaIRt0WEt2FZT/master.m3u8 
+
+#EXTINF:-1 type="movie" tvg-logo="https://assets.stickpng.com/images/580b57fbd9996e24bc43c081.png" group-title="FILM BARAT", Transformers 3: Dark of the Moon (2011) 
+https://privatemaster.xyz/cdn/stream/master/mqRXxqN3aAod7VPCVfvJzweMn25cw1Bjj3aRTMxWPigAIvIGqWbCcOJJwwQAsPCibtudRBJscHRuYvNJjfsn6PY031XNaweF7BxwVAVW19hx5ebKEkkvDFEm223YPDCD/master.m3u8 
+
+#EXTINF:-1 type="movie" tvg-logo="https://assets.stickpng.com/images/580b57fbd9996e24bc43c081.png" group-title="FILM BARAT", Transformers 4: Age of Extinction (2014)
+https://privatemaster.xyz/cdn/stream/master/lil4csqeL7SfvseXYDqzJ3YTVDD7Pa4Flk0zkcEFEDtxfHjltTgGdiRKLBhbR2aVXIxU1aDBEScOCQbWTxElECGTpZaSHfRheIqYQYZJkEpUOJr5nMiNYxfCnPQ5vroL/master.m3u8 
+
+#EXTINF:-1 type="movie" tvg-logo="https://i.ibb.co/3scjjJn/LAST.jpg" group-title="FILM BARAT", Transformers 5: The Last Knight (2017) 
+https://privatemaster.xyz/cdn/stream/master/yoBcrQflOD9AVUR0g4wCfZAKyQjUNJKYFVg6E5BvybGEOB5MruwiIgJ5IuNKWDx5yhZGykW6QhH0cLhUoTgDsRmbQTVHIvDj4ZGRdT3vK3BfOn9C8OzFxJBzR1JGAUbB/master.m3u8 
+
+#EXTINF:-1 type="movie" tvg-logo="https://i.ibb.co/k1w8r11/RAISE-OF-THE-BEAST.jpg" group-title="FILM BARAT", Transformers 6: Rise of the Beasts (2023) 
+https://privatemaster.xyz/cdn/stream/master/743XWgJWf6KzszEwhOlQ4oFQ50T0LJGp5INiiKnUHhV23pJHSlzxPGJHOuSiQR7MChXiK9sLufK8gsYhlLwKkHex8nYUWyB0JgVBvBVx1xWXkpesGApA7jmWlV20QPP1/master.m3u8 
+
+#EXTINF:-1 type="movie" tvg-logo="https://cdn.textstudio.com/output/sample/normal/4/9/6/5/series-logo-570-5694.webp" group-title="FILM BARAT",The Bourne Supremacy 
+https://www.googleapis.com/drive/v3/files/1JL4xp1GiBbXBiS_ZUJ50VgtVa6CeX008?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4 
+
+#EXTINF:-1 type="movie" tvg-logo="https://cdn.textstudio.com/output/sample/normal/4/9/6/5/series-logo-570-5694.webp" group-title="FILM BARAT",The Bourne Ultimatum 
+https://www.googleapis.com/drive/v3/files/1Kq4xCUzVxxw7Zq8GaPLuxayRhE7XCuBH?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4 
+
+#EXTINF:-1 type="movie" tvg-logo="https://cdn.textstudio.com/output/sample/normal/4/9/6/5/series-logo-570-5694.webp" group-title="FILM BARAT",The Bourne Legacy 
+https://www.googleapis.com/drive/v3/files/1BH3fKMygPonozus81_qFtQYEjx3Dd-ba?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4 
+
+#EXTINF:-1 type="movie" tvg-logo="https://cdn.textstudio.com/output/sample/normal/4/9/6/5/series-logo-570-5694.webp" group-title="FILM BARAT",Transformers 
+https://www.googleapis.com/drive/v3/files/1D8I-c3sw8zgGO25U9spcXvEo4s7w8WuB?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4 
+
+#EXTINF:-1 type="movie" tvg-logo="https://cdn.textstudio.com/output/sample/normal/4/9/6/5/series-logo-570-5694.webp" group-title="FILM BARAT",Transformers: Revenge of the Fallen 
+https://www.googleapis.com/drive/v3/files/1TZeqatF4rJXDv2F5xngczJHQk0yvf2MX?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4 
+
+#EXTINF:-1 type="movie" tvg-logo="https://cdn.textstudio.com/output/sample/normal/4/9/6/5/series-logo-570-5694.webp" group-title="FILM BARAT",Transformers: Dark of the Moon 
+https://www.googleapis.com/drive/v3/files/1LIgP9wx6Bq0Y3mAKuCrfrKofVGmDXedl?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4 
 
 #EXTM3U billed-msg="😎 BijanBusuk 😎"
