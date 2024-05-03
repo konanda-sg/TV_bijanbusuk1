@@ -52,7 +52,6 @@ EXTINF:-1 tvg-logo="https://i.ibb.co/09cQ9CL/Fri-25-08-2023-11-32-23.png",RIA HD
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"3f726fd5cbbf5944437a4dbfab431b10": "376b009796e4ad50ea8f68d796676692"}
-http://dreamsmart.me:8080/play/live.php?mac=00:1A:79:20:34:1F&stream=306310_&extension=m3u8
 http://trtv.my.id/live/index.mpd?e=eXZpckhFWT1xSnFhTDJMNllsOWpvSjAzWXpNMUx6SWFZYUVmWTJJMm90PT0maD1HMFpsQVFObVptUmpaUVI9
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -64,14 +63,8 @@ https://linears-playback.astro.com.my/vsg/41nXdDj9tmXOFE0tRAwj3i71ajPxBQ-twMNoaS
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"0b65326aede3edbe81e6fb40317d5310": "8412f444ffbe350cf2ece051f9152e90"}
-EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png", PRIMA HD
-http://trtv.my.id/live/index.mpd?e=eXZpckhFWT1xSnFhTDJMNllsOWpvSjAzWXpNMUx6SWFZYUVmWTJBeXFhY2gmaD1HMFpsQVFObVptUmpaUVI9
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"0b65326aede3edbe81e6fb40317d5310": "8412f444ffbe350cf2ece051f9152e90"}
-EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png", PRIMA HD
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png", PRIMA HD
+http://mykingtv.net:2082/gadget1k85/pass1k85/8447
 https://staging-linearjitp02-playback.astro.com.my/dash-wv/linear/1000/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -79,11 +72,12 @@ https://staging-linearjitp02-playback.astro.com.my/dash-wv/linear/1000/default.m
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Oasis_v1.png", OASIS HD 
 http://linearjitp02-playback.astro.com.my/dash-wv/linear/2505/default_primary.mpd
 
-EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png", WARNA HD
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png", WARNA HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"84bf9ad6848be7db20f9d16823deef10": "654f2d25a5bfb27c9e5ae0852584a166"}
+http://mykingtv.net:2082/gadget1k85/pass1k85/8449
 https://linears-playback.astro.com.my/vsg/41HGJX63uPGnNgjICS4HbPosAHmnOvSRTfLLE5DVYnnFcE71Fy/dash-wv/jitp-dashisowm/2402/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -91,11 +85,12 @@ https://linears-playback.astro.com.my/vsg/41HGJX63uPGnNgjICS4HbPosAHmnOvSRTfLLE5
 EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png", WARNA HD
 https://linears-playback.astro.com.my/vsg/41iFhU-KKqyLW0EM61UfnvAcGwJByAU4N2R_D_obiAFxc=wQUh/dash-wv/jitp-dashisowm/2402/default_primary.mpd
 
-EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png", CITRA HD
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png", CITRA HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"84bf9ad6848be7db20f9d16823deef10": "654f2d25a5bfb27c9e5ae0852584a166"}
+http://mykingtv.net:2082/gadget1k85/pass1k85/8454
 https://linears-playback.astro.com.my/vsg/41t5dfddBzl82p9ZbSMm0KVkyDL9MvaSRDjHZVwI05stAvQvrh/dash-wv/jitp-dashisowm/2700/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1222,18 +1217,6 @@ https://dtacmuar-my.sharepoint.com/personal/sitamil_dtacmuar_onmicrosoft_com/_la
 #EXTINF:-1 type="movie" group-title="VOD MALAY" tvg-logo="https://aqfadtv.xyz/images/MatKilau.png",Mat Kilau
 https://beaqfad.vercel.app/api/raw/?path=/VOD/Movies/Mat.Kilau.2022.1080p.NF.WEB-DL.DDP2.0.x264-AqFadTV.mp4
 
-
-
-#EXTINF:-1 type="movie" group-title="FILM BARAT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/98/John_Wick_TeaserPoster.jpg",John Wick (2014)
-https://dl.dropboxusercontent.com/s/228kmlnpie52hyo/John%20Wick.mp4
-
-#EXTINF:-1 type="movie" group-title="FILM BARAT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/John_Wick_Chapter_Two.png",John Wick: Chapter 2 (2017)
-https://dl.dropboxusercontent.com/s/wt9mviuxy6nr3tr/John%20Wick%202.mp4
-
-#EXTINF:-1 type="movie" group-title="FILM BARAT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/94/John_Wick_Chapter_3_Parabellum.png",John Wick: Chapter 3 – Parabellum (2019)
-https://dl.dropboxusercontent.com/s/wzege5tdsohuoi8/John%20Wick%203.mp4
-
-
 #EXTINF:-1 type="movie" tvg-logo="https://cdn.textstudio.com/output/sample/normal/4/9/6/5/series-logo-570-5694.webp" group-title="FILM BARAT",The Transporter 
 https://www.googleapis.com/drive/v3/files/1trdpJH9mXK8yxDzMZBq9HBotfE-T6Okl?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4 
 
@@ -1828,6 +1811,9 @@ https://dtacmuar-my.sharepoint.com/personal/mubi1_dtacmuar_onmicrosoft_com/_layo
 #EXTINF:-1 type="movie" group-title="VOD ENGLISH" tvg-logo="https://www.themoviedb.org/t/p/w500/qRyy2UmjC5ur9bDi3kpNNRCc5nc.jpg", Fast & Furious Presents Hobbs & Shaw [2019]
 https://dtacmuar-my.sharepoint.com/personal/mubi1_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EYFJJhoqTdJOnXSIglFaOkUBV3yWfkGLT3gOj1s5HIeMKg
 
+#EXTINF:-1 type="movie" group-title="VOD ENGLISH" tvg-logo="https://image.tmdb.org/t/p/original/fiVW06jE7z9YnO4trhaMEdclSiC.jpg",Fast X (Fast & Furious 10) (Louis Leterrier) (2023)
+https://storage.dewanonton.online/hls/37f2b3ab-e639-474a-a890-b9e951cd640a.mp4/index.m3u8
+
 TRANSPOTER
 
 #EXTINF:-1 type="movie" group-title="VOD ENGLISH" tvg-logo="https://www.themoviedb.org/t/p/w500/v3QIFUWgtVN4wejVuDZowuyJ20W.jpg", Transporter
@@ -1852,6 +1838,9 @@ https://dtacmuar-my.sharepoint.com/personal/mubi2_dtacmuar_onmicrosoft_com/_layo
 
 #EXTINF:-1 type="movie" group-title="VOD ENGLISH" tvg-logo="https://www.themoviedb.org/t/p/original/skprszS1enWcPFQk6eQ3k29pU29.jpg", John Wick Chapter 3 Parabellum
 https://dtacmuar-my.sharepoint.com/personal/mubi2_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=ER-PE-XMXGpGroHbkv9E2mABS61INyWFJ6j5FIS_EvfMww
+
+#EXTINF:-1 type="movie" group-title="VOD ENGLISH" tvg-logo="https://image.tmdb.org/t/p/original/vZloFAK7NmvMGKE7VkF5UHaz0I.jpg",John Wick: Chapter 4 (Chad Stahelski) (2023)
+https://storage.dewanonton.online/hls/3e3d79c3-a19d-46c3-a231-c3df79c92673.mp4/index.m3u8
 
 PLANET OF THE APES
 
