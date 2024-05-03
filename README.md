@@ -77,7 +77,6 @@ http://linearjitp02-playback.astro.com.my/dash-wv/linear/2505/default_primary.mp
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"84bf9ad6848be7db20f9d16823deef10": "654f2d25a5bfb27c9e5ae0852584a166"}
-http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/76517
 http://mykingtv.net:2082/gadget1k85/pass1k85/8449
 https://linears-playback.astro.com.my/vsg/41HGJX63uPGnNgjICS4HbPosAHmnOvSRTfLLE5DVYnnFcE71Fy/dash-wv/jitp-dashisowm/2402/default_primary.mpd
 
@@ -91,8 +90,8 @@ https://linears-playback.astro.com.my/vsg/41iFhU-KKqyLW0EM61UfnvAcGwJByAU4N2R_D_
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"84bf9ad6848be7db20f9d16823deef10": "654f2d25a5bfb27c9e5ae0852584a166"}
-http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/76509
 http://mykingtv.net:2082/gadget1k85/pass1k85/8454
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/76509
 https://linears-playback.astro.com.my/vsg/41t5dfddBzl82p9ZbSMm0KVkyDL9MvaSRDjHZVwI05stAvQvrh/dash-wv/jitp-dashisowm/2700/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
