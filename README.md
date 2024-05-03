@@ -531,6 +531,8 @@ https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
 http://uhd3.one:80/play/live.php?mac=00:1A:79:19:06:50&stream=282639&extension=ts
 http://dreamsmart.me:2082/play/live.php?mac=00:1a:79:20:34:1f&stream=277339&extension=m3u8&play_token=wlG1rz0e3q
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/StarMovies.png",Star Movies
+http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-MOVIES-HD/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/StarMoviesSelect.png",Star Movies Select 
 http://uhd3.one:80/play/live.php?mac=00:1A:79:19:06:50&stream=155729&extension=ts
