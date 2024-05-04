@@ -9,33 +9,24 @@
 
 
 ########################################################################################################################################
+#EXTINF:-1 group-title="Malaysia" tvg-logo="https://i.ibb.co/09cQ9CL/Fri-25-08-2023-11-32-23.png",RIA HD
+https://smt.sky4k.eu.org/AEC_V6/index.php?id=AstroRiaHD
 
-EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png", WARNA HD
-https://myhomebox.serv00.net/Smart.php?id=Warna-O
+#EXTINF:-1 group-title="Malaysia" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png", WARNA HD
+https://smt.sky4k.eu.org/AEC_V6/index.php?id=AstroWarnaHD
 
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png", WARNA HD
-https://myhomebox.serv00.net/Smart.php?id=Warna
+#EXTINF:-1 group-title="Malaysia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/60_144.png", Citra HD
+https://smt.sky4k.eu.org/AEC_V6/index.php?id=AstroCitraHD
+EXTINF:-1 group-title="Malaysia" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroAura.png", AURA HD
+https://smt.sky4k.eu.org/AEC_V6/index.php?id=AstroAuraHD
+EXTINF:-1 group-title="Malaysia" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroRania.png", RANIA HD
+https://smt.sky4k.eu.org/AEC_V6/index.php?id=AstroRaniaHD
 
-EXTINF:-1 tvg-logo="https://i.ibb.co/09cQ9CL/Fri-25-08-2023-11-32-23.png",RIA HD 
-https://myhomebox.serv00.net/Smart.php?id=Ria-0
+#EXTINF:-1 group-title="Malaysia" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png", PRIMA HD
+https://smt.sky4k.eu.org/AEC_V6/index.php?id=AstroPrimaHD
 
-EXTINF:-1 tvg-logo="https://i.ibb.co/09cQ9CL/Fri-25-08-2023-11-32-23.png",RIA HD 
-https://myhomebox.serv00.net/Smart.php?id=Ria49
-
-EXTINF:-1 tvg-logo="https://i.ibb.co/09cQ9CL/Fri-25-08-2023-11-32-23.png",RIA HD 
-https://myhomebox.serv00.net/Smart.php?id=Ria_quanjia
-
-#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png", PRIMA HD
-https://myhomebox.serv00.net/Smart.php?id=Prima-0
-
-#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png", PRIMA HD
-https://myhomebox.serv00.net/Smart.php?id=Prima49
-
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png", CITRA HD
-https://myhomebox.serv00.net/Smart.php?id=Citra
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7b/Astro_Sensasi-en.png",Astro Sensasi HD
-https://myhomebox.serv00.net/Smart.php?id=Sensasi
+#EXTINF:-1 group-title="Malaysia" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Oasis_v1.png", OASIS HD
+https://smt.sky4k.eu.org/AEC_V6/index.php?id=AstroOasisHD
 
 
 ################################################################ MY FREEVIEW ##################################################################################
@@ -555,6 +546,7 @@ http://uhd3.one:80/play/live.php?mac=00:1A:79:19:06:50&stream=282639&extension=t
 http://dreamsmart.me:2082/play/live.php?mac=00:1a:79:20:34:1f&stream=277339&extension=m3u8&play_token=wlG1rz0e3q
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/StarMovies.png",Star Movies
+https://ctrl.laotv.la/live/StarMovie/index.m3u8
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-MOVIES-HD/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/StarMoviesSelect.png",Star Movies Select 
