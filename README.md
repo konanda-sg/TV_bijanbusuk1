@@ -542,22 +542,16 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/paramount/manifest.mpd
 https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/StarMovies.png",Star Movies
-http://uhd3.one:80/play/live.php?mac=00:1A:79:19:06:50&stream=282639&extension=ts
-http://dreamsmart.me:2082/play/live.php?mac=00:1a:79:20:34:1f&stream=277339&extension=m3u8&play_token=wlG1rz0e3q
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/StarMovies.png",Star Movies
-https://ctrl.laotv.la/live/StarMovie/index.m3u8
-http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-MOVIES-HD/video.m3u8
+https://tv5.hoichoi24.com/1605/index.m3u8
+http://103.107.79.87:8080/CH8109HD05/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/StarMoviesSelect.png",Star Movies Select 
 http://uhd3.one:80/play/live.php?mac=00:1A:79:19:06:50&stream=155729&extension=ts
 
 
-
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/802xnx0dlm9pznb/amrbd.png",Movies Now
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://mag.greatott.me/play/live.php?mac=00:1a:79:17:a5:fd&stream=1116477&extension=ts
+http://uhd3.one:80/play/live.php?mac=00:1A:79:19:06:50&stream=1116477&extension=ts
+
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/645e7828e1979c00087b75b4/colorLogoPNG.png", MovieSphere by Lionsgate
 https://i.mjh.nz/PlutoTV/645e7828e1979c00087b75b4-alt.m3u8
