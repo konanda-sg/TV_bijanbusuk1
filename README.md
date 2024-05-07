@@ -196,7 +196,7 @@ https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
 https://live.mana2.my/SukeTv/tracks-v1a1/mono.m3u8?token=1715052874-2e6e154a30c34151864bdbd7343a9d04-0-b41820243fa64d9a3a5a932769484ee4&auth_key=1715052874-2e6e154a30c34151864bdbd7343a9d04-0-acb8b0179939384b758d3d72ae87f0e8
 
 
-#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/mobile/channel/logos/hxismd.png",suke-tv 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/SukaTV.png",SukaTV
 https://raw.githubusercontent.com/mystery75/m3u8/main/SUKATV.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
