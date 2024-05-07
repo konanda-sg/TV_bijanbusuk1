@@ -9,40 +9,7 @@
 
 
 ########################################################################################################################################
-#EXTINF:-1 tvg-logo="",TEST
-http://vipmegah.top:8080/VIP0161170792823853/2185857843b5/34335
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/T1RGzz48/citra.png",Astro Citra
-https://kametv.my.id/putar/malay/citra.php
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ZU8tJaW/snyeWuCFJYShZg", "kid":"hL+a1oSL59sg+dFoI97vEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png",Citra 
-https://linears-playback.astro.com.my/vsg/41CJTs6aYGh76t6znU5NkYNo2Smgs7Dpuv_3wyPSQmJsg=oxsE/dash-wv/jitp-dashisowm/2700/default_primary.mpd
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ydwHphJN/astrowarna.png",Astro Warna
-https://kametv.my.id/putar/malay/warna.php
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"CoDiDFaOiOU8cIfBxkkzGA", "kid":"qixlPwwFVnrig8SjJxqYEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png",Warna 
-https://linears-playback.astro.com.my/vsg/41iFhU-KKqyLW0EM61UfnvASES-vYskWhX9JGDposHo4g=Bz8T/dash-wv/jitp-dashisowm/2402/default_primary.mpd
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d1sVFjnt/astroria.png",Astro Ria
-https://kametv.my.id/putar/astroria.php
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"N2sAl5bkrVDqj2jXlmdmkg", "kid":"P3Jv1cu/WURDek2/q0MbEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png",Ria 
-https://linears-playback.astro.com.my/vsg/41nXdDj9tmXOFE0tRAwj3i7y8pJUzuWD54xKg73ozL1gY=Fl0S/dash-wv/jitp-linearwm/1004/default_primary.mpd
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/5NqzHk5N/prima.png",Astro Prima
-https://kametv.my.id/putar/astroprima.php
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"hBL0RP++NQzy7OBR+RUukA", "kid":"C2Uyau3j7b6B5vtAMX1TEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png",Prima
-https://linears-playback.astro.com.my/vsg/41bXPmm6Wfa7GHGd9QuNMpgcCCALr-npEdxE4QwXoaxIo=LOb7/dash-wv/jitp-dashisowm/1000/default_primary.mpd
 
 ################################################################ MY FREEVIEW ##################################################################################
 
