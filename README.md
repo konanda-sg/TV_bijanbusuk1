@@ -9,25 +9,20 @@
 
 
 ########################################################################################################################################
-#EXTINF:-1 group-title="Malaysia" tvg-logo="https://i.ibb.co/09cQ9CL/Fri-25-08-2023-11-32-23.png",RIA HD
-https://smt.sky4k.eu.org/AEC_V6/index.php?id=AstroRiaHD
+#EXTINF:-1 tvg-logo="",TEST
+http://vipmegah.top:8080/VIP0161170792823853/2185857843b5/34335
 
-#EXTINF:-1 group-title="Malaysia" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png", WARNA HD
-https://smt.sky4k.eu.org/AEC_V6/index.php?id=AstroWarnaHD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/T1RGzz48/citra.png",Astro Citra
+https://kametv.my.id/putar/malay/citra.php
 
-#EXTINF:-1 group-title="Malaysia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/60_144.png", Citra HD
-https://smt.sky4k.eu.org/AEC_V6/index.php?id=AstroCitraHD
-EXTINF:-1 group-title="Malaysia" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroAura.png", AURA HD
-https://smt.sky4k.eu.org/AEC_V6/index.php?id=AstroAuraHD
-EXTINF:-1 group-title="Malaysia" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroRania.png", RANIA HD
-https://smt.sky4k.eu.org/AEC_V6/index.php?id=AstroRaniaHD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ydwHphJN/astrowarna.png",Astro Warna
+https://kametv.my.id/putar/malay/warna.php
 
-#EXTINF:-1 group-title="Malaysia" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png", PRIMA HD
-https://smt.sky4k.eu.org/AEC_V6/index.php?id=AstroPrimaHD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d1sVFjnt/astroria.png",Astro Ria
+https://kametv.my.id/putar/astroria.php
 
-#EXTINF:-1 group-title="Malaysia" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Oasis_v1.png", OASIS HD
-https://smt.sky4k.eu.org/AEC_V6/index.php?id=AstroOasisHD
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5NqzHk5N/prima.png",Astro Prima
+https://kametv.my.id/putar/astroprima.php
 
 ################################################################ MY FREEVIEW ##################################################################################
 
@@ -77,7 +72,7 @@ https://linears-playback.astro.com.my/vsg/41nXdDj9tmXOFE0tRAwj3i71ajPxBQ-twMNoaS
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"0b65326aede3edbe81e6fb40317d5310": "8412f444ffbe350cf2ece051f9152e90"}
-#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png", PRIMA HD
+EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png", PRIMA HD
 http://mykingtv.net:2082/gadget1k85/pass1k85/8447
 https://staging-linearjitp02-playback.astro.com.my/dash-wv/linear/1000/default.mpd
 
@@ -86,7 +81,7 @@ https://staging-linearjitp02-playback.astro.com.my/dash-wv/linear/1000/default.m
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Oasis_v1.png", OASIS HD 
 http://linearjitp02-playback.astro.com.my/dash-wv/linear/2505/default_primary.mpd
 
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png", WARNA HD
+EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png", WARNA HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -99,7 +94,7 @@ https://linears-playback.astro.com.my/vsg/41HGJX63uPGnNgjICS4HbPosAHmnOvSRTfLLE5
 EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png", WARNA HD
 https://linears-playback.astro.com.my/vsg/41iFhU-KKqyLW0EM61UfnvAcGwJByAU4N2R_D_obiAFxc=wQUh/dash-wv/jitp-dashisowm/2402/default_primary.mpd
 
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png", CITRA HD
+EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png", CITRA HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
