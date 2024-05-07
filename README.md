@@ -537,7 +537,7 @@ http://mytv-extra.com:80/live/t12mgxyb335/9832948789/387767.m3u8
 http://uhd3.one:80/play/live.php?mac=00:1A:79:19:06:50&stream=155729&extension=ts
 
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/802xnx0dlm9pznb/amrbd.png",Movies Now
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/MoviesNow.png",Movies Now
 http://dreamsmart.me:8080/play/live.php?mac=00:1A:79:20:34:1F&stream=277314&extension=m3u8
 http://line.clear-ocean.link:80/play/live.php?mac=00:1A:79:46:71:86&stream=115507&extension=m3u8
 http://uhd3.one:80/play/live.php?mac=00:1A:79:19:06:50&stream=1116477&extension=ts
