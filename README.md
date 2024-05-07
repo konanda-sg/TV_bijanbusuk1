@@ -527,10 +527,28 @@ https://cdnjkt4.transvision.co.id:1004/live/master/4/4028c6856c3db2cc016d0552e0c
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Warner-TV_v1.png",Warner TV    
 http://linearjitp02-playback.astro.com.my/dash-wv/linear/2605/default_primary.mpd
 
-#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Paramount.png",Paramount Network  
+EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Paramount.png",Paramount Network  
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/133/paramount/manifest.mpd
+
+#EXTINF:-1 tvg-logo="", HBO MAX 1
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=1095496&extension=m3u8
+
+#EXTINF:-1 tvg-logo="", HBO MAX 2
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=1095495&extension=m3u8
+
+#EXTINF:-1 tvg-logo="", HBO MAX 2
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=1095494&extension=m3u8
+
+#EXTINF:-1 tvg-logo="", HULU 1
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=1095452&extension=m3u8
+
+#EXTINF:-1 tvg-logo="", HULU 2
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=1095451&extension=m3u8
+
+#EXTINF:-1 tvg-logo="", HULU 3
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=1095450&extension=m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/SonyPixV3.png",Sony Pix HD
 https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
