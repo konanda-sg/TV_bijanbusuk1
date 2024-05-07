@@ -706,7 +706,7 @@ https://linear03-playback.sooka.my/CH3/masterCH3.mpd
 https://d3j4fjrwclc3o8.cloudfront.net/CH1/masterCH1.mpd
 
 
-EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png",ASSP HD
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png",ASSP HD
 http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&extension=ts&stream=186387
 http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&stream=186387&extension=ts&play_token=oNnNMlQM3k
 
