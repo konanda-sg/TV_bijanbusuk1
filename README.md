@@ -1117,27 +1117,27 @@ https://dtacmuar-my.sharepoint.com/personal/series5_dtacmuar_onmicrosoft_com/_la
 https://dtacmuar-my.sharepoint.com/personal/series5_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EVHCJgvEftRFhR7eHZo7iXYBxTgbQaYlZcnu-kcf0dQpyg
 
 
-#EXTINF:-1 type="movie" group-title="VOD MALAY" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1mNOoDq2UFcXJVJ9roAdBTp4G4M.jpg", Puasa S1 E01
+#EXTINF:-1 type="movie" group-title="PUASA" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1mNOoDq2UFcXJVJ9roAdBTp4G4M.jpg", Puasa 56
 https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/Malay/15%20Puasa.mp4
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"B/9yVhrZcj4Bvik+/91rjQ", "kid":"alWAZ2QW+4shXiNjjdzWEA" } ], "type":"temporary" }
-#EXTINF:-1 type="movie" group-title="VOD MALAY" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IDMVZ_p_IVP_PORT_750x1126_2024221_204328.jpg", Puasa S1 E02
+#EXTINF:-1 type="movie" group-title="PUASA" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IDMVZ_p_IVP_PORT_750x1126_2024221_204328.jpg", Puasa 16
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 #EXTVLCOPT:http-user-agent=OTT_1/v4.11.3
 https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/cbfc1b59-d17a-57e3-9a55-6b72c59ef9db/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"kXl14frDE+Y6idx2gDJtAg", "kid":"7bk21LznGMZ9qVxZWLxgEA" } ], "type":"temporary" }
-#EXTINF:-1 type="movie" group-title="VOD MALAY" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IVIHW_p_IVP_PORT_750x1126_2024221_204432.jpg", Puasa S1 E03
+#EXTINF:-1 type="movie" group-title="PUASA" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IVIHW_p_IVP_PORT_750x1126_2024221_204432.jpg", Puasa 17
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 #EXTVLCOPT:http-user-agent=OTT_1/v4.11.3
 https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/c5dfdbee-1bfb-59dc-bc04-047e7da111ef/default_primary.mpd
 
-#EXTINF:-1 type="movie" group-title="VOD MALAY" tvg-logo="https://d3avoj45mekucs.cloudfront.net/rojakdaily/media/iylia/news/poster-18-puasa-di-kampong-pisang.jpg", Puasa S1 E04
+#EXTINF:-1 type="movie" group-title="PUASA" tvg-logo="https://d3avoj45mekucs.cloudfront.net/rojakdaily/media/iylia/news/poster-18-puasa-di-kampong-pisang.jpg", Puasa 18
 https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/Malay/18%20Puasa%20Di%20Kampong%20Pisang.mp4
 
-#EXTINF:-1 type="movie" group-title="VOD MALAY" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2UjXKTrlPnEqqnhSwnZBoqxg8mq.jpg", Puasa S1 E05
+#EXTINF:-1 type="movie" group-title="PUASA" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2UjXKTrlPnEqqnhSwnZBoqxg8mq.jpg", Puasa 19
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/Malay/19%20Puasa.mp4
 
 
@@ -1174,16 +1174,16 @@ https://worker-kasyah.buntai.workers.dev/0:/movie/Malay/Langgar.Pantang.2024.108
 #EXTINF:-1 type="movie" group-title="VOD MALAY" tvg-logo="https://i.imgur.com/aByMV4j.jpg", Warong (2024)
 https://dtacmuar-my.sharepoint.com/personal/sitamil_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EbA4YOwfbU1LjqGOGW31XVIBwkOEkAsFf8t1UJ7Vf_XJjw
 
-#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://i.imgur.com/FXSM6mK.jpg", Hikayat Pak Belalang (2023) S1 E01
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://i.imgur.com/FXSM6mK.jpg", Hikayat Pak Belalang (2023) E01
 https://worker-kasyah.buntai.workers.dev/0:/series/Hikayat%20Pak%20Belalang/Hikayat%20Pak%20Belalang%20(2023)%20EP1.mp4
 
-#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://i.imgur.com/FXSM6mK.jpg", Hikayat Pak Belalang (2023) S1 E02
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://i.imgur.com/FXSM6mK.jpg", Hikayat Pak Belalang (2023) E02
 https://worker-kasyah.buntai.workers.dev/0:/series/Hikayat%20Pak%20Belalang/Hikayat%20Pak%20Belalang%20(2023)%20EP2.mp4
 
-#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://i.imgur.com/FXSM6mK.jpg", Hikayat Pak Belalang (2023) S1 E03
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://i.imgur.com/FXSM6mK.jpg", Hikayat Pak Belalang (2023) E03
 https://worker-kasyah.buntai.workers.dev/0:/series/Hikayat%20Pak%20Belalang/Hikayat%20Pak%20Belalang%20(2023)%20EP3.mp4
 
-#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://i.imgur.com/FXSM6mK.jpg", Hikayat Pak Belalang (2023) S1 E04
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://i.imgur.com/FXSM6mK.jpg", Hikayat Pak Belalang (2023) E04
 https://worker-kasyah.buntai.workers.dev/0:/series/Hikayat%20Pak%20Belalang/Hikayat%20Pak%20Belalang%20(2023)%20EP4.mp4
 
 
@@ -1215,34 +1215,40 @@ https://dtacmuar-my.sharepoint.com/personal/sitamil_dtacmuar_onmicrosoft_com/_la
 #EXTINF:-1 type="movie" group-title="VOD MALAY" tvg-logo="https://aqfadtv.xyz/images/MatKilau.png",Mat Kilau
 https://beaqfad.vercel.app/api/raw/?path=/VOD/Movies/Mat.Kilau.2022.1080p.NF.WEB-DL.DDP2.0.x264-AqFadTV.mp4 
 
+#EXTINF:-1 type="movie" group-title="AVATAR" tvg-logo="https://i.imgur.com/djgxIhT.jpeg" group-title="VOD MOVIES", AVATAR 1
+https://stream.hownetwork.xyz/xxx/avatar-2009-bluray/10/480.m3u8
 
-#EXTINF:-1 type="movie" tvg-logo="https://assets.stickpng.com/images/580b57fbd9996e24bc43c081.png" group-title="Transformers", Transformers S1 E01
+#EXTINF:-1 type="movie" group-title="AVATAR" tvg-logo="https://i.imgur.com/BXnJa8e.jpeg" group-title="VOD MOVIES", AVATAR : THE WAY OF WATER 2
+https://stream.hownetwork.xyz/xxx/avatar-the-way-of-water-2022-bluray/2/480.m3u8
+
+
+#EXTINF:-1 type="movie" tvg-logo="https://assets.stickpng.com/images/580b57fbd9996e24bc43c081.png" group-title="Transformers", Transformers 1
 https://privatemaster.xyz/cdn/stream/master/BiNuTIxLWoxzhMeSkMAFTAmXEGth1GgHuAH9MAwfjPmHaM9OpokycTYNTRYvb9QDpFz1iSDc52PUd75BH9LuyYWoNiWAMVrkbDffNQsbKRdSIlCg2rZEAn7iw5lGYMoz/master.m3u8 
 
-#EXTINF:-1 type="movie" tvg-logo="https://assets.stickpng.com/images/580b57fbd9996e24bc43c081.png" group-title="Transformers", Transformers S1 E02
+#EXTINF:-1 type="movie" tvg-logo="https://assets.stickpng.com/images/580b57fbd9996e24bc43c081.png" group-title="Transformers", Transformers 2
 https://privatemaster.xyz/cdn/stream/master/UGuj5PLTomDTpMas2PAyDjv4B2X0by7Foj0Tcf1SVVAm4mvpAUBMroJu9yzACxIlyRZM9exgPI36I6w4AyjMUQHTGZjuz8Y09gxIrBr4dcqpJNS3eTpvaIRt0WEt2FZT/master.m3u8 
 
-#EXTINF:-1 type="movie" tvg-logo="https://assets.stickpng.com/images/580b57fbd9996e24bc43c081.png" group-title="Transformers", Transformers S1 E03
+#EXTINF:-1 type="movie" tvg-logo="https://assets.stickpng.com/images/580b57fbd9996e24bc43c081.png" group-title="Transformers", Transformers 3
 https://privatemaster.xyz/cdn/stream/master/mqRXxqN3aAod7VPCVfvJzweMn25cw1Bjj3aRTMxWPigAIvIGqWbCcOJJwwQAsPCibtudRBJscHRuYvNJjfsn6PY031XNaweF7BxwVAVW19hx5ebKEkkvDFEm223YPDCD/master.m3u8 
 
-#EXTINF:-1 type="movie" tvg-logo="https://assets.stickpng.com/images/580b57fbd9996e24bc43c081.png" group-title="Transformers", Transformers S1 E04
+#EXTINF:-1 type="movie" tvg-logo="https://assets.stickpng.com/images/580b57fbd9996e24bc43c081.png" group-title="Transformers", Transformers 4
 https://privatemaster.xyz/cdn/stream/master/lil4csqeL7SfvseXYDqzJ3YTVDD7Pa4Flk0zkcEFEDtxfHjltTgGdiRKLBhbR2aVXIxU1aDBEScOCQbWTxElECGTpZaSHfRheIqYQYZJkEpUOJr5nMiNYxfCnPQ5vroL/master.m3u8 
 
-#EXTINF:-1 type="movie" tvg-logo="https://i.ibb.co/3scjjJn/LAST.jpg" group-title="Transformers", Transformers S1 E05
+#EXTINF:-1 type="movie" tvg-logo="https://i.ibb.co/3scjjJn/LAST.jpg" group-title="Transformers", Transformers 5
 https://privatemaster.xyz/cdn/stream/master/yoBcrQflOD9AVUR0g4wCfZAKyQjUNJKYFVg6E5BvybGEOB5MruwiIgJ5IuNKWDx5yhZGykW6QhH0cLhUoTgDsRmbQTVHIvDj4ZGRdT3vK3BfOn9C8OzFxJBzR1JGAUbB/master.m3u8 
 
-#EXTINF:-1 type="movie" tvg-logo="https://i.ibb.co/k1w8r11/RAISE-OF-THE-BEAST.jpg" group-title="Transformers", Transformers S1 E06
+#EXTINF:-1 type="movie" tvg-logo="https://i.ibb.co/k1w8r11/RAISE-OF-THE-BEAST.jpg" group-title="Transformers", Transformers 6
 https://privatemaster.xyz/cdn/stream/master/743XWgJWf6KzszEwhOlQ4oFQ50T0LJGp5INiiKnUHhV23pJHSlzxPGJHOuSiQR7MChXiK9sLufK8gsYhlLwKkHex8nYUWyB0JgVBvBVx1xWXkpesGApA7jmWlV20QPP1/master.m3u8 
 
 
 
-#EXTINF:-1 type="movie" tvg-logo="https://cdn.textstudio.com/output/sample/normal/4/9/6/5/series-logo-570-5694.webp" group-title="The Bourne", The Bourne S1 E01
+#EXTINF:-1 type="movie" tvg-logo="https://cdn.textstudio.com/output/sample/normal/4/9/6/5/series-logo-570-5694.webp" group-title="The Bourne", The Bourne 1
 https://www.googleapis.com/drive/v3/files/1JL4xp1GiBbXBiS_ZUJ50VgtVa6CeX008?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4 
 
-#EXTINF:-1 type="movie" tvg-logo="https://cdn.textstudio.com/output/sample/normal/4/9/6/5/series-logo-570-5694.webp" group-title="The Bourne", The Bourne S1 E02
+#EXTINF:-1 type="movie" tvg-logo="https://cdn.textstudio.com/output/sample/normal/4/9/6/5/series-logo-570-5694.webp" group-title="The Bourne", The Bourne 2
 https://www.googleapis.com/drive/v3/files/1Kq4xCUzVxxw7Zq8GaPLuxayRhE7XCuBH?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4 
 
-#EXTINF:-1 type="movie" tvg-logo="https://cdn.textstudio.com/output/sample/normal/4/9/6/5/series-logo-570-5694.webp" group-title="The Bourne", The Bourne S1 E03
+#EXTINF:-1 type="movie" tvg-logo="https://cdn.textstudio.com/output/sample/normal/4/9/6/5/series-logo-570-5694.webp" group-title="The Bourne", The Bourne 3
 https://www.googleapis.com/drive/v3/files/1BH3fKMygPonozus81_qFtQYEjx3Dd-ba?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4 
 
 
@@ -1762,115 +1768,115 @@ https://worker-delicate-rain-inas.buntai.workers.dev/0:/series/Layang%20Layang%2
 
 ROCK
 
-#EXTINF:-1 type="movie" group-title="Rock" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/thumb/8/84/Rock_01.jpg/220px-Rock_01.jpg", Rock S1 E01
+#EXTINF:-1 type="movie" group-title="Rock" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/thumb/8/84/Rock_01.jpg/220px-Rock_01.jpg", Rock 1
 https://hello-si-kacak.buntai.workers.dev/0:/movie/Malay/Rock.mp4
 
-#EXTINF:-1 type="movie" group-title="Rock" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/d/d1/Rock_Oo_Poster_01.png", Rock S1 E02
+#EXTINF:-1 type="movie" group-title="Rock" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/d/d1/Rock_Oo_Poster_01.png", Rock 2
 https://hello-si-kacak.buntai.workers.dev/0:/movie/Malay/Rock%20Oo!%20Rimba%20Bara%20is%20back.mp4
 
-#EXTINF:-1 type="movie" group-title="Rock" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzAyNTg0NTAtNTRmYy00YzhkLWI3MzUtYWY1OTc1ZDE1YWY4L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMzQyMjc3ODI@._V1_.jpg", Rock S1 E03
+#EXTINF:-1 type="movie" group-title="Rock" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzAyNTg0NTAtNTRmYy00YzhkLWI3MzUtYWY1OTc1ZDE1YWY4L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMzQyMjc3ODI@._V1_.jpg", Rock 3
 https://hello-si-kacak.buntai.workers.dev/0:/movie/Malay/Rock%20Bro.mp4
 
-#EXTINF:-1 type="movie" group-title="Rock" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTkyMGZjMDEtYTc4Yi00MzUzLWEzYjUtNWU1N2M2OWE2MmU1XkEyXkFqcGdeQXVyODc1ODUxNjE@._V1_.jpg", Rock S1 E04
+#EXTINF:-1 type="movie" group-title="Rock" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTkyMGZjMDEtYTc4Yi00MzUzLWEzYjUtNWU1N2M2OWE2MmU1XkEyXkFqcGdeQXVyODc1ODUxNjE@._V1_.jpg", Rock 4
 https://hello-si-kacak.buntai.workers.dev/0:/movie/Malay/Rock%204-%20Rockers%20Never%20Dai.mkv
 
 FAST & FURIOUS
 
-#EXTINF:-1 type="movie" group-title="The Fast and The Furious" tvg-logo="https://www.themoviedb.org/t/p/w500/gqY0ITBgT7A82poL9jv851qdnIb.jpg", The Fast and The Furious S1 E01
+#EXTINF:-1 type="movie" group-title="The Fast and The Furious" tvg-logo="https://www.themoviedb.org/t/p/w500/gqY0ITBgT7A82poL9jv851qdnIb.jpg", The Fast and The Furious 1
 https://dtacmuar-my.sharepoint.com/personal/mubi1_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=Ed_85BTygldFo0BVmMnOA5QBBwb8Iu9zlZKmJf-Gju5Ezw
 
-#EXTINF:-1 type="movie" group-title="The Fast and The Furious" tvg-logo="https://www.themoviedb.org/t/p/w500/qC167IbZpSrwX7wWgg3BeDQbTDr.jpg", The Fast and The Furious S1 E02
+#EXTINF:-1 type="movie" group-title="The Fast and The Furious" tvg-logo="https://www.themoviedb.org/t/p/w500/qC167IbZpSrwX7wWgg3BeDQbTDr.jpg", The Fast and The Furious 2
 https://dtacmuar-my.sharepoint.com/personal/mubi1_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=ETO1JXohTiFEmIFcko69eWQBes5gVGjjK1WU5m_djKENKA
 
-#EXTINF:-1 type="movie" group-title="The Fast and The Furious" tvg-logo="https://www.themoviedb.org/t/p/w500/cm2ffqb3XovzA5ZSzyN3jnn8qv0.jpg", The Fast and The Furious S1 E03
+#EXTINF:-1 type="movie" group-title="The Fast and The Furious" tvg-logo="https://www.themoviedb.org/t/p/w500/cm2ffqb3XovzA5ZSzyN3jnn8qv0.jpg", The Fast and The Furious 3
 https://dtacmuar-my.sharepoint.com/personal/mubi1_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EW9C5Y9CnkZNs_00AzmzLQsBJJEzq4D3SZab5UP1okWgTA
 
-#EXTINF:-1 type="movie" group-title="The Fast and The Furious" tvg-logo="https://www.themoviedb.org/t/p/original/pk8TyMix5QtQ1ND5MROfIPvx4XJ.jpg", The Fast and The Furious S1 E04
+#EXTINF:-1 type="movie" group-title="The Fast and The Furious" tvg-logo="https://www.themoviedb.org/t/p/original/pk8TyMix5QtQ1ND5MROfIPvx4XJ.jpg", The Fast and The Furious 4
 https://dtacmuar-my.sharepoint.com/personal/mubi1_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EaH8dIVoIApEjeGV0AhUug8BvhyIsmFgo5-EUVEJ2zKKuA
 
-#EXTINF:-1 type="movie" group-title="The Fast and The Furious" tvg-logo="https://www.themoviedb.org/t/p/w500/vDztZS30sheoqnJnKyO4QMnf3f8.jpg", The Fast and The Furious S1 E05
+#EXTINF:-1 type="movie" group-title="The Fast and The Furious" tvg-logo="https://www.themoviedb.org/t/p/w500/vDztZS30sheoqnJnKyO4QMnf3f8.jpg", The Fast and The Furious 5
 https://dtacmuar-my.sharepoint.com/personal/mubi1_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EQIqVF8BScJKpfwcaYJHcRoBvHfm2re3miK4YuVSqN5OKg
 
-#EXTINF:-1 type="movie" group-title="The Fast and The Furious" tvg-logo="https://www.themoviedb.org/t/p/w500/n31VRDodbaZxkrZmmzyYSFNVpW5.jpg", The Fast and The Furious S1 E06
+#EXTINF:-1 type="movie" group-title="The Fast and The Furious" tvg-logo="https://www.themoviedb.org/t/p/w500/n31VRDodbaZxkrZmmzyYSFNVpW5.jpg", The Fast and The Furious 6
 https://dtacmuar-my.sharepoint.com/personal/mubi1_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EWBgbiVY0JxPoZx3yZ5DN58BAr_xqFNvltCTC9iSRT-BJA
 
-#EXTINF:-1 type="movie" group-title="The Fast and The Furious" tvg-logo="https://www.themoviedb.org/t/p/original/jPFsjmFlTFmpIY41BP3C4sVYOKw.jpg", The Fast and The Furious S1 E07
+#EXTINF:-1 type="movie" group-title="The Fast and The Furious" tvg-logo="https://www.themoviedb.org/t/p/original/jPFsjmFlTFmpIY41BP3C4sVYOKw.jpg", The Fast and The Furious 7
 https://dtacmuar-my.sharepoint.com/personal/mubi1_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=Ea889maKkjVDge6x6VcSBogBccvvv5w4MnvSZaFPhsAphA
 
-#EXTINF:-1 type="movie" group-title="The Fast and The Furious" tvg-logo="https://www.themoviedb.org/t/p/w500/dImWM7GJqryWJO9LHa3XQ8DD5NH.jpg", The Fast and The Furious S1 E08
+#EXTINF:-1 type="movie" group-title="The Fast and The Furious" tvg-logo="https://www.themoviedb.org/t/p/w500/dImWM7GJqryWJO9LHa3XQ8DD5NH.jpg", The Fast and The Furious 8
 https://dtacmuar-my.sharepoint.com/personal/mubi1_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EQ74OIUwaZ9Li3OWr4Le5XwBjO36Da8p4MPFAoIFWl6uCA
 
-#EXTINF:-1 type="movie" group-title="The Fast and The Furious" tvg-logo="https://www.themoviedb.org/t/p/w500/qRyy2UmjC5ur9bDi3kpNNRCc5nc.jpg", The Fast and The Furious S1 E09
+#EXTINF:-1 type="movie" group-title="The Fast and The Furious" tvg-logo="https://www.themoviedb.org/t/p/w500/qRyy2UmjC5ur9bDi3kpNNRCc5nc.jpg", The Fast and The Furious 9
 https://dtacmuar-my.sharepoint.com/personal/mubi1_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EYFJJhoqTdJOnXSIglFaOkUBV3yWfkGLT3gOj1s5HIeMKg
 
-#EXTINF:-1 type="movie" group-title="The Fast and The Furious" tvg-logo="https://image.tmdb.org/t/p/original/fiVW06jE7z9YnO4trhaMEdclSiC.jpg", The Fast and The Furious S1 E10
+#EXTINF:-1 type="movie" group-title="The Fast and The Furious" tvg-logo="https://image.tmdb.org/t/p/original/fiVW06jE7z9YnO4trhaMEdclSiC.jpg", The Fast and The Furious 10
 https://storage.dewanonton.online/hls/37f2b3ab-e639-474a-a890-b9e951cd640a.mp4/index.m3u8
 
 TRANSPOTER
 
-#EXTINF:-1 type="movie" group-title="Transporter" tvg-logo="https://www.themoviedb.org/t/p/w500/v3QIFUWgtVN4wejVuDZowuyJ20W.jpg", Transporter S1 E01
+#EXTINF:-1 type="movie" group-title="Transporter" tvg-logo="https://www.themoviedb.org/t/p/w500/v3QIFUWgtVN4wejVuDZowuyJ20W.jpg", The Transporter (2002)
 https://dtacmuar-my.sharepoint.com/personal/mubi1_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=Ec-qP4rgQAlGkh5IR8Y-ByQBrclpeMGZ0dv_KSHBcCmW4Q
 
-#EXTINF:-1 type="movie" group-title="Transporter" tvg-logo="https://www.themoviedb.org/t/p/w500/cdm17vK8PxHfTi7ayZf6WKbOgUO.jpg", Transporter S1 E02
+#EXTINF:-1 type="movie" group-title="Transporter" tvg-logo="https://www.themoviedb.org/t/p/w500/cdm17vK8PxHfTi7ayZf6WKbOgUO.jpg", Transporter 2 (2005)
 https://dtacmuar-my.sharepoint.com/personal/mubi1_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=Ecn5kiQ4R7BAnqvmHrWtLOABFwMApPpOeZK7D-iBIwcXUg
 
-#EXTINF:-1 type="movie" group-title="Transporter" tvg-logo="https://www.themoviedb.org/t/p/w500/ngpLhUccj6mlvAVpiIa7jUcFxhT.jpg", Transporter S1 E03
+#EXTINF:-1 type="movie" group-title="Transporter" tvg-logo="https://www.themoviedb.org/t/p/w500/ngpLhUccj6mlvAVpiIa7jUcFxhT.jpg", Transporter 3 (2008)
 https://dtacmuar-my.sharepoint.com/personal/mubi1_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EVRurJvLQPRCgNtkzY2xtywBC_KYUepK-3W_3SSaQ-QyPA
 
-#EXTINF:-1 type="movie" group-title="Transporter" tvg-logo="https://www.themoviedb.org/t/p/w500/71kaQfdrMy0LHSeLRADsvlDGCgb.jpg", Transporter S1 E04
+#EXTINF:-1 type="movie" group-title="Transporter" tvg-logo="https://www.themoviedb.org/t/p/w500/71kaQfdrMy0LHSeLRADsvlDGCgb.jpg", The Transporter Refueled (2015)
 https://dtacmuar-my.sharepoint.com/personal/mubi1_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EZKqF7A79n1EhTb_xpg34DABHV6OZYPSdKA6kDIhkYCvRg
 
 JOHN WICK
 
-#EXTINF:-1 type="movie" group-title="John Wick" tvg-logo="https://www.themoviedb.org/t/p/w500/fZPSd91yGE9fCcCe6OoQr6E3Bev.jpg", John Wick S1 E01
+#EXTINF:-1 type="movie" group-title="John Wick" tvg-logo="https://www.themoviedb.org/t/p/w500/fZPSd91yGE9fCcCe6OoQr6E3Bev.jpg", John Wick 01
 https://dtacmuar-my.sharepoint.com/personal/mubi2_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EUTDiYr__YRMi1m5qWQtVvEBlT6RN0N9mXW-jePR7uz2Bg
 
-#EXTINF:-1 type="movie" group-title="John Wick" tvg-logo="https://www.themoviedb.org/t/p/original/vn4vJSzAvkHeVp6TSnjppotoLqQ.jpg", John Wick S1 E02
+#EXTINF:-1 type="movie" group-title="John Wick" tvg-logo="https://www.themoviedb.org/t/p/original/vn4vJSzAvkHeVp6TSnjppotoLqQ.jpg", John Wick 02
 https://dtacmuar-my.sharepoint.com/personal/mubi2_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EcL4ZBQgbl5Ep6eAGyhVBdwBq3Xw_deL3yg_u2pPrcBAtg
 
-#EXTINF:-1 type="movie" group-title="John Wick" tvg-logo="https://www.themoviedb.org/t/p/original/skprszS1enWcPFQk6eQ3k29pU29.jpg", John Wick S1 E03
+#EXTINF:-1 type="movie" group-title="John Wick" tvg-logo="https://www.themoviedb.org/t/p/original/skprszS1enWcPFQk6eQ3k29pU29.jpg", John Wick 03
 https://dtacmuar-my.sharepoint.com/personal/mubi2_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=ER-PE-XMXGpGroHbkv9E2mABS61INyWFJ6j5FIS_EvfMww
 
-#EXTINF:-1 type="movie" group-title="John Wick" tvg-logo="https://image.tmdb.org/t/p/original/vZloFAK7NmvMGKE7VkF5UHaz0I.jpg", John Wick S1 E04
+#EXTINF:-1 type="movie" group-title="John Wick" tvg-logo="https://image.tmdb.org/t/p/original/vZloFAK7NmvMGKE7VkF5UHaz0I.jpg", John Wick 04
 https://storage.dewanonton.online/hls/3e3d79c3-a19d-46c3-a231-c3df79c92673.mp4/index.m3u8
 
 PLANET OF THE APES
 
-#EXTINF:-1 type="movie" group-title="The Apes" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2IZcJHsTugOdyg0Y8ejj4CM2X3a.jpg", The Apes S1 E01
+#EXTINF:-1 type="movie" group-title="The Apes" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2IZcJHsTugOdyg0Y8ejj4CM2X3a.jpg", The Apes 01
 https://dtacmuar-my.sharepoint.com/personal/sitamil_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EUqLJfn_TiJIvtljGjYk6BgBaATH6gRB6gMBluv4SnNKjw
 
-#EXTINF:-1 type="movie" group-title="The Apes" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cjLsuP75UDlRdJVMXzXg3TJ4umX.jpg", The Apes S1 E02
+#EXTINF:-1 type="movie" group-title="The Apes" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cjLsuP75UDlRdJVMXzXg3TJ4umX.jpg", The Apes 02
 https://dtacmuar-my.sharepoint.com/personal/sitamil_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EQJkGc-h4VVJpW06b9mYic0BbcogiEIthDAODDiSvFVzwA
 
-#EXTINF:-1 type="movie" group-title="The Apes" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kScdQEwS9jPEdnO23XjGAtaoRcT.jpg", The Apes S1 E03
+#EXTINF:-1 type="movie" group-title="The Apes" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kScdQEwS9jPEdnO23XjGAtaoRcT.jpg", The Apes 03
 https://dtacmuar-my.sharepoint.com/personal/sitamil_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EbjLkoBo6j1OoIj80_ni6ksBIAPzJmsQG1QjMTNO1y9mUA
 
-#EXTINF:-1 type="movie" group-title="The Apes" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pbPwGTyiH5TjoTtarY5gM0z56kQ.jpg", The Apes S1 E04
+#EXTINF:-1 type="movie" group-title="The Apes" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pbPwGTyiH5TjoTtarY5gM0z56kQ.jpg", The Apes 04
 https://dtacmuar-my.sharepoint.com/personal/sitamil_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EbrFwptjxe1FtqUYwpJfvp8BaLoO4h1mCrmdUAeugwBZuw
 
 THE AVENGERS
 
-#EXTINF:-1 type="movie" group-title="Avengers" tvg-logo="https://ww69.ohflix.net/uploads/video_thumb/955.jpg", Avengers S1 E01
+#EXTINF:-1 type="movie" group-title="Avengers" tvg-logo="https://ww69.ohflix.net/uploads/video_thumb/955.jpg", The Avengers (2012)
 https://hello-si-kacak.buntai.workers.dev/0:/movie/English/The%20Avengers.mp4
 
-#EXTINF:-1 type="movie" group-title="Avengers" tvg-logo="https://ww69.ohflix.net/uploads/video_thumb/1806.jpg", Avengers S1 E02
+#EXTINF:-1 type="movie" group-title="Avengers" tvg-logo="https://ww69.ohflix.net/uploads/video_thumb/1806.jpg", Avengers : Age Of Ultron (2015)
 https://hello-si-kacak.buntai.workers.dev/0:/movie/English/AVENGERS%20AGE%20OF%20ULTRON%20(2015)%20.mp4
 
-#EXTINF:-1 type="movie" group-title="Avengers" tvg-logo="https://ww69.ohflix.net/uploads/video_thumb/1041.jpg", Avengers S1 E03
+#EXTINF:-1 type="movie" group-title="Avengers" tvg-logo="https://ww69.ohflix.net/uploads/video_thumb/1041.jpg", Avengers : Ifinity War (2018)
 https://hello-si-kacak.buntai.workers.dev/0:/movie/English/Avengers-%20Infinity%20War.mp4
 
-#EXTINF:-1 type="movie" group-title="Avengers" tvg-logo="https://ww69.ohflix.net/uploads/video_thumb/638.jpg", Avengers S1 E04
+#EXTINF:-1 type="movie" group-title="Avengers" tvg-logo="https://ww69.ohflix.net/uploads/video_thumb/638.jpg", Avengers : Endgame (2019)
 https://hello-si-kacak.buntai.workers.dev/0:/movie/English/Avengers-%20Endgame.mp4
 
 ant mant
 
-#EXTINF:-1 type="movie" group-title="Ant-Man" tvg-logo="https://ww69.ohflix.net/uploads/video_thumb/2786.jpg", Ant-Man S1 E01
+#EXTINF:-1 type="movie" group-title="Ant-Man" tvg-logo="https://ww69.ohflix.net/uploads/video_thumb/2786.jpg", Ant-Man (2015)
 https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/English/Ant-Man.mp4
 
-#EXTINF:-1 type="movie" group-title="Ant-Man" tvg-logo="https://ww69.ohflix.net/uploads/video_thumb/3262.jpg", Ant-Man S1 E02
+#EXTINF:-1 type="movie" group-title="Ant-Man" tvg-logo="https://ww69.ohflix.net/uploads/video_thumb/3262.jpg", Ant-Man and the Wasp (2018)
 https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/English/Ant-Man%20and%20the%20Wasp.mp4
 
-#EXTINF:-1 type="movie" group-title="Ant-Man" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ngl2FKBlU4fhbdsrtdom9LVLBXw.jpg", Ant-Man S1 E03
+#EXTINF:-1 type="movie" group-title="Ant-Man" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ngl2FKBlU4fhbdsrtdom9LVLBXw.jpg", Ant-Man and the Wasp: Quantumania (2023)
 https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/English/Ant-Man%20and%20the%20Wasp-%20Quantumania.mp4
 
 
