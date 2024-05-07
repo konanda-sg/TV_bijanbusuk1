@@ -191,8 +191,10 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/1113/default.mpd
 EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-Oj30_OSCTbA/T__hmGh2tvI/AAAAAAAACWg/d7WUGwrM7ag/w1200-h630-p-k-no-nu/tvikim-logo.png",TV IKIM 
 https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
 
-EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/mobile/channel/logos/hxismd.png",suke-tv 
-https://live.mana2.my/SukeTv/index.m3u8
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/mobile/channel/logos/hxismd.png",suke-tv 
+#EXT-X-I-FRAME-STREAM-INF:BANDWIDTH=18000000,CODECS="mp4a.40.2",RESOLUTION=3840x2160,FRAME-RATE=60,VIDEO-RANGE=SDR,URI="keyframes/tracks-v1a1/mono.m3u8"
+https://live.mana2.my/SukeTv/tracks-v1a1/mono.m3u8?token=1715052874-2e6e154a30c34151864bdbd7343a9d04-0-b41820243fa64d9a3a5a932769484ee4&auth_key=1715052874-2e6e154a30c34151864bdbd7343a9d04-0-acb8b0179939384b758d3d72ae87f0e8
+
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Vcyu6IazQN2QH0v43Z06ag", "kid":"w+lWs4rpk74UlMfPoXsREA" } ], "type":"temporary" }
