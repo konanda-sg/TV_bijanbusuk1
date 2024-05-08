@@ -704,15 +704,12 @@ https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1601/default.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"HO5FQCla5tbFGcUEGoDxwA", "kid":"jQKveknkSzGXZNgR0BjF6A" } ], "type":"temporary" }
 #EXTINF:-1 tvg-logo="https://telegra.ph/file/ec444fecfcb3a20cd6aa4.png", Supersport Plus
 https://linear03-playback.sooka.my/CH3/masterCH3.mpd
-  
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik56RTVaRE5qTWpjdFpEZzNOQzAwT0RJeUxUZzJZVE10T0RJd1pHRmlaV1JsTm1ZeiIsIndtb3BpZCI6MzIsImV4cCI6MTcxNTE0OTcyOSwiaWF0IjoxNzE0NTQ1NzI5fQ.znagpCnj4Wsqn3l71HlWuW0DV5zQY6oaVP1wVKLQV6o"}
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://sooka.my/&user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"lofZG3/WR6iBg9CkzJJfdw", "kid":"s8z3OnpmT4WudBE2f/svpw" } ], "type":"temporary" }
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ead0335d60401225727a6d531e9c2710", "kid":"1ee3b252227c5c2ec9378c833d2e14ff" } ], "type":"temporary" }
 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png",ASSP HD
-https://d3j4fjrwclc3o8.cloudfront.net/CH1/masterCH1.mpd
+https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/601/default.mpd
+
 
 
 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png",ASSP HD
@@ -776,6 +773,55 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/2506/default.mpd
 
 EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport4_v1.png",ASSP4 HD
 http://mku0414.oknirvana.club:8880/3us02233n01/adsf232e23/59217
+
+#######
+
+
+"Astro_Bola": {
+        url: "https://d1fk7kbmz4il3.cloudfront.net/CH1/masterCH1.mpd",
+        k1: "7481d3e3738c46768f138e208fee9076",
+        k2: "e1d428c7f1ca82339a6cfa1d0757428e"
+    },
+    "Astro_Bola_2": {
+        url: "https://d1fk7kbmz4il3.cloudfront.net/CH5/masterCH5.mpd",
+        k1: "99685545491d40b493b3a4b263c7245e",
+        k2: "7939e335bf8cbbd6882f9f5c9cdebe19"
+    },
+    "Astro_Bola_3": {
+        url: "https://d1fk7kbmz4il3.cloudfront.net/CH3/masterCH3.mpd",
+        k1: "ca4f5ff4e4694d54bdfdc9bd34384290",
+        k2: "1100fe297146f7d024b59944f09e6d1a"
+    },
+    "Astro_Supersport_UHD": {
+        url: "https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1601/default_primary.mpd",
+        k1: "22fbef1c1cd725e9397ec16455f08210",
+        k2: "7aea43cd93c24aa9834ecb4984f7fd5a"
+    },
+    "Astro_Sports_1": {
+        url: "",
+        k1: "",
+        k2: ""
+    },
+    "Astro_Sports_2": {
+        url: "https://d3j4fjrwclc3o8.cloudfront.net/CH4/masterCH4.mpd",
+        k1: "8f1da399325247eca6acdd7bafb95fa2",
+        k2: "41f234fb88590af3b0d224111a61bf71"
+    },
+    "Astro_Sports_3": {
+        url: "https://d3j4fjrwclc3o8.cloudfront.net/CH5/masterCH5.mpd",
+        k1: "0d6d2a1ac8d14e19b17455650770cd99",
+        k2: "ff65174f8ec5d4c88e8d8a21968563cf"
+    },
+
+    "Astro_Sports_4": {
+        url: "https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default_ott.mpd",
+        k1: "79f4028730acca9ab8b00f26158ddb10",
+        k2: "91febe843c08c7cc523efd827292e40e
+
+
+#######
+
+
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"zYTtE2sMxx+KuM1NT2ouTA", "kid":"A8Lgry+BWfnwzptdvIZfEA" } ], "type":"temporary" }
