@@ -751,10 +751,10 @@ https://d3j4fjrwclc3o8.cloudfront.net/CH5/masterCH5.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Ff90rhBkxfL7ANKZX6iJVQ", "kid":"yxiUWSXmXUEfu5htclMQEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport3_v1.png",ASSP3 HD
+EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport3_v1.png",ASSP3 HD
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/9986/default_primary.mpd
 
-EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport3_v1.png",ASSP3 HD
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport3_v1.png",ASSP3 HD
 http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&extension=ts&stream=186389
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -772,52 +772,49 @@ https://live.aqfadtv.xyz/sooka/supersport3/index.mpd
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/2506/default.mpd
 
 EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport4_v1.png",ASSP4 HD
-http://mku0414.oknirvana.club:8880/3us02233n01/adsf232e23/59217
-
+http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&extension=ts&stream=186390
 #######
 
-
-"Astro_Bola": {
-        url: "https://d1fk7kbmz4il3.cloudfront.net/CH1/masterCH1.mpd",
-        k1: "7481d3e3738c46768f138e208fee9076",
-        k2: "e1d428c7f1ca82339a6cfa1d0757428e"
-    },
-    "Astro_Bola_2": {
-        url: "https://d1fk7kbmz4il3.cloudfront.net/CH5/masterCH5.mpd",
-        k1: "99685545491d40b493b3a4b263c7245e",
-        k2: "7939e335bf8cbbd6882f9f5c9cdebe19"
-    },
-    "Astro_Bola_3": {
-        url: "https://d1fk7kbmz4il3.cloudfront.net/CH3/masterCH3.mpd",
-        k1: "ca4f5ff4e4694d54bdfdc9bd34384290",
-        k2: "1100fe297146f7d024b59944f09e6d1a"
-    },
-    "Astro_Supersport_UHD": {
-        url: "https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1601/default_primary.mpd",
-        k1: "22fbef1c1cd725e9397ec16455f08210",
-        k2: "7aea43cd93c24aa9834ecb4984f7fd5a"
-    },
-    "Astro_Sports_1": {
-        url: "",
-        k1: "",
-        k2: ""
-    },
-    "Astro_Sports_2": {
-        url: "https://d3j4fjrwclc3o8.cloudfront.net/CH4/masterCH4.mpd",
-        k1: "8f1da399325247eca6acdd7bafb95fa2",
-        k2: "41f234fb88590af3b0d224111a61bf71"
-    },
-    "Astro_Sports_3": {
-        url: "https://d3j4fjrwclc3o8.cloudfront.net/CH5/masterCH5.mpd",
-        k1: "0d6d2a1ac8d14e19b17455650770cd99",
-        k2: "ff65174f8ec5d4c88e8d8a21968563cf"
-    },
-
-    "Astro_Sports_4": {
-        url: "https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default_ott.mpd",
-        k1: "79f4028730acca9ab8b00f26158ddb10",
-        k2: "91febe843c08c7cc523efd827292e40e
-
+#EXTINF:-1 tvg-id="AstroSupersport" group-title="SPORTS" tvg-logo="https://telegra.ph/file/ab16f908be35a1bbc227d.jpg",Astro Supersport 1 CH811
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik5UQm1ZV1kyTVRndFpHWm1OaTAwTlRnMExXSmpOR010WlRsaE9EaGlZbUl5WWpBMSIsIndtb3BpZCI6MzIsImV4cCI6MTcwMDkwMTg3MywiaWF0IjoxNzAwMjk3ODczfQ.47O5mRVNfAt2fpJiK0VdSCwWSlDmDWAOiq-jnjw6168"}
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://sooka.my/&user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/sooka/s1/
+#https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/601/default.mpd
+# https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_primary.mpd
+https://live.aqfadtv.xyz/sooka/supersport/index.mpd
+#EXTINF:-1 tvg-id="AstroSupersport2" group-title="SPORTS" tvg-logo="https://telegra.ph/file/a617ac1c52b5959136d28.jpg",Astro Supersport 2 CH812
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik5UQm1ZV1kyTVRndFpHWm1OaTAwTlRnMExXSmpOR010WlRsaE9EaGlZbUl5WWpBMSIsIndtb3BpZCI6MzIsImV4cCI6MTcwMDkwMTg3MywiaWF0IjoxNzAwMjk3ODczfQ.47O5mRVNfAt2fpJiK0VdSCwWSlDmDWAOiq-jnjw6168"}
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://sooka.my/&user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/sooka/s2/
+https://live.aqfadtv.xyz/sooka/supersport2/index.mpd
+#EXTINF:-1 tvg-id="AstroSupersport3" group-title="SPORTS" tvg-logo="https://telegra.ph/file/5123e7203c575626493fa.jpg",Astro Supersport 3 CH813
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik5UQm1ZV1kyTVRndFpHWm1OaTAwTlRnMExXSmpOR010WlRsaE9EaGlZbUl5WWpBMSIsIndtb3BpZCI6MzIsImV4cCI6MTcwMDkwMTg3MywiaWF0IjoxNzAwMjk3ODczfQ.47O5mRVNfAt2fpJiK0VdSCwWSlDmDWAOiq-jnjw6168"}
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://sooka.my/&user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/sooka/s3/
+https://live.aqfadtv.xyz/sooka/supersport3/index.mpd
+#EXTINF:-1 tvg-id="AstroSupersport4" group-title="SPORTS" tvg-logo="https://telegra.ph/file/ff4f91a3e520cc14db11a.jpg",Astro Supersport 4 CH814
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/2506/
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/2506/default.mpd
+#EXTINF:-1 tvg-id="W-Sport" group-title="SPORTS" tvg-logo="https://telegra.ph/file/a75a3433be5f2bbff15f0.png",FOX Sports HD CH815
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/5060/
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5060/default.mpd
+#EXTINF:-1 tvg-id="SPOTV" group-title="SPORTS" tvg-logo="https://telegra.ph/file/0f50aab47d268d6202749.png",FOX Sports 2 HD CH816
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/5058
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5058/default.mpd
+#EXTINF:-1 tvg-id="SPOTV2" group-title="SPORTS" tvg-logo="https://telegra.ph/file/b0dce0ceef587702ca48b.png",FOX Sports 3 HD CH817
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=Miepalong7&channelid=5079/
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5079/default.mpd
 
 #######
 
