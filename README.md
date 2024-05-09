@@ -515,24 +515,32 @@ EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Paramount.png",
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/133/paramount/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/SonyPixV3.png",Sony Pix HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/SonyPixV3.png",Sony Pix    
 https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/StarMovies.png",Star Movies
+http://uhd3.one:80/play/live.php?mac=00:1A:79:19:06:50&stream=282639&extension=ts
+https://tv5.hoichoi24.com/1605/index.m3u8
 http://mytv-extra.com:80/live/t12mgxyb335/9832948789/187267.m3u8
 https://tv5.hoichoi24.com/1605/index.m3u8
 http://103.107.79.87:8080/CH8109HD05/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/StarMoviesSelect.png",Star Movies Select 
+http://uhd3.one:80/play/live.php?mac=00:1A:79:19:06:50&stream=155729&extension=ts
+http://103.107.79.87:8080/CH8109HD05/tracks-v1a1/mono.m3u8
 http://mytv-extra.com:80/live/t12mgxyb335/9832948789/387767.m3u8
 http://uhd3.one:80/play/live.php?mac=00:1A:79:19:06:50&stream=155729&extension=ts
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/MoviesNow.png",Movies Now
+http://uhd3.one:80/play/live.php?mac=00:1A:79:19:06:50&stream=1116477&extension=ts
+http://103.107.79.87:8080/CH8109HD01/tracks-v1a1/mono.m3u8
 http://dreamsmart.me:8080/play/live.php?mac=00:1A:79:20:34:1F&stream=277314&extension=m3u8
 http://line.clear-ocean.link:80/play/live.php?mac=00:1A:79:46:71:86&stream=115507&extension=m3u8
 http://uhd3.one:80/play/live.php?mac=00:1A:79:19:06:50&stream=1116477&extension=ts
 
+#EXTINF:-1 tvg-id="599" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/MNX.png" group-logo="" group-title="",MNX
+http://uhd3.one:80/play/live.php?mac=00:1A:79:19:06:50&stream=156021&extension=ts
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/645e7828e1979c00087b75b4/colorLogoPNG.png", MovieSphere by Lionsgate
 https://i.mjh.nz/PlutoTV/645e7828e1979c00087b75b4-alt.m3u8
