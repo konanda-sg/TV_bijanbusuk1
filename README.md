@@ -71,7 +71,7 @@ http://hotz.vip:2082/live/zoufafa/zoufafa/6578.m3u8
 http://mykingtv.net:2082/gadget1k85/pass1k85/8447
 https://staging-linearjitp02-playback.astro.com.my/dash-wv/linear/1000/default.mpd
 
-#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png", PRIMA HD
+EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png", PRIMA HD
 #EXT-X-I-FRAME-STREAM-INF:BANDWIDTH=768000,CODECS="avc1.64001F",RESOLUTION=960x540,URI="http://hotz.vip:2082/live/zoufafa/zoufafa/6578.m3u8"
 #EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio_0",CHANNELS="2",NAME="English",LANGUAGE="eng",DEFAULT=YES,AUTOSELECT=YES,URI="http://hotz.vip:2082/live/zoufafa/zoufafa/6578.m3u8"
 http://hotz.vip:2082/live/zoufafa/zoufafa/6578.m3u8
