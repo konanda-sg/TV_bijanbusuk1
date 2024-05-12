@@ -74,10 +74,8 @@ https://staging-linearjitp02-playback.astro.com.my/dash-wv/linear/1000/default.m
 http://linearjitp02-playback.astro.com.my/dash-wv/linear/2505/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png", WARNA HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"84bf9ad6848be7db20f9d16823deef10": "654f2d25a5bfb27c9e5ae0852584a166"}
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"CoDiDFaOiOU8cIfBxkkzGA", "kid":"qixlPwwFVnrig8SjJxqYEA" } ], "type":"temporary" }
 https://linears-playback.astro.com.my/vsg/41iFhU-KKqyLW0EM61UfnvARRKUAh9uVHA-g8V_79eaNc=meLM/dash-wv/jitp-dashisowm/2402/default_primary.mpd
 http://mykingtv.net:2082/live/NorHalizam69/Halizam111731/8449.m3u8
 http://mykingtv.net:2082/gadget1k85/pass1k85/8449
