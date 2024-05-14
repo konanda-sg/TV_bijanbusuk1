@@ -6,30 +6,6 @@
 
 ×********'********' 
 
-#EXTINF:-1 tvg-id="in_starmovies.in" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/" group-title="IND & ENG MOVIES 24/7",IND_STAR MOVIES HD (ENG) 
-https://allinonereborn.tech/dhoom.php?id=10427
-#EXTINF:-1 tvg-id="in_starmovies.in" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/" group-title="IND & ENG MOVIES 24/7",|IN| ENGLISH STAR WORLD FHD 
-https://allinonereborn.tech/dhoom.php?id=10886
-#EXTINF:-1 tvg-id="in_mnx.in" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/" group-title="IND & ENG MOVIES 24/7",IN: Comedy Central 4K 
-https://allinonereborn.tech/dhoom.php?id=7897
-#EXTINF:-1 tvg-id="in_mnx.in" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/" group-title="IND & ENG MOVIES 24/7",IN: Comedy Central HD 
-https://allinonereborn.tech/dhoom.php?id=7898
-#EXTINF:-1 tvg-id="in_starworldhd.in" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/" group-title="IND & ENG MOVIES 24/7",IND: MNX FHD 
-https://allinonereborn.tech/dhoom.php?id=7762
-#EXTINF:-1 tvg-id="in_starworldhd.in" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/" group-title="IND & ENG MOVIES 24/7",IND: MNX HD 
-https://allinonereborn.tech/dhoom.php?id=7899
-#EXTINF:-1 tvg-id="" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/" group-title="IND & ENG MOVIES 24/7",IND_& PRIVE_FHD 
-https://allinonereborn.tech/dhoom.php?id=10295
-#EXTINF:-1 tvg-id="" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/" group-title="IND & ENG MOVIES 24/7",IND_ & PRIVE_HD 
-https://allinonereborn.tech/dhoom.php?id=10296
-#EXTINF:-1 tvg-id="in_andflixhd.in" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/" group-title="IND & ENG MOVIES 24/7",IND_AND FLIX _ FHD 
-https://allinonereborn.tech/dhoom.php?id=7764
-#EXTINF:-1 tvg-id="in_andflixhd.in" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/" group-title="IND & ENG MOVIES 24/7",IND_AND FLIX _HD 
-https://allinonereborn.tech/dhoom.php?id=7765
-#EXTINF:-1 tvg-id="" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/" group-title="ODISHA",COLORS ORIYA HD 
-https://allinonereborn.tech/dhoom.php?id=8427
-#EXTINF:-1 tvg-id="in_sonypix.in" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/" group-title="IND & ENG MOVIES 24/7",IND_SONY PIX_FHD 
-https://allinonereborn.tech/dhoom.php?id=5404
 
 *********
 
