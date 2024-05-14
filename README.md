@@ -563,8 +563,8 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5014/default_primary.mpd
 
 *********************************************************************************SUKAN**************************************************************************************************************
 
-EXTINF:-1 tvg-logo="https://rtm-images.glueapi.io/120x0/live_channel/sukan_Trans.png",Sukan RTM
-https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
+#EXTINF:-1 tvg-logo="https://rtm-images.glueapi.io/120x0/live_channel/sukan_Trans.png",Sukan RTM
+https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/SukanRTM/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202304/20230418/202304180833546499vy.png",Unifi Sports
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
