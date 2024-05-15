@@ -70,14 +70,13 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5128/default_primary.mpd
 EXTINF:-1 tvg-logo="https://www.xtra.com.my/live-tv/assets/img/dramasangat.png",Drama Sangat
 https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/DramaSangat/index.m3u8
 
-EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png",RIA HD 
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png",RIA HD 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"N2sAl5bkrVDqj2jXlmdmkg", "kid":"P3Jv1cu/WURDek2/q0MbEA" } ], "type":"temporary" }
-https://hls.ulivetv.net/v/live/d839s8nk0rgg.m3u8?stream_id=d839s8nk0rgg&timestamp=1705539916&rand=005UNTKk3C&uuid=ceaJ65fSEJrTTW5JH8HdVe&from=web&sign=9c5f8541e1c6f6f7a63c6f8d5a2c00c9&stream_id=d839s8nk0rgg
 http://mykingtv.net:2082/gadget1k85/pass1k85/8444
 https://linears-playback.astro.com.my/vsg/41nXdDj9tmXOFE0tRAwj3i7-cfbzR8WrlB69hPjU_afao=eUHk/dash-wv/jitp-linearwm/1004/default_primary.mpd
 
-EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png",PRIMA HD
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png",PRIMA HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"hBL0RP++NQzy7OBR+RUukA", "kid":"C2Uyau3j7b6B5vtAMX1TEA" } ], "type":"temporary" }
 http://mykingtv.net:2082/gadget1k85/pass1k85/8447
@@ -94,7 +93,7 @@ EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.p
 http://mykingtv.net:2082/gadget1k85/pass1k85/8448
 https://linears-playback.astro.com.my/vsg/41iFhU-KKqyLW0EM61UfnvARRKUAh9uVHA-g8V_79eaNc=meLM/dash-wv/jitp-dashisowm/2402/default_primary.mpd
 
-EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png",CITRA HD 
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png",CITRA HD 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ZU8tJaW/snyeWuCFJYShZg", "kid":"hL+a1oSL59sg+dFoI97vEA" } ], "type":"temporary" }
 http://mykingtv.net:2082/gadget1k85/pass1k85/8454
