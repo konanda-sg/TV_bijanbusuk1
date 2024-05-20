@@ -627,6 +627,18 @@ EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArenaBola2
 #KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=Miepalong7&channelid=5100
 https://linears-playback.astro.com.my/vsg/41W9CerGIQW-wTXKgMyFzl6vvRPA6Wglg0zFqWPulzIwE=T7TC/dash-wv/jitp-linearwm/5100/default_primary.mpd
 
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArenaBola_v1.png",Arena Bola
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://s-gd.stackstaging.com/linearjitp.astro.com.my/sooker/sookabola1
+https://d1fk7kbmz4il3.cloudfront.net/CH1/masterCH1.mpd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik9ESXpabUZpWm1RdE1ESTVaQzAwTTJSaExXRTVOemd0Wm1Oa1pEZzBZV0ZpTUdZMiIsIndtb3BpZCI6MzIsImV4cCI6MTcxMjM5MDE5MSwiaWF0IjoxNzExNzg2MTkxfQ.m4nmgJXyRdGvWIltVy9NMUsziLyVPN801cnYScCh45w
+
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArenaBola2_v1.png",Arena Bola 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://s-gd.stackstaging.com/linearjitp.astro.com.my/sooker/asbola2
+https://d1fk7kbmz4il3.cloudfront.net/CH5/masterCH5.mpd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik9ESXpabUZpWm1RdE1ESTVaQzAwTTJSaExXRTVOemd0Wm1Oa1pEZzBZV0ZpTUdZMiIsIndtb3BpZCI6MzIsImV4cCI6MTcxMjM5MDE5MSwiaWF0IjoxNzExNzg2MTkxfQ.m4nmgJXyRdGvWIltVy9NMUsziLyVPN801cnYScCh45w
+
+
+
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroSuperSportUHD.png",SuperSport UHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"eupDzZPCSqmDTstJhPf9Wg", "kid":"IvvvHBzXJek5fsFkVfCCEA" } ], "type":"temporary" }
