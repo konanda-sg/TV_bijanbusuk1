@@ -2079,4 +2079,187 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6431f1fed940521074c
 #EXTINF:-1 type="movie" group-title="Teenage Mutant Ninja Turtles" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/020118X0-portrait.jpg",Teenage Mutant Ninja Turtles S1 E02
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64375cdcd940521074ce4d58_hbovodhd/dash0/MYS_index.mpd
 
+#EXTINF:-1 type="movie" group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Pendekar Bujang Lapok
+https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1959%5D%20Pendekar%20Bujang%20Lapok%20SDTV.mp4
+#EXTINF:-1 type="movie" group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Seniman Bujang Lapok
+https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1961%5D%20Seniman%20Bujang%20Lapok%20SDTV.mp4
+#EXTINF:-1 type="movie" group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Bujang Lapok
+https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1957%5D%20Bujang%20Lapok%20SDTV.mp4
+#EXTINF:-1 type="movie" group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Ali Baba Bujang Lapok
+https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1961%5D%20Ali%20Baba%20Bujang%20Lapok%20SDTV.mp4
+#EXTINF:-1 type="movie" group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Anak Bapak
+ https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1968%5D%20Anak%20Bapak%20SDTV.mp4
+#EXTINF:-1 type="movie" group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Keluarga 69
+ https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1967%5D%20Keluarga%2069%20VCD.mp4
+#EXTINF:-1 type="movie" group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Tiga Abdul
+https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1964%5D%20Tiga%20Abdul%20SDTV.mp4
+#EXTINF:-1 type="movie" group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Ibu Mertuaku
+https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1969%5D%20Ibu%20Mertuaku%20SDTV.mp4
+#EXTINF:-1 type="movie" group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Do Re Mi
+https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1966%5D%20Do%20Re%20Mi%20SDTV.mp4
+#EXTINF:-1 type="movie" group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Nasib Do Re Mi
+https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1966%5D%20Nasib%20Do%20Re%20Mi%20SDTV.mp4
+#EXTINF:-1 type="movie" group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Laksamana Do Re Mi
+https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1972%5D%20Laksamana%20Do%20Re%20Mi%20SDTV.mp4
+#EXTINF:-1 type="movie" group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Masam Masam Manis
+https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1965%5D%20Masam%20Masam%20Manis%20SDTV.mp4
+#EXTINF:-1 type="movie" group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Labu dan Labi
+https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1962%5D%20Labu%20dan%20Labi%20SDTV.mp4
+#EXTINF:-1 type="movie" group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Nasib Si Labu Labi
+https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1963%5D%20Nasib%20Si%20Labu%20Labi%20SDTV.mp4
+#EXTINF:-1 type="movie" group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Enam Jahanam
+https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1969%5D%20Enam%20Jahanam%20SDTV.mp4
+#EXTINF:-1 type="movie" group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Nujum Pak Belalang
+https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1959%5D%20Nujum%20Pak%20Belalang%20SDTV.mp4
+#EXTINF:-1 type="movie" group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Ahmad Albab
+https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1968%5D%20Ahmad%20Albab%20SDTV.mp4
+#EXTINF:-1 type="movie" group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Madu Tiga
+https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1964%5D%20Madu%20Tiga%20SDTV.mp4
+#EXTINF:-1 type="movie" group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Rachun Dunia
+https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1950%5D%20Rachun%20Dunia%20VCD.mp4
+#EXTINF:-1 type="movie" group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Juwita
+https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1951%5D%20Juwita%20SDTV.mp4
+#EXTINF:-1 type="movie" group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Anjuran Nasib
+https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1952%5D%20Anjoran%20Nasib%20VCD.mp4
+#EXTINF:-1 type="movie" group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Hujan Panas
+https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1953%5D%20Hujan%20Panas%20SDTV.mp4
+#EXTINF:-1 type="movie" group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Ibu
+https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1953%5D%20Ibu%20SDTV.mp4
+#EXTINF:-1 type="movie" group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Merana
+https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1954%5D%20Merana%20SDTV.mp4
+#EXTINF:-1 type="movie" group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Panggilan Pulau
+https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1954%5D%20Panggilan%20Pulau%20VCD.mp4
+#EXTINF:-1 type="movie" group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Abu Hasan Penchuri
+https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1955%5D%20Abu%20Hasan%20Penchuri%20VCD.mp4
+#EXTINF:-1 type="movie" group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Hang Tuah
+https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1955%5D%20Hang%20Tuah%20SDTV.mp4
+#EXTINF:-1 type="movie" group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Penarek Becha
+https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1955%5D%20Penarek%20Becha%20VCD.mp4
+#EXTINF:-1 type="movie" group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Anakku Sazali
+https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1956%5D%20Anakku%20Sazali%20SDTV.mp4
+#EXTINF:-1 type="movie" group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Semerah padi
+https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1956%5D%20Semerah%20Padi%20VCD.mp4
+#EXTINF:-1 type="movie" group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Sarjan Hassan
+https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1958%5D%20Sarjan%20Hassan%20SDTV.mp4
+#EXTINF:-1 type="movie" group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Sumpah Orang Minyak
+https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1958%5D%20Sumpah%20Orang%20Minyak%20VCD.mp4
+#EXTINF:-1 type="movie" group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Musang Berjanggut
+https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1959%5D%20Musang%20Berjanggut%20SDTV.mp4
+#EXTINF:-1 type="movie" group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Antara Dua Darjat
+https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1960%5D%20Antara%20Dua%20Darjat%20SDTV.mp4
+#EXTINF:-1 type="movie" group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Kanchan Tirana
+https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1968%5D%20Kanchan%20Tirana%20VCD.mp4
+#EXTINF:-1 type="movie" group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Ragam P Ramlee
+https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1964%5D%20Ragam%20P%20Ramlee%20SDTV.mp4
+#EXTINF:-1 type="movie" group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Ragam P Ramlee - Mintak Nombor Ekor
+https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1964%5D%20Ragam%20P%20Ramlee%20-%20Mintak%20Nombor%20Ekor%20VCD.mp4
+#EXTINF:-1 type="movie" group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Sabarudin Tukang Kasut
+https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1966%5D%20Sabarudin%20Tukang%20Kasut%20SDTV.mp4
+#EXTINF:-1 type="movie" group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Di Belakang Tabir
+https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1970%5D%20Di%20Belakang%20Tabir%20SDTV.mp4
+#EXTINF:-1 type="movie" group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Dr Rushdi
+https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1970%5D%20Dr%20Rushdi%20VCD.mp4
+#EXTINF:-1 type="movie" group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Gerimis
+https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1968%5D%20Gerimis%20VCD.mp4
+#EXTINF:-1 type="movie" group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Jangan Tinggal Daku
+https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1971%5D%20Jangan%20Tinggal%20Daku%20SDTV.mp4
+#EXTINF:-1 type="movie" group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Putus Sudah Kasih Sayang
+https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1971%5D%20Putus%20Sudah%20Kasih%20Sayang%20SDTV.mp4
+
+#EXTINF:-1 type="movie" group-title="Iron Man" tvg-logo="http://tny.im/oQ7", Iron Man
+https://worker-kasyah.buntai.workers.dev/0:/movie/English/Iron%20Man%201.mp4
+#EXTINF:-1 type="movie" group-title="Iron Man" tvg-logo="http://tny.im/oQ8", Iron Man 2
+https://worker-kasyah.buntai.workers.dev/0:/movie/English/Iron%20Man%202.mp4
+#EXTINF:-1 type="movie" group-title="Iron Man" tvg-logo="http://tny.im/oQY", Iron Man 3 (2013)
+https://worker-kasyah.buntai.workers.dev/0:/movie/English/Iron%20Man%203.mp4
+#EXTINF:-1 type="movie" group-title="Iron Man" tvg-logo="https://www.themoviedb.org/t/p/w500/prSfAi1xGrhLQNxVSUFh61xQ4Qy.jpg", THOR
+https://calm-rain-70b4.buntai.workers.dev/0:/Movie2/English/Marvel%20Collection/Thor%20(2011).mp4
+#EXTINF:-1 type="movie" group-title="Iron Man" tvg-logo="https://www.themoviedb.org/t/p/w500/wp6OxE4poJ4G7c0U2ZIXasTSMR7.jpg", THOR The Dark World
+https://calm-rain-70b4.buntai.workers.dev/0:/Movie2/English/Marvel%20Collection/Thor-%20The%20Dark%20World%20(2013).mp4
+#EXTINF:-1 type="movie" group-title="Iron Man" tvg-logo="https://www.themoviedb.org/t/p/w500/rzRwTcFvttcN1ZpX2xv4j3tSdJu.jpg", THOR Ragnarok
+https://calm-rain-70b4.buntai.workers.dev/0:/Movie2/English/Marvel%20Collection/Thor-%20Ragnarok%20(2017).mp4
+
+#EXTINF:-1 type="movie" group-title="Insidious" tvg-logo="https://www.themoviedb.org/t/p/w500/tmlDFIUpGRKiuWm9Ixc6CYDk4y0.jpg", Insidious
+https://hello-si-kacak.buntai.workers.dev/0:/movie/English/Insidious.mp4
+#EXTINF:-1 type="movie" group-title="Insidious" tvg-logo="https://www.themoviedb.org/t/p/original/w5JjiB3O1CLDXbTJe1QpU5RHmlU.jpg", Insidious Chapter II
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Insidious/Insidious%20Chapter%202%202013.mp4
+#EXTINF:-1 type="movie" group-title="Insidious" tvg-logo="https://www.themoviedb.org/t/p/w500/iDdGfdNvY1EX0uDdA4Ru77fwMfc.jpg", Insidious Chapter III
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Insidious/Insidious%20Chapter%203%202015.mp4
+#EXTINF:-1 type="movie" group-title="Insidious" tvg-logo="https://www.themoviedb.org/t/p/original/6c9ti2JcR3dHyR3qFXoZqVMx0SH.jpg", Insidious The Last Key
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Insidious/Insidious-%20The%20Last%20Key%20(2018).mp4
+
+#EXTINF:-1 type="movie" group-title="Rambo" tvg-logo="https://www.themoviedb.org/t/p/w500/fVamGe8rfEQUrMbzumL1t0DslCA.jpg", Rambo First Blood Part 1
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Rambo/Rambo.First.Blood.Part.I.1982.mp4
+#EXTINF:-1 type="movie" group-title="Rambo" tvg-logo="https://www.themoviedb.org/t/p/original/jD9RfNGLuC8kUrW7hxjKChDdctm.jpg", Rambo First Blood Part 2
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Rambo/Rambo%20First%20Blood%20Part%202%20(1985).mkv
+#EXTINF:-1 type="movie" group-title="Rambo" tvg-logo="https://www.themoviedb.org/t/p/original/4JdznE7nvxEkDR4OfwdoRKIeXVX.jpg", Rambo III
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Rambo/Rambo.III.1988.mp4
+#EXTINF:-1 type="movie" group-title="Rambo" tvg-logo="https://www.themoviedb.org/t/p/w500/bFjt1JwDRn98j03UQgQ005bNrti.jpg", Rambo
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Rambo/Rambo%20(2008).mp4
+#EXTINF:-1 type="movie" group-title="Rambo" tvg-logo="https://www.themoviedb.org/t/p/w500/kTQ3J8oTTKofAVLYnds2cHUz9KO.jpg", Rambo Last Blood
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Rambo/Rambo_%20Last%20Blood%20(2019).mp4
+
+
+#EXTINF:-1 type="movie" group-title="STAR WARS" tvg-logo="https://www.themoviedb.org/t/p/w500/6wkfovpn7Eq8dYNKaG5PY3q2oq6.jpg", STAR WARS: EPISODE I - THE PHANTOM MENACE (1999)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Star%20Wars/Star_Wars__Episode_I_%E2%80%93_The_Phantom_Menace_1999.mp4
+#EXTINF:-1 type="movie" group-title="STAR WARS" tvg-logo="https://www.themoviedb.org/t/p/w500/oZNPzxqM2s5DyVWab09NTQScDQt.jpg", STAR WARS: EPISODE II - ATTACK OF THE CLONES (2002)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Star%20Wars/Star_Wars__Episode_II_%E2%80%93_Attack_Of_The_Clones_2002.mp4
+#EXTINF:-1 type="movie" group-title="STAR WARS" tvg-logo="https://www.themoviedb.org/t/p/w500/xfSAoBEm9MNBjmlNcDYLvLSMlnq.jpg", STAR WARS: EPISODE III - REVENGE OF THE SITH (2005)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Star%20Wars/Star_Wars__Episode_III_%E2%80%93_Revenge_of_the_Sith_2005.mp4
+#EXTINF:-1 type="movie" group-title="STAR WARS" tvg-logo="https://www.themoviedb.org/t/p/w500/wqnLdwVXoBjKibFRR5U3y0aDUhs.jpg", STAR WARS: EPISODE VII - THE FORCE AWAKENS (2015)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Star%20Wars/Star_Wars__Episode_VII_The_Force_Awakens_2015.mp4
+#EXTINF:-1 type="movie" group-title="STAR WARS" tvg-logo="https://www.themoviedb.org/t/p/w500/kOVEVeg59E0wsnXmF9nrh6OmWII.jpg", STAR WARS: EPISODE VIII - THE LAST JEDI (2017)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Star%20Wars/Star_Wars__Episode_VIII_The_Last_Jedi_2017.mp4
+#EXTINF:-1 type="movie" group-title="STAR WARS" tvg-logo="https://www.themoviedb.org/t/p/w500/6FfCtAuVAW8XJjZ7eWeLibRLWTw.jpg", STAR WARS: EPISODE IV - A NEW HOPE (1977)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Star%20Wars/Star%20Wars_%20Episode%20IV%20-%20A%20New%20Hope%20(1977).mp4
+#EXTINF:-1 type="movie" group-title="STAR WARS" tvg-logo="https://www.themoviedb.org/t/p/w500/7BuH8itoSrLExs2YZSsM01Qk2no.jpg", STAR WARS: EPISODE V - THE EMPIRE STRIKES BACK (1980)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Star%20Wars/Star_Wars__Episode_V_The_Empire_Strikes_Back_1980.mp4 
+#EXTINF:-1 type="movie" group-title="STAR WARS" tvg-logo="https://www.themoviedb.org/t/p/w500/mDCBQNhR6R0PVFucJl0O4Hp5klZ.jpg", STAR WARS: EPISODE VI - RETURN OF THE JEDI (1983)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Star%20Wars/Star_Wars__Episode_VI_Return_of_the_Jedi_1983.mp4
+#EXTINF:-1 type="movie" group-title="STAR WARS" tvg-logo="https://www.themoviedb.org/t/p/w500/db32LaOibwEliAmSL2jjDF6oDdj.jpg", STAR WARS: EPISODE IX - THE RISE OF SKYWALKER (2019)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Star%20Wars/Star_Wars__Episode_IX_The_Rise_Of_Skywalker_2019.mp4
+#EXTINF:-1 type="movie" group-title="STAR WARS" tvg-logo="https://www.themoviedb.org/t/p/w500/5jX3p0apUG5bkMHtnKZch0xpkBS.jpg", ROGUE ONE: A STAR WARS STORY (2016) 
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Star%20Wars/Rogue%20One_%20A%20Star%20Wars%20Story%20(2016).mp4
+#EXTINF:-1 type="movie" group-title="STAR WARS" tvg-logo="https://www.themoviedb.org/t/p/w500/4oD6VEccFkorEBTEDXtpLAaz0Rl.jpg", SOLO: A STAR WARS STORY (2018)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Star%20Wars/Solo_%20A%20Star%20Wars%20Story%20(2018).mp4
+
+
+#EXTINF:-1 type="movie" group-title="The Lord of the Rings" tvg-logo="https://www.themoviedb.org/t/p/w500/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg", The Lord of the Rings : The Fellowship of the Ring 2001
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Lord%20Of%20The%20Ring/The_Lord_of_the_Rings_The_Fellowship_of_the_Ring_2001.mp4
+#EXTINF:-1 type="movie" group-title="The Lord of the Rings" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_multi_faces/5VTN0pR8gcqV3EPUHHfMGnJYN9L.jpg", The Lord of the Rings: The Two Towers 2002
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Lord%20Of%20The%20Ring/The%20Lord%20of%20the%20Rings%20The%20Two%20Towers%20(2002).mp4
+#EXTINF:-1 type="movie" group-title="The Lord of the Rings" tvg-logo="https://www.themoviedb.org/t/p/w500/rCzpDGLbOoPwLjy3OAm5NUPOTrC.jpg", The Lord of the Rings: The Return of the King 2003
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Lord%20Of%20The%20Ring/The_Lord_of_the_Rings_The_Return_of_the_King_2003.mp4
+#EXTINF:-1 type="movie" group-title="The Lord of the Rings" tvg-logo="https://www.themoviedb.org/t/p/w500/yHA9Fc37VmpUA5UncTxxo3rTGVA.jpg", The Hobbit: An Unexpected Journey 2012
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Lord%20Of%20The%20Ring/The.Hobbit.2012.mp4
+#EXTINF:-1 type="movie" group-title="The Lord of the Rings" tvg-logo="https://www.themoviedb.org/t/p/w500/xQYiXsheRCDBA39DOrmaw1aSpbk.jpg", The Hobbit: The Desolation of Smaug 2013
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Lord%20Of%20The%20Ring/The.Hobbit.2013.mp4
+#EXTINF:-1 type="movie" group-title="The Lord of the Rings" tvg-logo="https://www.themoviedb.org/t/p/w500/xT98tLqatZPQApyRmlPL12LtiWp.jpg", The Hobbit: The Battle of the Five Armies 2014
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Lord%20Of%20The%20Ring/The.Hobbit.2014.mp4
+
+
+#EXTINF:-1 type="movie" group-title="PIRATES OF THE CARIBBEAN" tvg-logo="https://www.themoviedb.org/t/p/w500/z8onk7LV9Mmw6zKz4hT6pzzvmvl.jpg", PIRATES OF THE CARIBBEAN: THE CURSE OF THE BLACK PEARL (2003)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/The%20Pirates%20of%20The%20Caribbean/Pirates_Of_The_Carribean__The_Curse_Of_The_Black_Pearl_2003.mp4
+#EXTINF:-1 type="movie" group-title="PIRATES OF THE CARIBBEAN" tvg-logo="https://www.themoviedb.org/t/p/original/ulDkOMbXN8HP3eOxQxyHlaALYTh.jpg", PIRATES OF THE CARIBBEAN: DEAD MAN'S CHEST (2006)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/The%20Pirates%20of%20The%20Caribbean/Pirates_Of_The_Caribbean__Dead_Man's_Chest_2006.mp4
+#EXTINF:-1 type="movie" group-title="PIRATES OF THE CARIBBEAN" tvg-logo="https://www.themoviedb.org/t/p/w500/8ORuWcrYPgjwUDyCzr7qsOlCdwn.jpg", PIRATES OF THE CARIBBEAN: AT WORLD'S END (2007)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/The%20Pirates%20of%20The%20Caribbean/Pirates_Of_The_Caribbean__At_Worlds_End_2007.mp4
+#EXTINF:-1 type="movie" group-title="PIRATES OF THE CARIBBEAN" tvg-logo="https://www.themoviedb.org/t/p/w500/6WMmcLzVg1ud5xS4yY5ZtarGIZy.jpg", PIRATES OF THE CARIBBEAN: ON STRANGER TIDES (2011)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/The%20Pirates%20of%20The%20Caribbean/Pirates_Of_The_Caribbean__On_Stranger_Tides_2011.mp4
+#EXTINF:-1 type="movie" group-title="PIRATES OF THE CARIBBEAN" tvg-logo="https://www.themoviedb.org/t/p/w500/qwoGfcg6YUS55nUweKGujHE54Wy.jpg", PIRATES OF THE CARIBBEAN: DEAD MEN TELL NO TALES (2017)
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/The%20Pirates%20of%20The%20Caribbean/Pirates_Of_The_Caribbean__Dead_Men_Tell_No_Tales_2017.mp4
+
+
+#EXTINF:-1 type="movie" group-title="Resident Evil" tvg-logo="https://www.themoviedb.org/t/p/w500/yzNQSLlZb7NAkA4C5uADfNDJ7hm.jpg", Resident Evil: Apocalypse (2004)
+https://calm-rain-70b4.buntai.workers.dev/0:/Movie2/English/Resident%20Evil-%20Apocalypse.mp4
+#EXTINF:-1 type="movie" group-title="Resident Evil" tvg-logo="https://www.themoviedb.org/t/p/w500/6S1gpO1akWvuLWgw7dpNYMzg3Rs.jpg", Resident Evil: Extinction (2007)
+https://calm-rain-70b4.buntai.workers.dev/0:/Movie2/English/Resident%20Evil-%20Extinction.mp4
+#EXTINF:-1 type="movie" group-title="Resident Evil" tvg-logo="https://www.themoviedb.org/t/p/w500/xaEHOuIkoTzHQIiex0Ys306Ky05.jpg", Resident Evil: Afterlife (2010)
+https://calm-rain-70b4.buntai.workers.dev/0:/Movie2/English/Resident%20Evil-%20Afterlife.mp4
+#EXTINF:-1 type="movie" group-title="Resident Evil" tvg-logo="https://www.themoviedb.org/t/p/w500/ohdUDWVlcbuWphaLu6wS91xdJ73.jpg", Resident Evil: Retribution (2012)
+https://calm-rain-70b4.buntai.workers.dev/0:/Movie2/English/Resident%20Evil-%20Retribution.mp4
+#EXTINF:-1 type="movie" group-title="Resident Evil" tvg-logo="https://www.themoviedb.org/t/p/w500/7glPlA0xPpxPxBu0TnY4ulQVCV1.jpg", Resident Evil: The Final Chapter (2016)
+https://calm-rain-70b4.buntai.workers.dev/0:/Movie2/English/Resident%20Evil-%20The%20Final%20Chapter.mp4
+
+
 #EXTM3U billed-msg="😎 BijanBusuk 😎"
