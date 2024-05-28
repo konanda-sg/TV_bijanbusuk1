@@ -1045,164 +1045,7 @@ https://www.googleapis.com/drive/v3/files/1Kq4xCUzVxxw7Zq8GaPLuxayRhE7XCuBH?alt=
 https://www.googleapis.com/drive/v3/files/1BH3fKMygPonozus81_qFtQYEjx3Dd-ba?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4 
 
 
-#EXTINF:-1 type="series" group-title="KOREAN SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5WC5zEItQk7Av75osRRjbcKfHWD.jpg", Dr Romantic S1 E01
-https://hello-si-kacak.buntai.workers.dev/0:/series/Dr_%20Romantic/Season%201/Dr_%20Romantic_S01E01_Episode%201.mp4
 
-#EXTINF:-1 type="series" group-title="KOREAN SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5WC5zEItQk7Av75osRRjbcKfHWD.jpg", Dr Romantic S1 E02
-https://hello-si-kacak.buntai.workers.dev/0:/series/Dr_%20Romantic/Season%201/Dr_%20Romantic_S01E02_Episode%202.mp4
-
-#EXTINF:-1 type="series" group-title="KOREAN SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5WC5zEItQk7Av75osRRjbcKfHWD.jpg", Dr Romantic S1 E03
-https://hello-si-kacak.buntai.workers.dev/0:/series/Dr_%20Romantic/Season%201/Dr_%20Romantic_S01E03_Episode%203.mp4
-
-#EXTINF:-1 type="series" group-title="KOREAN SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5WC5zEItQk7Av75osRRjbcKfHWD.jpg", Dr Romantic S1 E04
-https://hello-si-kacak.buntai.workers.dev/0:/series/Dr_%20Romantic/Season%201/Dr_%20Romantic_S01E04_Episode%204.mp4
-
-#EXTINF:-1 type="series" group-title="KOREAN SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5WC5zEItQk7Av75osRRjbcKfHWD.jpg", Dr Romantic S1 E05
-https://hello-si-kacak.buntai.workers.dev/0:/series/Dr_%20Romantic/Season%201/Dr_%20Romantic_S01E05_Episode%205.mp4
-
-#EXTINF:-1 type="series" group-title="KOREAN SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5WC5zEItQk7Av75osRRjbcKfHWD.jpg", Dr Romantic S1 E06
-https://hello-si-kacak.buntai.workers.dev/0:/series/Dr_%20Romantic/Season%201/Dr_%20Romantic_S01E06_Episode%206.mp4
-
-#EXTINF:-1 type="series" group-title="KOREAN SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5WC5zEItQk7Av75osRRjbcKfHWD.jpg", Dr Romantic S1 E07
-https://hello-si-kacak.buntai.workers.dev/0:/series/Dr_%20Romantic/Season%201/Dr_%20Romantic_S01E07_Episode%207.mp4
-
-#EXTINF:-1 type="series" group-title="KOREAN SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5WC5zEItQk7Av75osRRjbcKfHWD.jpg", Dr Romantic S1 E08
-https://hello-si-kacak.buntai.workers.dev/0:/series/Dr_%20Romantic/Season%201/Dr_%20Romantic_S01E08_Episode%208.mp4
-
-#EXTINF:-1 type="series" group-title="KOREAN SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5WC5zEItQk7Av75osRRjbcKfHWD.jpg", Dr Romantic S1 E09
-https://hello-si-kacak.buntai.workers.dev/0:/series/Dr_%20Romantic/Season%201/Dr_%20Romantic_S01E09_Episode%209.mp4
-
-#EXTINF:-1 type="series" group-title="KOREAN SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5WC5zEItQk7Av75osRRjbcKfHWD.jpg", Dr Romantic S1 E10
-https://hello-si-kacak.buntai.workers.dev/0:/series/Dr_%20Romantic/Season%201/Dr_%20Romantic_S01E10_Episode%2010.mp4
-
-#EXTINF:-1 type="series" group-title="KOREAN SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5WC5zEItQk7Av75osRRjbcKfHWD.jpg", Dr Romantic S1 E11
-https://hello-si-kacak.buntai.workers.dev/0:/series/Dr_%20Romantic/Season%201/Dr_%20Romantic_S01E11_Episode%2011.mp4
-
-#EXTINF:-1 type="series" group-title="KOREAN SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5WC5zEItQk7Av75osRRjbcKfHWD.jpg", Dr Romantic S1 E12
-https://hello-si-kacak.buntai.workers.dev/0:/series/Dr_%20Romantic/Season%201/Dr_%20Romantic_S01E12_Episode%2012.mp4
-
-#EXTINF:-1 type="series" group-title="KOREAN SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5WC5zEItQk7Av75osRRjbcKfHWD.jpg", Dr Romantic S1 E13
-https://hello-si-kacak.buntai.workers.dev/0:/series/Dr_%20Romantic/Season%201/Dr_%20Romantic_S01E13_Episode%2013.mp4
-
-#EXTINF:-1 type="series" group-title="KOREAN SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5WC5zEItQk7Av75osRRjbcKfHWD.jpg", Dr Romantic S1 E14
-https://hello-si-kacak.buntai.workers.dev/0:/series/Dr_%20Romantic/Season%201/Dr_%20Romantic_S01E14_Episode%2014.mp4
-
-#EXTINF:-1 type="series" group-title="KOREAN SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5WC5zEItQk7Av75osRRjbcKfHWD.jpg", Dr Romantic S1 E15
-https://hello-si-kacak.buntai.workers.dev/0:/series/Dr_%20Romantic/Season%201/Dr_%20Romantic_S01E15_Episode%2015.mp4
-
-#EXTINF:-1 type="series" group-title="KOREAN SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5WC5zEItQk7Av75osRRjbcKfHWD.jpg", Dr Romantic S1 E16
-https://hello-si-kacak.buntai.workers.dev/0:/series/Dr_%20Romantic/Season%201/Dr_%20Romantic_S01E16_Episode%2016.mp4
-
-#EXTINF:-1 type="series" group-title="KOREAN SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5WC5zEItQk7Av75osRRjbcKfHWD.jpg", Dr Romantic S1 E17
-https://hello-si-kacak.buntai.workers.dev/0:/series/Dr_%20Romantic/Season%201/Dr_%20Romantic_S01E17_Episode%2017.mp4
-
-#EXTINF:-1 type="series" group-title="KOREAN SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5WC5zEItQk7Av75osRRjbcKfHWD.jpg", Dr Romantic S1 E18
-https://hello-si-kacak.buntai.workers.dev/0:/series/Dr_%20Romantic/Season%201/Dr_%20Romantic_S01E18_Episode%2018.mp4
-
-#EXTINF:-1 type="series" group-title="KOREAN SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5WC5zEItQk7Av75osRRjbcKfHWD.jpg", Dr Romantic S1 E19
-https://hello-si-kacak.buntai.workers.dev/0:/series/Dr_%20Romantic/Season%201/Dr_%20Romantic_S01E19_Episode%2019.mp4
-
-#EXTINF:-1 type="series" group-title="KOREAN SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5WC5zEItQk7Av75osRRjbcKfHWD.jpg", Dr Romantic S1 E20
-https://hello-si-kacak.buntai.workers.dev/0:/series/Dr_%20Romantic/Season%201/Dr_%20Romantic_S01E20_Episode%2020.mp4
-
-#EXTINF:-1 type="series" group-title="KOREAN SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5WC5zEItQk7Av75osRRjbcKfHWD.jpg", Dr Romantic S1 E21
-https://hello-si-kacak.buntai.workers.dev/0:/series/Dr_%20Romantic/Season%201/Dr_%20Romantic_S01E21_Episode%2021.mp4
-
-#EXTINF:-1 type="series" group-title="KOREAN SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nPHQL0EvaGcPXISsTh3iFm3I9B2.jpg", Dr Romantic S2 E01
-https://hello-si-kacak.buntai.workers.dev/0:/series/Dr_%20Romantic/Season%202/Dr_%20Romantic_S02E01_Episode%201.mp4
-
-#EXTINF:-1 type="series" group-title="KOREAN SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nPHQL0EvaGcPXISsTh3iFm3I9B2.jpg", Dr Romantic S2 E02
-https://hello-si-kacak.buntai.workers.dev/0:/series/Dr_%20Romantic/Season%202/Dr_%20Romantic_S02E02_Episode%202.mp4
-
-#EXTINF:-1 type="series" group-title="KOREAN SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nPHQL0EvaGcPXISsTh3iFm3I9B2.jpg", Dr Romantic S2 E03
-https://hello-si-kacak.buntai.workers.dev/0:/series/Dr_%20Romantic/Season%202/Dr_%20Romantic_S02E03_Episode%203.mp4
-
-#EXTINF:-1 type="series" group-title="KOREAN SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nPHQL0EvaGcPXISsTh3iFm3I9B2.jpg", Dr Romantic S2 E04
-https://hello-si-kacak.buntai.workers.dev/0:/series/Dr_%20Romantic/Season%202/Dr_%20Romantic_S02E04_Episode%204.mp4
-
-#EXTINF:-1 type="series" group-title="KOREAN SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nPHQL0EvaGcPXISsTh3iFm3I9B2.jpg", Dr Romantic S2 E05
-https://hello-si-kacak.buntai.workers.dev/0:/series/Dr_%20Romantic/Season%202/Dr_%20Romantic_S02E05_Episode%205.mp4
-
-#EXTINF:-1 type="series" group-title="KOREAN SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nPHQL0EvaGcPXISsTh3iFm3I9B2.jpg", Dr Romantic S2 E06
-https://hello-si-kacak.buntai.workers.dev/0:/series/Dr_%20Romantic/Season%202/Dr_%20Romantic_S02E06_Episode%206.mp4
-
-#EXTINF:-1 type="series" group-title="KOREAN SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nPHQL0EvaGcPXISsTh3iFm3I9B2.jpg", Dr Romantic S2 E07
-https://hello-si-kacak.buntai.workers.dev/0:/series/Dr_%20Romantic/Season%202/Dr_%20Romantic_S02E07_Episode%207.mp4
-
-#EXTINF:-1 type="series" group-title="KOREAN SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nPHQL0EvaGcPXISsTh3iFm3I9B2.jpg", Dr Romantic S2 E08
-https://hello-si-kacak.buntai.workers.dev/0:/series/Dr_%20Romantic/Season%202/Dr_%20Romantic_S02E08_Episode%208.mp4
-
-#EXTINF:-1 type="series" group-title="KOREAN SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nPHQL0EvaGcPXISsTh3iFm3I9B2.jpg", Dr Romantic S2 E09
-https://hello-si-kacak.buntai.workers.dev/0:/series/Dr_%20Romantic/Season%202/Dr_%20Romantic_S02E09_Episode%209.mp4
-
-#EXTINF:-1 type="series" group-title="KOREAN SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nPHQL0EvaGcPXISsTh3iFm3I9B2.jpg", Dr Romantic S2 E10
-https://hello-si-kacak.buntai.workers.dev/0:/series/Dr_%20Romantic/Season%202/Dr_%20Romantic_S02E10_Episode%2010.mp4
-
-#EXTINF:-1 type="series" group-title="KOREAN SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nPHQL0EvaGcPXISsTh3iFm3I9B2.jpg", Dr Romantic S2 E11
-https://hello-si-kacak.buntai.workers.dev/0:/series/Dr_%20Romantic/Season%202/Dr_%20Romantic_S02E11_Episode%2011.mp4
-
-#EXTINF:-1 type="series" group-title="KOREAN SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nPHQL0EvaGcPXISsTh3iFm3I9B2.jpg", Dr Romantic S2 E12
-https://hello-si-kacak.buntai.workers.dev/0:/series/Dr_%20Romantic/Season%202/Dr_%20Romantic_S02E12_Episode%2012.mp4
-
-#EXTINF:-1 type="series" group-title="KOREAN SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nPHQL0EvaGcPXISsTh3iFm3I9B2.jpg", Dr Romantic S2 E13
-https://hello-si-kacak.buntai.workers.dev/0:/series/Dr_%20Romantic/Season%202/Dr_%20Romantic_S02E13_Episode%2013.mp4
-
-#EXTINF:-1 type="series" group-title="KOREAN SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nPHQL0EvaGcPXISsTh3iFm3I9B2.jpg", Dr Romantic S2 E14
-https://hello-si-kacak.buntai.workers.dev/0:/series/Dr_%20Romantic/Season%202/Dr_%20Romantic_S02E14_Episode%2014.mp4
-
-#EXTINF:-1 type="series" group-title="KOREAN SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nPHQL0EvaGcPXISsTh3iFm3I9B2.jpg", Dr Romantic S2 E15
-https://hello-si-kacak.buntai.workers.dev/0:/series/Dr_%20Romantic/Season%202/Dr_%20Romantic_S02E15_Episode%2015.mp4
-
-#EXTINF:-1 type="series" group-title="KOREAN SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nPHQL0EvaGcPXISsTh3iFm3I9B2.jpg", Dr Romantic S2 E16
-https://hello-si-kacak.buntai.workers.dev/0:/series/Dr_%20Romantic/Season%202/Dr_%20Romantic_S02E16_Episode%2016.mp4
-
-#EXTINF:-1 type="series" group-title="KOREAN SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9fbRJgZ2zDTnSUId1bOwsllHNr7.jpg", Dr Romantic S3 E01
-https://dtacmuar-my.sharepoint.com/personal/series3_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EazkeKWNZJZAnxc3TooP8VwBJ0sv1h9daunZTENdENMerQ
-
-#EXTINF:-1 type="series" group-title="KOREAN SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9fbRJgZ2zDTnSUId1bOwsllHNr7.jpg", Dr Romantic S3 E02
-https://dtacmuar-my.sharepoint.com/personal/series3_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EQz32oD2CjZLpwrg30iWc-YBOzXPDWu4MBGuJWqAzAvKxg
-
-#EXTINF:-1 type="series" group-title="KOREAN SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9fbRJgZ2zDTnSUId1bOwsllHNr7.jpg", Dr Romantic S3 E03
-https://dtacmuar-my.sharepoint.com/personal/series3_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=Ecap0PixloNGomUmAJSZvA4BNGVoLDkXnF26aeZ751u_DA
-
-#EXTINF:-1 type="series" group-title="KOREAN SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9fbRJgZ2zDTnSUId1bOwsllHNr7.jpg", Dr Romantic S3 E04
-https://dtacmuar-my.sharepoint.com/personal/series3_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EdM7WdCMtYlMoD8d4-1uR4oBxuAErLk211p0AQwY0coMKA
-
-#EXTINF:-1 type="series" group-title="KOREAN SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9fbRJgZ2zDTnSUId1bOwsllHNr7.jpg", Dr Romantic S3 E05
-https://dtacmuar-my.sharepoint.com/personal/series3_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=ERNB1zujYAhGpctRw9mWo8wB54ZkTOsJI7aDZLFWbBus8A
-
-#EXTINF:-1 type="series" group-title="KOREAN SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9fbRJgZ2zDTnSUId1bOwsllHNr7.jpg", Dr Romantic S3 E06
-https://dtacmuar-my.sharepoint.com/personal/series3_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EQWjWwTnfoZLnsArW_GBgQUBlvDw7UD-XLXUIpKloJQ2ZA
-
-#EXTINF:-1 type="series" group-title="KOREAN SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9fbRJgZ2zDTnSUId1bOwsllHNr7.jpg", Dr Romantic S3 E07
-https://dtacmuar-my.sharepoint.com/personal/series3_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EWH__B8tOXBMnquZgXaUiDgBf3M2TN3THhYB0bVc6cfLVw
-
-#EXTINF:-1 type="series" group-title="KOREAN SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9fbRJgZ2zDTnSUId1bOwsllHNr7.jpg", Dr Romantic S3 E08
-https://dtacmuar-my.sharepoint.com/personal/series3_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EUuTVJg2BT9EjgnVJiWV40MBxMsZgGi69Zt3ak4HjV-7lg
-
-#EXTINF:-1 type="series" group-title="KOREAN SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9fbRJgZ2zDTnSUId1bOwsllHNr7.jpg", Dr Romantic S3 E09
-https://dtacmuar-my.sharepoint.com/personal/series3_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EXTeySP9-95Kmx_suqoH_PsBjJRIX2FIeSJdqUAHvvUuTg
-
-#EXTINF:-1 type="series" group-title="KOREAN SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9fbRJgZ2zDTnSUId1bOwsllHNr7.jpg", Dr Romantic S3 E10
-https://dtacmuar-my.sharepoint.com/personal/series3_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EVIs6skTb-pPkszrisVMYAsB3kRBMlQNZgS_3fo_to4aNw
-
-#EXTINF:-1 type="series" group-title="KOREAN SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9fbRJgZ2zDTnSUId1bOwsllHNr7.jpg", Dr Romantic S3 E11
-https://dtacmuar-my.sharepoint.com/personal/series3_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=ESNTUiDcX-5IjLzCNZ1CvScBsvtPZShk_qIx2CsbKSFcdA
-
-#EXTINF:-1 type="series" group-title="KOREAN SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9fbRJgZ2zDTnSUId1bOwsllHNr7.jpg", Dr Romantic S3 E12
-https://dtacmuar-my.sharepoint.com/personal/series3_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=Ee28tJzsbDtBlMsoD1h8ZfcBDnjJmoKz5JBzrEmyFaMvaA
-
-#EXTINF:-1 type="series" group-title="KOREAN SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9fbRJgZ2zDTnSUId1bOwsllHNr7.jpg", Dr Romantic S3 E13
-https://dtacmuar-my.sharepoint.com/personal/series3_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EVmn4y0g7w1KrtNWbomcEnEBATq2qi_A_a_WZnGMpqnQAA
-
-#EXTINF:-1 type="series" group-title="KOREAN SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9fbRJgZ2zDTnSUId1bOwsllHNr7.jpg", Dr Romantic S3 E14
-https://dtacmuar-my.sharepoint.com/personal/series3_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EfcG3FVruylOmrVFMamGEK0B0Qi5J36dN_yB9tYrsh_Y0Q
-
-#EXTINF:-1 type="series" group-title="KOREAN SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9fbRJgZ2zDTnSUId1bOwsllHNr7.jpg", Dr Romantic S3 E15
-https://dtacmuar-my.sharepoint.com/personal/series3_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=ESjeD1BIXG1FsDdvdzFKpyQBIW-NbMY99ag0VcF3sXPVqw
-
-#EXTINF:-1 type="series" group-title="KOREAN SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9fbRJgZ2zDTnSUId1bOwsllHNr7.jpg", Dr Romantic S3 E16
-https://dtacmuar-my.sharepoint.com/personal/series3_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EaLYKoDwjGxPsCjZWbxlIQcB_nRn7IpkfhjvcIOE8xtegw
 
 #EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pgQi1PWt7Wop3o7XJLv2zGbPW5E.jpg", Lelaki Itu (2024) S1 E01
 https://calm-rain-70b4.buntai.workers.dev/0:/series/Lelaki%20Itu/%5B@Kongsi_Series%5Dlelaki.itu.EP1.720p.AAC.x264-KSO.mp4
@@ -1948,131 +1791,1167 @@ https://hello-world-old-queen-61b0.buntai.workers.dev/0:/series/Anak%20Anak%20Si
 https://hello-world-old-queen-61b0.buntai.workers.dev/0:/series/Anak%20Anak%20Sidek/Senapang%20(Bahagian%201).flv
 
 
-#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iU2LbfmQrjff0GDuMFafuG8n0Hm.jpg", Usop Sontorian S1 E01
+EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iU2LbfmQrjff0GDuMFafuG8n0Hm.jpg", Usop Sontorian S1 E01
 https://hello-world-old-queen-61b0.buntai.workers.dev/0:/series/Usop%20Sontorian/Usop%20Sontorian%20-%20Berkhemah.mp4
 
-#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iU2LbfmQrjff0GDuMFafuG8n0Hm.jpg", Usop Sontorian S1 E02
+EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iU2LbfmQrjff0GDuMFafuG8n0Hm.jpg", Usop Sontorian S1 E02
 https://hello-world-old-queen-61b0.buntai.workers.dev/0:/series/Usop%20Sontorian/Usop%20Sontorian%20-%20Budin%20Masuk%20Lokap.mp4
 
-#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iU2LbfmQrjff0GDuMFafuG8n0Hm.jpg", Usop Sontorian S1 E03
+EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iU2LbfmQrjff0GDuMFafuG8n0Hm.jpg", Usop Sontorian S1 E03
 https://hello-world-old-queen-61b0.buntai.workers.dev/0:/series/Usop%20Sontorian/Usop%20Sontorian%20-%20Dinasor.mp4
 
-#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iU2LbfmQrjff0GDuMFafuG8n0Hm.jpg", Usop Sontorian S1 E04
+EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iU2LbfmQrjff0GDuMFafuG8n0Hm.jpg", Usop Sontorian S1 E04
 https://hello-world-old-queen-61b0.buntai.workers.dev/0:/series/Usop%20Sontorian/Usop%20Sontorian%20-%20Dol%20Pindah.mp4
 
-#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iU2LbfmQrjff0GDuMFafuG8n0Hm.jpg", Usop Sontorian S1 E05
+EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iU2LbfmQrjff0GDuMFafuG8n0Hm.jpg", Usop Sontorian S1 E05
 https://hello-world-old-queen-61b0.buntai.workers.dev/0:/series/Usop%20Sontorian/Usop%20Sontorian%20-%20Dunia%20Air.mp4
 
-#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iU2LbfmQrjff0GDuMFafuG8n0Hm.jpg", Usop Sontorian S1 E06
+EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iU2LbfmQrjff0GDuMFafuG8n0Hm.jpg", Usop Sontorian S1 E06
 https://hello-world-old-queen-61b0.buntai.workers.dev/0:/series/Usop%20Sontorian/Usop%20Sontorian%20-%20Harta%20Karun.mp4
 
-#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iU2LbfmQrjff0GDuMFafuG8n0Hm.jpg", Usop Sontorian S1 E07
+EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iU2LbfmQrjff0GDuMFafuG8n0Hm.jpg", Usop Sontorian S1 E07
 https://hello-world-old-queen-61b0.buntai.workers.dev/0:/series/Usop%20Sontorian/Usop%20Sontorian%20-%20Kartini%20Selamanya.mp4
 
-#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iU2LbfmQrjff0GDuMFafuG8n0Hm.jpg", Usop Sontorian S1 E08
+EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iU2LbfmQrjff0GDuMFafuG8n0Hm.jpg", Usop Sontorian S1 E08
 https://hello-world-old-queen-61b0.buntai.workers.dev/0:/series/Usop%20Sontorian/Usop%20Sontorian%20-%20Kisah%20Seorang%20Biduan.mp4
 
-#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iU2LbfmQrjff0GDuMFafuG8n0Hm.jpg", Usop Sontorian S1 E09
+EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iU2LbfmQrjff0GDuMFafuG8n0Hm.jpg", Usop Sontorian S1 E09
 https://hello-world-old-queen-61b0.buntai.workers.dev/0:/series/Usop%20Sontorian/Usop%20Sontorian%20-%20Melawat%20Kuala%20Lumpur.mp4
 
-#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iU2LbfmQrjff0GDuMFafuG8n0Hm.jpg", Usop Sontorian S1 E10
+EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iU2LbfmQrjff0GDuMFafuG8n0Hm.jpg", Usop Sontorian S1 E10
 https://hello-world-old-queen-61b0.buntai.workers.dev/0:/series/Usop%20Sontorian/Usop%20Sontorian%20-%20Merdeka.mp4
 
-#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iU2LbfmQrjff0GDuMFafuG8n0Hm.jpg", Usop Sontorian S1 E11
+EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iU2LbfmQrjff0GDuMFafuG8n0Hm.jpg", Usop Sontorian S1 E11
 https://hello-world-old-queen-61b0.buntai.workers.dev/0:/series/Usop%20Sontorian/Usop%20Sontorian%20-%20Meriam%20Buluh.mp4
 
-#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iU2LbfmQrjff0GDuMFafuG8n0Hm.jpg", Usop Sontorian S1 E12
+EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iU2LbfmQrjff0GDuMFafuG8n0Hm.jpg", Usop Sontorian S1 E12
 https://hello-world-old-queen-61b0.buntai.workers.dev/0:/series/Usop%20Sontorian/Usop%20Sontorian%20-%20Misi%20Mustahil.mp4
 
-#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/g7ou12CuewLco2egs0Cly9Ybcpb.jpg", Boboiboy Galaxy S1 E01
+EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/g7ou12CuewLco2egs0Cly9Ybcpb.jpg", Boboiboy Galaxy S1 E01
 https://hello-world-yellow-lake-ae51.buntai.workers.dev/0:/series/BoBoiBoy%20Galaxy/S1/BoBoiBoy%20Galaxy%20SEP01.mp4
 
-#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/g7ou12CuewLco2egs0Cly9Ybcpb.jpg", Boboiboy Galaxy S1 E02
+EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/g7ou12CuewLco2egs0Cly9Ybcpb.jpg", Boboiboy Galaxy S1 E02
 https://hello-world-yellow-lake-ae51.buntai.workers.dev/0:/series/BoBoiBoy%20Galaxy/S1/BoBoiBoy%20Galaxy%20SEP02.mp4
 
-#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/g7ou12CuewLco2egs0Cly9Ybcpb.jpg", Boboiboy Galaxy S1 E03
+EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/g7ou12CuewLco2egs0Cly9Ybcpb.jpg", Boboiboy Galaxy S1 E03
 https://hello-world-yellow-lake-ae51.buntai.workers.dev/0:/series/BoBoiBoy%20Galaxy/S1/BoBoiBoy%20Galaxy%20SEP03.mp4
 
-#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/g7ou12CuewLco2egs0Cly9Ybcpb.jpg", Boboiboy Galaxy S1 E04
+EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/g7ou12CuewLco2egs0Cly9Ybcpb.jpg", Boboiboy Galaxy S1 E04
 https://hello-world-yellow-lake-ae51.buntai.workers.dev/0:/series/BoBoiBoy%20Galaxy/S1/BoBoiBoy%20Galaxy%20SEP04.mp4
 
-#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/g7ou12CuewLco2egs0Cly9Ybcpb.jpg", Boboiboy Galaxy S1 E05
+EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/g7ou12CuewLco2egs0Cly9Ybcpb.jpg", Boboiboy Galaxy S1 E05
 https://hello-world-yellow-lake-ae51.buntai.workers.dev/0:/series/BoBoiBoy%20Galaxy/S1/BoBoiBoy%20Galaxy%20SEP05.mp4
 
-#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/g7ou12CuewLco2egs0Cly9Ybcpb.jpg", Boboiboy Galaxy S1 E06
+EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/g7ou12CuewLco2egs0Cly9Ybcpb.jpg", Boboiboy Galaxy S1 E06
 https://hello-world-yellow-lake-ae51.buntai.workers.dev/0:/series/BoBoiBoy%20Galaxy/S1/BoBoiBoy%20Galaxy%20SEP06.mp4
 
-#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/g7ou12CuewLco2egs0Cly9Ybcpb.jpg", Boboiboy Galaxy S1 E07
+EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/g7ou12CuewLco2egs0Cly9Ybcpb.jpg", Boboiboy Galaxy S1 E07
 https://hello-world-yellow-lake-ae51.buntai.workers.dev/0:/series/BoBoiBoy%20Galaxy/S1/BoBoiBoy%20Galaxy%20SEP07.mp4
 
-#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/g7ou12CuewLco2egs0Cly9Ybcpb.jpg", Boboiboy Galaxy S1 E08
+EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/g7ou12CuewLco2egs0Cly9Ybcpb.jpg", Boboiboy Galaxy S1 E08
 https://hello-world-yellow-lake-ae51.buntai.workers.dev/0:/series/BoBoiBoy%20Galaxy/S1/BoBoiBoy%20Galaxy%20SEP08.mp4
 
-#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/g7ou12CuewLco2egs0Cly9Ybcpb.jpg", Boboiboy Galaxy S1 E09
+EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/g7ou12CuewLco2egs0Cly9Ybcpb.jpg", Boboiboy Galaxy S1 E09
 https://hello-world-yellow-lake-ae51.buntai.workers.dev/0:/series/BoBoiBoy%20Galaxy/S1/BoBoiBoy%20Galaxy%20SEP09.mp4
 
-#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/g7ou12CuewLco2egs0Cly9Ybcpb.jpg", Boboiboy Galaxy S1 E10
+EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/g7ou12CuewLco2egs0Cly9Ybcpb.jpg", Boboiboy Galaxy S1 E10
 https://hello-world-yellow-lake-ae51.buntai.workers.dev/0:/series/BoBoiBoy%20Galaxy/S1/BoBoiBoy%20Galaxy%20SEP10.mp4
 
-#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/g7ou12CuewLco2egs0Cly9Ybcpb.jpg", Boboiboy Galaxy S1 E11
+EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/g7ou12CuewLco2egs0Cly9Ybcpb.jpg", Boboiboy Galaxy S1 E11
 https://hello-world-yellow-lake-ae51.buntai.workers.dev/0:/series/BoBoiBoy%20Galaxy/S1/BoBoiBoy%20Galaxy%20SEP11.mp4
 
-#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/g7ou12CuewLco2egs0Cly9Ybcpb.jpg", Boboiboy Galaxy S1 E12
+EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/g7ou12CuewLco2egs0Cly9Ybcpb.jpg", Boboiboy Galaxy S1 E12
 https://hello-world-yellow-lake-ae51.buntai.workers.dev/0:/series/BoBoiBoy%20Galaxy/S1/BoBoiBoy%20Galaxy%20SEP12.mp4
 
-#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/g7ou12CuewLco2egs0Cly9Ybcpb.jpg", Boboiboy Galaxy S1 E13
+EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/g7ou12CuewLco2egs0Cly9Ybcpb.jpg", Boboiboy Galaxy S1 E13
 https://hello-world-yellow-lake-ae51.buntai.workers.dev/0:/series/BoBoiBoy%20Galaxy/S1/BoBoiBoy%20Galaxy%20SEP13.mp4
 
-#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/g7ou12CuewLco2egs0Cly9Ybcpb.jpg", Boboiboy Galaxy S1 E14
+EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/g7ou12CuewLco2egs0Cly9Ybcpb.jpg", Boboiboy Galaxy S1 E14
 https://hello-world-yellow-lake-ae51.buntai.workers.dev/0:/series/BoBoiBoy%20Galaxy/S1/BoBoiBoy%20Galaxy%20SEP14.mp4
 
-#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/g7ou12CuewLco2egs0Cly9Ybcpb.jpg", Boboiboy Galaxy S1 E15
+EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/g7ou12CuewLco2egs0Cly9Ybcpb.jpg", Boboiboy Galaxy S1 E15
 https://hello-world-yellow-lake-ae51.buntai.workers.dev/0:/series/BoBoiBoy%20Galaxy/S1/BoBoiBoy%20Galaxy%20SEP15.mp4
 
-#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/g7ou12CuewLco2egs0Cly9Ybcpb.jpg", Boboiboy Galaxy S1 E16
+EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/g7ou12CuewLco2egs0Cly9Ybcpb.jpg", Boboiboy Galaxy S1 E16
 https://hello-world-yellow-lake-ae51.buntai.workers.dev/0:/series/BoBoiBoy%20Galaxy/S1/BoBoiBoy%20Galaxy%20SEP16.mp4
 
-#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/g7ou12CuewLco2egs0Cly9Ybcpb.jpg", Boboiboy Galaxy S1 E17
+EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/g7ou12CuewLco2egs0Cly9Ybcpb.jpg", Boboiboy Galaxy S1 E17
 https://hello-world-yellow-lake-ae51.buntai.workers.dev/0:/series/BoBoiBoy%20Galaxy/S1/BoBoiBoy%20Galaxy%20SEP17.mp4
 
-#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/g7ou12CuewLco2egs0Cly9Ybcpb.jpg", Boboiboy Galaxy S1 E18
+EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/g7ou12CuewLco2egs0Cly9Ybcpb.jpg", Boboiboy Galaxy S1 E18
 https://hello-world-yellow-lake-ae51.buntai.workers.dev/0:/series/BoBoiBoy%20Galaxy/S1/BoBoiBoy%20Galaxy%20SEP18.mp4
 
-#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/g7ou12CuewLco2egs0Cly9Ybcpb.jpg", Boboiboy Galaxy S1 E19
+EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/g7ou12CuewLco2egs0Cly9Ybcpb.jpg", Boboiboy Galaxy S1 E19
 https://hello-world-yellow-lake-ae51.buntai.workers.dev/0:/series/BoBoiBoy%20Galaxy/S1/BoBoiBoy%20Galaxy%20SEP19.mp4
 
-#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/g7ou12CuewLco2egs0Cly9Ybcpb.jpg", Boboiboy Galaxy S1 E20
+EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/g7ou12CuewLco2egs0Cly9Ybcpb.jpg", Boboiboy Galaxy S1 E20
 https://hello-world-yellow-lake-ae51.buntai.workers.dev/0:/series/BoBoiBoy%20Galaxy/S1/BoBoiBoy%20Galaxy%20SEP20.mp4
 
-#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/g7ou12CuewLco2egs0Cly9Ybcpb.jpg", Boboiboy Galaxy S1 E21
+EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/g7ou12CuewLco2egs0Cly9Ybcpb.jpg", Boboiboy Galaxy S1 E21
 https://hello-world-yellow-lake-ae51.buntai.workers.dev/0:/series/BoBoiBoy%20Galaxy/S1/BoBoiBoy%20Galaxy%20SEP21.mp4
 
-#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/g7ou12CuewLco2egs0Cly9Ybcpb.jpg", Boboiboy Galaxy S1 E22
+EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/g7ou12CuewLco2egs0Cly9Ybcpb.jpg", Boboiboy Galaxy S1 E22
 https://hello-world-yellow-lake-ae51.buntai.workers.dev/0:/series/BoBoiBoy%20Galaxy/S1/BoBoiBoy%20Galaxy%20SEP22.mp4
 
-#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/g7ou12CuewLco2egs0Cly9Ybcpb.jpg", Boboiboy Galaxy S1 E23
+EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/g7ou12CuewLco2egs0Cly9Ybcpb.jpg", Boboiboy Galaxy S1 E23
 https://hello-world-yellow-lake-ae51.buntai.workers.dev/0:/series/BoBoiBoy%20Galaxy/S1/BoBoiBoy%20Galaxy%20SEP23.mp4
 
-#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/g7ou12CuewLco2egs0Cly9Ybcpb.jpg", Boboiboy Galaxy S1 E24
+EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/g7ou12CuewLco2egs0Cly9Ybcpb.jpg", Boboiboy Galaxy S1 E24
 https://hello-world-yellow-lake-ae51.buntai.workers.dev/0:/series/BoBoiBoy%20Galaxy/S1/BoBoiBoy%20Galaxy%20SEP24.mp4
 
-#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/g7ou12CuewLco2egs0Cly9Ybcpb.jpg", Boboiboy Galaxy S2 E01
-https://hello-world-yellow-lake-ae51.buntai.workers.dev/0:/series/BoBoiBoy%20Galaxy/S2/BoBoiBoy%20Galaxy%20Sori%20EP%2001.mp4
 
-#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/g7ou12CuewLco2egs0Cly9Ybcpb.jpg", Boboiboy Galaxy S2 E02
-https://hello-world-yellow-lake-ae51.buntai.workers.dev/0:/series/BoBoiBoy%20Galaxy/S2/Boboiboy%20Galaxy%20Sori%20(2023)%20EP2.MP4
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://images.justwatch.com/poster/286281208/s718/season-1.jpg", BoBoiBoy S01 E01
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=687e154d03c864a1e21110c55237ab10:5c1c58dec7348c8858ed9858f32b3449
+https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/d28da433-11be-54ff-b5bb-0578c0844a9b/default_primary.mpd
 
-#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/g7ou12CuewLco2egs0Cly9Ybcpb.jpg", Boboiboy Galaxy S2 E03
-https://hello-world-yellow-lake-ae51.buntai.workers.dev/0:/series/BoBoiBoy%20Galaxy/S2/Boboiboy%20Galaxy%20Sori%20(2023)%20EP3.MP4
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=367554da2ed1cb93cafce48819daa610:52f60e5a8df4d93e4138e1cdb0469432
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://images.justwatch.com/poster/286281208/s718/season-1.jpg", BoBoiBoy S01 E02
+https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/fcd62da0-f131-533b-9735-9d9053d371c3/default_primary.mpd
 
-#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/g7ou12CuewLco2egs0Cly9Ybcpb.jpg", Boboiboy Galaxy S2 E04
-https://hello-world-yellow-lake-ae51.buntai.workers.dev/0:/series/BoBoiBoy%20Galaxy/S2/BoBoiBoy%20Galaxy%20Sori%20EP%2004.mp4
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f4d19f4e5a99b2ae39303adbf2034a10:4e46345fb05ad70ad9eb8fd4249e055a
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://images.justwatch.com/poster/286281208/s718/season-1.jpg", BoBoiBoy S01 E03
+https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/d03b55f3-1881-52fa-aad7-dd3662ce5efe/default_primary.mpd
 
-#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/g7ou12CuewLco2egs0Cly9Ybcpb.jpg", Boboiboy Galaxy S2 E05
-https://hello-world-yellow-lake-ae51.buntai.workers.dev/0:/series/BoBoiBoy%20Galaxy/S2/BoBoiBoy%20Galaxy%20SORI%20(2023)%20S02%20EP05%20Malay.mp4
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=02816407372db8403ccb5c83d0705e10:85f4a85bec95085b7f0bf3be3459e58a
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://images.justwatch.com/poster/286281208/s718/season-1.jpg", BoBoiBoy S01 E04
+https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/3e470362-bec9-506e-8c2b-f09944bf712a/default_primary.mpd
 
-#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/g7ou12CuewLco2egs0Cly9Ybcpb.jpg", Boboiboy Galaxy S2 E06
-https://hello-world-yellow-lake-ae51.buntai.workers.dev/0:/series/BoBoiBoy%20Galaxy/S2/BoBoiBoy_Galaxy_SORI_2023_S02_EP06ends_Finale_Malay.mp4
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=cfb1f9b1c87dd6e07239a071a1596410:770a6eeaffce52a4fd2dbb627b463724
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://images.justwatch.com/poster/286281208/s718/season-1.jpg", BoBoiBoy S01 E05
+https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/e2820b52-7586-5cab-80db-f97b5e976363/default_primary.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d775445c39ddcf9aa9a770ec3f335e10:ad5be1a3a545a9b23f9dff96b149de5c
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://images.justwatch.com/poster/286281208/s718/season-1.jpg", BoBoiBoy S01 E06
+https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/e8d7c26e-f2ae-5853-b1bc-7750f6f273af/default_primary.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=38cd07f985289a1f0e653d4fe6310510:6fa70b00258a0d7fcaaa2c0c2edd56d5
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://images.justwatch.com/poster/286281208/s718/season-1.jpg", BoBoiBoy S01 E07
+https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/f4fc77ef-c740-5374-b88e-000c86ef9330/default_primary.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3b8299592efb2a48f58c9cb05bba2d10:812074d771e1f28ac55d3f85e9b9927a
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://images.justwatch.com/poster/286281208/s718/season-1.jpg", BoBoiBoy S01 E08
+https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/a88fa761-ac1b-57a7-9086-01bc739af940/default_primary.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3ba67912d736b05367d7c96a19566110:f669da1b81972d1596ffa7061b4be791
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://images.justwatch.com/poster/286281208/s718/season-1.jpg", BoBoiBoy S01 E09
+https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/88cd482b-37a7-5494-b29a-a0ce6434ef76/default_primary.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3131d7d8219137b3fd6f61b78a7e3510:d10f455e1d40b3adfb93e796e375b1d3
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://images.justwatch.com/poster/286281208/s718/season-1.jpg", BoBoiBoy S01 E10
+https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/79ff1b29-e7dc-5271-96a4-90e46b5cc83b/default_primary.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0f7b99f38e7146f257539856d5de9710:2aa8331b7cf6d080b897073f8b2a0e82
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://images.justwatch.com/poster/286281208/s718/season-1.jpg", BoBoiBoy S01 E11
+https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/02481aa4-c4a5-5a1e-bf0f-d36b86bf247d/default_primary.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f83f0474ecf342b9d6208e64503ad410:405887a9f7bff926fcb83634d349daa3
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://images.justwatch.com/poster/286281208/s718/season-1.jpg", BoBoiBoy S01 E12
+https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/b8439708-4ad6-567b-82c6-80b57e204a2d/default_primary.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4f9fea24baddbb2cf0229ec3be366b10:178c73032e980bb5a33005f726b36139
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://images.justwatch.com/poster/286281208/s718/season-1.jpg", BoBoiBoy S01 E13
+https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/2febb014-e8da-5faa-9d23-609ef62bca4a/default_primary.mpd
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+#EXTINF:-1 type="series"  group-title="ANIME" tvg-logo="https://images.justwatch.com/poster/286281224/s718/season-2.jpg", BoBoiBoy S02 E01
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/BoBoiBoy/S02/BoBoiBoy_S02E01_Welcome%20back,%20BoBoiBoy!.mp4
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+#EXTINF:-1 type="series"  group-title="ANIME" tvg-logo="https://images.justwatch.com/poster/286281224/s718/season-2.jpg", BoBoiBoy S02 E02
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/BoBoiBoy/S02/BoBoiBoy_S02E02_The%20Haunted%20House.mp4
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+#EXTINF:-1 type="series"  group-title="ANIME" tvg-logo="https://images.justwatch.com/poster/286281224/s718/season-2.jpg", BoBoiBoy S02 E03
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/BoBoiBoy/S02/BoBoiBoy_S02E03_Physical%20Education.mp4
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+#EXTINF:-1 type="series"  group-title="ANIME" tvg-logo="https://images.justwatch.com/poster/286281224/s718/season-2.jpg", BoBoiBoy S02 E04
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/BoBoiBoy/S02/BoBoiBoy_S02E04_Football%20Fight!.mp4
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+#EXTINF:-1 type="series"  group-title="ANIME" tvg-logo="https://images.justwatch.com/poster/286281224/s718/season-2.jpg", BoBoiBoy S02 E05
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/BoBoiBoy/S02/BoBoiBoy_S02E05_Late%20for%20School.mp4
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+#EXTINF:-1 type="series"  group-title="ANIME" tvg-logo="https://images.justwatch.com/poster/286281224/s718/season-2.jpg", BoBoiBoy S02 E06
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/BoBoiBoy/S02/BoBoiBoy_S02E06_Giant%20Mini%20World.mp4
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+#EXTINF:-1 type="series"  group-title="ANIME" tvg-logo="https://images.justwatch.com/poster/286281224/s718/season-2.jpg", BoBoiBoy S02 E07
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/BoBoiBoy/S02/BoBoiBoy_S02E07_Emotive%20Chemical%20Y.mp4
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+#EXTINF:-1 type="series"  group-title="ANIME" tvg-logo="https://images.justwatch.com/poster/286281224/s718/season-2.jpg", BoBoiBoy S02 E08
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/BoBoiBoy/S02/BoBoiBoy_S02E08_Fang%20and%20Ochobot's%20Secret.mp4
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+#EXTINF:-1 type="series"  group-title="ANIME" tvg-logo="https://images.justwatch.com/poster/286281224/s718/season-2.jpg", BoBoiBoy S02 E09
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/BoBoiBoy/S02/BoBoiBoy_S02E09_Mornings%20with%20Mr%20Probe%20and%20Adu%20Du.mp4
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+#EXTINF:-1 type="series"  group-title="ANIME" tvg-logo="https://images.justwatch.com/poster/286281224/s718/season-2.jpg", BoBoiBoy S02 E10
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/BoBoiBoy/S02/BoBoiBoy_S02E10_First%20Contact.mp4
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+#EXTINF:-1 type="series"  group-title="ANIME" tvg-logo="https://images.justwatch.com/poster/286281224/s718/season-2.jpg", BoBoiBoy S02 E11
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/BoBoiBoy/S02/BoBoiBoy_S02E11_Pop%20Quiz%20Season.mp4
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+#EXTINF:-1 type="series"  group-title="ANIME" tvg-logo="https://images.justwatch.com/poster/286281224/s718/season-2.jpg", BoBoiBoy S02 E12
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/BoBoiBoy/S02/BoBoiBoy_S02E12_Ejo%20Jo%20Attacks.mp4
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+#EXTINF:-1 type="series"  group-title="ANIME" tvg-logo="https://images.justwatch.com/poster/286281224/s718/season-2.jpg", BoBoiBoy S02 E13
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/BoBoiBoy/S02/BoBoiBoy_S02E13_Goodbye,%20Probe.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://images.justwatch.com/poster/286281225/s718/season-3.jpg", BoBoiBoy S03 E01
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/BoBoiBoy/S03/BoBoiBoy_S03E01_BoBoiBoy%20VS%20Ejo%20Jo.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://images.justwatch.com/poster/286281225/s718/season-3.jpg", BoBoiBoy S03 E02
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/BoBoiBoy/S03/BoBoiBoy_S03E02_BoBoiBoy%20VS%20Ejo%20Jo%20%E2%80%94%20Final%20Battle.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://images.justwatch.com/poster/286281225/s718/season-3.jpg", BoBoiBoy S03 E03
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/BoBoiBoy/S03/BoBoiBoy_S03E03_In%20Memory%20of%20Probe.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://images.justwatch.com/poster/286281225/s718/season-3.jpg", BoBoiBoy S03 E04
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/BoBoiBoy/S03/BoBoiBoy_S03E04_Operation%20Cocoa.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://images.justwatch.com/poster/286281225/s718/season-3.jpg", BoBoiBoy S03 E05
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/BoBoiBoy/S03/BoBoiBoy_S03E05_Cocoa%20Jumbo's%20Rampage.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://images.justwatch.com/poster/286281225/s718/season-3.jpg", BoBoiBoy S03 E06
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/BoBoiBoy/S03/BoBoiBoy_S03E06_Mr.%20Baga%20Ga's%20Service.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://images.justwatch.com/poster/286281225/s718/season-3.jpg", BoBoiBoy S03 E07
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/BoBoiBoy/S03/BoBoiBoy_S03E07_Rob,%20Robert,%20and%20Roberto's%20Robbery.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://images.justwatch.com/poster/286281225/s718/season-3.jpg", BoBoiBoy S03 E08
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/BoBoiBoy/S03/BoBoiBoy_S03E08_The%20Five%20Sly%20Scammers.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://images.justwatch.com/poster/286281225/s718/season-3.jpg", BoBoiBoy S03 E09
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/BoBoiBoy/S03/BoBoiBoy_S03E09_The%20Battle%20on%20the%20Moon.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://images.justwatch.com/poster/286281225/s718/season-3.jpg", BoBoiBoy S03 E10
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/BoBoiBoy/S03/BoBoiBoy_S03E10_Papa%20Zola%20&%20Mama%20Zila.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://images.justwatch.com/poster/286281225/s718/season-3.jpg", BoBoiBoy S03 E11
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/BoBoiBoy/S03/BoBoiBoy_S03E11_Mama%20Zila%20Attacks.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://images.justwatch.com/poster/286281225/s718/season-3.jpg", BoBoiBoy S03 E12
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/BoBoiBoy/S03/BoBoiBoy_S03E12_Adu%20Du's%20Mom.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://images.justwatch.com/poster/286281225/s718/season-3.jpg", BoBoiBoy S03 E13
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/BoBoiBoy/S03/BoBoiBoy_S03E13_Adu%20Du's%20Return%20To%20Evil.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://images.justwatch.com/poster/286281225/s718/season-3.jpg", BoBoiBoy S03 E14
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/BoBoiBoy/S03/BoBoiBoy_S03E14_PangoBot%20and%20The%20Onion%20Monster.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://images.justwatch.com/poster/286281225/s718/season-3.jpg", BoBoiBoy S03 E15
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/BoBoiBoy/S03/BoBoiBoy_S03E15_The%20Arsonist.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://images.justwatch.com/poster/286281225/s718/season-3.jpg", BoBoiBoy S03 E16
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/BoBoiBoy/S03/BoBoiBoy_S03E16_BoBoiBoy%20Fire%20Ignites!.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://images.justwatch.com/poster/286281225/s718/season-3.jpg", BoBoiBoy S03 E17
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/BoBoiBoy/S03/BoBoiBoy_S03E17_Danger_%20BoBoiBot.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://images.justwatch.com/poster/286281225/s718/season-3.jpg", BoBoiBoy S03 E18
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/BoBoiBoy/S03/BoBoiBoy_S03E18_Everybody%20Loves%20BoBoiBot.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://images.justwatch.com/poster/286281225/s718/season-3.jpg", BoBoiBoy S03 E19
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/BoBoiBoy/S03/BoBoiBoy_S03E19_BoBoiBoy's%20Water%20Surprise.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://images.justwatch.com/poster/286281225/s718/season-3.jpg", BoBoiBoy S03 E20
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/BoBoiBoy/S03/BoBoiBoy_S03E20_Rise%20Up!%20BoBoiBoy%20Water!.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://images.justwatch.com/poster/286281225/s718/season-3.jpg", BoBoiBoy S03 E21
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/BoBoiBoy/S03/BoBoiBoy_S03E21_Special%20Episode_%20Saving%20Planet%20Earth%20_%20Part%201.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://images.justwatch.com/poster/286281225/s718/season-3.jpg", BoBoiBoy S03 E22
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/BoBoiBoy/S03/BoBoiBoy_S03E22_Special%20Episode_%20Saving%20Planet%20Earth%20_%20Part%202.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://images.justwatch.com/poster/286281225/s718/season-3.jpg", BoBoiBoy S03 E23
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/BoBoiBoy/S03/BoBoiBoy_S03E23_Special%20Episode_%20Saving%20Planet%20Earth%20_%20Part%203.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://images.justwatch.com/poster/286281225/s718/season-3.jpg", BoBoiBoy S03 E24
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/BoBoiBoy/S03/BoBoiBoy_S03E24_Enemies,%20Old%20and%20New.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://images.justwatch.com/poster/286281225/s718/season-3.jpg", BoBoiBoy S03 E25
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/BoBoiBoy/S03/BoBoiBoy_S03E25_Between%20Friend%20and%20Foe.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://images.justwatch.com/poster/286281225/s718/season-3.jpg", BoBoiBoy S03 E26
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/BoBoiBoy/S03/BoBoiBoy_S03E26_See%20You%20Next%20Time,%20BoBoiBoy.mp4
+
+##########################################################################################################################################################
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6YK-AnHJOu9kBNWgCLMDz-7lUpKr-iTOHN_daWyVg70_UO26hwrupkd95QW5prmFzZFtr5TF00ZWyV387SZck52E6gBdwL08Tmi0YbCoS8x5RSHu2QG2YtmX1IomcCyCvPOW-VhoSmfpU/w0/BoBoiBoy+Galaxy.jpg", BoBoiBoy Galaxy S01 E01
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/BoBoiBoy%20Galaxy/S01/BoBoiBoy%20Galaxy_S01E01_BoBoiBoy%20Returns!.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6YK-AnHJOu9kBNWgCLMDz-7lUpKr-iTOHN_daWyVg70_UO26hwrupkd95QW5prmFzZFtr5TF00ZWyV387SZck52E6gBdwL08Tmi0YbCoS8x5RSHu2QG2YtmX1IomcCyCvPOW-VhoSmfpU/w0/BoBoiBoy+Galaxy.jpg", BoBoiBoy Galaxy S01 E02
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/BoBoiBoy%20Galaxy/S01/BoBoiBoy%20Galaxy_S01E02_Power%20Sphera,%20MotoBot.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6YK-AnHJOu9kBNWgCLMDz-7lUpKr-iTOHN_daWyVg70_UO26hwrupkd95QW5prmFzZFtr5TF00ZWyV387SZck52E6gBdwL08Tmi0YbCoS8x5RSHu2QG2YtmX1IomcCyCvPOW-VhoSmfpU/w0/BoBoiBoy+Galaxy.jpg", BoBoiBoy Galaxy S01 E03
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/BoBoiBoy%20Galaxy/S01/BoBoiBoy%20Galaxy_S01E03_Planet%20Gurunda%20Exploration.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6YK-AnHJOu9kBNWgCLMDz-7lUpKr-iTOHN_daWyVg70_UO26hwrupkd95QW5prmFzZFtr5TF00ZWyV387SZck52E6gBdwL08Tmi0YbCoS8x5RSHu2QG2YtmX1IomcCyCvPOW-VhoSmfpU/w0/BoBoiBoy+Galaxy.jpg", BoBoiBoy Galaxy S01 E04
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/BoBoiBoy%20Galaxy/S01/BoBoiBoy%20Galaxy_S01E04_Cattus%20the%20Cute%20Monster.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6YK-AnHJOu9kBNWgCLMDz-7lUpKr-iTOHN_daWyVg70_UO26hwrupkd95QW5prmFzZFtr5TF00ZWyV387SZck52E6gBdwL08Tmi0YbCoS8x5RSHu2QG2YtmX1IomcCyCvPOW-VhoSmfpU/w0/BoBoiBoy+Galaxy.jpg", BoBoiBoy Galaxy S01 E05
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/BoBoiBoy%20Galaxy/S01/BoBoiBoy%20Galaxy_S01E05_BoBoiBoy%20Leaf%20VS%20The%20Pirates.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6YK-AnHJOu9kBNWgCLMDz-7lUpKr-iTOHN_daWyVg70_UO26hwrupkd95QW5prmFzZFtr5TF00ZWyV387SZck52E6gBdwL08Tmi0YbCoS8x5RSHu2QG2YtmX1IomcCyCvPOW-VhoSmfpU/w0/BoBoiBoy+Galaxy.jpg", BoBoiBoy Galaxy S01 E06
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/BoBoiBoy%20Galaxy/S01/BoBoiBoy%20Galaxy_S01E06_Fang%20to%20the%20Rescue.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6YK-AnHJOu9kBNWgCLMDz-7lUpKr-iTOHN_daWyVg70_UO26hwrupkd95QW5prmFzZFtr5TF00ZWyV387SZck52E6gBdwL08Tmi0YbCoS8x5RSHu2QG2YtmX1IomcCyCvPOW-VhoSmfpU/w0/BoBoiBoy+Galaxy.jpg", BoBoiBoy Galaxy S01 E07
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/BoBoiBoy%20Galaxy/S01/BoBoiBoy%20Galaxy_S01E07_Joe-ker-tu_.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6YK-AnHJOu9kBNWgCLMDz-7lUpKr-iTOHN_daWyVg70_UO26hwrupkd95QW5prmFzZFtr5TF00ZWyV387SZck52E6gBdwL08Tmi0YbCoS8x5RSHu2QG2YtmX1IomcCyCvPOW-VhoSmfpU/w0/BoBoiBoy+Galaxy.jpg", BoBoiBoy Galaxy S01 E08
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/BoBoiBoy%20Galaxy/S01/BoBoiBoy%20Galaxy_S01E08_Mission_%20Laundry%20Delivery.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6YK-AnHJOu9kBNWgCLMDz-7lUpKr-iTOHN_daWyVg70_UO26hwrupkd95QW5prmFzZFtr5TF00ZWyV387SZck52E6gBdwL08Tmi0YbCoS8x5RSHu2QG2YtmX1IomcCyCvPOW-VhoSmfpU/w0/BoBoiBoy+Galaxy.jpg", BoBoiBoy Galaxy S01 E09
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/BoBoiBoy%20Galaxy/S01/BoBoiBoy%20Galaxy_S01E09_Katakululu's%20Hypnosis.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6YK-AnHJOu9kBNWgCLMDz-7lUpKr-iTOHN_daWyVg70_UO26hwrupkd95QW5prmFzZFtr5TF00ZWyV387SZck52E6gBdwL08Tmi0YbCoS8x5RSHu2QG2YtmX1IomcCyCvPOW-VhoSmfpU/w0/BoBoiBoy+Galaxy.jpg", BoBoiBoy Galaxy S01 E10
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/BoBoiBoy%20Galaxy/S01/BoBoiBoy%20Galaxy_S01E10_The%20Savage%20Trial.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6YK-AnHJOu9kBNWgCLMDz-7lUpKr-iTOHN_daWyVg70_UO26hwrupkd95QW5prmFzZFtr5TF00ZWyV387SZck52E6gBdwL08Tmi0YbCoS8x5RSHu2QG2YtmX1IomcCyCvPOW-VhoSmfpU/w0/BoBoiBoy+Galaxy.jpg", BoBoiBoy Galaxy S01 E11
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/BoBoiBoy%20Galaxy/S01/BoBoiBoy%20Galaxy_S01E11_A%20Fiery%20Fight.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6YK-AnHJOu9kBNWgCLMDz-7lUpKr-iTOHN_daWyVg70_UO26hwrupkd95QW5prmFzZFtr5TF00ZWyV387SZck52E6gBdwL08Tmi0YbCoS8x5RSHu2QG2YtmX1IomcCyCvPOW-VhoSmfpU/w0/BoBoiBoy+Galaxy.jpg", BoBoiBoy Galaxy S01 E12
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/BoBoiBoy%20Galaxy/S01/BoBoiBoy%20Galaxy_S01E12_Phantom%20Thief%20Panto.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6YK-AnHJOu9kBNWgCLMDz-7lUpKr-iTOHN_daWyVg70_UO26hwrupkd95QW5prmFzZFtr5TF00ZWyV387SZck52E6gBdwL08Tmi0YbCoS8x5RSHu2QG2YtmX1IomcCyCvPOW-VhoSmfpU/w0/BoBoiBoy+Galaxy.jpg", BoBoiBoy Galaxy S01 E13
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/BoBoiBoy%20Galaxy/S01/BoBoiBoy%20Galaxy_S01E13_Dark%20Circus.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6YK-AnHJOu9kBNWgCLMDz-7lUpKr-iTOHN_daWyVg70_UO26hwrupkd95QW5prmFzZFtr5TF00ZWyV387SZck52E6gBdwL08Tmi0YbCoS8x5RSHu2QG2YtmX1IomcCyCvPOW-VhoSmfpU/w0/BoBoiBoy+Galaxy.jpg", BoBoiBoy Galaxy S01 E14
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/BoBoiBoy%20Galaxy/S01/BoBoiBoy%20Galaxy_S01E14_Thunderstorm%20Strikes.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6YK-AnHJOu9kBNWgCLMDz-7lUpKr-iTOHN_daWyVg70_UO26hwrupkd95QW5prmFzZFtr5TF00ZWyV387SZck52E6gBdwL08Tmi0YbCoS8x5RSHu2QG2YtmX1IomcCyCvPOW-VhoSmfpU/w0/BoBoiBoy+Galaxy.jpg", BoBoiBoy Galaxy S01 E15
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/BoBoiBoy%20Galaxy/S01/BoBoiBoy%20Galaxy_S01E15_Nova%20Prix%20Space%20Race.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6YK-AnHJOu9kBNWgCLMDz-7lUpKr-iTOHN_daWyVg70_UO26hwrupkd95QW5prmFzZFtr5TF00ZWyV387SZck52E6gBdwL08Tmi0YbCoS8x5RSHu2QG2YtmX1IomcCyCvPOW-VhoSmfpU/w0/BoBoiBoy+Galaxy.jpg", BoBoiBoy Galaxy S01 E16
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/BoBoiBoy%20Galaxy/S01/BoBoiBoy%20Galaxy_S01E16_Looping%20Loopa.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6YK-AnHJOu9kBNWgCLMDz-7lUpKr-iTOHN_daWyVg70_UO26hwrupkd95QW5prmFzZFtr5TF00ZWyV387SZck52E6gBdwL08Tmi0YbCoS8x5RSHu2QG2YtmX1IomcCyCvPOW-VhoSmfpU/w0/BoBoiBoy+Galaxy.jpg", BoBoiBoy Galaxy S01 E17
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/BoBoiBoy%20Galaxy/S01/BoBoiBoy%20Galaxy_S01E17_Making%20Waves.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6YK-AnHJOu9kBNWgCLMDz-7lUpKr-iTOHN_daWyVg70_UO26hwrupkd95QW5prmFzZFtr5TF00ZWyV387SZck52E6gBdwL08Tmi0YbCoS8x5RSHu2QG2YtmX1IomcCyCvPOW-VhoSmfpU/w0/BoBoiBoy+Galaxy.jpg", BoBoiBoy Galaxy S01 E18
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/BoBoiBoy%20Galaxy/S01/BoBoiBoy%20Galaxy_S01E18_B_R_R_O's%20Revenge.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6YK-AnHJOu9kBNWgCLMDz-7lUpKr-iTOHN_daWyVg70_UO26hwrupkd95QW5prmFzZFtr5TF00ZWyV387SZck52E6gBdwL08Tmi0YbCoS8x5RSHu2QG2YtmX1IomcCyCvPOW-VhoSmfpU/w0/BoBoiBoy+Galaxy.jpg", BoBoiBoy Galaxy S01 E19
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/BoBoiBoy%20Galaxy/S01/BoBoiBoy%20Galaxy_S01E19_Copy%20and%20Paste.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6YK-AnHJOu9kBNWgCLMDz-7lUpKr-iTOHN_daWyVg70_UO26hwrupkd95QW5prmFzZFtr5TF00ZWyV387SZck52E6gBdwL08Tmi0YbCoS8x5RSHu2QG2YtmX1IomcCyCvPOW-VhoSmfpU/w0/BoBoiBoy+Galaxy.jpg", BoBoiBoy Galaxy S01 E20
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/BoBoiBoy%20Galaxy/S01/BoBoiBoy%20Galaxy_S01E20_Emotion%20Manipulation.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6YK-AnHJOu9kBNWgCLMDz-7lUpKr-iTOHN_daWyVg70_UO26hwrupkd95QW5prmFzZFtr5TF00ZWyV387SZck52E6gBdwL08Tmi0YbCoS8x5RSHu2QG2YtmX1IomcCyCvPOW-VhoSmfpU/w0/BoBoiBoy+Galaxy.jpg", BoBoiBoy Galaxy S01 E21
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/BoBoiBoy%20Galaxy/S01/BoBoiBoy%20Galaxy_S01E21_The%20Guardian%20Robot.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6YK-AnHJOu9kBNWgCLMDz-7lUpKr-iTOHN_daWyVg70_UO26hwrupkd95QW5prmFzZFtr5TF00ZWyV387SZck52E6gBdwL08Tmi0YbCoS8x5RSHu2QG2YtmX1IomcCyCvPOW-VhoSmfpU/w0/BoBoiBoy+Galaxy.jpg", BoBoiBoy Galaxy S01 E22
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/BoBoiBoy%20Galaxy/S01/BoBoiBoy%20Galaxy_S01E22_Infiltration%20Mission.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6YK-AnHJOu9kBNWgCLMDz-7lUpKr-iTOHN_daWyVg70_UO26hwrupkd95QW5prmFzZFtr5TF00ZWyV387SZck52E6gBdwL08Tmi0YbCoS8x5RSHu2QG2YtmX1IomcCyCvPOW-VhoSmfpU/w0/BoBoiBoy+Galaxy.jpg", BoBoiBoy Galaxy S01 E23
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/BoBoiBoy%20Galaxy/S01/BoBoiBoy%20Galaxy_S01E23_Pirate%20Armada%20Invasion.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6YK-AnHJOu9kBNWgCLMDz-7lUpKr-iTOHN_daWyVg70_UO26hwrupkd95QW5prmFzZFtr5TF00ZWyV387SZck52E6gBdwL08Tmi0YbCoS8x5RSHu2QG2YtmX1IomcCyCvPOW-VhoSmfpU/w0/BoBoiBoy+Galaxy.jpg", BoBoiBoy Galaxy S01 E24
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/BoBoiBoy%20Galaxy/S01/BoBoiBoy%20Galaxy_S01E24_Light%20of%20Hope.mp4
+
+##########################################################################################################################################################
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://pbs.twimg.com/media/GAZKXnVbcAAlMKx.jpg:large", BoBoiBoy Galaxy Sori E01
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/BoBoiBoy%20Galaxy%20Sori/BoBoiBoy%20Galaxy_%20Sori_S01E01_Episode%201.m3u8
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://pbs.twimg.com/media/GAZKXnVbcAAlMKx.jpg:large", BoBoiBoy Galaxy Sori E02
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/BoBoiBoy%20Galaxy%20Sori/BoBoiBoy%20Galaxy_%20Sori_S01E02_Episode%202.m3u8
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://pbs.twimg.com/media/GAZKXnVbcAAlMKx.jpg:large", BoBoiBoy Galaxy Sori E03
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/BoBoiBoy%20Galaxy%20Sori/BoBoiBoy%20Galaxy_%20Sori_S01E03_Episode%203.m3u8
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://pbs.twimg.com/media/GAZKXnVbcAAlMKx.jpg:large", BoBoiBoy Galaxy Sori E04
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/BoBoiBoy%20Galaxy%20Sori/BoBoiBoy%20Galaxy_%20Sori_S01E04_Episode%204.m3u8
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://pbs.twimg.com/media/GAZKXnVbcAAlMKx.jpg:large", BoBoiBoy Galaxy Sori E06
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/BoBoiBoy%20Galaxy%20Sori/BoBoiBoy%20Galaxy_%20Sori_S01E04_Episode%205.m3u8
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://pbs.twimg.com/media/GAZKXnVbcAAlMKx.jpg:large", BoBoiBoy Galaxy Sori E05
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/BoBoiBoy%20Galaxy%20Sori/BoBoiBoy%20Galaxy_%20Sori_S01E04_Episode%206.m3u8
+
+#########################################################################################################################################################
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1bbd40d12af6d09c43e7863df5ba5910:f7ed0c54bb0e04f0310fa45cfbdd0cc8
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://static.wikia.nocookie.net/doraemon/images/d/dc/2007.jpg/revision/latest?cb=20170901063010&path-prefix=en", New Doraemon E01
+https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/40462367-c801-532a-be28-0eb6465cb7bb/default.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c07e210d8920a2c00b165b83accb1410:1423c500b5bbd03f885003395c823475
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://static.wikia.nocookie.net/doraemon/images/d/dc/2007.jpg/revision/latest?cb=20170901063010&path-prefix=en", New Doraemon E02
+https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/95c38eaa-d776-54f3-be84-ea8b69df8cb1/default.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f388a4e5d8d60c28d79839d3f56f2410:14a353193ad7edee57fbf518b8c65801
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://static.wikia.nocookie.net/doraemon/images/d/dc/2007.jpg/revision/latest?cb=20170901063010&path-prefix=en", New Doraemon E03
+https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/c62152da-4df5-5808-bb86-8d220755c58a/default_primary.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=799ce9005894a2d05612a5032413de10:3d716a34c23b9b3047a160a9f27e9b37
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://static.wikia.nocookie.net/doraemon/images/d/dc/2007.jpg/revision/latest?cb=20170901063010&path-prefix=en", New Doraemon E04
+https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/8125684a-ffce-5a19-bdca-195e109f2c6b/default.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=33939beffddebe1da36c767b4644dc10:4878e9ec9f497b18a8cc52dd20b4920f
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://static.wikia.nocookie.net/doraemon/images/d/dc/2007.jpg/revision/latest?cb=20170901063010&path-prefix=en", New Doraemon E05
+https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/d7f5b9bb-aced-57d5-9b72-62bd21fb6554/default.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c877ec5b50d032e107f43f50d0103710:280f0f9c553cd94847ac20196e3f819e
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://static.wikia.nocookie.net/doraemon/images/d/dc/2007.jpg/revision/latest?cb=20170901063010&path-prefix=en", New Doraemon E06
+https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/03873877-99d4-5356-b1a8-bd4aeb6f86cc/default.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9f45a0bf8296d902236611cab71d7310:1aa245d46a77f039dc12dd05fddaea5d
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://static.wikia.nocookie.net/doraemon/images/d/dc/2007.jpg/revision/latest?cb=20170901063010&path-prefix=en", New Doraemon E07
+https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/e8cd6861-6880-5b30-ae7b-83559219e941/default.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3516d21b4b86f6cd51aba37230c17710:3e39f319354171ac26e5e830bb3601d6
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://static.wikia.nocookie.net/doraemon/images/d/dc/2007.jpg/revision/latest?cb=20170901063010&path-prefix=en", New Doraemon E08
+https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/e1a624dd-8b51-575d-a16a-31dd6a52c0be/default.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d468ef3fb25157c3980cd2058f99fc10:c8419520288ea1ae111a1c088255741b
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://static.wikia.nocookie.net/doraemon/images/d/dc/2007.jpg/revision/latest?cb=20170901063010&path-prefix=en", New Doraemon E09
+https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/8525daa1-7718-5672-a2ab-a7f2338b7cd6/default.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c6d9cc496a074d3dd9446c9eeeccbf10:071a06515d3a6b35f48507c930c5c4f6
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://static.wikia.nocookie.net/doraemon/images/d/dc/2007.jpg/revision/latest?cb=20170901063010&path-prefix=en", New Doraemon E10
+https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/567ab905-652d-508c-9d2c-96d77ed70bd5/default.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=47be095dfd5779632a6ea38175db6a10:142b37cb043bc0c2e8e7aa86f09dc397
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://static.wikia.nocookie.net/doraemon/images/d/dc/2007.jpg/revision/latest?cb=20170901063010&path-prefix=en", New Doraemon E11
+https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/8aabb669-030f-5d7e-99a1-f1bf423a9681/default.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d5a0e42c332e0d4050da32501648a910:dbc1e09f28256e258e077f0817ac3968
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://static.wikia.nocookie.net/doraemon/images/d/dc/2007.jpg/revision/latest?cb=20170901063010&path-prefix=en", New Doraemon E12
+https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/95eec217-5dc4-5f35-87d0-5b07c3ec1e78/default.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0ce704076d7bb076262ae1668aef5910:af10c82dc76d2820c503ae3c546fc5a0
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://static.wikia.nocookie.net/doraemon/images/d/dc/2007.jpg/revision/latest?cb=20170901063010&path-prefix=en", New Doraemon E13
+https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/1df71594-17ba-5964-9017-92f83458fe62/default.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=34397b2118c4536feda0bf00ed4fb610:76c61b1ac4dfb2e2a7195eb768313cb5
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://static.wikia.nocookie.net/doraemon/images/d/dc/2007.jpg/revision/latest?cb=20170901063010&path-prefix=en", New Doraemon E14
+https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/d056badc-8f54-5d2b-a7a0-7cb7d7f57967/default.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0a82aa67ef2b0a1f7778e5bd5870ab10:9091aafcc6790ee9771e8486f4f53de9
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://static.wikia.nocookie.net/doraemon/images/d/dc/2007.jpg/revision/latest?cb=20170901063010&path-prefix=en", New Doraemon E15
+https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/33bec495-ae1d-5fcb-84c9-c9d85bc2c943/default.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=da33e49cbe390ced79501bb314ad8210:2c7dddfd0afb84f321b761e3f34cf9f5
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://static.wikia.nocookie.net/doraemon/images/d/dc/2007.jpg/revision/latest?cb=20170901063010&path-prefix=en", New Doraemon E16
+https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/74c0c043-9509-5ba8-862b-64adb4b815ff/default.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ac4d45d7585faf41b2470962d59c310:a6f2414378f23ebacb680724df05435b
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://static.wikia.nocookie.net/doraemon/images/d/dc/2007.jpg/revision/latest?cb=20170901063010&path-prefix=en", New Doraemon E17
+https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/290e41e5-f7a1-5d2a-ba91-a43cb36e5261/default.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0cb894fea26d30f154ff37068b952f10:2814ee4bc00bd020bf657291de99e39c
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://static.wikia.nocookie.net/doraemon/images/d/dc/2007.jpg/revision/latest?cb=20170901063010&path-prefix=en", New Doraemon E18
+https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/858dc907-7740-504a-b569-d7ee4d6a2436/default.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1b4eb9358e1cf4241e4f2746d4279b10:2dc769bbe30c09d7f2c519aed987d863
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://static.wikia.nocookie.net/doraemon/images/d/dc/2007.jpg/revision/latest?cb=20170901063010&path-prefix=en", New Doraemon E19
+https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/48e32bf7-c2a6-5c24-a48e-9e4efdd2bd60/default.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ba83bf76420af64bafb23f114e814210:99e1cc7adb2710d3a290bcf2fed4342a
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://static.wikia.nocookie.net/doraemon/images/d/dc/2007.jpg/revision/latest?cb=20170901063010&path-prefix=en", New Doraemon E20
+https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/02931f2f-2ee0-5365-a763-3075e92293d3/default.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=37f3f1105edb2f3c1713443b350a6c10:e31806a4b10064b1bd663cf82439aae1
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://static.wikia.nocookie.net/doraemon/images/d/dc/2007.jpg/revision/latest?cb=20170901063010&path-prefix=en", New Doraemon E21
+https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/51dee7b2-2f41-5f6e-b1b5-52c8d54e569f/default.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=44ea2630ba6cb109158a59d5f0727f10:40b666ecc0d1063a1e4f60d6eecca1f6
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://static.wikia.nocookie.net/doraemon/images/d/dc/2007.jpg/revision/latest?cb=20170901063010&path-prefix=en", New Doraemon E22
+https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/3819cb54-d75d-5797-bde4-f56e9f00cdf7/default.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9210aa68ee0a951a571dde679179ce10:9089997a092abaa33957e66773a10fd7
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://static.wikia.nocookie.net/doraemon/images/d/dc/2007.jpg/revision/latest?cb=20170901063010&path-prefix=en", New Doraemon E23
+https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/8cf1f263-8cb0-52ff-a3c4-c94bc8ad44ab/default.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=eb59fa428ff11b20a6729c152daecd10:20ac4a50b6503195b5c724e263244924
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://static.wikia.nocookie.net/doraemon/images/d/dc/2007.jpg/revision/latest?cb=20170901063010&path-prefix=en", New Doraemon E24
+https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/43a9032e-6f75-5405-9298-f489e92d17c4/default.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5b4bcc1194116b9ca8eaf75181314910:06acb1dc2ab9e6368e04b7eb4a60ac1e
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://static.wikia.nocookie.net/doraemon/images/d/dc/2007.jpg/revision/latest?cb=20170901063010&path-prefix=en", New Doraemon E25
+https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/611da5cb-4479-5cf1-b3cb-e11c257f0dd7/default.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=65c66313830c3f2e22881c5a4e33c810:e99729ce8e2efbf76773d441046d3970
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://static.wikia.nocookie.net/doraemon/images/d/dc/2007.jpg/revision/latest?cb=20170901063010&path-prefix=en", New Doraemon E26
+https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/1ecdb523-3d46-5598-ab52-8a77ec202306/default.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=bb82b3ea8f01d49870680b49a4a11110:fbf30853c50a65babfb156f44a749eb7
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://static.wikia.nocookie.net/doraemon/images/d/dc/2007.jpg/revision/latest?cb=20170901063010&path-prefix=en", New Doraemon E27
+https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/748edf24-01fb-515d-ad1f-ae16470105dd/default.mpd
+
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.dvdplanetstore.pk/wp-content/uploads/2018/01/zSftUFrU45mPjpQx3e9HiTzQtW7.jpg", Upin & Ipin S05 E01
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/Upin&Ipin/S05/Upin&Ipin_S05E01_Back%20To%20School.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.dvdplanetstore.pk/wp-content/uploads/2018/01/zSftUFrU45mPjpQx3e9HiTzQtW7.jpg", Upin & Ipin S05 E02
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/Upin&Ipin/S05/Upin&Ipin_S05E02_Flying%20High.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.dvdplanetstore.pk/wp-content/uploads/2018/01/zSftUFrU45mPjpQx3e9HiTzQtW7.jpg", Upin & Ipin S05 E03
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/Upin&Ipin/S05/Upin&Ipin_S05E03_Heartwarming%20Lessons.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.dvdplanetstore.pk/wp-content/uploads/2018/01/zSftUFrU45mPjpQx3e9HiTzQtW7.jpg", Upin & Ipin S05 E04
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/Upin&Ipin/S05/Upin&Ipin_S05E04_From%20the%20Heart.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.dvdplanetstore.pk/wp-content/uploads/2018/01/zSftUFrU45mPjpQx3e9HiTzQtW7.jpg", Upin & Ipin S05 E05
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/Upin&Ipin/S05/Upin&Ipin_S05E05_Does%20It%20Hurt.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.dvdplanetstore.pk/wp-content/uploads/2018/01/zSftUFrU45mPjpQx3e9HiTzQtW7.jpg", Upin & Ipin S05 E06
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/Upin&Ipin/S05/Upin&Ipin_S05E06_Cookies%20for%20Opah.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.dvdplanetstore.pk/wp-content/uploads/2018/01/zSftUFrU45mPjpQx3e9HiTzQtW7.jpg", Upin & Ipin S05 E07
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/Upin&Ipin/S05/Upin&Ipin_S05E07_We%20Miss%20You,%20Opah.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.dvdplanetstore.pk/wp-content/uploads/2018/01/zSftUFrU45mPjpQx3e9HiTzQtW7.jpg", Upin & Ipin S05 E08
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/Upin&Ipin/S05/Upin&Ipin_S05E08_Scare%20or%20Care.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.dvdplanetstore.pk/wp-content/uploads/2018/01/zSftUFrU45mPjpQx3e9HiTzQtW7.jpg", Upin & Ipin S05 E09
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/Upin&Ipin/S05/Upin&Ipin_S05E09_Our%20Story.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.dvdplanetstore.pk/wp-content/uploads/2018/01/zSftUFrU45mPjpQx3e9HiTzQtW7.jpg", Upin & Ipin S05 E10
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/Upin&Ipin/S05/Upin&Ipin_S05E10_Ready...Go!.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.dvdplanetstore.pk/wp-content/uploads/2018/01/zSftUFrU45mPjpQx3e9HiTzQtW7.jpg", Upin & Ipin S05 E11
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/Upin&Ipin/S05/Upin&Ipin_S05E11_It's%20So%20Dark.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.dvdplanetstore.pk/wp-content/uploads/2018/01/zSftUFrU45mPjpQx3e9HiTzQtW7.jpg", Upin & Ipin S05 E12
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/Upin&Ipin/S05/Upin&Ipin_S05E12_Salleh's%20Creation.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.dvdplanetstore.pk/wp-content/uploads/2018/01/zSftUFrU45mPjpQx3e9HiTzQtW7.jpg", Upin & Ipin S05 E13
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/Upin&Ipin/S05/Upin&Ipin_S05E13_Metrobot,%20Transform!.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.dvdplanetstore.pk/wp-content/uploads/2018/01/zSftUFrU45mPjpQx3e9HiTzQtW7.jpg", Upin & Ipin S05 E14
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/Upin&Ipin/S05/Upin&Ipin_S05E14_Episode%2014.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://down-my.img.susercontent.com/file/257e5d25d028a6301a16b16cec54d13a", Upin & Ipin S06 E01
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/Upin&Ipin/S06/Upin&Ipin_S06E01_New%20Toys.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://down-my.img.susercontent.com/file/257e5d25d028a6301a16b16cec54d13a", Upin & Ipin S06 E02
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/Upin&Ipin/S06/Upin&Ipin_S06E02_Journey%20to%20Treasure%20Island.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://down-my.img.susercontent.com/file/257e5d25d028a6301a16b16cec54d13a", Upin & Ipin S06 E03
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/Upin&Ipin/S06/Upin&Ipin_S06E03_Get%20Them!.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://down-my.img.susercontent.com/file/257e5d25d028a6301a16b16cec54d13a", Upin & Ipin S06 E04
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/Upin&Ipin/S06/Upin&Ipin_S06E04_A%20Small%20Adventure.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://down-my.img.susercontent.com/file/257e5d25d028a6301a16b16cec54d13a", Upin & Ipin S06 E05
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/Upin&Ipin/S06/Upin&Ipin_S06E05_Thank%20You,%20Teacher.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://down-my.img.susercontent.com/file/257e5d25d028a6301a16b16cec54d13a", Upin & Ipin S06 E06
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/Upin&Ipin/S06/Upin&Ipin_S06E06_Recite.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://down-my.img.susercontent.com/file/257e5d25d028a6301a16b16cec54d13a", Upin & Ipin S06 E07
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/Upin&Ipin/S06/Upin&Ipin_S06E07_The%20Victorious%20Day.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://down-my.img.susercontent.com/file/257e5d25d028a6301a16b16cec54d13a", Upin & Ipin S06 E08
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/Upin&Ipin/S06/Upin&Ipin_S06E08_Hungry%20Ghost.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://down-my.img.susercontent.com/file/257e5d25d028a6301a16b16cec54d13a", Upin & Ipin S06 E09
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/Upin&Ipin/S06/Upin&Ipin_S06E09_Mystery%20Day.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://down-my.img.susercontent.com/file/257e5d25d028a6301a16b16cec54d13a", Upin & Ipin S06 E10
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/Upin&Ipin/S06/Upin&Ipin_S06E10_King%20of%20Fruits.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://down-my.img.susercontent.com/file/257e5d25d028a6301a16b16cec54d13a", Upin & Ipin S06 E11
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/Upin&Ipin/S06/Upin&Ipin_S06E11_Scrimp%20&%20Save.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://down-my.img.susercontent.com/file/257e5d25d028a6301a16b16cec54d13a", Upin & Ipin S06 E12
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/Upin&Ipin/S06/Upin&Ipin_S06E12_Cheerful%20Garden.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://down-my.img.susercontent.com/file/257e5d25d028a6301a16b16cec54d13a", Upin & Ipin S06 E13
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/Upin&Ipin/S06/Upin&Ipin_S06E13_To%20The%20Rescue.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://down-my.img.susercontent.com/file/257e5d25d028a6301a16b16cec54d13a", Upin & Ipin S06 E14
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/Upin&Ipin/S06/Upin&Ipin_S06E14_Nostalgia.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/1/18/Upin_ipin_7.JPG", Upin & Ipin S07 E01
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/Upin&Ipin/S07/Upin&Ipin_S07E01_Gong%20Xi%20Fa%20Cai.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/1/18/Upin_ipin_7.JPG", Upin & Ipin S07 E02
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/Upin&Ipin/S07/Upin&Ipin_S07E02_Baby%20Teeth.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/1/18/Upin_ipin_7.JPG", Upin & Ipin S07 E03
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/Upin&Ipin/S07/Upin&Ipin_S07E03_The%20Old%20Hag.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/1/18/Upin_ipin_7.JPG", Upin & Ipin S07 E04
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/Upin&Ipin/S07/Upin&Ipin_S07E04_Little%20Businessmen.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/1/18/Upin_ipin_7.JPG", Upin & Ipin S07 E05
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/Upin&Ipin/S07/Upin&Ipin_S07E05_Friends%20Forever.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/1/18/Upin_ipin_7.JPG", Upin & Ipin S07 E06
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/Upin&Ipin/S07/Upin&Ipin_S07E06_Trials%20in%20Ramadhan.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/1/18/Upin_ipin_7.JPG", Upin & Ipin S07 E07
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/Upin&Ipin/S07/Upin&Ipin_S07E07_Happy%20Eid.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/1/18/Upin_ipin_7.JPG", Upin & Ipin S07 E08
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/Upin&Ipin/S07/Upin&Ipin_S07E08_Green%20Leaves.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/1/18/Upin_ipin_7.JPG", Upin & Ipin S07 E09
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/Upin&Ipin/S07/Upin&Ipin_S07E09_Antiques.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/1/18/Upin_ipin_7.JPG", Upin & Ipin S07 E10
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/Upin&Ipin/S07/Upin&Ipin_S07E10_Haze%20Dangers.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/1/18/Upin_ipin_7.JPG", Upin & Ipin S07 E11
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/Upin&Ipin/S07/Upin&Ipin_S07E11_Pin,%20Pin,%20Pom!.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/1/18/Upin_ipin_7.JPG", Upin & Ipin S07 E12
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/Upin&Ipin/S07/Upin&Ipin_S07E12_Adventures%20of%20the%20Mischievous%20Twins.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/1/18/Upin_ipin_7.JPG", Upin & Ipin S07 E13
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/Upin&Ipin/S07/Upin&Ipin_S07E13_Buy,%20Use,%20Love.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/1/18/Upin_ipin_7.JPG", Upin & Ipin S07 E14
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/Upin&Ipin/S07/Upin&Ipin_S07E14_Happy%20Boria.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/e/e4/Upin_Ipin_8.jpg", Upin & Ipin S08 E01
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/Upin&Ipin/S08/Upin&Ipin_S08E01_My%20Little%20Upin%20and%20Ipin.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/e/e4/Upin_Ipin_8.jpg", Upin & Ipin S08 E02
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/Upin&Ipin/S08/Upin&Ipin_S08E02_Fighting%20Fishing.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/e/e4/Upin_Ipin_8.jpg", Upin & Ipin S08 E03
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/Upin&Ipin/S08/Upin&Ipin_S08E03_Play%20Study.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/e/e4/Upin_Ipin_8.jpg", Upin & Ipin S08 E04
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/Upin&Ipin/S08/Upin&Ipin_S08E04_How%20Careless.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/e/e4/Upin_Ipin_8.jpg", Upin & Ipin S08 E05
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/Upin&Ipin/S08/Upin&Ipin_S08E05_Fasting%20Experience.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/e/e4/Upin_Ipin_8.jpg", Upin & Ipin S08 E06
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/Upin&Ipin/S08/Upin&Ipin_S08E06_A%20Meaningful%20Eid%20ul-Fitr.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/e/e4/Upin_Ipin_8.jpg", Upin & Ipin S08 E07
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/Upin&Ipin/S08/Upin&Ipin_S08E07_Colours.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/e/e4/Upin_Ipin_8.jpg", Upin & Ipin S08 E08
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/Upin&Ipin/S08/Upin&Ipin_S08E08_Windows%20to%20the%20Soul.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/e/e4/Upin_Ipin_8.jpg", Upin & Ipin S08 E09
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/Upin&Ipin/S08/Upin&Ipin_S08E09_Upin%20&%20Ipin%20and%20the%20Astronaut.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/e/e4/Upin_Ipin_8.jpg", Upin & Ipin S08 E10
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/Upin&Ipin/S08/Upin&Ipin_S08E10_Upin%20&%20Ipin%20and%20Ultraman.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/e/e4/Upin_Ipin_8.jpg", Upin & Ipin S08 E11
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/Upin&Ipin/S08/Upin&Ipin_S08E11_Local%20Fruits.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/e/e4/Upin_Ipin_8.jpg", Upin & Ipin S08 E12
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/Upin&Ipin/S08/Upin&Ipin_S08E12_Fight%20Corruption.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/e/e4/Upin_Ipin_8.jpg", Upin & Ipin S08 E13
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/Upin&Ipin/S08/Upin&Ipin_S08E13_Opah%E2%80%99s%20Terompahs.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/e/e4/Upin_Ipin_8.jpg", Upin & Ipin S08 E14
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/Upin&Ipin/S08/Upin&Ipin_S08E14_School%20Holiday.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://farm6.staticflickr.com/5607/15720842255_e27ed0e90b_b.jpg", Upin & Ipin S09 E01
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/Upin&Ipin/S09/Upin&Ipin_S09E01_Cip,%20Cip,%20Cip.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://farm6.staticflickr.com/5607/15720842255_e27ed0e90b_b.jpg", Upin & Ipin S09 E02
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/Upin&Ipin/S09/Upin&Ipin_S09E02_Key%20to%20Knowledge.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://farm6.staticflickr.com/5607/15720842255_e27ed0e90b_b.jpg", Upin & Ipin S09 E03
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/Upin&Ipin/S09/Upin&Ipin_S09E03_Pen%20Pals.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://farm6.staticflickr.com/5607/15720842255_e27ed0e90b_b.jpg", Upin & Ipin S09 E04
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/Upin&Ipin/S09/Upin&Ipin_S09E04_Leaking%20Again.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://farm6.staticflickr.com/5607/15720842255_e27ed0e90b_b.jpg", Upin & Ipin S09 E05
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/Upin&Ipin/S09/Upin&Ipin_S09E05_Ramadhan%20Night.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://farm6.staticflickr.com/5607/15720842255_e27ed0e90b_b.jpg", Upin & Ipin S09 E06
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/Upin&Ipin/S09/Upin&Ipin_S09E06_Eid%20Ul-Fitr%20Morning.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://farm6.staticflickr.com/5607/15720842255_e27ed0e90b_b.jpg", Upin & Ipin S09 E07
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/Upin&Ipin/S09/Upin&Ipin_S09E07_Free%20Time.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://farm6.staticflickr.com/5607/15720842255_e27ed0e90b_b.jpg", Upin & Ipin S09 E08
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/Upin&Ipin/S09/Upin&Ipin_S09E08_Asleed%20by%20Day,%20Awake%20by%20Night.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://farm6.staticflickr.com/5607/15720842255_e27ed0e90b_b.jpg", Upin & Ipin S09 E09
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/Upin&Ipin/S09/Upin&Ipin_S09E09_Then%20And%20Now.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://farm6.staticflickr.com/5607/15720842255_e27ed0e90b_b.jpg", Upin & Ipin S09 E10
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/Upin&Ipin/S09/Upin&Ipin_S09E10_Dengue%20Free%20Squad.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://farm6.staticflickr.com/5607/15720842255_e27ed0e90b_b.jpg", Upin & Ipin S09 E11
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/Upin&Ipin/S09/Upin&Ipin_S09E11_Upin,%20Ipin%20and%20Ultraman%20Ribut%20II.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://farm6.staticflickr.com/5607/15720842255_e27ed0e90b_b.jpg", Upin & Ipin S09 E12
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/Upin&Ipin/S09/Upin&Ipin_S09E12_Who%20Did%20It.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://farm6.staticflickr.com/5607/15720842255_e27ed0e90b_b.jpg", Upin & Ipin S09 E13
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/Upin&Ipin/S09/Upin&Ipin_S09E13_Upin&Ipin%20Food%20Stall.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://farm6.staticflickr.com/5607/15720842255_e27ed0e90b_b.jpg", Upin & Ipin S09 E14
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/Upin&Ipin/S09/Upin&Ipin_S09E14_Who's%20Atan.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w58_and_h87_face/sH5RvqNNa5gSgJOuSOfExf0iO9W.jpg", Upin & Ipin S10 E01
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/Upin&Ipin/S10/Upin&Ipin_S10E01_Fried%20Bananas%20Ngap,%20Ngap!.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w58_and_h87_face/sH5RvqNNa5gSgJOuSOfExf0iO9W.jpg", Upin & Ipin S10 E02
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/Upin&Ipin/S10/Upin&Ipin_S10E02_Ooo%20What%20a%20Strange%20Egg.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w58_and_h87_face/sH5RvqNNa5gSgJOuSOfExf0iO9W.jpg", Upin & Ipin S10 E03
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/Upin&Ipin/S10/Upin&Ipin_S10E03_Dodge!.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w58_and_h87_face/sH5RvqNNa5gSgJOuSOfExf0iO9W.jpg", Upin & Ipin S10 E04
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/Upin&Ipin/S10/Upin&Ipin_S10E04_Beautiful%20Ramadhan.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w58_and_h87_face/sH5RvqNNa5gSgJOuSOfExf0iO9W.jpg", Upin & Ipin S10 E05
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/Upin&Ipin/S10/Upin&Ipin_S10E05_Beautiful%20Syawal.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w58_and_h87_face/sH5RvqNNa5gSgJOuSOfExf0iO9W.jpg", Upin & Ipin S10 E06
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/Upin&Ipin/S10/Upin&Ipin_S10E06_School%20Holidays.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w58_and_h87_face/sH5RvqNNa5gSgJOuSOfExf0iO9W.jpg", Upin & Ipin S10 E07
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/Upin&Ipin/S10/Upin&Ipin_S10E07_Ecosystem.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w58_and_h87_face/sH5RvqNNa5gSgJOuSOfExf0iO9W.jpg", Upin & Ipin S10 E08
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/Upin&Ipin/S10/Upin&Ipin_S10E08_Festival%20Of%20Lights.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w58_and_h87_face/sH5RvqNNa5gSgJOuSOfExf0iO9W.jpg", Upin & Ipin S10 E09
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/Upin&Ipin/S10/Upin&Ipin_S10E09_Bites%20&%20Venom.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w58_and_h87_face/sH5RvqNNa5gSgJOuSOfExf0iO9W.jpg", Upin & Ipin S10 E10
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/Upin&Ipin/S10/Upin&Ipin_S10E10_Journey%20Through%206%20Seasons.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w58_and_h87_face/sH5RvqNNa5gSgJOuSOfExf0iO9W.jpg", Upin & Ipin S10 E11
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/Upin&Ipin/S10/Upin&Ipin_S10E11_Behind%20The%20Scenes.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w58_and_h87_face/sH5RvqNNa5gSgJOuSOfExf0iO9W.jpg", Upin & Ipin S10 E12
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/Upin&Ipin/S10/Upin&Ipin_S10E12_A%20Big%20Mistake.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w58_and_h87_face/sH5RvqNNa5gSgJOuSOfExf0iO9W.jpg", Upin & Ipin S10 E13
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/Upin&Ipin/S10/Upin&Ipin_S10E13_I%20Am%20a%20Clock.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w58_and_h87_face/sH5RvqNNa5gSgJOuSOfExf0iO9W.jpg", Upin & Ipin S10 E14
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/Upin&Ipin/S10/Upin&Ipin_S10E14_The%20Last%20Animation.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://lescopaque.com/v11/wp-content/uploads/2017/05/POSTER_PUASA_TX_FINAL-863x1024_01.jpg", Upin & Ipin S11 E01
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/Upin&Ipin/S11/Upin&Ipin_S11E01_The%20Sound%20of%20Kompang.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://lescopaque.com/v11/wp-content/uploads/2017/05/POSTER_PUASA_TX_FINAL-863x1024_01.jpg", Upin & Ipin S11 E02
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/Upin&Ipin/S11/Upin&Ipin_S11E02_Fun%20Fair.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://lescopaque.com/v11/wp-content/uploads/2017/05/POSTER_PUASA_TX_FINAL-863x1024_01.jpg", Upin & Ipin S11 E03
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/Upin&Ipin/S11/Upin&Ipin_S11E03_Ramadhan%20Resolutions.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://lescopaque.com/v11/wp-content/uploads/2017/05/POSTER_PUASA_TX_FINAL-863x1024_01.jpg", Upin & Ipin S11 E04
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/Upin&Ipin/S11/Upin&Ipin_S11E04_Eid%20ul-Fitr%20Delight.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://lescopaque.com/v11/wp-content/uploads/2017/05/POSTER_PUASA_TX_FINAL-863x1024_01.jpg", Upin & Ipin S11 E05
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/Upin&Ipin/S11/Upin&Ipin_S11E05_Vanquish%20the%20Virus!.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://lescopaque.com/v11/wp-content/uploads/2017/05/POSTER_PUASA_TX_FINAL-863x1024_01.jpg", Upin & Ipin S11 E06
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/Upin&Ipin/S11/Upin&Ipin_S11E06_Let%E2%80%99s%20Be%20Healthy.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://lescopaque.com/v11/wp-content/uploads/2017/05/POSTER_PUASA_TX_FINAL-863x1024_01.jpg", Upin & Ipin S11 E07
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/Upin&Ipin/S11/Upin&Ipin_S11E07_Charity.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://lescopaque.com/v11/wp-content/uploads/2017/05/POSTER_PUASA_TX_FINAL-863x1024_01.jpg", Upin & Ipin S11 E08
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/Upin&Ipin/S11/Upin&Ipin_S11E08_Dino%20Land%20Adventures.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://lescopaque.com/v11/wp-content/uploads/2017/05/POSTER_PUASA_TX_FINAL-863x1024_01.jpg", Upin & Ipin S11 E09
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/Upin&Ipin/S11/Upin&Ipin_S11E09_Poem%20Festival.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://lescopaque.com/v11/wp-content/uploads/2017/05/POSTER_PUASA_TX_FINAL-863x1024_01.jpg", Upin & Ipin S11 E10
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/Upin&Ipin/S11/Upin&Ipin_S11E10_Pin%20Pin%20Pom%20Magic.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://lescopaque.com/v11/wp-content/uploads/2017/05/POSTER_PUASA_TX_FINAL-863x1024_01.jpg", Upin & Ipin S11 E11
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/Upin&Ipin/S11/Upin&Ipin_S11E11_Chart%20Topper.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://lescopaque.com/v11/wp-content/uploads/2017/05/POSTER_PUASA_TX_FINAL-863x1024_01.jpg", Upin & Ipin S11 E12
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/Upin&Ipin/S11/Upin&Ipin_S11E12_Save%20Neo-Santara.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://lescopaque.com/v11/wp-content/uploads/2017/05/POSTER_PUASA_TX_FINAL-863x1024_01.jpg", Upin & Ipin S11 E13
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/Upin&Ipin/S11/Upin&Ipin_S11E13_Always%20Loved.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://lescopaque.com/v11/wp-content/uploads/2017/05/POSTER_PUASA_TX_FINAL-863x1024_01.jpg", Upin & Ipin S11 E14
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/Upin&Ipin/S11/Upin&Ipin_S11E14_Adventures%20in%20the%20Sea.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://static.wikia.nocookie.net/upinipin/images/0/08/Episod_Alunan_Ramadhan.jpg/revision/latest?cb=20180831091357&path-prefix=ms", Upin & Ipin S12 E01
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/Upin&Ipin/S12/Upin&Ipin_S12E01_Let%E2%80%99s%20Cook.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://static.wikia.nocookie.net/upinipin/images/0/08/Episod_Alunan_Ramadhan.jpg/revision/latest?cb=20180831091357&path-prefix=ms", Upin & Ipin S12 E02
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/Upin&Ipin/S12/Upin&Ipin_S12E02_Ramadhan%20is%20in%20the%20Air.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://static.wikia.nocookie.net/upinipin/images/0/08/Episod_Alunan_Ramadhan.jpg/revision/latest?cb=20180831091357&path-prefix=ms", Upin & Ipin S12 E03
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/Upin&Ipin/S12/Upin&Ipin_S12E03_The%20Light%20of%20Syawal.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://static.wikia.nocookie.net/upinipin/images/0/08/Episod_Alunan_Ramadhan.jpg/revision/latest?cb=20180831091357&path-prefix=ms", Upin & Ipin S12 E04
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/Upin&Ipin/S12/Upin&Ipin_S12E04_Ultimate%20Performance.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://static.wikia.nocookie.net/upinipin/images/0/08/Episod_Alunan_Ramadhan.jpg/revision/latest?cb=20180831091357&path-prefix=ms", Upin & Ipin S12 E05
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/Upin&Ipin/S12/Upin&Ipin_S12E05_Mystery%20DJ.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://static.wikia.nocookie.net/upinipin/images/0/08/Episod_Alunan_Ramadhan.jpg/revision/latest?cb=20180831091357&path-prefix=ms", Upin & Ipin S12 E06
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/Upin&Ipin/S12/Upin&Ipin_S12E06_Where%20is%20Rembo_.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://static.wikia.nocookie.net/upinipin/images/0/08/Episod_Alunan_Ramadhan.jpg/revision/latest?cb=20180831091357&path-prefix=ms", Upin & Ipin S12 E07
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/Upin&Ipin/S12/Upin&Ipin_S12E07_So%20Sleepy.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://static.wikia.nocookie.net/upinipin/images/0/08/Episod_Alunan_Ramadhan.jpg/revision/latest?cb=20180831091357&path-prefix=ms", Upin & Ipin S12 E08
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/Upin&Ipin/S12/Upin&Ipin_S12E08_Ask%20the%20Plants.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://static.wikia.nocookie.net/upinipin/images/0/08/Episod_Alunan_Ramadhan.jpg/revision/latest?cb=20180831091357&path-prefix=ms", Upin & Ipin S12 E09
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/Upin&Ipin/S12/Upin&Ipin_S12E09_The%20Magic%20Pencil.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://static.wikia.nocookie.net/upinipin/images/0/08/Episod_Alunan_Ramadhan.jpg/revision/latest?cb=20180831091357&path-prefix=ms", Upin & Ipin S12 E10
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/Upin&Ipin/S12/Upin&Ipin_S12E10_To%20the%20Zoo.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://static.wikia.nocookie.net/upinipin/images/0/08/Episod_Alunan_Ramadhan.jpg/revision/latest?cb=20180831091357&path-prefix=ms", Upin & Ipin S12 E11
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/Upin&Ipin/S12/Upin&Ipin_S12E11_Quilting.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://static.wikia.nocookie.net/upinipin/images/0/08/Episod_Alunan_Ramadhan.jpg/revision/latest?cb=20180831091357&path-prefix=ms", Upin & Ipin S12 E12
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/Upin&Ipin/S12/Upin&Ipin_S12E12_I%20Am%20a%20Book.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://static.wikia.nocookie.net/upinipin/images/0/08/Episod_Alunan_Ramadhan.jpg/revision/latest?cb=20180831091357&path-prefix=ms", Upin & Ipin S12 E13
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/Upin&Ipin/S12/Upin&Ipin_S12E13_What%20is%20That%20Thing_.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://static.wikia.nocookie.net/upinipin/images/0/08/Episod_Alunan_Ramadhan.jpg/revision/latest?cb=20180831091357&path-prefix=ms", Upin & Ipin S12 E14
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/Upin&Ipin/S12/Upin&Ipin_S12E14_The%20Twins%20All%20Grown%20Up.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_2_5x/sources/r1/cms/prod/6797/1046797-h-a768c3443bd6", Upin & Ipin S13 E01
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/Upin&Ipin/S13/Upin&Ipin_S13E01_Merah.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_2_5x/sources/r1/cms/prod/6797/1046797-h-a768c3443bd6", Upin & Ipin S13 E02
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/Upin&Ipin/S13/Upin&Ipin_S13E02_Ramadhan%20Begins.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_2_5x/sources/r1/cms/prod/6797/1046797-h-a768c3443bd6", Upin & Ipin S13 E03
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/Upin&Ipin/S13/Upin&Ipin_S13E03_Syawal%20Is%20Here.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_2_5x/sources/r1/cms/prod/6797/1046797-h-a768c3443bd6", Upin & Ipin S13 E04
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/Upin&Ipin/S13/Upin&Ipin_S13E04_Times%20Tables.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_2_5x/sources/r1/cms/prod/6797/1046797-h-a768c3443bd6", Upin & Ipin S13 E05
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/Upin&Ipin/S13/Upin&Ipin_S13E05_Good%20Bye,%20Ehsan.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_2_5x/sources/r1/cms/prod/6797/1046797-h-a768c3443bd6", Upin & Ipin S13 E06
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/Upin&Ipin/S13/Upin&Ipin_S13E06_Little%20Tadpoles.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_2_5x/sources/r1/cms/prod/6797/1046797-h-a768c3443bd6", Upin & Ipin S13 E07
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/Upin&Ipin/S13/Upin&Ipin_S13E07_Three%20Wishes.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_2_5x/sources/r1/cms/prod/6797/1046797-h-a768c3443bd6", Upin & Ipin S13 E08
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/Upin&Ipin/S13/Upin&Ipin_S13E08_The%20Magic%20World%20of%20Pin%20Pin%20Pom.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_2_5x/sources/r1/cms/prod/6797/1046797-h-a768c3443bd6", Upin & Ipin S13 E09
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/Upin&Ipin/S13/Upin&Ipin_S13E09_Fun%20Run.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_2_5x/sources/r1/cms/prod/6797/1046797-h-a768c3443bd6", Upin & Ipin S13 E10
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/Upin&Ipin/S13/Upin&Ipin_S13E10_Rainy%20Days.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_2_5x/sources/r1/cms/prod/6797/1046797-h-a768c3443bd6", Upin & Ipin S13 E11
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/Upin&Ipin/S13/Upin&Ipin_S13E11_Ehsan's%20Tummy.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_2_5x/sources/r1/cms/prod/6797/1046797-h-a768c3443bd6", Upin & Ipin S13 E12
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/Upin&Ipin/S13/Upin&Ipin_S13E12_I%20am%20a%20Pencil.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_2_5x/sources/r1/cms/prod/6797/1046797-h-a768c3443bd6", Upin & Ipin S13 E13
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/Upin&Ipin/S13/Upin&Ipin_S13E13_What's%20Wrong%20with%20Opah.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_2_5x/sources/r1/cms/prod/6797/1046797-h-a768c3443bd6", Upin & Ipin S13 E14
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/Upin&Ipin/S13/Upin&Ipin_S13E14_Missing%20Friends.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://scontent.fkul11-2.fna.fbcdn.net/v/t1.6435-9/95491256_10158745422389750_5125181549444071424_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=7f8c78&_nc_ohc=92iqocUo9AoAX-zYTx5&_nc_ht=scontent.fkul11-2.fna&oh=00_AfCKpgc83f_c9U29hgGgpSfd84Jma2E20jKOJbi4ZcX6Cg&oe=6585A818", Upin & Ipin S14 E01
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/Upin&Ipin/S14/Upin&Ipin_S14E01_Upin&Ipin%20The%20Movie.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://scontent.fkul11-2.fna.fbcdn.net/v/t1.6435-9/95491256_10158745422389750_5125181549444071424_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=7f8c78&_nc_ohc=92iqocUo9AoAX-zYTx5&_nc_ht=scontent.fkul11-2.fna&oh=00_AfCKpgc83f_c9U29hgGgpSfd84Jma2E20jKOJbi4ZcX6Cg&oe=6585A818", Upin & Ipin S14 E02
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/Upin&Ipin/S14/Upin&Ipin_S14E02_Ramadhan%20Reflections.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://scontent.fkul11-2.fna.fbcdn.net/v/t1.6435-9/95491256_10158745422389750_5125181549444071424_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=7f8c78&_nc_ohc=92iqocUo9AoAX-zYTx5&_nc_ht=scontent.fkul11-2.fna&oh=00_AfCKpgc83f_c9U29hgGgpSfd84Jma2E20jKOJbi4ZcX6Cg&oe=6585A818", Upin & Ipin S14 E03
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/Upin&Ipin/S14/Upin&Ipin_S14E03_Sentimental%20Syawwal%20and%20Movement%20Control%20Order.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://scontent.fkul11-2.fna.fbcdn.net/v/t1.6435-9/95491256_10158745422389750_5125181549444071424_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=7f8c78&_nc_ohc=92iqocUo9AoAX-zYTx5&_nc_ht=scontent.fkul11-2.fna&oh=00_AfCKpgc83f_c9U29hgGgpSfd84Jma2E20jKOJbi4ZcX6Cg&oe=6585A818", Upin & Ipin S14 E04
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/Upin&Ipin/S14/Upin&Ipin_S14E04_Upin%20and%20Ipin's%20Best%20Friends.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://scontent.fkul11-2.fna.fbcdn.net/v/t1.6435-9/95491256_10158745422389750_5125181549444071424_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=7f8c78&_nc_ohc=92iqocUo9AoAX-zYTx5&_nc_ht=scontent.fkul11-2.fna&oh=00_AfCKpgc83f_c9U29hgGgpSfd84Jma2E20jKOJbi4ZcX6Cg&oe=6585A818", Upin & Ipin S14 E05
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/Upin&Ipin/S14/Upin&Ipin_S14E05_Our%20Product%20the%20Best%20Product.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://scontent.fkul11-2.fna.fbcdn.net/v/t1.6435-9/95491256_10158745422389750_5125181549444071424_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=7f8c78&_nc_ohc=92iqocUo9AoAX-zYTx5&_nc_ht=scontent.fkul11-2.fna&oh=00_AfCKpgc83f_c9U29hgGgpSfd84Jma2E20jKOJbi4ZcX6Cg&oe=6585A818", Upin & Ipin S14 E06
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/Upin&Ipin/S14/Upin&Ipin_S14E06_Row%20Your%20Boat.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://scontent.fkul11-2.fna.fbcdn.net/v/t1.6435-9/95491256_10158745422389750_5125181549444071424_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=7f8c78&_nc_ohc=92iqocUo9AoAX-zYTx5&_nc_ht=scontent.fkul11-2.fna&oh=00_AfCKpgc83f_c9U29hgGgpSfd84Jma2E20jKOJbi4ZcX6Cg&oe=6585A818", Upin & Ipin S14 E07
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/Upin&Ipin/S14/Upin&Ipin_S14E07_First%20Aid%20Kit.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://scontent.fkul11-2.fna.fbcdn.net/v/t1.6435-9/95491256_10158745422389750_5125181549444071424_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=7f8c78&_nc_ohc=92iqocUo9AoAX-zYTx5&_nc_ht=scontent.fkul11-2.fna&oh=00_AfCKpgc83f_c9U29hgGgpSfd84Jma2E20jKOJbi4ZcX6Cg&oe=6585A818", Upin & Ipin S14 E08
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/Upin&Ipin/S14/Upin&Ipin_S14E08_Mengkuang%20Food%20Cover.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://scontent.fkul11-2.fna.fbcdn.net/v/t1.6435-9/95491256_10158745422389750_5125181549444071424_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=7f8c78&_nc_ohc=92iqocUo9AoAX-zYTx5&_nc_ht=scontent.fkul11-2.fna&oh=00_AfCKpgc83f_c9U29hgGgpSfd84Jma2E20jKOJbi4ZcX6Cg&oe=6585A818", Upin & Ipin S14 E09
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/Upin&Ipin/S14/Upin&Ipin_S14E09_Mosquito%20War.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://scontent.fkul11-2.fna.fbcdn.net/v/t1.6435-9/95491256_10158745422389750_5125181549444071424_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=7f8c78&_nc_ohc=92iqocUo9AoAX-zYTx5&_nc_ht=scontent.fkul11-2.fna&oh=00_AfCKpgc83f_c9U29hgGgpSfd84Jma2E20jKOJbi4ZcX6Cg&oe=6585A818", Upin & Ipin S14 E10
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/Upin&Ipin/S14/Upin&Ipin_S14E10_The%20New%20Guardian.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://scontent.fkul11-2.fna.fbcdn.net/v/t1.6435-9/95491256_10158745422389750_5125181549444071424_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=7f8c78&_nc_ohc=92iqocUo9AoAX-zYTx5&_nc_ht=scontent.fkul11-2.fna&oh=00_AfCKpgc83f_c9U29hgGgpSfd84Jma2E20jKOJbi4ZcX6Cg&oe=6585A818", Upin & Ipin S14 E11
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/Upin&Ipin/S14/Upin&Ipin_S14E11_Jarjit's%20Notebook.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://scontent.fkul11-2.fna.fbcdn.net/v/t1.6435-9/95491256_10158745422389750_5125181549444071424_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=7f8c78&_nc_ohc=92iqocUo9AoAX-zYTx5&_nc_ht=scontent.fkul11-2.fna&oh=00_AfCKpgc83f_c9U29hgGgpSfd84Jma2E20jKOJbi4ZcX6Cg&oe=6585A818", Upin & Ipin S14 E12
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/Upin&Ipin/S14/Upin&Ipin_S14E12_Neo%20Santara%20Rust%20Fever.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://scontent.fkul11-2.fna.fbcdn.net/v/t1.6435-9/95491256_10158745422389750_5125181549444071424_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=7f8c78&_nc_ohc=92iqocUo9AoAX-zYTx5&_nc_ht=scontent.fkul11-2.fna&oh=00_AfCKpgc83f_c9U29hgGgpSfd84Jma2E20jKOJbi4ZcX6Cg&oe=6585A818", Upin & Ipin S14 E13
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/Upin&Ipin/S14/Upin&Ipin_S14E13_Growing%20Hair.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://scontent.fkul11-2.fna.fbcdn.net/v/t1.6435-9/95491256_10158745422389750_5125181549444071424_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=7f8c78&_nc_ohc=92iqocUo9AoAX-zYTx5&_nc_ht=scontent.fkul11-2.fna&oh=00_AfCKpgc83f_c9U29hgGgpSfd84Jma2E20jKOJbi4ZcX6Cg&oe=6585A818", Upin & Ipin S14 E14
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/Upin&Ipin/S14/Upin&Ipin_S14E14_Ipin's%20Red%20Cape.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://i.ytimg.com/vi/NRjXHBh_q8k/maxresdefault.jpg", Upin & Ipin S15 E01
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/Upin&Ipin/S15/Upin&Ipin_S15E01_Trials%20of%20Fasting.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://i.ytimg.com/vi/NRjXHBh_q8k/maxresdefault.jpg", Upin & Ipin S15 E02
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/Upin&Ipin/S15/Upin&Ipin_S15E02_A%20Meaningful%20Raya.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://i.ytimg.com/vi/NRjXHBh_q8k/maxresdefault.jpg", Upin & Ipin S15 E03
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/Upin&Ipin/S15/Upin&Ipin_S15E03_The%20Missing%20Stamp.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://i.ytimg.com/vi/NRjXHBh_q8k/maxresdefault.jpg", Upin & Ipin S15 E04
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/Upin&Ipin/S15/Upin&Ipin_S15E04_I'm%20A%20Toy%20Car.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://i.ytimg.com/vi/NRjXHBh_q8k/maxresdefault.jpg", Upin & Ipin S15 E05
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/Upin&Ipin/S15/Upin&Ipin_S15E05_Our%20Hut.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://i.ytimg.com/vi/NRjXHBh_q8k/maxresdefault.jpg", Upin & Ipin S15 E06
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/Upin&Ipin/S15/Upin&Ipin_S15E06_Save%20Earnestly,%20Spend%20Wisely.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://i.ytimg.com/vi/NRjXHBh_q8k/maxresdefault.jpg", Upin & Ipin S15 E07
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/Upin&Ipin/S15/Upin&Ipin_S15E07_The%20Red%20Eagle.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://i.ytimg.com/vi/NRjXHBh_q8k/maxresdefault.jpg", Upin & Ipin S15 E08
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/Upin&Ipin/S15/Upin&Ipin_S15E08_Wind.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://i.ytimg.com/vi/NRjXHBh_q8k/maxresdefault.jpg", Upin & Ipin S15 E09
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/Upin&Ipin/S15/Upin&Ipin_S15E09_Karaoke%20Champion.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://i.ytimg.com/vi/NRjXHBh_q8k/maxresdefault.jpg", Upin & Ipin S15 E10
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/Upin&Ipin/S15/Upin&Ipin_S15E10_The%20Greedy%20Always%20Lose.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://i.ytimg.com/vi/NRjXHBh_q8k/maxresdefault.jpg", Upin & Ipin S15 E11
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/Upin&Ipin/S15/Upin&Ipin_S15E11_Shaved%20Ice.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://i.ytimg.com/vi/NRjXHBh_q8k/maxresdefault.jpg", Upin & Ipin S15 E12
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/Upin&Ipin/S15/Upin&Ipin_S15E12_Pin%20Pin%20Pom%20the%20Magic%20Dragon.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://i.ytimg.com/vi/NRjXHBh_q8k/maxresdefault.jpg", Upin & Ipin S15 E13
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/Upin&Ipin/S15/Upin&Ipin_S15E13_The%20Food%20Bank.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://i.ytimg.com/vi/NRjXHBh_q8k/maxresdefault.jpg", Upin & Ipin S15 E14
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/Upin&Ipin/S15/Upin&Ipin_S15E14_Kampung%20Durian%20Runtuh%20Musical.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://static.wikia.nocookie.net/upinipin/images/7/74/Upin_dan_Ipin_Musim_16.png/revision/latest?cb=20221109181501&path-prefix=ms", Upin & Ipin S16 E01
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/Upin&Ipin/S16/Upin&Ipin_S16E01_Episode%201.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://static.wikia.nocookie.net/upinipin/images/7/74/Upin_dan_Ipin_Musim_16.png/revision/latest?cb=20221109181501&path-prefix=ms", Upin & Ipin S16 E02
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/Upin&Ipin/S16/Upin&Ipin_S16E02_Episode%202.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://static.wikia.nocookie.net/upinipin/images/7/74/Upin_dan_Ipin_Musim_16.png/revision/latest?cb=20221109181501&path-prefix=ms", Upin & Ipin S16 E03
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/Upin&Ipin/S16/Upin&Ipin_S16E03_Episode%203.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://static.wikia.nocookie.net/upinipin/images/7/74/Upin_dan_Ipin_Musim_16.png/revision/latest?cb=20221109181501&path-prefix=ms", Upin & Ipin S16 E04
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/Upin&Ipin/S16/Upin&Ipin_S16E04_Episode%204.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://static.wikia.nocookie.net/upinipin/images/7/74/Upin_dan_Ipin_Musim_16.png/revision/latest?cb=20221109181501&path-prefix=ms", Upin & Ipin S16 E05
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/Upin&Ipin/S16/Upin&Ipin_S16E05_Episode%205.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://static.wikia.nocookie.net/upinipin/images/7/74/Upin_dan_Ipin_Musim_16.png/revision/latest?cb=20221109181501&path-prefix=ms", Upin & Ipin S16 E06
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/Upin&Ipin/S16/Upin&Ipin_S16E06_Episode%206.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://static.wikia.nocookie.net/upinipin/images/7/74/Upin_dan_Ipin_Musim_16.png/revision/latest?cb=20221109181501&path-prefix=ms", Upin & Ipin S16 E07
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/Upin&Ipin/S16/Upin&Ipin_S16E07_Episode%207.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://static.wikia.nocookie.net/upinipin/images/7/74/Upin_dan_Ipin_Musim_16.png/revision/latest?cb=20221109181501&path-prefix=ms", Upin & Ipin S16 E08
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/Upin&Ipin/S16/Upin&Ipin_S16E08_Episode%208.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://static.wikia.nocookie.net/upinipin/images/7/74/Upin_dan_Ipin_Musim_16.png/revision/latest?cb=20221109181501&path-prefix=ms", Upin & Ipin S16 E09
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/Upin&Ipin/S16/Upin&Ipin_S16E09_Episode%209.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://static.wikia.nocookie.net/upinipin/images/7/74/Upin_dan_Ipin_Musim_16.png/revision/latest?cb=20221109181501&path-prefix=ms", Upin & Ipin S16 E10
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/Upin&Ipin/S16/Upin&Ipin_S16E10_Episode%2010.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://static.wikia.nocookie.net/upinipin/images/7/74/Upin_dan_Ipin_Musim_16.png/revision/latest?cb=20221109181501&path-prefix=ms", Upin & Ipin S16 E11
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/Upin&Ipin/S16/Upin&Ipin_S16E11_Episode%2011.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://static.wikia.nocookie.net/upinipin/images/7/74/Upin_dan_Ipin_Musim_16.png/revision/latest?cb=20221109181501&path-prefix=ms", Upin & Ipin S16 E12
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/Upin&Ipin/S16/Upin&Ipin_S16E12_Episode%2012.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://static.wikia.nocookie.net/upinipin/images/7/74/Upin_dan_Ipin_Musim_16.png/revision/latest?cb=20221109181501&path-prefix=ms", Upin & Ipin S16 E13
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/Upin&Ipin/S16/Upin&Ipin_S16E13_Episode%2013.mp4
+
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://static.wikia.nocookie.net/upinipin/images/7/74/Upin_dan_Ipin_Musim_16.png/revision/latest?cb=20221109181501&path-prefix=ms", Upin & Ipin S16 E14
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/Upin&Ipin/S16/Upin&Ipin_S16E14_Episode%2014.mp4
+
+
 
 
 #EXTVLCOPT:http-referrer=https://emturbovid.com/
