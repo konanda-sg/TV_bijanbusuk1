@@ -107,7 +107,7 @@ https://72e103a43f664fb680904780e3641493.mediatailor.ap-southeast-1.amazonaws.co
 https://5a30e597573846ffb4d14c961da73e57.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH5-dash/vsg/41R5NwxIWNIOv3hCSXilwexbvGbsK0ZZGUxVNmYgctkTQ=eFkd/dash-wv/jitp-dashisowm/2700/default_ott.mpd?aws.sessionId=fb85d65f-d828-463d-8def-1d7b9940efe6
 
 
-#EXTINF:-1 tvg-logo="https://telegra.ph/file/12bc717e3ee372f2a62e8.png",Drama Hebat 
+#EXTINF:-1 tvg-logo="https://aqfadtv.xyz/logos/DramaHebat.png",Drama Hebat 
 https://linearfast04.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_1_Ad/dash.mpd
 
 #EXTINF:-1 tvg-logo="https://telegra.ph/file/7b071d2ccbc3052b82cd1.png",Filem Mantap 
