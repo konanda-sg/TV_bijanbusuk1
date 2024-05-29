@@ -1,4 +1,4 @@
-****************not available*********************
+
 
 
 
@@ -583,12 +583,12 @@ https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton5_720p/index.m3u8|Ref
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png",RIA HD 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/1004/
-https://linears-playback.astro.com.my/vsg/41fy7urofEpsv7Qyu4lJIrvCCpCZE06kfnlt52UTPU5JU=GXk8/dash-wv/jitp-linearwm/1004/default_ott.mpd
+https://bit.ly/3VhubWo
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png",PRIMA HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/1000/
-https://de6b41ae66ed4b67a4d6f522bcbda8dd.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH2-dash/vsg/41JLw3SY8Qq79H8mepbIFlU612jx8wRX1qmrHf96zUhQQ=hGkR/dash-wv/jitp-dashisowm/1000/default_ott.mpd?aws.sessionId=0b7a3794-5ed4-4d62-b9d9-98d11bace52
+https://bit.ly/4dWdzuz
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Oasis_v1.png",OASIS HD  
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -598,13 +598,12 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_primary.mpd
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png",WARNA HD 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/2402/
-https://72e103a43f664fb680904780e3641493.mediatailor.ap-southeast-1.amazonaws.com
-/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH4-dash/vsg/41Egyh79TSen3dDR-HERpqON_ANCUcIx_UIMTcB-cg35g=MGgj/dash-wv/jitp-dashisowm/2402/default_ott.mpd
+https://bit.ly/3yApKNA
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png",CITRA HD 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/2700/
-https://5a30e597573846ffb4d14c961da73e57.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH5-dash/vsg/41wbaFs6TAYmBEiRPUJImO-IRd3KOs-wsRyin94--qK_o=DIYp/dash-wv/jitp-dashisowm/2700/default_ott.mpd?aws.sessionId=2ca0c953-994e-4e7a-98f1-d2f41e6a0ce
+https://bit.ly/3wV6KJ2
 
 
 #EXTINF:-1 tvg-logo="https://aqfadtv.xyz/logos/DramaHebat.png",Drama Hebat 
