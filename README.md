@@ -1,3 +1,5 @@
+#EXTM3U url-tvg="https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml,https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/rtmklik.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml,https://raw.githubusercontent.com/mitthu786/tvepg/main/tataplay/epg.xml.gz"
+
 
 *****************************************************movie*****************************************************************
 
@@ -3157,8 +3159,8 @@ https://astro2.rastream.com/sinar
 #EXTINF:-1 group-title="Radio Stations" tvg-logo="https://aqfadtv.xyz/logos/Gegar.png",GEGAR
 https://astro3.rastream.com/gegar
 
-EXTINF:-1 group-title="Radio Stations" tvg-logo="https://vectorise.net/logo/wp-content/uploads/2013/05/Logo-Radio-Suria-fm-New2013.png",Suria FM
-
+#EXTINF:-1 group-title="Radio Stations" tvg-logo="https://vectorise.net/logo/wp-content/uploads/2013/05/Logo-Radio-Suria-fm-New2013.png",Suria FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/SURIA_FMAAC.aac?dist=joox
 
 #EXTINF:-1 group-title="Radio Stations" tvg-id="HITZ" tvg-logo="https://aqfadtv.xyz/logos/Hitz.png",HITZ
 https://astro2.rastream.com/hitz
