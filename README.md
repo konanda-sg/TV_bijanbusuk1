@@ -2448,6 +2448,8 @@ https://bit.ly/3VhubWo
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/1000/
 https://linears-playback.astro.com.my/vsg/41bXPmm6Wfa7GHGd9QuNMpgSuqQAh1qAiCjbudL2J3Dy8=8HUk/dash-wv/jitp-dashisowm/1000/default_primary.mpd
+
+EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png",PRIMA HD
 https://bit.ly/4dWdzuz
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Oasis_v1.png",OASIS HD  
@@ -2820,11 +2822,10 @@ http://opplextv.cyou:8080//live/7262771/7272772/66213.ts
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/645e7828e1979c00087b75b4/colorLogoPNG.png", MovieSphere by Lionsgate
 https://i.mjh.nz/PlutoTV/645e7828e1979c00087b75b4-alt.m3u8
 
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/thrill.png",Thrill
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://liveanevia.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/thrill.png",Thrill
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservesd-1.dens.tv/s/s34/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Thrill
 
 ********************************************************************************************KNOWLEDGE***********************************************************************
 
@@ -2870,10 +2871,10 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2710/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YWJlZmRiODAtNmMwZS0zOGEzLWJmYzAtMzY4MDRiOTFhNWU1
 https://web.hypp.tv:443/PLTV/88888888/224/3221227925/3221227925.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=tnUM3pus6bSh1mr%2FQqP7gS%2BLhDQRCdSHNpB7NvbJKHO13ekK2bj%2FEqhmZsgCb487VK201C73xHPJjGvTHv3JiPHl2ogHz3eAyG2k7xToFQmJBU24%2BKwsNeA0VE3pRwoj%3A20221124082916%3AUTC%2C1001767137%2C115.164.56.153%2C20221124082916%2Curn:Huawei:liveTV:XTV57622558%2C1001767137%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C1612403%2C0%2C517698%2C2706399750%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOy2rDMBRE_0ZLoUcqOQutUgKB4gbidlvG1rViIlup5ATy941bdzszZzhzRkeHVwctoavqRWmvN0a0sBslWrLopRWwhhX6rpNTrEOMwxTq5Bfs87T7koILrpTkUrFmudtHhHVZ38aWstP_2InyfejI-dLzOwpHCJkC5iFN_Bjx-MhxnTBqVjVpzFZVRkpj7ZbNS9qgXJ4NO6Ps0nhFJv-Wwi_gesRC7IrugkA1RnLTLcY_7j37p80PI8646_QAAAA&tenantId=6001
 
-EXTINF:-1 tvg-logo="https://d1i01wkzwiao45.cloudfront.net/wp-content/uploads/2016/11/logo.png",AniPlus 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f2c313fce55344e5a52389741d1f53f8:bae1e47db562b66895beb8fccdf2ad8a
-https://cdnjt24.useetv.com/drm/live/smil:aniplus.smil/manifest.mpd
+#EXTINF:-1 tvg-logo="https://d1i01wkzwiao45.cloudfront.net/wp-content/uploads/2016/11/logo.png",AniPlus 
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservehd-1.dens.tv/h/h201/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=ANIPLUS_HD
 
 EXTINF:-1 tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202307/20230727/20230727155824262s56.png",Cartoonito
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -3164,7 +3165,47 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/SURIA_FMAAC.aa
 https://astro2.rastream.com/hitz
 
 
+#EXTINF:-1 tvg-id=AstroPrima" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Astro_Prima.png/220px-Astro_Prima.png" group-title="Malaysia", Astro Prima HD aqfadtv
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/1000/
+https://aqfadtv.xyz/live/prima/index.mpd
 
+#EXTINF:-1 tvg-id=AstroPrima" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Astro_Prima.png/220px-Astro_Prima.png" group-title="Malaysia", Astro Prima HD
+http://198.16.100.90:8278/Prima/playlist.m3u8?tid=MDCD7525162675251626&ct=19249&tsum=baa42cb947105579e476ec0c5b71043d
+
+#EXTINF:-1 tvg-name="MY029:WARNA" group-title="Astro Malaysia (wanicelife.com)",MY029:WARNA
+http://muka03.wanicelife.com:8880/3ca7123n11/ewfr543ds/1706
+#EXTINF:-1 tvg-name="MY030:RIA" group-title="Astro Malaysia (wanicelife.com)",MY030:RIA
+http://muka03.wanicelife.com:8880/3ca7123n11/ewfr543ds/1705
+
+#EXTINF:-1 tvg-logo="" group-title="Astro Malaysia (gmlive)",Astro-Prima HD-Test
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/48
+
+#EXTINF:-1 tvg-logo="" group-title="Astro Malaysia (gmlive)",Astro WARNA HD
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/146
+
+#EXTINF:-1 tvg-id="" tvg-name=" STAR MOVIES HD" tvg-logo="http://logo.protv.cc/picons/logos/starmovies.png" group-title="VT TVC | English Live ", STAR MOVIES HD
+http://mag.gofast-tv.me:80/play/live.php?mac=00:1A:79:06:b0:c3&stream=1116488&extension=.ts
+#EXTINF:-1 tvg-id="StarMovies.in" tvg-name=" STAR MOVIES HD" tvg-logo="http://logo.protv.cc/picons/logos/starmovies.png" group-title="VT TVC | English Live ", STAR MOVIES HD
+http://mag.gofast-tv.me:80/play/live.php?mac=00:1A:79:06:b0:c3&stream=155727&extension=.ts
+#EXTINF:-1 tvg-id="StarMovies.in" tvg-name=" STAR MOVIES FHD" tvg-logo="http://logo.protv.cc/picons/logos/starmovies.png" group-title="VT TVC | English Live ", STAR MOVIES FHD
+http://mag.gofast-tv.me:80/play/live.php?mac=00:1A:79:06:b0:c3&stream=282639&extension=.ts
+#EXTINF:-1 tvg-id="" tvg-name=" STAR SELECT MOV" tvg-logo="http://logo.protv.cc/picons/logos/STAR-MOVIES-SELECT-HD.jpg" group-title="VT TVC | English Live ", STAR SELECT MOV
+http://mag.gofast-tv.me:80/play/live.php?mac=00:1A:79:06:b0:c3&stream=1116489&extension=.ts
+#EXTINF:-1 tvg-id="StarMoviesSelect.in" tvg-name=" STAR MOVIES SELECT HD" tvg-logo="http://logo.protv.cc/picons/logos/STAR-MOVIES-SELECT-HD.jpg" group-title="VT TVC | English Live ", STAR MOVIES SELECT HD
+http://mag.gofast-tv.me:80/play/live.php?mac=00:1A:79:06:b0:c3&stream=155729&extension=.ts
+#EXTINF:-1 tvg-id="" tvg-name=" MOVIES NOW FHD" tvg-logo="http://logo.protv.cc/picons/logos/INDIA_PAKISTAN/MOVIESNOWHD.png" group-title="VT TVC | English Live ", MOVIES NOW FHD
+http://mag.gofast-tv.me:80/play/live.php?mac=00:1A:79:06:b0:c3&stream=1116477&extension=.ts
+#EXTINF:-1 tvg-id="MoviesNow.in" tvg-name=" MOVIES NOW" tvg-logo="http://logo.protv.cc/picons/logos/MOVIES-NOW-HD.jpg" group-title="VT TVC | English Live ", MOVIES NOW
+http://mag.gofast-tv.me:80/play/live.php?mac=00:1A:79:06:b0:c3&stream=282651&extension=.ts
+#EXTINF:-1 tvg-id="MNPlus.in" tvg-name=" MN PLUS" tvg-logo="http://logo.protv.cc/picons/logos/mn_plus.png" group-title="VT TVC | English Live ", MN PLUS
+http://mag.gofast-tv.me:80/play/live.php?mac=00:1A:79:06:b0:c3&stream=282649&extension=.ts
+#EXTINF:-1 tvg-id="" tvg-name=" MNX FHD" tvg-logo="http://logo.protv.cc/picons/logos/mnx_hd.png" group-title="VT TVC | English Live ", MNX FHD
+http://mag.gofast-tv.me:80/play/live.php?mac=00:1A:79:06:b0:c3&stream=1110624&extension=.ts
+#EXTINF:-1 tvg-id="" tvg-name=" SONY PIX FHD" tvg-logo="http://logo.protv.cc/picons/logos/INDIA_PAKISTAN/sony-pix.png" group-title="VT TVC | English Live ", SONY PIX FHD
+http://mag.gofast-tv.me:80/play/live.php?mac=00:1A:79:06:b0:c3&stream=1116481&extension=.ts
+#EXTINF:-1 tvg-id="SonyPix.in" tvg-name=" SONY PIX" tvg-logo="http://logo.protv.cc/picons/logos/SONY-PIX-HD.jpeg" group-title="VT TVC | English Live ", SONY PIX
+http://mag.gofast-tv.me:80/play/live.php?mac=00:1A:79:06:b0:c3&stream=282631&extension=.ts
 
 
 #EXTM3U billed-msg="😎 BijanBusuk 😎"
