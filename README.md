@@ -3142,35 +3142,26 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2603/default_primary.mpd
 #EXTINF:-1 group-title="Radio Stations" tvg-logo="https://aqfadtv.xyz/logos/HotFM.png", Hot FM
 https://mediaprima.rastream.com/mediaprima-hotfm
 
-#EXTINF:-1 group-title="Radio Stations" tvg-logo="https://aqfadtv.xyz/logos/HotFM.png", Hot FM (YouTube Live)
-https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/HotFM.m3u8
-
 #EXTINF:-1 group-title="Radio Stations" tvg-logo="https://aqfadtv.xyz/logos/Kool101.png",Kool 101
 https://mediaprima.rastream.com/mediaprima-koolfm
-
-#EXTINF:-1 group-title="Radio Stations" tvg-logo="https://aqfadtv.xyz/logos/Kool101.png",Kool 101 (YouTube Live)
-https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/Kool101.m3u8
 
 #EXTINF:-1 group-title="Radio Stations" tvg-logo="https://aqfadtv.xyz/logos/MolekFM_v1.png",Molek FM
 https://mediaprima.rastream.com/mediaprima-molekfm
 
-#EXTINF:-1 group-title="Radio Stations" tvg-logo="https://aqfadtv.xyz/logos/MolekFM_v1.png",Molek FM (YouTube Live)
-https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/MolekFM.m3u8
-
 #EXTINF:-1 group-title="Radio Stations" tvg-logo="https://aqfadtv.xyz/logos/ERA.png",ERA
-https://live.aqfadtv.xyz/radio/era
+https://astro2.rastream.com/era
 
 #EXTINF:-1 group-title="Radio Stations" tvg-logo="https://aqfadtv.xyz/logos/Sinar.png",SINAR
-https://live.aqfadtv.xyz/radio/sinar
+https://astro2.rastream.com/sinar
 
 #EXTINF:-1 group-title="Radio Stations" tvg-logo="https://aqfadtv.xyz/logos/Gegar.png",GEGAR
-https://live.aqfadtv.xyz/radio/gegar
+https://astro3.rastream.com/gegar
 
-#EXTINF:-1 group-title="Radio Stations" tvg-logo="https://vectorise.net/logo/wp-content/uploads/2013/05/Logo-Radio-Suria-fm-New2013.png",Suria FM
-https://raw.githubusercontent.com/mastrolive/Stream/master/SuriaFM.m3u8
+EXTINF:-1 group-title="Radio Stations" tvg-logo="https://vectorise.net/logo/wp-content/uploads/2013/05/Logo-Radio-Suria-fm-New2013.png",Suria FM
+
 
 #EXTINF:-1 group-title="Radio Stations" tvg-id="HITZ" tvg-logo="https://aqfadtv.xyz/logos/Hitz.png",HITZ
-https://live.aqfadtv.xyz/radio/hitz
+https://astro2.rastream.com/hitz
 
 
 
