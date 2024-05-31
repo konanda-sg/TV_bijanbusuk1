@@ -2483,29 +2483,27 @@ https://linears-playback.astro.com.my/vsg/41R5NwxIWNIOv3hCSXilwexXmo2dOof7vFFk1q
 
 ************************************
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Sooka_Jom_Ngaji.png/640px-Sooka_Jom_Ngaji.png",Jom Ngaji
+#EXTINF:-1 tvg-logo="https://aqfadtv.xyz/logos/JomNgaji.png",Jom Ngaji
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/609/
 https://linearfast06.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_6_Ad/dash.mpd
 
-
-
 #EXTINF:-1 tvg-logo="https://aqfadtv.xyz/logos/DramaHebat.png",Drama Hebat 
 https://linearfast04.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_1_Ad/dash.mpd
 
-#EXTINF:-1 tvg-logo="https://telegra.ph/file/7b071d2ccbc3052b82cd1.png",Filem Mantap 
+#EXTINF:-1 tvg-logo="https://aqfadtv.xyz/logos/FilemMantap.png",Filem Mantap 
 https://linearfast04.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_2_Ad/dash.mpd
 
-#EXTINF:-1 tvg-logo="https://telegra.ph/file/12bc717e3ee372f2a62e8.png",Lawak Sentral 
+#EXTINF:-1 tvg-logo="https://aqfadtv.xyz/logos/LawakSentral.png",Lawak Sentral 
 https://linearfast04.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_3_Ad/dash.mpd
 
-#EXTINF:-1 tvg-logo="https://telegra.ph/file/444552edb8dc56b75f79e.png",Drama Hotpot
+#EXTINF:-1 tvg-logo="https://aqfadtv.xyz/logos/DramaHotpot.png",Drama Hotpot
 https://linearfast04.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_4_Ad/dash.mpd
 
-#EXTINF:-1 tvg-logo="https://telegra.ph/file/b98309b1149a14d39490f.png",Travel & Taste
+#EXTINF:-1 tvg-logo="https://aqfadtv.xyz/logos/Travel&Taste.png",Travel & Taste
 https://linearfast05.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_5_Ad/dash.mpd
 
-#EXTINF:-1 tvg-logo="https://pictr.com/images/2024/05/03/EsLrnD.png",Oh My Ceria
+#EXTINF:-1 tvg-logo="https://aqfadtv.xyz/logos/OhMyCeria.png",Oh My Ceria
 https://linearfast07.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_7_Ad/dash.mpd
 
 
