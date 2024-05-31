@@ -2410,10 +2410,9 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/211/default_primary.mpd
 #EXTINF:-1 tvg-logo="https://rtm-images.glueapi.io/120x0/live_channel/okey_Trans.png",Okey 
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
 
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/SukaTV.png",SukeTV
-#EXT-X-I-FRAME-STREAM-INF:BANDWIDTH=18000000,CODECS="mp4a.40.2",RESOLUTION=3840x2160,FRAME-RATE=60,VIDEO-RANGE=SDR,URI="keyframes/tracks-v1a1/mono.m3u8"
-#EXT-X-STREAM-INF:AVERAGE-BANDWIDTH=3540000,BANDWIDTH=4430000,RESOLUTION=1920x1080,FRAME-RATE=60.000,CODECS="avc1.4d0028,mp4a.40.2",CLOSED-CAPTIONS=NONE
-https://live.mana2.my/SukeTv/index.m3u8|User-Agent=Mozilla
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/SukaTV.png",SukeTV
+https://github.com/AqFad2811/randomlivefromyt2/raw/main/SukeTV.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7051/CPS/images/universal/film/logo/202401/20240108/2024010804385071891k.png",TVS
