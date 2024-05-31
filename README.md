@@ -2806,10 +2806,10 @@ https://ott.zapitv.com/live/eds_c2/axn_white/dash_live_enc/axn_white.mpd
 #KODIPROP:inputstream.adaptive.license_key=
 https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/MN%2B.png",MN+  
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/MN%2B.png",MN+  
 http://opplextv.cyou:8080//live/7262771/7272772/66244.ts
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/MNX.png",MNX
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/MNX.png",MNX
 http://opplextv.cyou:8080//live/7262771/7272772/66266.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/MoviesNow.png",Movies Now
@@ -3166,48 +3166,6 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/SURIA_FMAAC.aa
 #EXTINF:-1 group-title="Radio Stations" tvg-id="HITZ" tvg-logo="https://aqfadtv.xyz/logos/Hitz.png",HITZ
 https://astro2.rastream.com/hitz
 
-
-#EXTINF:-1 tvg-id=AstroPrima" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Astro_Prima.png/220px-Astro_Prima.png" group-title="Malaysia", Astro Prima HD aqfadtv
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/1000/
-https://aqfadtv.xyz/live/prima/index.mpd
-
-#EXTINF:-1 tvg-id=AstroPrima" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Astro_Prima.png/220px-Astro_Prima.png" group-title="Malaysia", Astro Prima HD
-http://198.16.100.90:8278/Prima/playlist.m3u8?tid=MDCD7525162675251626&ct=19249&tsum=baa42cb947105579e476ec0c5b71043d
-
-#EXTINF:-1 tvg-name="MY029:WARNA" group-title="Astro Malaysia (wanicelife.com)",MY029:WARNA
-http://muka03.wanicelife.com:8880/3ca7123n11/ewfr543ds/1706
-#EXTINF:-1 tvg-name="MY030:RIA" group-title="Astro Malaysia (wanicelife.com)",MY030:RIA
-http://muka03.wanicelife.com:8880/3ca7123n11/ewfr543ds/1705
-
-#EXTINF:-1 tvg-logo="" group-title="Astro Malaysia (gmlive)",Astro-Prima HD-Test
-http://gmlive.ddns.net:5000/kun5g/kun5g2024/48
-
-#EXTINF:-1 tvg-logo="" group-title="Astro Malaysia (gmlive)",Astro WARNA HD
-http://gmlive.ddns.net:5000/kun5g/kun5g2024/146
-
-#EXTINF:-1 tvg-id="" tvg-name=" STAR MOVIES HD" tvg-logo="http://logo.protv.cc/picons/logos/starmovies.png" group-title="VT TVC | English Live ", STAR MOVIES HD
-http://mag.gofast-tv.me:80/play/live.php?mac=00:1A:79:06:b0:c3&stream=1116488&extension=.ts
-#EXTINF:-1 tvg-id="StarMovies.in" tvg-name=" STAR MOVIES HD" tvg-logo="http://logo.protv.cc/picons/logos/starmovies.png" group-title="VT TVC | English Live ", STAR MOVIES HD
-http://mag.gofast-tv.me:80/play/live.php?mac=00:1A:79:06:b0:c3&stream=155727&extension=.ts
-#EXTINF:-1 tvg-id="StarMovies.in" tvg-name=" STAR MOVIES FHD" tvg-logo="http://logo.protv.cc/picons/logos/starmovies.png" group-title="VT TVC | English Live ", STAR MOVIES FHD
-http://mag.gofast-tv.me:80/play/live.php?mac=00:1A:79:06:b0:c3&stream=282639&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" STAR SELECT MOV" tvg-logo="http://logo.protv.cc/picons/logos/STAR-MOVIES-SELECT-HD.jpg" group-title="VT TVC | English Live ", STAR SELECT MOV
-http://mag.gofast-tv.me:80/play/live.php?mac=00:1A:79:06:b0:c3&stream=1116489&extension=.ts
-#EXTINF:-1 tvg-id="StarMoviesSelect.in" tvg-name=" STAR MOVIES SELECT HD" tvg-logo="http://logo.protv.cc/picons/logos/STAR-MOVIES-SELECT-HD.jpg" group-title="VT TVC | English Live ", STAR MOVIES SELECT HD
-http://mag.gofast-tv.me:80/play/live.php?mac=00:1A:79:06:b0:c3&stream=155729&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" MOVIES NOW FHD" tvg-logo="http://logo.protv.cc/picons/logos/INDIA_PAKISTAN/MOVIESNOWHD.png" group-title="VT TVC | English Live ", MOVIES NOW FHD
-http://mag.gofast-tv.me:80/play/live.php?mac=00:1A:79:06:b0:c3&stream=1116477&extension=.ts
-#EXTINF:-1 tvg-id="MoviesNow.in" tvg-name=" MOVIES NOW" tvg-logo="http://logo.protv.cc/picons/logos/MOVIES-NOW-HD.jpg" group-title="VT TVC | English Live ", MOVIES NOW
-http://mag.gofast-tv.me:80/play/live.php?mac=00:1A:79:06:b0:c3&stream=282651&extension=.ts
-#EXTINF:-1 tvg-id="MNPlus.in" tvg-name=" MN PLUS" tvg-logo="http://logo.protv.cc/picons/logos/mn_plus.png" group-title="VT TVC | English Live ", MN PLUS
-http://mag.gofast-tv.me:80/play/live.php?mac=00:1A:79:06:b0:c3&stream=282649&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" MNX FHD" tvg-logo="http://logo.protv.cc/picons/logos/mnx_hd.png" group-title="VT TVC | English Live ", MNX FHD
-http://mag.gofast-tv.me:80/play/live.php?mac=00:1A:79:06:b0:c3&stream=1110624&extension=.ts
-#EXTINF:-1 tvg-id="" tvg-name=" SONY PIX FHD" tvg-logo="http://logo.protv.cc/picons/logos/INDIA_PAKISTAN/sony-pix.png" group-title="VT TVC | English Live ", SONY PIX FHD
-http://mag.gofast-tv.me:80/play/live.php?mac=00:1A:79:06:b0:c3&stream=1116481&extension=.ts
-#EXTINF:-1 tvg-id="SonyPix.in" tvg-name=" SONY PIX" tvg-logo="http://logo.protv.cc/picons/logos/SONY-PIX-HD.jpeg" group-title="VT TVC | English Live ", SONY PIX
-http://mag.gofast-tv.me:80/play/live.php?mac=00:1A:79:06:b0:c3&stream=282631&extension=.ts
 
 
 #EXTM3U billed-msg="😎 BijanBusuk 😎"
