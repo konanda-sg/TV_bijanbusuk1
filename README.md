@@ -2483,9 +2483,10 @@ https://bit.ly/4dWdzuz
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"XzX4FWmRQOJknYJfDSQCjg", "kid":"F9XWLcYZVLgu4BbaJkq9EA" } ], "type":"temporary" }
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_primary.mpd
 
-EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png",WARNA HD 
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png",WARNA HD 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/2402/
+http://play.fastkobar.my.id:8080/play/mgaiq3mPDs97GRZaeBjzRB7tn3tlHzr8hazbqQ7bAbw
 https://72e103a43f664fb680904780e3641493.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH4-dash/vsg/41oN22S51uUDo8E9ET1Tb2PkBgXAM8LpzYmiKaaoKnZLM=IZDm/dash-wv/jitp-dashisowm/2402/default_ott.mpd?aws.sessionId=68f4e0d2-e638-4dfd-aa5d-5fc341ed2985
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png",WARNA HD 
