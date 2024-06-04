@@ -2462,8 +2462,8 @@ https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton5_720p/index.m3u8|Ref
 https://bit.ly/3VhubWo
 https://linears-playback.astro.com.my/vsg/41E5u5yWsYfD2ThDIraUqlDVtcctQQ3bryBpWqiFH9tbE=VsIw/dash-wv/jitp-linearwm/1004/default_ott.mpd
 
-
-
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png",RIA HD 
+http://iptv12k.com:35461/live/80236053010/645789/735.ts
 
 
 EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png",PRIMA HD
@@ -2477,6 +2477,8 @@ https://de6b41ae66ed4b67a4d6f522bcbda8dd.mediatailor.ap-southeast-1.amazonaws.co
 https://bit.ly/4dWdzuz
 #https://linears-playback.astro.com.my/vsg/41RPLegxx83lilI0lh6imhM58iYHy7cv48xKVF-e-qrqo=QmrS/dash-wv/jitp-dashisowm/1000/default_ott.mpd
 
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png",PRIMA HD
+http://iptv12k.com:35461/live/80236053010/645789/734.ts
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Oasis_v1.png",OASIS HD  
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2495,6 +2497,8 @@ https://72e103a43f664fb680904780e3641493.mediatailor.ap-southeast-1.amazonaws.co
 https://bit.ly/3yApKNA
 #https://linears-playback.astro.com.my/vsg/41oN22S51uUDo8E9ET1Tb2PgQpt1rjr04TtlF957fkz74=hGiC/dash-wv/jitp-dashisowm/2402/default_ott.mpd
 
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png",WARNA HD 
+http://iptv12k.com:35461/live/80236053010/645789/733.ts
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png",CITRA HD 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2505,6 +2509,9 @@ EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.p
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/2700/
 https://5a30e597573846ffb4d14c961da73e57.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH5-dash/vsg/41R5NwxIWNIOv3hCSXilwexRbnHZ8mj7XN17XXpiykz7M=0cBt/dash-wv/jitp-dashisowm/2700/default_ott.mpd?aws.sessionId=3d25b1df-8807-44e5-967a-652779b3398d
+
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png",CITRA HD 
+http://iptv12k.com:35461/live/80236053010/645789/721.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Astro_Sensasi_%282024%29.png",SENSASI HD
 https://bit.ly/3Vsdurr
