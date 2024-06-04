@@ -2,19 +2,6 @@ awq#EXTM3U url-tvg="https://raw.githubusercontent.com/azimabid00/epg/main/astro_
 
 
 *****************************************************movie*****************************************************************
-#EXTINF:-1  tvg-id="foxmovies.qa" tvg-logo="http://logo.protv.cc/picons/logos/FOX-MOVIES-HD.jpeg" group-title="BEIN",FOX MOVIES
-http://dino.simotvgold.com:80/play/live.php?mac=00:1A:79:42:FD:F4&stream=862841&extension=ts
-#EXTINF:-1  tvg-id="foxmovies.qa" tvg-logo="http://logo.protv.cc/picons/logos/FOX-MOVIES-HD.jpeg" group-title="BEIN",FOX MOVIES
-http://dream4k.co:2082/play/live.php?mac=00:1a:79:c2:7c:80&stream=1643&extension=ts
-#EXTINF:-1  tvg-id="FOXMoviesActionAr.qa" tvg-logo="http://logo.protv.cc/picons/logos/FOX-ACTION-MOVIES.png" group-title="BEIN",FOX ACTION MOVIES
-http://dino.simotvgold.com:80/play/live.php?mac=00:1A:79:42:FD:F4&stream=862840&extension=ts
-#EXTINF:-1  tvg-id="FOXMoviesActionAr.qa" tvg-logo="http://logo.protv.cc/picons/logos/FOX-ACTION-MOVIES.png" group-title="BEIN",FOX ACTION MOVIES
-http://dream4k.co:2082/play/live.php?mac=00:1a:79:c2:7c:80&stream=31713&extension=ts
-#EXTINF:-1  tvg-id="FOXMoviesActionAr.qa" tvg-logo="http://logo.protv.cc/picons/logos/FOX-ACTION-MOVIES.png" group-title="BEIN",FOX ACTION MOVIES
-http://600600.org:8080/play/live.php?mac=00:1A:79:c3:bd:b8&stream=97991&extension=ts
-
-
-
 #EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://i.imgur.com/B9VgH7A.jpeg", Khunsa (2024) S1 E01
 https://dtacmuar-my.sharepoint.com/personal/series5_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EemW092J-CRAqo08QzmeIsIBftG4lx3YIahU86m9h5dnzA
 
@@ -2429,7 +2416,7 @@ https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton5_720p/index.m3u8|Ref
 https://bit.ly/3VhubWo
 https://linears-playback.astro.com.my/vsg/41E5u5yWsYfD2ThDIraUqlDVtcctQQ3bryBpWqiFH9tbE=VsIw/dash-wv/jitp-linearwm/1004/default_ott.mpd
 
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png",RIA HD 
+EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png",RIA HD 
 http://iptv12k.com:35461/live/80236053010/645789/735.ts
 
 
@@ -2444,7 +2431,7 @@ https://de6b41ae66ed4b67a4d6f522bcbda8dd.mediatailor.ap-southeast-1.amazonaws.co
 https://bit.ly/4dWdzuz
 #https://linears-playback.astro.com.my/vsg/41RPLegxx83lilI0lh6imhM58iYHy7cv48xKVF-e-qrqo=QmrS/dash-wv/jitp-dashisowm/1000/default_ott.mpd
 
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png",PRIMA HD
+EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png",PRIMA HD
 http://iptv12k.com:35461/live/80236053010/645789/734.ts
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Oasis_v1.png",OASIS HD  
@@ -2452,7 +2439,7 @@ http://iptv12k.com:35461/live/80236053010/645789/734.ts
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"XzX4FWmRQOJknYJfDSQCjg", "kid":"F9XWLcYZVLgu4BbaJkq9EA" } ], "type":"temporary" }
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_primary.mpd
 
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png",WARNA HD 
+EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png",WARNA HD 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/2402/
 http://play.fastkobar.my.id:8080/play/mgaiq3mPDs97GRZaeBjzRB7tn3tlHzr8hazbqQ7bAbw
@@ -2477,7 +2464,7 @@ EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.p
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/2700/
 https://5a30e597573846ffb4d14c961da73e57.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH5-dash/vsg/41R5NwxIWNIOv3hCSXilwexRbnHZ8mj7XN17XXpiykz7M=0cBt/dash-wv/jitp-dashisowm/2700/default_ott.mpd?aws.sessionId=3d25b1df-8807-44e5-967a-652779b3398d
 
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png",CITRA HD 
+EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png",CITRA HD 
 http://iptv12k.com:35461/live/80236053010/645789/721.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Astro_Sensasi_%282024%29.png",SENSASI HD
