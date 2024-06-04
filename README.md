@@ -2505,6 +2505,8 @@ EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.p
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/2700/
 https://5a30e597573846ffb4d14c961da73e57.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH5-dash/vsg/41R5NwxIWNIOv3hCSXilwexRbnHZ8mj7XN17XXpiykz7M=0cBt/dash-wv/jitp-dashisowm/2700/default_ott.mpd?aws.sessionId=3d25b1df-8807-44e5-967a-652779b3398d
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Astro_Sensasi_%282024%29.png",SENSASI HD
+https://bit.ly/3Vsdurr
 
 ************************************
 
