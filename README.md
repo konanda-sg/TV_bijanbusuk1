@@ -2347,29 +2347,6 @@ https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Lord%20Of%20The%20Rin
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Lord%20Of%20The%20Ring/The.Hobbit.2014.mp4
 
 
-#EXTINF:-1 type="movie" group-title="PIRATES OF THE CARIBBEAN" tvg-logo="https://www.themoviedb.org/t/p/w500/z8onk7LV9Mmw6zKz4hT6pzzvmvl.jpg", PIRATES OF THE CARIBBEAN: THE CURSE OF THE BLACK PEARL (2003)
-https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/The%20Pirates%20of%20The%20Caribbean/Pirates_Of_The_Carribean__The_Curse_Of_The_Black_Pearl_2003.mp4
-#EXTINF:-1 type="movie" group-title="PIRATES OF THE CARIBBEAN" tvg-logo="https://www.themoviedb.org/t/p/original/ulDkOMbXN8HP3eOxQxyHlaALYTh.jpg", PIRATES OF THE CARIBBEAN: DEAD MAN'S CHEST (2006)
-https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/The%20Pirates%20of%20The%20Caribbean/Pirates_Of_The_Caribbean__Dead_Man's_Chest_2006.mp4
-#EXTINF:-1 type="movie" group-title="PIRATES OF THE CARIBBEAN" tvg-logo="https://www.themoviedb.org/t/p/w500/8ORuWcrYPgjwUDyCzr7qsOlCdwn.jpg", PIRATES OF THE CARIBBEAN: AT WORLD'S END (2007)
-https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/The%20Pirates%20of%20The%20Caribbean/Pirates_Of_The_Caribbean__At_Worlds_End_2007.mp4
-#EXTINF:-1 type="movie" group-title="PIRATES OF THE CARIBBEAN" tvg-logo="https://www.themoviedb.org/t/p/w500/6WMmcLzVg1ud5xS4yY5ZtarGIZy.jpg", PIRATES OF THE CARIBBEAN: ON STRANGER TIDES (2011)
-https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/The%20Pirates%20of%20The%20Caribbean/Pirates_Of_The_Caribbean__On_Stranger_Tides_2011.mp4
-#EXTINF:-1 type="movie" group-title="PIRATES OF THE CARIBBEAN" tvg-logo="https://www.themoviedb.org/t/p/w500/qwoGfcg6YUS55nUweKGujHE54Wy.jpg", PIRATES OF THE CARIBBEAN: DEAD MEN TELL NO TALES (2017)
-https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/The%20Pirates%20of%20The%20Caribbean/Pirates_Of_The_Caribbean__Dead_Men_Tell_No_Tales_2017.mp4
-
-
-#EXTINF:-1 type="movie" group-title="Resident Evil" tvg-logo="https://www.themoviedb.org/t/p/w500/yzNQSLlZb7NAkA4C5uADfNDJ7hm.jpg", Resident Evil: Apocalypse (2004)
-https://calm-rain-70b4.buntai.workers.dev/0:/Movie2/English/Resident%20Evil-%20Apocalypse.mp4
-#EXTINF:-1 type="movie" group-title="Resident Evil" tvg-logo="https://www.themoviedb.org/t/p/w500/6S1gpO1akWvuLWgw7dpNYMzg3Rs.jpg", Resident Evil: Extinction (2007)
-https://calm-rain-70b4.buntai.workers.dev/0:/Movie2/English/Resident%20Evil-%20Extinction.mp4
-#EXTINF:-1 type="movie" group-title="Resident Evil" tvg-logo="https://www.themoviedb.org/t/p/w500/xaEHOuIkoTzHQIiex0Ys306Ky05.jpg", Resident Evil: Afterlife (2010)
-https://calm-rain-70b4.buntai.workers.dev/0:/Movie2/English/Resident%20Evil-%20Afterlife.mp4
-#EXTINF:-1 type="movie" group-title="Resident Evil" tvg-logo="https://www.themoviedb.org/t/p/w500/ohdUDWVlcbuWphaLu6wS91xdJ73.jpg", Resident Evil: Retribution (2012)
-https://calm-rain-70b4.buntai.workers.dev/0:/Movie2/English/Resident%20Evil-%20Retribution.mp4
-#EXTINF:-1 type="movie" group-title="Resident Evil" tvg-logo="https://www.themoviedb.org/t/p/w500/7glPlA0xPpxPxBu0TnY4ulQVCV1.jpg", Resident Evil: The Final Chapter (2016)
-https://calm-rain-70b4.buntai.workers.dev/0:/Movie2/English/Resident%20Evil-%20The%20Final%20Chapter.mp4
-
 
 *************************************************************************************************************************************************************************************************************************
 
