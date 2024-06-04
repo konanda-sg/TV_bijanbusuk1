@@ -2,27 +2,17 @@ awq#EXTM3U url-tvg="https://raw.githubusercontent.com/azimabid00/epg/main/astro_
 
 
 *****************************************************movie*****************************************************************
+#EXTINF:-1  tvg-id="foxmovies.qa" tvg-logo="http://logo.protv.cc/picons/logos/FOX-MOVIES-HD.jpeg" group-title="BEIN",FOX MOVIES
+http://dino.simotvgold.com:80/play/live.php?mac=00:1A:79:42:FD:F4&stream=862841&extension=ts
+#EXTINF:-1  tvg-id="foxmovies.qa" tvg-logo="http://logo.protv.cc/picons/logos/FOX-MOVIES-HD.jpeg" group-title="BEIN",FOX MOVIES
+http://dream4k.co:2082/play/live.php?mac=00:1a:79:c2:7c:80&stream=1643&extension=ts
+#EXTINF:-1  tvg-id="FOXMoviesActionAr.qa" tvg-logo="http://logo.protv.cc/picons/logos/FOX-ACTION-MOVIES.png" group-title="BEIN",FOX ACTION MOVIES
+http://dino.simotvgold.com:80/play/live.php?mac=00:1A:79:42:FD:F4&stream=862840&extension=ts
+#EXTINF:-1  tvg-id="FOXMoviesActionAr.qa" tvg-logo="http://logo.protv.cc/picons/logos/FOX-ACTION-MOVIES.png" group-title="BEIN",FOX ACTION MOVIES
+http://dream4k.co:2082/play/live.php?mac=00:1a:79:c2:7c:80&stream=31713&extension=ts
+#EXTINF:-1  tvg-id="FOXMoviesActionAr.qa" tvg-logo="http://logo.protv.cc/picons/logos/FOX-ACTION-MOVIES.png" group-title="BEIN",FOX ACTION MOVIES
+http://600600.org:8080/play/live.php?mac=00:1A:79:c3:bd:b8&stream=97991&extension=ts
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjIyNjkxNzEyMl5BMl5BanBnXkFtZTYwMjc3MDE3._V1_.jpg" group-title="JOMIE@VOD" tvg-id="" tvg-name="", Pirates of the Caribbean: At Worlds End (2007)
-https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960192
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTcwODc1MTMxM15BMl5BanBnXkFtZTYwMDg1NzY3._V1_.jpg" group-title="JOMIE@VOD" tvg-id="" tvg-name="", Pirates of the Caribbean: Dead Mans Chest (2006)
-https://www.googleapis.com/drive/v3/files/1tk3gIUlMjc0k9i7bLMxWpxAZX6zc9Gy1?alt=media&key=AIzaSyAeQC-x72dJTVWT6z_BqMescy4y26GG-aY
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTYyMTcxNzc5M15BMl5BanBnXkFtZTgwOTg2ODE2MTI@._V1_SY1000_CR0,0,674,1000_AL_.jpg" group-title="JOMIE@VOD" tvg-id="" tvg-name="", Pirates of the Caribbean: Dead Men Tell No Tales (2017)
-https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960194
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjE5MjkwODI3Nl5BMl5BanBnXkFtZTcwNjcwMDk4NA@@._V1_SY1000_CR0,0,675,1000_AL_.jpg" group-title="JOMIE@VOD" tvg-id="" tvg-name="", Pirates of the Caribbean: On Stranger Tides (2011)
-https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960193
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjE5MjkwODI3Nl5BMl5BanBnXkFtZTcwNjcwMDk4NA@@._V1_SY1000_CR0,0,675,1000_AL_.jpg" group-title="JOMIE@VOD" tvg-id="" tvg-name="", Pirates of the Caribbean: On Stranger Tides (2011)
-https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960193
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNGYyZGM5MGMtYTY2Ni00M2Y1LWIzNjQtYWUzM2VlNGVhMDNhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg" group-title="JOMIE@VOD" tvg-id="" tvg-name="", Pirates of the Caribbean: The Curse of the Black Pearl (2003)
-https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960190
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNGYyZGM5MGMtYTY2Ni00M2Y1LWIzNjQtYWUzM2VlNGVhMDNhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg" group-title="JOMIE@VOD" tvg-id="" tvg-name="", Pirates of the Caribbean: The Curse of the Black Pearl (2003)
-https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960190
 
 
 #EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://i.imgur.com/B9VgH7A.jpeg", Khunsa (2024) S1 E01
