@@ -2,6 +2,13 @@ awq#EXTM3U url-tvg="https://raw.githubusercontent.com/azimabid00/epg/main/astro_
 
 
 *****************************************************movie*****************************************************************
+
+
+  
+  
+
+
+
 #EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://i.imgur.com/B9VgH7A.jpeg", Khunsa (2024) S1 E01
 https://dtacmuar-my.sharepoint.com/personal/series5_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EemW092J-CRAqo08QzmeIsIBftG4lx3YIahU86m9h5dnzA
 
@@ -672,6 +679,12 @@ https://dtacmuar-my.sharepoint.com/personal/sitamil_dtacmuar_onmicrosoft_com/_la
 
 #EXTINF:-1 type="movie" group-title="The Apes" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pbPwGTyiH5TjoTtarY5gM0z56kQ.jpg", The Apes 04
 https://dtacmuar-my.sharepoint.com/personal/sitamil_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EbrFwptjxe1FtqUYwpJfvp8BaLoO4h1mCrmdUAeugwBZuw
+
+#EXTINF:-1 type="movie" group-title="The Apes" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Kingdom_of_the_Planet_of_the_Apes_poster.jpg/220px-Kingdom_of_the_Planet_of_the_Apes_poster.jpg",  Kingdom of the Planet of the Apes (2024)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=  2fc1ae9870d9f413395b4d29f76dac8d:9ec077feb1d763ce2e4662ecbb06404f
+https://z.pollllop.com/_v11/eb653fef7e523c20b2ac3809db802acb7d7283afad96523d768378bcc0fbfa8598fbabbc42f192d7bd80c3b6a1d083472a4141f8582133db77b9e9bfce65bd994d7d9af9dc0af7c924f21103137a88497732a73da633fc1fe496d384ff18b61a900088dbed6fc724fe355f5e764530012ab18da81cf4a9491bfe28d5aa3e0763/1080/index.m3u8 
+
 
 THE AVENGERS
 
