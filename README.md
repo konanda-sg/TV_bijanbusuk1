@@ -2431,7 +2431,7 @@ https://bit.ly/3VhubWo
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png",RIA HD 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/1004/
-https://linears-playback.astro.com.my/vsg/41nXdDj9tmXOFE0tRAwj3i73ssHSDLrYwcsEQxftlZbCY=vXlV/dash-wv/jitp-linearwm/1004/default_primary.mpd
+https://linears-playback.astro.com.my/vsg/41nXdDj9tmXOFE0tRAwj3i71h3TRdTAAtmYLtYTNedz8M=SsJA/dash-wv/jitp-linearwm/1004/default_primary.mpd
 
 EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png",RIA HD 
 http://iptv12k.com:35461/live/80236053010/645789/735.ts
@@ -2445,7 +2445,7 @@ https://bit.ly/4dWdzuz
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png",PRIMA HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/1000/
-https://linears-playback.astro.com.my/vsg/41bXPmm6Wfa7GHGd9QuNMpgUJ_sHYss1_uL6c4A2Y-vLI=fBVB/dash-wv/jitp-dashisowm/1000/default_primary.mpd
+https://linears-playback.astro.com.my/vsg/41bXPmm6Wfa7GHGd9QuNMpgXrQEUNbv_ITW8m2NXVwtUk=bPin/dash-wv/jitp-dashisowm/1000/default_primary.mpd
 
 EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png",PRIMA HD
 http://iptv12k.com:35461/live/80236053010/645789/734.ts
@@ -2464,12 +2464,7 @@ http://iptv12k.com:35461/live/80236053010/645789/733.ts
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png",WARNA HD 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/2402/
-https://linears-playback.astro.com.my/vsg/41iFhU-KKqyLW0EM61UfnvAS9I8UpduepSKuQP6fqwbiI=0wmP/dash-wv/jitp-dashisowm/2402/default_primary.mpd
-
-
-
-
-
+https://linears-playback.astro.com.my/vsg/41iFhU-KKqyLW0EM61UfnvAQmI2drME1cI5Ukelece7Po=eVnq/dash-wv/jitp-dashisowm/2402/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png",CITRA HD 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2479,7 +2474,7 @@ https://bit.ly/3wV6KJ2
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png",CITRA HD 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/2700/
-https://linears-playback.astro.com.my/vsg/41CJTs6aYGh76t6znU5NkYNuvBFk1HE8FczXkepID7wTg=Vi0e/dash-wv/jitp-dashisowm/2700/default_primary.mpd
+https://linears-playback.astro.com.my/vsg/41CJTs6aYGh76t6znU5NkYNqQpmmJkwtIc9Vrnp2UhxCg=J_l7/dash-wv/jitp-dashisowm/2700/default_primary.mpd
 
 EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png",CITRA HD 
 http://iptv12k.com:35461/live/80236053010/645789/721.ts
