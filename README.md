@@ -1,4 +1,4 @@
-awq#EXTM3U url-tvg="https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml,https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/rtmklik.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml,https://raw.githubusercontent.com/mitthu786/tvepg/main/tataplay/epg.xml.gz"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml,https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/rtmklik.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml,https://raw.githubusercontent.com/mitthu786/tvepg/main/tataplay/epg.xml.gz"
 
 
 *****************************************************movie*****************************************************************
@@ -8,7 +8,7 @@ https://dtacmuar-my.sharepoint.com/personal/sitamil_dtacmuar_onmicrosoft_com/_la
 #EXTINF:-1 type="movie" group-title="MalayMovies" tvg-logo="https://i.imgur.com/LD1shgE.jpg", Langgar Pantang (2024)
 https://worker-kasyah.buntai.workers.dev/0:/movie/Malay/Langgar.Pantang.2024.1080p.AAC.x264-KSO.mp4
 
-#EXTINF:-1 tvg-logo="https://s7.lk21static.xyz/wp-content/uploads/2024/04/film-godzilla-x-kong-the-new-empire-2024-lk21-d21.jpg.webp" group-title="JOMIE@Movies",Godzilla x Kong: The New Empire (2024)
+#EXTINF:-1 tvg-logo="https://s7.lk21static.xyz/wp-content/uploads/2024/04/film-godzilla-x-kong-the-new-empire-2024-lk21-d21.jpg.webp",Godzilla x Kong: The New Empire (2024)
 https://stream.hownetwork.xyz/xxx/godzilla-x-kong-the-new-empire-2024-ts_X_a7cf43ad/22/480.m3u8
 
 #EXTINF:-1 tvg-logo="https://s4.lk21static.xyz/wp-content/uploads/2023/07/film-indiana-jones-and-the-dial-of-destiny-2023-lk21-d21.jpg.webp" group-title="JOMIE@Movies",Indiana Jones and the Dial of Destiny (2023)
@@ -20,27 +20,20 @@ https://stream.hownetwork.xyz/xxx/kung-fu-panda-4-2024-webdl_X_0ca86d0f/21/480.m
 #EXTINF:-1 tvg-logo="https://s0.lk21static.xyz/wp-content/uploads/2024/01/film-wonka-2023-lk21-d21.jpg.webp" group-title="JOMIE@Movies",Wonka (2023)
 https://stream.hownetwork.xyz/xxx/wonka-2023-webdl_X_828b33e5/19/480.m3u8
 
-#EXTINF:-1 tvg-logo="https://s6.lk21static.xyz/wp-content/uploads/2024/01/film-the-beekeeper-2024-lk21-d21.jpg.webp" group-title="JOMIE@Movies",The Beekeeper 2024
+#EXTINF:-1 tvg-logo="https://s6.lk21static.xyz/wp-content/uploads/2024/01/film-the-beekeeper-2024-lk21-d21.jpg.webp" group-title="JOMIE@Movies",The Beekeeper (2024)
 https://stream.hownetwork.xyz/xxx/the-beekeeper-2024-bluray_X_08ae710c/1000/480.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/5pIGPzi.jpeg" group-title="JOMIE@VOD|MOVIES[168]", BEAUTY AND TEH BEAST(2017)
 https://stream.hownetwork.xyz/xxx/beauty-beast-2017-bluray/3/480.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/8QBeYDv.jpeg" group-title="JOMIE@VOD|MOVIES[168]", ALADDIN(2019)
+#EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/8QBeYDv.jpeg" group-title="JOMIE@VOD|MOVIES[168]", ALADDIN (2019)
 https://stream.hownetwork.xyz/xxx/aladdin-2019-bluray/10/480.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/wMyh9mu.jpeg" group-title="JOMIE@VOD|MOVIES[168]", CINDERELLA(2015)
+#EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/wMyh9mu.jpeg" group-title="JOMIE@VOD|MOVIES[168]", CINDERELLA (2015)
 https://stream.hownetwork.xyz/xxx/cinderella-2015-bluray/2/480.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/mZE95bo.jpeg" group-title="JOMIE@VOD|MOVIES[168]", MALEFICENT 1(2013)
+#EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/mZE95bo.jpeg" group-title="JOMIE@VOD|MOVIES[168]", MALEFICENT 1 (2013)
 https://stream.hownetwork.xyz/xxx/maleficent-2013-bluray/7/480.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/7RGudu8.jpeg" group-title="JOMIE@VOD|MOVIES[168]", MALEFICENT 2(2019 
+#EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/7RGudu8.jpeg" group-title="JOMIE@VOD|MOVIES[168]", MALEFICENT 2 (2019 
 https://stream.hownetwork.xyz/xxx/maleficent-mistress-of-evil-2019-2-bluray/7/480.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/2kKe7Nh.jpeg" group-title="JOMIE@VOD|MOVIES[168]", IP MAN 1(2008) 
-https://stream.hownetwork.xyz/xxx/ip-man-2008-bluray/7/480.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/GRFFaBf.jpeg" group-title="JOMIE@VOD|MOVIES[168]", IP MAN 2(2010) 
-https://stream.hownetwork.xyz/xxx/ip-man-2-2010-bluray/7/480.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/5FGv8IS.jpeg" group-title="JOMIE@VOD|MOVIES[168]", IP MAN 3(2015) 
-https://stream.hownetwork.xyz/xxx/ip-man-3-2015-bluray/7/480.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/qGi8WQV.jpeg" group-title="JOMIE@VOD|MOVIES[168]", IP MAN 4(2019) 
-https://stream.hownetwork.xyz/xxx/ip-man-4-the-finale-yip-man-4-2019-bluray/7/480.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/KXQz25D.jpeg" group-title="JOMIE@VOD|MOVIES[168]", NARNIA LION WITCH WARDROBE 1
 https://stream.hownetwork.xyz/xxx/chronicles-narnia-lion-witch-wardrobe-2005-bluray/6/480.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/GEQX1ca.jpeg" group-title="JOMIE@VOD|MOVIES[168]", NARNIA THE CHRONICLES OF NARNIA: PRINCE CASPIAN 2
@@ -72,7 +65,143 @@ https://stream.hownetwork.xyz/xxx/alice-in-wonderland-2010-2-bluray/2/480.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/D8WHHTG/shareext-tvku-0nline.jpg" group-title="JOMIE@VOD|MOVIES[168]",ARTHUR.THE.KING.2024
 https://nontoncdn.com/Arthur.The.King.2024.720p.WEBRip.x264.AAC-YTS.MX.mp4
 
+<|-- Star Trek
+==============================================
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/trek1.png" group-title="Star Trek",Star Trek 1 : The Motion Picture (1979) [FilmBluray.iD]
+http://abf.filmbluray.id/pj017ds
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/trek2.png" group-title="Star Trek",Star Trek 2 : The Wrath of Khan (1982) [FilmBluray.iD]
+http://abf.filmbluray.id/fjhs7ss
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/trek3.png" group-title="Star Trek",Star Trek 3 : The Search for Spock (1984) [FilmBluray.iD]
+http://abf.filmbluray.id/avx95k2
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/trek4.png" group-title="Star Trek",Star Trek 4 : The Voyage Home (1986) [FilmBluray.iD]
+http://abf.filmbluray.id/qrk6xsd
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/trek5.png" group-title="Star Trek",Star Trek 5 : The Final Frontier (1989) [FilmBluray.iD]
+http://abf.filmbluray.id/3ov6622
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/trek6.png" group-title="Star Trek",Star Trek 6 : The Undiscovered Country (1991) [FilmBluray.iD]
+http://abf.filmbluray.id/ocxn2og
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/trek7.png" group-title="Star Trek",Star Trek Generations (1994) [FilmBluray.iD]
+http://abf.filmbluray.id/9k35p2x
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/trek8.png" group-title="Star Trek",Star Trek First Contact (1996) [FilmBluray.iD]
+http://abf.filmbluray.id/i0sv3tr
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/trek9.png" group-title="Star Trek",Star Trek Insurrection (1998) [FilmBluray.iD]
+http://abf.filmbluray.id/5lyb6ky
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/trek10.png" group-title="Star Trek",Star Trek Nemesis (2002) [FilmBluray.iD]
+http://abf.filmbluray.id/szmb3vz
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/trek11.png" group-title="Star Trek",Star Trek (2009) [FilmBluray.iD]
+http://abf.filmbluray.id/g413vpc
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/trek12.png" group-title="Star Trek",Star Trek Into Darkness (2013) [FilmBluray.iD]
+http://abf.filmbluray.id/z0u1m99
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/trek13.png" group-title="Star Trek",Star Trek Beyond (2016) [FilmBluray.iD]
+http://abf.filmbluray.id/f7dz2d6
 
+<|-- Star Wars Saga
+==============================================
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/star1.png" group-title="Star Wars Saga",The Phantom Menace (1999) [FilmBluray.iD]
+http://abf.filmbluray.id/ez9abfh
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/star2.png" group-title="Star Wars Saga",Attack of The Clones (2002) [FilmBluray.iD]
+http://abf.filmbluray.id/252qe5d
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/star3.png" group-title="Star Wars Saga",Revenge of Sith (2005) [FilmBluray.iD]
+http://abf.filmbluray.id/wwi9kkp
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/star4.png" group-title="Star Wars Saga",Solo (2018) [FilmBluray.iD]
+http://abf.filmbluray.id/8szfsti
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/star5.png" group-title="Star Wars Saga",Rogue One (2016) [FilmBluray.iD]
+http://abf.filmbluray.id/yxruwrt
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/star6.png" group-title="Star Wars Saga",A New Hope (1977) [FilmBluray.iD]
+http://abf.filmbluray.id/r2pg38k
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/star7.png" group-title="Star Wars Saga",The Empire Strikes Back (1980) [FilmBluray.iD]
+http://abf.filmbluray.id/8bvzrbr
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/star8.png" group-title="Star Wars Saga",Return of The Jedi (1983) [FilmBluray.iD]
+http://abf.filmbluray.id/02934re
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/star9.png" group-title="Star Wars Saga",The Force Awakens (2015) [FilmBluray.iD]
+http://abf.filmbluray.id/pvsce95
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/star10.png" group-title="Star Wars Saga",The Last Jedi (2017) [FilmBluray.iD]
+http://abf.filmbluray.id/9pvlrrq
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/star11.png" group-title="Star Wars Saga",The Rise of Skywalker (2019) [FilmBluray.iD]
+http://abf.filmbluray.id/huhc7tg
+
+<|-- Terminator
+========================================
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/terminator1.png" group-title="Terminator",The Terminator (1984) [FilmBluray.iD]
+http://abf.filmbluray.id/gdf8nq1
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/terminator2.png" group-title="Terminator",Judgment Day (1991) [FilmBluray.iD]
+http://abf.filmbluray.id/0k0vn82
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/terminator3.png" group-title="Terminator",Rise of The Machines (2003) [FilmBluray.iD]
+http://abf.filmbluray.id/tcmej34
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/terminator4.png" group-title="Terminator",Salvation (2009) [FilmBluray.iD]
+http://abf.filmbluray.id/dn6lhr2
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/terminator5.png" group-title="Terminator",Genisys (2015) [FilmBluray.iD]
+http://abf.filmbluray.id/hendldi
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/terminator6.png" group-title="Terminator",Dark Fate (2019) [FilmBluray.iD]
+http://abf.filmbluray.id/td6xujc
+
+<|-- The History of Middle-earth
+==============================================
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/hobbit1.png" group-title="The History of Middle-earth",The Hobbit : An Unexpected Journey (2012)
+http://abf.filmbluray.id/eo1gxi3
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/hobbit2.png" group-title="The History of Middle-earth",The Hobbit : The Desolation of Smaug (2013)
+http://abf.filmbluray.id/n22qiig
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/hobbit3.png" group-title="The History of Middle-earth",The Hobbit : The Battle of The Five Armies (2014)
+http://abf.filmbluray.id/n2c0l3q
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/lotr1.png" group-title="The History of Middle-earth",The Lord of the Rings : The Fellowship of the Ring (2001)
+http://abf.filmbluray.id/m8j2bin
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/lotr2.png" group-title="The History of Middle-earth",The Lord of the Rings : The Two Towers (2002) 
+http://abf.filmbluray.id/b67096b
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/lotr3.png" group-title="The History of Middle-earth",The Lord of the Rings : The Return of the King (2003) 
+http://abf.filmbluray.id/x2dvwh0
+
+<|-- Mission : Impossible
+==============================================
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/mi1.png" group-title="Mission : Impossible",Mission : Impossible 1 (1996) [FilmBluray.iD]
+http://abf.filmbluray.id/rgqcs18
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/mi2.png" group-title="Mission : Impossible",Mission : Impossible 2 (2000) [FilmBluray.iD]
+http://abf.filmbluray.id/li35vtc
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/mi3.png" group-title="Mission : Impossible",Mission : Impossible 3 (2006) [FilmBluray.iD]
+http://abf.filmbluray.id/0sq8xya
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/mi4.png" group-title="Mission : Impossible",Mission : Impossible - Ghost Protocol (2011) [FilmBluray.iD]
+http://abf.filmbluray.id/n3xh1fu
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/mi5.png" group-title="Mission : Impossible",Mission : Impossible - Rogue Nation (2015) [FilmBluray.iD]
+http://abf.filmbluray.id/0nbbfrm
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/mi6.png" group-title="Mission : Impossible",Mission : Impossible - Fallout (2018) [FilmBluray.iD]
+http://abf.filmbluray.id/fgp2klb
+
+<|-- James Bond
+==============================================
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/James-Bond-2006.png" group-title="James Bond",Casino Royale (2006) [FilmBluray.iD] 
+http://abf.filmbluray.id/8w1zyuz 
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/James-Bond-2008.png" group-title="James Bond",Quantum of Solace (2008) [FilmBluray.iD] 
+http://abf.filmbluray.id/tvysnw4 
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/James-Bond-2012.png" group-title="James Bond",Skyfall (2012) [FilmBluray.iD] 
+http://abf.filmbluray.id/q8u4ehc 
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/James-Bond-2015.png" group-title="James Bond",Spectre (2015) [FilmBluray.iD] 
+http://abf.filmbluray.id/a28t8d0
+
+<|-- IP Man
+========================================
+#EXTINF:-1 group-title="IP Man" tvg-logo="http://pictures.my.id/images/IP-Man-1.png",IP Man 1 (2008) [FilmBluray.iD]
+http://abf.filmbluray.id/bloz71q
+#EXTINF:-1 group-title="IP Man" tvg-logo="http://pictures.my.id/images/IP-Man-2.png",IP Man 2 (2010) [FilmBluray.iD]
+http://abf.filmbluray.id/bkdqz2o
+#EXTINF:-1 group-title="IP Man" tvg-logo="http://pictures.my.id/images/IP-Man-3.png",IP Man 3 (2015) [FilmBluray.iD]
+http://abf.filmbluray.id/vfqtu6e
+#EXTINF:-1 group-title="IP Man" tvg-logo="http://pictures.my.id/images/zmaster.png",Master Z : IP Man Legacy (2018) [FilmBluray.iD]
+http://abf.filmbluray.id/dxsy2yo
+#EXTINF:-1 group-title="IP Man" tvg-logo="http://pictures.my.id/images/IP-Man-4.png",IP Man 4 : The Final (2019) [FilmBluray.iD]
+http://abf.filmbluray.id/q8age0v
+#EXTINF:-1 group-title="IP Man" tvg-logo="http://pictures.my.id/images/legendip.png",The Legend is Born - IP Man (2010) [FilmBluray.iD]
+http://abf.filmbluray.id/o6c3eqb
+#EXTINF:-1 group-title="IP Man" tvg-logo="http://pictures.my.id/images/ipmanking.png",IP Man and Four Kings (2019) [FilmBluray.iD]
+http://abf.filmbluray.id/9j1ki05
+#EXTINF:-1 group-title="IP Man" tvg-logo="http://pictures.my.id/images/ipmanfinal.png",IP Man : The Final Fight (2013) [FilmBluray.iD]
+http://abf.filmbluray.id/isjthv7
+
+#EXTINF:-1 group-title="IP Man" tvg-logo="https://i.imgur.com/2kKe7Nh.jpeg", IP MAN 1 (2008) 
+https://stream.hownetwork.xyz/xxx/ip-man-2008-bluray/7/480.m3u8
+#EXTINF:-1 group-title="IP Man" tvg-logo="https://i.imgur.com/GRFFaBf.jpeg", IP MAN 2(2010) 
+https://stream.hownetwork.xyz/xxx/ip-man-2-2010-bluray/7/480.m3u8
+#EXTINF:-1 group-title="IP Man" tvg-logo="https://i.imgur.com/5FGv8IS.jpeg", IP MAN 3(2015) 
+https://stream.hownetwork.xyz/xxx/ip-man-3-2015-bluray/7/480.m3u8
+#EXTINF:-1 group-title="IP Man" tvg-logo="https://i.imgur.com/qGi8WQV.jpeg", IP MAN 4(2019) 
+https://stream.hownetwork.xyz/xxx/ip-man-4-the-finale-yip-man-4-2019-bluray/7/480.m3u8
 
 ********************************************************************************************************************************************
 #EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://i.imgur.com/B9VgH7A.jpeg", Khunsa (2024) S1 E01
