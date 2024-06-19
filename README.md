@@ -62,15 +62,15 @@ https://stream.hownetwork.xyz/xxx/twilight-saga-breaking-dawn-part-2-2012-bluray
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/UD4kGnK.jpeg", JOHN CARTER (2012) 
+#EXTINF:-1 type="movie" group-title="English Movies" tvg-logo="https://i.imgur.com/UD4kGnK.jpeg", JOHN CARTER (2012) 
 https://stream.hownetwork.xyz/xxx/john-carter-2012-bluray/2/480.m3u8
   
-#EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/Yai0fMX.jpeg", MULAN (2020)
+#EXTINF:-1 type="movie" group-title="English Movies" tvg-logo="https://i.imgur.com/Yai0fMX.jpeg", MULAN (2020)
 https://stream.hownetwork.xyz/xxx/mulan-2020-bluray/7/480.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/1gvCVq4.jpeg", ALICE IN THE WONDERLAND (2010)
+#EXTINF:-1 type="movie" group-title="English Movies" tvg-logo="https://i.imgur.com/1gvCVq4.jpeg", ALICE IN THE WONDERLAND (2010)
 https://stream.hownetwork.xyz/xxx/alice-in-wonderland-2010-2-bluray/2/480.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/D8WHHTG/shareext-tvku-0nline.jpg",ARTHUR.THE.KING.2024
+#EXTINF:-1 type="movie" group-title="English Movies" tvg-logo="https://i.ibb.co/D8WHHTG/shareext-tvku-0nline.jpg",ARTHUR.THE.KING.2024
 https://nontoncdn.com/Arthur.The.King.2024.720p.WEBRip.x264.AAC-YTS.MX.mp4
 
 <|-- Star Trek
@@ -2627,7 +2627,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5021/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Q4+2LpcnhSZobZIRJjQ9Mg", "kid":"LzI4FCNIeJ7VqZuaG9jgEA" } ], "type":"temporary" }
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5128/default_primary.mpd
 
-EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Heroes.png",Heroes
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Heroes.png",Heroes
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/5114/
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5114/default.mpd
