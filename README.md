@@ -2,13 +2,79 @@ awq#EXTM3U url-tvg="https://raw.githubusercontent.com/azimabid00/epg/main/astro_
 
 
 *****************************************************movie*****************************************************************
+#EXTINF:-1 type="movie" group-title="MalayMovies" tvg-logo="https://i.imgur.com/tOtN2hG.jpg", Rampok (2024)
+https://dtacmuar-my.sharepoint.com/personal/sitamil_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=ETxqcmvy8H1Nre6zxjTHag4B80NbrEIiP48LdFPY1pJcgQ
 
+#EXTINF:-1 type="movie" group-title="MalayMovies" tvg-logo="https://i.imgur.com/LD1shgE.jpg", Langgar Pantang (2024)
+https://worker-kasyah.buntai.workers.dev/0:/movie/Malay/Langgar.Pantang.2024.1080p.AAC.x264-KSO.mp4
 
+#EXTINF:-1 tvg-logo="https://s7.lk21static.xyz/wp-content/uploads/2024/04/film-godzilla-x-kong-the-new-empire-2024-lk21-d21.jpg.webp" group-title="JOMIE@Movies",Godzilla x Kong: The New Empire (2024)
+https://stream.hownetwork.xyz/xxx/godzilla-x-kong-the-new-empire-2024-ts_X_a7cf43ad/22/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s4.lk21static.xyz/wp-content/uploads/2023/07/film-indiana-jones-and-the-dial-of-destiny-2023-lk21-d21.jpg.webp" group-title="JOMIE@Movies",Indiana Jones and the Dial of Destiny (2023)
+https://stream.hownetwork.xyz/xxx/indiana-jones-and-the-dial-of-destiny-2023-bluray_X_a38998df/18/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s4.lk21static.xyz/wp-content/uploads/2024/04/film-kung-fu-panda-4-2024-lk21-d21.jpg.webp" group-title="JOMIE@Movies",Kung Fu Panda 4 (2024)
+https://stream.hownetwork.xyz/xxx/kung-fu-panda-4-2024-webdl_X_0ca86d0f/21/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s0.lk21static.xyz/wp-content/uploads/2024/01/film-wonka-2023-lk21-d21.jpg.webp" group-title="JOMIE@Movies",Wonka (2023)
+https://stream.hownetwork.xyz/xxx/wonka-2023-webdl_X_828b33e5/19/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s6.lk21static.xyz/wp-content/uploads/2024/01/film-the-beekeeper-2024-lk21-d21.jpg.webp" group-title="JOMIE@Movies",The Beekeeper 2024
+https://stream.hownetwork.xyz/xxx/the-beekeeper-2024-bluray_X_08ae710c/1000/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/5pIGPzi.jpeg" group-title="JOMIE@VOD|MOVIES[168]", BEAUTY AND TEH BEAST(2017)
+https://stream.hownetwork.xyz/xxx/beauty-beast-2017-bluray/3/480.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/8QBeYDv.jpeg" group-title="JOMIE@VOD|MOVIES[168]", ALADDIN(2019)
+https://stream.hownetwork.xyz/xxx/aladdin-2019-bluray/10/480.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/wMyh9mu.jpeg" group-title="JOMIE@VOD|MOVIES[168]", CINDERELLA(2015)
+https://stream.hownetwork.xyz/xxx/cinderella-2015-bluray/2/480.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/mZE95bo.jpeg" group-title="JOMIE@VOD|MOVIES[168]", MALEFICENT 1(2013)
+https://stream.hownetwork.xyz/xxx/maleficent-2013-bluray/7/480.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/7RGudu8.jpeg" group-title="JOMIE@VOD|MOVIES[168]", MALEFICENT 2(2019 
+https://stream.hownetwork.xyz/xxx/maleficent-mistress-of-evil-2019-2-bluray/7/480.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/2kKe7Nh.jpeg" group-title="JOMIE@VOD|MOVIES[168]", IP MAN 1(2008) 
+https://stream.hownetwork.xyz/xxx/ip-man-2008-bluray/7/480.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/GRFFaBf.jpeg" group-title="JOMIE@VOD|MOVIES[168]", IP MAN 2(2010) 
+https://stream.hownetwork.xyz/xxx/ip-man-2-2010-bluray/7/480.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/5FGv8IS.jpeg" group-title="JOMIE@VOD|MOVIES[168]", IP MAN 3(2015) 
+https://stream.hownetwork.xyz/xxx/ip-man-3-2015-bluray/7/480.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/qGi8WQV.jpeg" group-title="JOMIE@VOD|MOVIES[168]", IP MAN 4(2019) 
+https://stream.hownetwork.xyz/xxx/ip-man-4-the-finale-yip-man-4-2019-bluray/7/480.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/KXQz25D.jpeg" group-title="JOMIE@VOD|MOVIES[168]", NARNIA LION WITCH WARDROBE 1
+https://stream.hownetwork.xyz/xxx/chronicles-narnia-lion-witch-wardrobe-2005-bluray/6/480.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/GEQX1ca.jpeg" group-title="JOMIE@VOD|MOVIES[168]", NARNIA THE CHRONICLES OF NARNIA: PRINCE CASPIAN 2
+https://stream.hownetwork.xyz/xxx/the-chronicles-of-narnia-prince-caspian-2008-bluray/11/480.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/vswEjOX.jpeg" group-title="JOMIE@VOD|MOVIES[168]", NARNIA THE CHRONICLES OF NARNIA: THE VOYAGE OF THE DAWN TREADER 3 (2010)
+https://stream.hownetwork.xyz/xxx/chronicles-narnia-voyage-dawn-treader-2010-bluray/6/480.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/djgxIhT.jpeg" group-title="JOMIE@VOD|MOVIES[168]", AVATAR 1 (2009)
+https://stream.hownetwork.xyz/xxx/avatar-2009-bluray/10/480.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/BXnJa8e.jpeg" group-title="JOMIE@VOD|MOVIES[168]", AVATAR : THE WAY OF WATER 2 (2022)
+https://stream.hownetwork.xyz/xxx/avatar-the-way-of-water-2022-bluray/2/480.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/MgtBPjX.jpeg" group-title="JOMIE@VOD|MOVIES[168]", TWILIGHT 1 (2008)
+https://stream.hownetwork.xyz/xxx/twilight-2008-bluray/3/480.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/KeDBPny.jpeg" group-title="JOMIE@VOD|MOVIES[168]", TWILIGHT 2 : NEW MOON (2009)
+https://stream.hownetwork.xyz/xxx/twilight-saga-new-moon-2009-bluray/2/480.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/DsicM6a.jpeg" group-title="JOMIE@VOD|MOVIES[168]", TWILIGHT 3 : ECLIPSE (2010)
+https://stream.hownetwork.xyz/xxx/the-twilight-saga-eclipse-2010-bluray/11/480.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/QyEu6f4.jpeg" group-title="JOMIE@VOD|MOVIES[168]", TWILIGHT 4 : BREAKING DAWN PART 1 (2011)
+https://stream.hownetwork.xyz/xxx/twilight-saga-breaking-dawn-part-1-2011-bluray/11/480.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/vpZLMVR.jpeg" group-title="JOMIE@VOD|MOVIES[168]", TWILIGHT 5 : BREAKING DAWN PART 2 (2012)
+https://stream.hownetwork.xyz/xxx/twilight-saga-breaking-dawn-part-2-2012-bluray/11/480.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/UD4kGnK.jpeg" group-title="JOMIE@VOD|MOVIES[168]", JOHN CARTER (2012) 
+https://stream.hownetwork.xyz/xxx/john-carter-2012-bluray/2/480.m3u8
   
-  
+#EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/Yai0fMX.jpeg" group-title="JOMIE@VOD|MOVIES[168]", MULAN (2020)
+https://stream.hownetwork.xyz/xxx/mulan-2020-bluray/7/480.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/1gvCVq4.jpeg" group-title="JOMIE@VOD|MOVIES[168]", ALICE IN THE WONDERLAND (2010)
+https://stream.hownetwork.xyz/xxx/alice-in-wonderland-2010-2-bluray/2/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/D8WHHTG/shareext-tvku-0nline.jpg" group-title="JOMIE@VOD|MOVIES[168]",ARTHUR.THE.KING.2024
+https://nontoncdn.com/Arthur.The.King.2024.720p.WEBRip.x264.AAC-YTS.MX.mp4
 
 
 
+********************************************************************************************************************************************
 #EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://i.imgur.com/B9VgH7A.jpeg", Khunsa (2024) S1 E01
 https://dtacmuar-my.sharepoint.com/personal/series5_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EemW092J-CRAqo08QzmeIsIBftG4lx3YIahU86m9h5dnzA
 
