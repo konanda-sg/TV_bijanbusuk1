@@ -2,6 +2,12 @@
 
 
 *****************************************************movie*****************************************************************
+
+#EXTINF:-1 type="movie" group-title="Doctor Strange" tvg-logo="https://image.tmdb.org/t/p/w185/xfWac8MTYDxujaxgPVcRD9yZaul.jpg", Doctor Strange 1
+https://www.googleapis.com/drive/v3/files/1fMZK2nyeUTLEJaL_fWeFtMdu8CtNBNbj?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 type="movie" group-title="Doctor Strange" tvg-logo="https://image.tmdb.org/t/p/w185/xZmHkFH3fcO26971jQgMonp1AM4.jpg", Doctor Strange 2 : Multiverse of Madness
+https://www.googleapis.com/drive/v3/files/1VID6YhiBK0xOse5R6v7yV6ol0QGAt5WJ?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
 #EXTINF:-1 type="movie" group-title="MalayMovies" tvg-logo="https://i.imgur.com/tOtN2hG.jpg", Rampok (2024)
 https://dtacmuar-my.sharepoint.com/personal/sitamil_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=ETxqcmvy8H1Nre6zxjTHag4B80NbrEIiP48LdFPY1pJcgQ
 
@@ -3036,6 +3042,7 @@ http://opplextv.cyou:8080//live/7262771/7272772/66271.m3u8
 http://opplextv.cyou:8080//live/7262771/7272772/66271.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/SonyPixV3.png",Sony Pix    
+https://toxicify.pro/sliv/stream.php?id=sony-pix-hd&e=.m3u8
 http://opplextv.cyou:8080//live/7262771/7272772/66224.m3u8
 https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
 
