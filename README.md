@@ -2452,10 +2452,10 @@ https://unifi-live07.secureswiftcontent.com/UnifiHD/live27.mpd
 #EXTINF:-1 tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/201907/20190716/20190716074123890vav.png",Dunia Sinema 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=OWM1ZGFlNWItNjNjZi0zZGVhLTkyN2YtYWRkYjFlMjM0MTVi
-https://web.hypp.tv/PLTV/88888888/224/3221227631/3221227631.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=5P%2FZmSAoS0sKZqU8B1%2BiBfAH%2FCWEDunMQVe6YshALike%2Fq%2FOjlqlRbrFeHR8kUHK6T2oNnNqHhNeOztjH0xCtPHl2ogHz3eAyG2k7xToFQmJBU24%2BKwsNeA0VE3pRwoj%3A20240619005050%3AUTC%2C1005926113%2C118.100.197.192%2C20240619005050%2Curn:Huawei:liveTV:XTV100001461%2C1005926113%2C-1%2C0%2C1%2C%2C%2C2%2C595%2C%2C%2C2%2C1615850%2C0%2C521145%2C144796741%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOwY6CMBRF_6bLpq8ghUVXTkxMDJqIszWP9lGJhWqLJv69MjLbe--5OVNEQ9sfbVuQWKgsK9sqhwJLK_OsWMlKSIMZVCzRvQ5aMoPe96Org52x3-P6DIILLiVwxZr5bePRLcP6MbQUNfxTR4rP3pC2qeNPTBydi-Rw6sPIDx5fp-iXCaNmMQMFpVI5iEKJkk1z2mC6fhp2wbQOww0j2V1wf4Du0CdiNzRXdFTjQHp8eP_l9tF-bN5ZpVWp8wAAAA&tenantId=6001
+https://unifi-live10.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
 
 
-EXTINF:-1 tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202209/20220901/20220901155542159l9k.png",Inspirasi 
+#EXTINF:-1 tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202209/20220901/20220901155542159l9k.png",Inspirasi 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=OWM1ZGFlNWItNjNjZi0zZGVhLTkyN2YtYWRkYjFlMjM0MTVi
 https://unifi-live29.secureswiftcontent.com/UnifiHD/live29.mpd
@@ -2766,18 +2766,22 @@ https://ott.zapitv.com/live/eds_c2/axn_white/dash_live_enc/axn_white.mpd
 https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/MN%2B.png",MN+  
+https://tgaadi-web.tech/api/aadi.php?tv=17035
 http://opplextv.cyou:8080//live/7262771/7272772/66244.m3u8
 http://opplextv.cyou:8080//live/7262771/7272772/66244.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/MNX.png",MNX
+https://tgaadi-web.tech/api/aadi.php?tv=17032
 http://opplextv.cyou:8080//live/7262771/7272772/66266.m3u8
 http://opplextv.cyou:8080//live/7262771/7272772/66266.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/MoviesNow.png",Movies Now
+https://tgaadi-web.tech/api/aadi.php?tv=17017
 http://opplextv.cyou:8080//live/7262771/7272772/66271.m3u8
 http://opplextv.cyou:8080//live/7262771/7272772/66271.ts
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/SonyPixV3.png",Sony Pix    
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/SonyPixV3.png",Sony Pix   
+https://tgaadi-web.tech/api/aadi.php?tv=17029
 https://toxicify.pro/sliv/stream.php?id=sony-pix-hd&e=.m3u8
 http://opplextv.cyou:8080//live/7262771/7272772/66224.m3u8
 https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
@@ -2787,6 +2791,7 @@ http://opplextv.cyou:8080//live/7262771/7272772/66213.m3u8
 http://opplextv.cyou:8080//live/7262771/7272772/66213.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/StarMoviesSelect.png",Star Movies Select 
+https://tgaadi-web.tech/api/aadi.php?tv=17092
 http://opplextv.cyou:8080//live/7262771/7272772/66315.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/Syfy.png",Syfy 
