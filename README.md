@@ -463,7 +463,7 @@ EXTINF:-1 tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=OGQ0ZGMxNmYtY2QwNC0zZjQ1LWJmYjktYTFjZjM5ZWI5ODdm
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xGLq6CN/Axn-movies-ca.png",AXN Movies
+EXTINF:-1 tvg-logo="https://i.ibb.co/xGLq6CN/Axn-movies-ca.png",AXN Movies
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f9e4be09926c262effa2b5381ae3553d:d630e04e0c5e3f98dc38840be1c1dd4c
 https://ott.zapitv.com/live/eds_c2/axn_white/dash_live_enc/axn_white.mpd
@@ -476,33 +476,23 @@ https://ott.zapitv.com/live/eds_c2/axn_white/dash_live_enc/axn_white.mpd
 https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/MN%2B.png",MN+  
-https://tgaadi-web.tech/api/aadi.php?tv=17035
-http://opplextv.cyou:8080//live/7262771/7272772/66244.m3u8
-http://opplextv.cyou:8080//live/7262771/7272772/66244.ts
+https://tgaadi-web.tech/jiotv.php?tv=1480
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/MNX.png",MNX
-https://tgaadi-web.tech/api/aadi.php?tv=17032
-http://opplextv.cyou:8080//live/7262771/7272772/66266.m3u8
-http://opplextv.cyou:8080//live/7262771/7272772/66266.ts
+https://tgaadi-web.tech/jiotv.php?tv=1482
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/MoviesNow.png",Movies Now
-https://tgaadi-web.tech/api/aadi.php?tv=17017
-http://opplextv.cyou:8080//live/7262771/7272772/66271.m3u8
-http://opplextv.cyou:8080//live/7262771/7272772/66271.ts
+https://tgaadi-web.tech/zain_tv.php?tv=108279
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/SonyPixV3.png",Sony Pix   
-https://tgaadi-web.tech/api/aadi.php?tv=17029
-https://toxicify.pro/sliv/stream.php?id=sony-pix-hd&e=.m3u8
-http://opplextv.cyou:8080//live/7262771/7272772/66224.m3u8
-https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
+https://tgaadi-web.tech/jiotv.php?tv=1488
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/StarMovies.png",Star Movies
 http://opplextv.cyou:8080//live/7262771/7272772/66213.m3u8
 http://opplextv.cyou:8080//live/7262771/7272772/66213.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/StarMoviesSelect.png",Star Movies Select 
-https://tgaadi-web.tech/api/aadi.php?tv=17092
-http://opplextv.cyou:8080//live/7262771/7272772/66315.m3u8
+https://tgaadi-web.tech/zain_tv.php?tv=56244
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/Syfy.png",Syfy 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
