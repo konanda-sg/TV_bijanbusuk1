@@ -88,7 +88,7 @@ https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton5_720p/index.m3u8|Ref
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png",RIA HD 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/1004/
-https://linears-playback.astro.com.my/vsg/41E5u5yWsYfD2ThDIraUqlDTwzO4ythq6obdjhgPzsyBA=Cx44/dash-wv/jitp-linearwm/1004/default_primary.mpd
+https://linears-playback.astro.com.my/vsg/41nXdDj9tmXOFE0tRAwj3i7_YyO4hNk77N0ViQ7CG5W38=pAAc/dash-wv/jitp-linearwm/1004/default_primary.mpd
 
 EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png",RIA HD 
 https://bit.ly/3VhubWo
@@ -96,7 +96,7 @@ https://bit.ly/3VhubWo
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png",PRIMA HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/1000/
-https://linears-playback.astro.com.my/vsg/41RPLegxx83lilI0lh6imhM_lw_4HceAYZe8b30zjAiQE=EBqM/dash-wv/jitp-linearwm/1000/default_primary.mpd
+https://linears-playback.astro.com.my/vsg/41bXPmm6Wfa7GHGd9QuNMpgSRiGR3BsJHZzGRYJz0tAno=1PRB/dash-wv/jitp-linearwm/1000/default_primary.mpd
 
 EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png",PRIMA HD
 https://bit.ly/4dWdzuz
@@ -109,7 +109,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_primary.mpd
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png",WARNA HD 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/2402/
-https://linears-playback.astro.com.my/vsg/41oN22S51uUDo8E9ET1Tb2Pj0TIUN9XPxtRPSA-OPKNHQ=X8Jx/dash-wv/jitp-linearwm/2402/default_primary.mpd
+https://linears-playback.astro.com.my/vsg/41iFhU-KKqyLW0EM61UfnvAUAwTspVV8QUcxdXC2VARCE=_8ak/dash-wv/jitp-linearwm/2402/default_primary.mpd
 
 EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png",WARNA HD 
 https://bit.ly/3yApKNA
@@ -117,7 +117,7 @@ https://bit.ly/3yApKNA
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png",CITRA HD 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/2700/
-https://linears-playback.astro.com.my/vsg/41R5NwxIWNIOv3hCSXilwexe6JjlLi-nKoaG1qcu50hJQ=25SB/dash-wv/jitp-linearwm/2700/default_primary.mpd
+https://linears-playback.astro.com.my/vsg/41CJTs6aYGh76t6znU5NkYNv2KZA9NDNJ278u4hH_eIxk=MwR5/dash-wv/jitp-linearwm/2700/default_primary.mpd
 
 EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png",CITRA HD 
 https://bit.ly/3wV6KJ2
@@ -162,13 +162,13 @@ https://unifi-live07.secureswiftcontent.com/UnifiHD/live27.mpd
 #EXTINF:-1 tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/201907/20190716/20190716074123890vav.png",Dunia Sinema 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=OWM1ZGFlNWItNjNjZi0zZGVhLTkyN2YtYWRkYjFlMjM0MTVi
-https://unifi-live10.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
+https://web.hypp.tv:443/PLTV/88888888/224/3221227631/3221227631.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=5P%2FZmSAoS0sKZqU8B1%2BiBfAH%2FCWEDunMQVe6YshALinAyHNSMysmPYg%2BqujqSl%2BtJCJ47WVKC4DEdPmmb1n%2BPfHl2ogHz3eAyG2k7xToFQmJBU24%2BKwsNeA0VE3pRwoj%3A20240621104853%3AUTC%2C1005926113%2C118.100.197.192%2C20240621104853%2Curn:Huawei:liveTV:XTV100001461%2C1005926113%2C-1%2C0%2C1%2C%2C%2C2%2C595%2C%2C%2C2%2C1615850%2C0%2C521145%2C144796741%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOwQrCMBBE_ybHkE2rjYecFEGQKli9yjbZxmLaaFIF_16r9Tozb3hDREOblc5BwByymbI15ULWaJRshLCLxsxMLhVLdC-Dlsyg923vymBH7HRYnkFwwaUEXrBqfFt7dNOwfHQ1RQ1_6kDx2RrSNjX8iYmjc5EcDm3o-d7j6xj9NGFUTWZQgFqoDDKRQcGGMa0wXT8Nu2Bahu6Gkew2uC-gG_SJ2A3NFR2V2JHuH97_uF20H5s3VWvpofMAAAA&tenantId=6001
 
 
 #EXTINF:-1 tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202209/20220901/20220901155542159l9k.png",Inspirasi 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=OWM1ZGFlNWItNjNjZi0zZGVhLTkyN2YtYWRkYjFlMjM0MTVi
-https://unifi-live29.secureswiftcontent.com/UnifiHD/live29.mpd
+https://web.hypp.tv:443/PLTV/88888888/224/3221227601/3221227601.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=5P%2FZmSAoS0sKZqU8B1%2BiBfAH%2FCWEDunMQVe6YshALikysjAfUKBrix8JQpOuyKaZo9%2FQrJEC4Ns%2F2sViZSGMevHl2ogHz3eAyG2k7xToFQmJBU24%2BKwsNeA0VE3pRwoj%3A20240621105811%3AUTC%2C1005926113%2C118.100.197.192%2C20240621105811%2Curn:Huawei:liveTV:iptv21343%2C1005926113%2C-1%2C0%2C1%2C%2C%2C2%2C595%2C%2C%2C2%2C1615850%2C0%2C521145%2C144796741%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOwQrCMBBE_ybH0E3E1ENOiiBIFaxeZZtsYjFtNKmCf6_Vep2ZN7whoaHNShcSlHVCKGfEbEaikU5AYRpJACjnDct0r6IWzGAIbe-raEfsdFieoeAFFwK4YvX4tg7op2H16BpKGv7UgdKzNaRtdvyJmaP3iTwObez5PuDrmMI0YVRPZqCgXJRyXpYLUGwY0xrz9dOwC-Zl7G6YyG6j_wLaYcjEbmiu6KnCjnT_COHH7ZL92LwB292VXfMAAAA&tenantId=6001
 
 EXTINF:-1 tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202209/20220901/20220901155542159l9k.png",Inspirasi 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -208,10 +208,10 @@ EXTINF:-1 tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/lo
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live30.mpd
 https://aqfadtv.xyz/live/unifitv/sensasi/index.mpd
 
-EXTINF:-1 tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202209/20220901/20220901155400159gcw.png",Sensasi 
+#EXTINF:-1 tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202209/20220901/20220901155400159gcw.png",Sensasi 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=OWM1ZGFlNWItNjNjZi0zZGVhLTkyN2YtYWRkYjFlMjM0MTVi
-https://web.hypp.tv:443/PLTV/88888888/224/3221227598/3221227598.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=5P%2FZmSAoS0sKZqU8B1%2BiBYYEAI2LjVtl%2FnTNmW9yrQtXW3007NbNTdF6%2FBijmLq3lc3RrxE9g7cy1w5j6hEAD%2FHl2ogHz3eAyG2k7xToFQmJBU24%2BKwsNeA0VE3pRwoj%3A20240509111821%3AUTC%2C1005926113%2C118.100.29.203%2C20240509111821%2Curn:Huawei:liveTV:SP000004015718%2C1005926113%2C-1%2C0%2C1%2C%2C%2C2%2C595%2C%2C%2C2%2C1615850%2C0%2C521145%2C2391471149%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOwQ6CMBBE_6bHpluk6KEnjYmJQRPQq1noUomFagsm_r2ieJ2ZN3lDwJp2G43JIhMZVKpKVwsJyVIBCSNAqgRJScMiPXKvJavRuba3uTcTdi7WFxBccCmBy4SV093WoZ2X-dhVFDT8sYLCs61Jm9jwJ0aO1gayOLS-50eHr1Nw84RROatBBqlUSyEEpIoNU1pivH0adsW49t0dA5m9t19AN-gisTvWN7SUY0e6H537cYdgPjZvDqTJHfQAAAA&tenantId=6001
+https://web.hypp.tv:443/PLTV/88888888/224/3221227598/3221227598.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=5P%2FZmSAoS0sKZqU8B1%2BiBfAH%2FCWEDunMQVe6YshALilmgt4gDuTUwkLTd6LKuOuBspshh4Qa%2BYwdJHKu5BKKKPHl2ogHz3eAyG2k7xToFQmJBU24%2BKwsNeA0VE3pRwoj%3A20240621105604%3AUTC%2C1005926113%2C118.100.197.192%2C20240621105604%2Curn:Huawei:liveTV:SP000004015718%2C1005926113%2C-1%2C0%2C1%2C%2C%2C2%2C595%2C%2C%2C2%2C1615850%2C0%2C521145%2C144796741%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOy27CMBRE_8ZLCz8CZOEVVaVKVahEyhZN7Gs3wonBDkj9-xJItzNzRmfKsPTxZqyXymkPX8NrDVdLV9sOlVXOoqs0K3RtkpHMIsZ-DE1yM3Y87E5ixVdcSsE3rJ3f3iPCMmxuQ0fZiH_qQPneWzKueH5H4QghU8DUp5F_Rfx-57hMGLWLmdiIbb1VSqv1umLTnLYo50fDflB2abggk_tM4QkYj1iIXWDPCNRgIDPeYnxx--weNn90xhsm8wAAAA&tenantId=6001
 
 EXTINF:-1 tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202209/20220901/20220901155400159gcw.png",Sensasi 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
