@@ -2,6 +2,13 @@
 
 
 
+#EXTINF:-1 tvg-logo="https://iili.io/JUiKSou.md.jpg", Sheriff: Narko Integriti
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+2fc1ae9870d9f413395b4d29f76dac8d:9ec077feb1d763ce2e4662ecbb06404f
+https://s12.upstreamcdn.co/hls2/01/05585/hbnlfa51jxp9_n/master.m3u8?t=KivThQ_tBtqbD41pAYvoXAQZg1Q-h6xtXJyiQrYmRUA&s=1719109087&e=10800&f=27928976&i=113.211&sp=0
+
+
 *************************************************************************************************************************************************************************************************************************
 
 
