@@ -2,7 +2,7 @@
 
 
 
-#EXTINF:-1 tvg-logo="https://iili.io/JUiKSou.md.jpg", Sheriff: Narko Integriti
+#EXTINF:-1 type="VOD MALAY" group-title="Malay Movies" tvg-logo="https://iili.io/JUiKSou.md.jpg", Sheriff: Narko Integriti
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
 2fc1ae9870d9f413395b4d29f76dac8d:9ec077feb1d763ce2e4662ecbb06404f
