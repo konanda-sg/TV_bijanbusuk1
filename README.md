@@ -151,8 +151,8 @@ https://linearfast05.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f8
 https://linearfast07.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_7_Ad/dash.mpd
 
 
-EXTINF:-1 tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/201907/20190716/20190716074123890vav.png",Dunia Sinema 
-
+#EXTINF:-1 tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/201907/20190716/20190716074123890vav.png",Dunia Sinema 
+https://unifi-live01.secureswiftcontent.com/UnifiHD/live27-720H.m3u8
 
 EXTINF:-1 tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202209/20220901/20220901155542159l9k.png",Inspirasi 
 
