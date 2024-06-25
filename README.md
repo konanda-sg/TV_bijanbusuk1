@@ -68,9 +68,10 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/211/default_primary.mpd
 #EXTINF:-1 tvg-logo="https://rtm-images.glueapi.io/120x0/live_channel/okey_Trans.png",Okey 
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
 
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/SukaTV.png",SukeTV
-#EXT-X-STREAM-INF:AVERAGE-BANDWIDTH=2490000,BANDWIDTH=3120000,RESOLUTION=1280x720,FRAME-RATE=60.000,CODECS="avc1.4d001f,mp4a.40.2",CLOSED-CAPTIONS=NONE
-https://live.mana2.my/SukeTv/tracks-v2a1/mono.m3u8?token=1716548252-8cca50adb3a24a2d907a4b11eff330bd-0-bd29beff7defc4786479ffb60bd5e7b5&auth_key=1716548252-8cca50adb3a24a2d907a4b11eff330bd-0-094dfa1ccb552d40a0d5301e033e16bf
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/SukaTV.png",SukeTV
+#EXTGRP:Variety
+#EXTVLCOPT:network-caching=1000
+https://live.mana2.my/SukeTv/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7051/CPS/images/universal/film/logo/202401/20240108/2024010804385071891k.png",TVS
@@ -88,7 +89,7 @@ EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Heroes.png",Her
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/5114/
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5114/default.mpd
 
-EXTINF:-1 tvg-logo="https://www.xtra.com.my/live-tv/assets/img/dramasangat.png",Drama Sangat
+#EXTINF:-1 tvg-logo="https://www.xtra.com.my/live-tv/assets/img/dramasangat.png",Drama Sangat
 #EXTVLCOPT:http-referrer=https://live-xtra-sg1.global.ssl.fastly.net/embed/index.html?vid=11056648&autoplay=1&mute=0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
 https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton5_720p/index.m3u8|Referer=https://live-xtra-sg1.global.ssl.fastly.net/embed/index.html?vid=11056637&autoplay=1&mute=0
@@ -417,9 +418,45 @@ https://web.hypp.tv:443/PLTV/88888888/224/3221227656/3221227656.mpd?rrsip=web.hy
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=OWM1ZGFlNWItNjNjZi0zZGVhLTkyN2YtYWRkYjFlMjM0MTVi
 https://web.hypp.tv:443/PLTV/88888888/224/3221227637/3221227637.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=P9WRHqSrUsuy%2BJikuzsnbLh6LO9cwFJbX0ifkqBLs1eEm6R1BFTj%2F%2B5BveDnXMJVLMXaMDHd%2BOB7wHYKNx8pLeV3eB1im9yO2zVHwdc0cAWVFRTQiCcWXuFIeO21qkbF%3A20230413072448%3AUTC%2C10001002129842%2C115.135.197.250%2C20230413072448%2Curn:Huawei:liveTV:iptv42337%2C10001002129842%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C10000104360778%2C0%2C10000103736904%2C884179594%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOwW7DIBQE_4YjCjgCfOCUqlKlyo0Ut9dqDQ9qBZsEnEj9-8ate93dWc1S4OjlyTrT6tYFTYPa740boGVAE5SAkF6bhlW6dtlK5pDSOMcu-xX7OB0-xY7vuJSCG9avb88JcRt2t2mgYsU_daJyHx1ZXwO_o3LEWChiGfPMjwnf7yVtE0b9ZiaUEY1WrVJKN2xZ0x71_GjYF-ohTxcU8q85_gI2IFViF7gzInWYyM63lP64t-IfNj_9atHa8wAAAA&tenantId=6003
 
-EXTINF:-1 tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/Paramount_Network.png?raw=true",Paramount Network 
+#EXTINF:-1 tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/Paramount_Network.png?raw=true",Paramount Network 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=OGQ0ZGMxNmYtY2QwNC0zZjQ1LWJmYjktYTFjZjM5ZWI5ODdm
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
+https://cempedak-live-cdn.mncnow.id/live/eds/Paramount-HD/sa_dash_vmx/Paramount-HD.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/queen/paramount.png",PARAMOUNT HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://melon-live-cdn.mncnow.id/live/eds/Paramount-HD/sa_dash_vmx/Paramount-HD.mpd
+
+#EXTINF:0 tvg-logo="https://logos-download.com/wp-content/uploads/2018/09/Galaxy_Technology_Logo.png",Galaxy
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
+https://cempedak-live-cdn.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/queen/galaxy.png",GALAXY
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://melon-live-cdn.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
+
+#EXTINF:0 tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/28eb0433661738.56b2ef0f6d976.png",Galaxy MOVIES
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
+https://cempedak-live-cdn.mncnow.id/live/eds/Galaxypremium-HD/sa_dash_vmx/Galaxypremium-HD.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/queen/galaxy_premium.png",GALAXY PREMIUM
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://melon-live-cdn.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd
 
 EXTINF:-1 tvg-logo="https://i.ibb.co/xGLq6CN/Axn-movies-ca.png",AXN Movies
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -444,6 +481,9 @@ https://tgaadi-web.tech/zain_tv.php?tv=108279
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/SonyPixV3.png",Sony Pix   
 https://tgaadi-web.tech/jiotv.php?tv=1488
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/SonyPixV3.png",Sony Pix   
+https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/sonymovie.png", Sony Movies
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
@@ -473,12 +513,18 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2303/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"+DJvZox77jCeUwK1E+W99w", "kid":"YJPhJjmyTNZR7ms8E0RtEA" } ], "type":"temporary" }
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2605/default_primary.mpd
 
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/thrill.png",Thrill
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=http://dens.tv
-http://op-group1-swiftservehd-1.dens.tv/h/h240/02.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/thrill.png",Thrill
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
+https://cempedak-live-cdn.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd 
 
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/queen/thrill.png",THRILL
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://melon-live-cdn.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
 
 ********************************************************************************************KNOWLEDGE***********************************************************************
 
@@ -524,10 +570,8 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2710/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=OWM1ZGFlNWItNjNjZi0zZGVhLTkyN2YtYWRkYjFlMjM0MTVi
 https://web.hypp.tv:443/PLTV/88888888/224/3221227925/3221227925.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=tnUM3pus6bSh1mr%2FQqP7gS%2BLhDQRCdSHNpB7NvbJKHO13ekK2bj%2FEqhmZsgCb487VK201C73xHPJjGvTHv3JiPHl2ogHz3eAyG2k7xToFQmJBU24%2BKwsNeA0VE3pRwoj%3A20221124082916%3AUTC%2C1001767137%2C115.164.56.153%2C20221124082916%2Curn:Huawei:liveTV:XTV57622558%2C1001767137%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C1612403%2C0%2C517698%2C2706399750%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOy2rDMBRE_0ZLoUcqOQutUgKB4gbidlvG1rViIlup5ATy941bdzszZzhzRkeHVwctoavqRWmvN0a0sBslWrLopRWwhhX6rpNTrEOMwxTq5Bfs87T7koILrpTkUrFmudtHhHVZ38aWstP_2InyfejI-dLzOwpHCJkC5iFN_Bjx-MhxnTBqVjVpzFZVRkpj7ZbNS9qgXJ4NO6Ps0nhFJv-Wwi_gesRC7IrugkA1RnLTLcY_7j37p80PI8646_QAAAA&tenantId=6001
 
-EXTINF:-1 tvg-logo="https://d1i01wkzwiao45.cloudfront.net/wp-content/uploads/2016/11/logo.png",AniPlus 
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://op-group1-swiftservehd-1.dens.tv/h/h201/index.m3u8?app_type=web&userid=lite&chname=ANIPLUS_HD
+#EXTINF:-1 tvg-logo="https://d1i01wkzwiao45.cloudfront.net/wp-content/uploads/2016/11/logo.png",AniPlus 
+http://op-group1-swiftservehd-1.dens.tv/h/h114/S4/mnf.m3u8
 
 EXTINF:-1 tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202307/20230727/20230727155824262s56.png",Cartoonito
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -814,153 +858,6 @@ https://astro2.rastream.com/hitz
 
 
 ********************************************************************************************************************************************
-#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://i.imgur.com/B9VgH7A.jpeg", Khunsa (2024) S1 E01
-https://dtacmuar-my.sharepoint.com/personal/series5_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EemW092J-CRAqo08QzmeIsIBftG4lx3YIahU86m9h5dnzA
-
-#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://i.imgur.com/B9VgH7A.jpeg", Khunsa (2024) S1 E02
-https://dtacmuar-my.sharepoint.com/personal/series5_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=ERWyHRD4mAhDo0ISDtS2zAIBu9Bo4baP988N0UK75CwPJA
-
-#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://i.imgur.com/B9VgH7A.jpeg", Khunsa (2024) S1 E03
-https://dtacmuar-my.sharepoint.com/personal/series5_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EbXqDANr9wNLr-zW_70plDcBhJsHufEuFBkJdstX__xatQ
-
-#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://i.imgur.com/B9VgH7A.jpeg", Khunsa (2024) S1 E04
-https://dtacmuar-my.sharepoint.com/personal/series5_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=ER7AE3UiRtdKnNSJgnStyD0BR17cxjQ9ZTFx2bGsNRVi0g
-
-#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://i.imgur.com/B9VgH7A.jpeg", Khunsa (2024) S1 E05
-https://dtacmuar-my.sharepoint.com/personal/series5_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EW86BCS-r6xLqVbjNopcqgQBGltasqlOl6YKHpYzsztmrw
-
-#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://i.imgur.com/B9VgH7A.jpeg", Khunsa (2024) S1 E06
-https://dtacmuar-my.sharepoint.com/personal/series5_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EeDl6mxnrZBBhsS5GAAGtWQBC5-uA8XPWuK1WgBDselAEA
-
-#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://i.imgur.com/B9VgH7A.jpeg", Khunsa (2024) S1 E07
-https://dtacmuar-my.sharepoint.com/personal/series5_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EZXJg9BnTZ5JlSfOl8eRDUsBC81OVvYam8zbYRtQ3uHjGg
-
-#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://i.imgur.com/B9VgH7A.jpeg", Khunsa (2024) S1 E08
-https://dtacmuar-my.sharepoint.com/personal/series5_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EfxFCDB4OBZFj4ZwNU5gQ2sBXzYrwuBOlbvWL0DWu7bbAA
-
-#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://i.imgur.com/B9VgH7A.jpeg", Khunsa (2024) S1 E09
-https://dtacmuar-my.sharepoint.com/personal/series5_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EZBxyepUCC1FuXpNKeEZ0pcBmI5ZAZ0HfUn_E1F-kAXNSA
-
-#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://i.imgur.com/B9VgH7A.jpeg", Khunsa (2024) S1 E10
-https://dtacmuar-my.sharepoint.com/personal/series5_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EXvh8678hX5FnTDh35QZ6aIBElvWy-D4o4vYKNcB_mMOpw
-
-#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://i.imgur.com/B9VgH7A.jpeg", Khunsa (2024) S1 E11
-https://dtacmuar-my.sharepoint.com/personal/series5_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EZwU6IJDrmhJj-Mx8h01poIB6csAsru6QzscL7gDjLYflg
-
-#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://i.imgur.com/B9VgH7A.jpeg", Khunsa (2024) S1 E12
-https://dtacmuar-my.sharepoint.com/personal/series5_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EUAsK45po3ZDjQm7-QluEagB7R7JGHwkADkhaBiypVicYQ
-
-#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://i.imgur.com/B9VgH7A.jpeg", Khunsa (2024) S1 E13
-https://dtacmuar-my.sharepoint.com/personal/series5_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=Efv-rZO6FqRGhYC60PzLMOEBT8Eb9jJDzCgs6gxTL-p7Tg
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=abeb2f5917922b42965232432b08dd10:7b23e7877031951c23eaa8b283c7c310
-#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://i.imgur.com/B9VgH7A.jpeg", Khunsa (2024) S1 E14
-https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/3a9132b9-56e1-514f-9422-30d6e7cf7abf/default.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=33fb2b0f67ee03a99866de748230ed10:3df946233c5c4e659a5772d682ba0a91
-#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://i.imgur.com/B9VgH7A.jpeg", Khunsa (2024) S1 E15
-https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/ebc8b217-9cbb-5a7c-8892-7e21bbafa0f9/default.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a39235631c3ae0246770aea26fc00810:3124a0054d5c9b4119cb27409716e842
-#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://i.imgur.com/B9VgH7A.jpeg", Khunsa (2024) S1 E16
-https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/fcb2972a-36f4-5672-b706-8498faf350b9/default.mpd
-
-#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://i.imgur.com/B9VgH7A.jpeg", Khunsa (2024) S1 E17
-https://dtacmuar-my.sharepoint.com/personal/series5_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EXGKyefj10xFsc457yZLFB4BVGMXtC28glpuPu_yAxa-3A
-
-#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://i.imgur.com/B9VgH7A.jpeg", Khunsa (2024) S1 E18
-https://dtacmuar-my.sharepoint.com/personal/series5_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EY2ya9JL-jFGjYpcvjOoP6UB9nBt22cZ_ES68D8e1s1nmw
-
-#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://i.imgur.com/B9VgH7A.jpeg", Khunsa (2024) S1 E19
-https://dtacmuar-my.sharepoint.com/personal/series5_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=ETk86CavMbVFswdqwmj6L3EBUUvyoOHnktO4AYv1H-Ra9w
-
-#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://i.imgur.com/B9VgH7A.jpeg", Khunsa (2024) S1 E20
-https://dtacmuar-my.sharepoint.com/personal/series5_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EVmrFjCbnn1LthIivGnUawUBCeqyuZto8msR76Tn1aMscw
-
-#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://i.imgur.com/B9VgH7A.jpeg", Khunsa (2024) S1 E21
-https://dtacmuar-my.sharepoint.com/personal/series5_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EQ4E2MQoLbRJsmeZ4i7GdngBJSZjGBWass9481ZTwiAzHQ
-
-#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://i.imgur.com/B9VgH7A.jpeg", Khunsa (2024) S1 E22
-https://dtacmuar-my.sharepoint.com/personal/series5_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=Ef7HePTT6IpApe9a-xakSY4BbjttcOwr_C3XGWoAOBWyOg
-
-#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://i.imgur.com/B9VgH7A.jpeg", Khunsa (2024) S1 E23
-https://dtacmuar-my.sharepoint.com/personal/series5_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=Ecs7kefQGyhBh3vOCKRXLecBx2nEgPyy61xNBjA51ecEdw
-
-#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://i.imgur.com/B9VgH7A.jpeg", Khunsa (2024) S1 E24
-https://dtacmuar-my.sharepoint.com/personal/series5_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EUa7fgxSmnlLuDVnHToskJYBZ1IXIX4CaxLGHqLUDhvPOw
-
-#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://i.imgur.com/B9VgH7A.jpeg", Khunsa (2024) S1 E25
-https://dtacmuar-my.sharepoint.com/personal/series5_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EUQkB4we5RdKmX0vdE7ITB0BtW9EAzmXBDfSlAN_Yz3yvg
-
-#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://i.imgur.com/B9VgH7A.jpeg", Khunsa (2024) S1 E26
-https://dtacmuar-my.sharepoint.com/personal/series5_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EUO5PZQ9BXNLmVuwcY86PFABMZR6Sroo3YZ3BOvuS2Ss8Q
-
-#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://i.imgur.com/B9VgH7A.jpeg", Khunsa (2024) S1 E27
-https://dtacmuar-my.sharepoint.com/personal/series5_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=Ec06GYP1BmNIlQ38Xeminf4BXF9kbfXIZu5BnaoMJ2ERUQ
-
-#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://i.imgur.com/B9VgH7A.jpeg", Khunsa (2024) S1 E28
-https://dtacmuar-my.sharepoint.com/personal/series5_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EVHCJgvEftRFhR7eHZo7iXYBxTgbQaYlZcnu-kcf0dQpyg
-
-
-#EXTINF:-1 type="movie" group-title="PUASA" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1mNOoDq2UFcXJVJ9roAdBTp4G4M.jpg", Puasa 56
-https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/Malay/15%20Puasa.mp4
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"B/9yVhrZcj4Bvik+/91rjQ", "kid":"alWAZ2QW+4shXiNjjdzWEA" } ], "type":"temporary" }
-#EXTINF:-1 type="movie" group-title="PUASA" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IDMVZ_p_IVP_PORT_750x1126_2024221_204328.jpg", Puasa 16
-#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-#EXTVLCOPT:http-user-agent=OTT_1/v4.11.3
-https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/cbfc1b59-d17a-57e3-9a55-6b72c59ef9db/default_primary.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"kXl14frDE+Y6idx2gDJtAg", "kid":"7bk21LznGMZ9qVxZWLxgEA" } ], "type":"temporary" }
-#EXTINF:-1 type="movie" group-title="PUASA" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IVIHW_p_IVP_PORT_750x1126_2024221_204432.jpg", Puasa 17
-#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-#EXTVLCOPT:http-user-agent=OTT_1/v4.11.3
-https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/c5dfdbee-1bfb-59dc-bc04-047e7da111ef/default_primary.mpd
-
-#EXTINF:-1 type="movie" group-title="PUASA" tvg-logo="https://d3avoj45mekucs.cloudfront.net/rojakdaily/media/iylia/news/poster-18-puasa-di-kampong-pisang.jpg", Puasa 18
-https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/Malay/18%20Puasa%20Di%20Kampong%20Pisang.mp4
-
-#EXTINF:-1 type="movie" group-title="PUASA" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2UjXKTrlPnEqqnhSwnZBoqxg8mq.jpg", Puasa 19
-https://calm-rain-70b4.buntai.workers.dev/0:/movie/Malay/19%20Puasa.mp4
-
-
-
-
-
-
-
-
-#EXTINF:-1 type="VOD MALAY" group-title="Malay Movies" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGYwNGJmOWItYTM4YS00ZjZjLTkyZGMtMDA4MWM1OTFjZTBlXkEyXkFqcGdeQXVyMDU2NjAwNg@@._V1_.jpg", Peluang Ketiga (2024)
-https://dtacmuar-my.sharepoint.com/personal/sitamil_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EZI7_lwC9AJFk5MojbhcX1IBCAIga2C2Zvli5gcOuh-wBw
-
-#EXTINF:-1 type="VOD MALAY" group-title="Malay Movies" tvg-logo="https://i.imgur.com/aEbKkDK.png", Asan Lembu (2024)
-https://dtacmuar-my.sharepoint.com/personal/sitamil_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EfhO9maiqgVBgHORbP4MvDgBU0xBE9waKHewUyIXx33jcA
-
-#EXTINF:-1 type="VOD MALAY" group-title="Malay Movies" tvg-logo="https://i.imgur.com/qkN8lLM.jpeg", Daddy Duda (2024)
-https://dtacmuar-my.sharepoint.com/personal/sitamil_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EaqER-zb9WdIsqIP9ppqFQoBM2x1qYX5JOUAyl1GWlMfSg
-
-#EXTINF:-1 type="VOD MALAY" group-title="Malay Movies" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cykmv1tPLJWHX4sml2VziRbrdr4.jpg", Anak Perjanjian Syaitan 2 (2024)
-https://dtacmuar-my.sharepoint.com/personal/mubi2_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EbRWIHH2eZBKhyGdrriQ770BP6tApHbxpnTxAs6C8uufMg
-
-#EXTINF:-1 type="VOD MALAY" group-title="Malay Movies" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/3fb697edbb8d484b93a40b5718e26526/version/3/width/1280/height/720", Mati Hidup Balik (2024) HD
-https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/Malay/Mati.Hidup.Balik.2024.720p.AAC.x264-KSO.mp4
-
-#EXTINF:-1 type="VOD MALAY" group-title="Malay Movies" tvg-logo="https://i.imgur.com/vXGsh50.jpg", Hentian Gerik (2024) HD
-https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/Malay/Perhentian.Gerik..2024.720p.AAC.x264-KSO.mp4
-
-#EXTINF:-1 type="VOD MALAY" group-title="Malay Movies" tvg-logo="https://i.imgur.com/tOtN2hG.jpg", Rampok (2024)
-https://dtacmuar-my.sharepoint.com/personal/sitamil_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=ETxqcmvy8H1Nre6zxjTHag4B80NbrEIiP48LdFPY1pJcgQ
-
-#EXTINF:-1 type="VOD MALAY" group-title="Malay Movies" tvg-logo="https://i.imgur.com/LD1shgE.jpg", Langgar Pantang (2024)
-https://worker-kasyah.buntai.workers.dev/0:/movie/Malay/Langgar.Pantang.2024.1080p.AAC.x264-KSO.mp4
-
-#EXTINF:-1 type="VOD MALAY" group-title="Malay Movies" tvg-logo="https://i.imgur.com/aByMV4j.jpg", Warong (2024)
-https://dtacmuar-my.sharepoint.com/personal/sitamil_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EbA4YOwfbU1LjqGOGW31XVIBwkOEkAsFf8t1UJ7Vf_XJjw
 
 #EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://i.imgur.com/FXSM6mK.jpg", Hikayat Pak Belalang (2023) E01
 https://worker-kasyah.buntai.workers.dev/0:/series/Hikayat%20Pak%20Belalang/Hikayat%20Pak%20Belalang%20(2023)%20EP1.mp4
@@ -973,67 +870,6 @@ https://worker-kasyah.buntai.workers.dev/0:/series/Hikayat%20Pak%20Belalang/Hika
 
 #EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://i.imgur.com/FXSM6mK.jpg", Hikayat Pak Belalang (2023) E04
 https://worker-kasyah.buntai.workers.dev/0:/series/Hikayat%20Pak%20Belalang/Hikayat%20Pak%20Belalang%20(2023)%20EP4.mp4
-
-
-
-#EXTINF:-1 type="VOD MALAY" group-title="Malay Movies" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/289ddab636c94c579efc5824274ece22/version/4/width/1280/height/720", Travelawak Bapak-Bapak Balik Kampung (2024)
-https://calm-rain-70b4.buntai.workers.dev/0:/movie/Malay/Travelawak%20Bapak%20Bapak%20Balik%20Kampung%20(2024).mkv
-
-#EXTINF:-1 type="VOD MALAY" group-title="Malay Movies" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6xQ0ld7J67WVaBLqYqoKPOapOSk.jpg", Gila-Gila Remaja (1985)
-https://dtacmuar-my.sharepoint.com/personal/mubi2_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EVf-BBkWYkFLmoluOHdXV7IBpwUByz7Bi3p3AAkOBpHeKw
-
-#EXTINF:-1 type="VOD MALAY" group-title="Malay Movies" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/z2NujbgBfD0fId0Go1pHLmujYf.jpg", Malbatt Misi Bakara (2023)
-https://dtacmuar-my.sharepoint.com/personal/mubi1_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EdTvx3tjX1ZFv8-3BagATcQBvExBZlF3AfaVitd6qTzd0g
-
-#EXTINF:-1 type="VOD MALAY" group-title="Malay Movies" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bcpiMo3wrhCxiDOFXxvpBepHYMy.jpg", Zombi Kampung Pisang (2007)
-https://hello-world-yellow-lake-ae51.buntai.workers.dev/0:/movie/Malay/Zombi%20Kampung%20Pisang.mp4
-
-#EXTINF:-1 type="VOD MALAY" group-title="Malay Movies" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eR4MDbv9lnwOXmqXPy4B7uSipUx.jpg", Prebet Lapok (1979)
-https://hello-world-yellow-lake-ae51.buntai.workers.dev/0:/movie/Malay/Prebet%20Lapok.mp4
-
-#EXTINF:-1 type="VOD MALAY" group-title="Polis Evo" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Polis_Evo.jpg/220px-Polis_Evo.jpg", Polis Evo S1 E01
-https://hello-si-kacak.buntai.workers.dev/0:/movie/Malay/Polis%20Evo.mp4
-
-#EXTINF:-1 type="VOD MALAY" group-title="Polis Evo" tvg-logo="https://ww69.ohflix.net/uploads/video_thumb/6983.jpg",Polis Evo S1 E02
-https://hello-si-kacak.buntai.workers.dev/0:/movie/Malay/Polis%20Evo%202.mp4
-
-#EXTINF:-1 type="VOD MALAY" group-title="Polis Evo" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eHt8LAmNbuP7rhGWtGyFSLNEdla.jpg",Polis Evo S1 E03
-https://dtacmuar-my.sharepoint.com/personal/sitamil_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=ETtaQ2HY1eZIpCw3sO9cA6wBpZiV8Q8VUbfbV8z-0qOtMQ
-
-#EXTINF:-1 type="VOD MALAY" group-title="Malay Movies" tvg-logo="https://aqfadtv.xyz/images/MatKilau.png",Mat Kilau
-https://beaqfad.vercel.app/api/raw/?path=/VOD/Movies/Mat.Kilau.2022.1080p.NF.WEB-DL.DDP2.0.x264-AqFadTV.mp4 
-
-
-
-
-#EXTINF:-1 type="VOD ENGLISH" tvg-logo="https://assets.stickpng.com/images/580b57fbd9996e24bc43c081.png" group-title="Transformers", Transformers 1
-https://privatemaster.xyz/cdn/stream/master/BiNuTIxLWoxzhMeSkMAFTAmXEGth1GgHuAH9MAwfjPmHaM9OpokycTYNTRYvb9QDpFz1iSDc52PUd75BH9LuyYWoNiWAMVrkbDffNQsbKRdSIlCg2rZEAn7iw5lGYMoz/master.m3u8 
-
-#EXTINF:-1 type="VOD ENGLISH" tvg-logo="https://assets.stickpng.com/images/580b57fbd9996e24bc43c081.png" group-title="Transformers", Transformers 2
-https://privatemaster.xyz/cdn/stream/master/UGuj5PLTomDTpMas2PAyDjv4B2X0by7Foj0Tcf1SVVAm4mvpAUBMroJu9yzACxIlyRZM9exgPI36I6w4AyjMUQHTGZjuz8Y09gxIrBr4dcqpJNS3eTpvaIRt0WEt2FZT/master.m3u8 
-
-#EXTINF:-1 type="VOD ENGLISH" tvg-logo="https://assets.stickpng.com/images/580b57fbd9996e24bc43c081.png" group-title="Transformers", Transformers 3
-https://privatemaster.xyz/cdn/stream/master/mqRXxqN3aAod7VPCVfvJzweMn25cw1Bjj3aRTMxWPigAIvIGqWbCcOJJwwQAsPCibtudRBJscHRuYvNJjfsn6PY031XNaweF7BxwVAVW19hx5ebKEkkvDFEm223YPDCD/master.m3u8 
-
-#EXTINF:-1 type="VOD ENGLISH" tvg-logo="https://assets.stickpng.com/images/580b57fbd9996e24bc43c081.png" group-title="Transformers", Transformers 4
-https://privatemaster.xyz/cdn/stream/master/lil4csqeL7SfvseXYDqzJ3YTVDD7Pa4Flk0zkcEFEDtxfHjltTgGdiRKLBhbR2aVXIxU1aDBEScOCQbWTxElECGTpZaSHfRheIqYQYZJkEpUOJr5nMiNYxfCnPQ5vroL/master.m3u8 
-
-#EXTINF:-1 type="VOD ENGLISH" tvg-logo="https://i.ibb.co/3scjjJn/LAST.jpg" group-title="Transformers", Transformers 5
-https://privatemaster.xyz/cdn/stream/master/yoBcrQflOD9AVUR0g4wCfZAKyQjUNJKYFVg6E5BvybGEOB5MruwiIgJ5IuNKWDx5yhZGykW6QhH0cLhUoTgDsRmbQTVHIvDj4ZGRdT3vK3BfOn9C8OzFxJBzR1JGAUbB/master.m3u8 
-
-#EXTINF:-1 type="VOD ENGLISH" tvg-logo="https://i.ibb.co/k1w8r11/RAISE-OF-THE-BEAST.jpg" group-title="Transformers", Transformers 6
-https://privatemaster.xyz/cdn/stream/master/743XWgJWf6KzszEwhOlQ4oFQ50T0LJGp5INiiKnUHhV23pJHSlzxPGJHOuSiQR7MChXiK9sLufK8gsYhlLwKkHex8nYUWyB0JgVBvBVx1xWXkpesGApA7jmWlV20QPP1/master.m3u8 
-
-
-
-#EXTINF:-1 type="VOD ENGLISH" tvg-logo="https://cdn.textstudio.com/output/sample/normal/4/9/6/5/series-logo-570-5694.webp" group-title="The Bourne", The Bourne 1
-https://www.googleapis.com/drive/v3/files/1JL4xp1GiBbXBiS_ZUJ50VgtVa6CeX008?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4 
-
-#EXTINF:-1 type="VOD ENGLISH" tvg-logo="https://cdn.textstudio.com/output/sample/normal/4/9/6/5/series-logo-570-5694.webp" group-title="The Bourne", The Bourne 2
-https://www.googleapis.com/drive/v3/files/1Kq4xCUzVxxw7Zq8GaPLuxayRhE7XCuBH?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4 
-
-#EXTINF:-1 type="VOD ENGLISH" tvg-logo="https://cdn.textstudio.com/output/sample/normal/4/9/6/5/series-logo-570-5694.webp" group-title="The Bourne", The Bourne 3
-https://www.googleapis.com/drive/v3/files/1BH3fKMygPonozus81_qFtQYEjx3Dd-ba?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4 
 
 
 
@@ -1261,53 +1097,6 @@ https://worker-delicate-rain-inas.buntai.workers.dev/0:/series/Takdir%20Itu%20Mi
 https://worker-delicate-rain-inas.buntai.workers.dev/0:/series/Takdir%20Itu%20Milik%20Aku/Takdir%20Itu%20Milik%20Aku%20(2024)%20EP30.mp4
 
 
-#EXTINF:-1 type="series" group-title="ENGLISH SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mYLOqiStMxDK3fYZFirgrMt8z5d.jpg", LOTR The Rings of Power S1 E01
-https://hello-si-kacak.buntai.workers.dev/0:/series/TLOTR/S1/The.Lord.of.the.Rings.The.Rings.of.Power.EP1.1080p.WEB-OMG.mp4
-
-#EXTINF:-1 type="series" group-title="ENGLISH SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mYLOqiStMxDK3fYZFirgrMt8z5d.jpg", LOTR The Rings of Power S1 E02
-https://hello-si-kacak.buntai.workers.dev/0:/series/TLOTR/S1/The.Lord.of.the.Rings.The.Rings.of.Power.EP2.1080p.WEB-OMG.mp4
-
-#EXTINF:-1 type="series" group-title="ENGLISH SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mYLOqiStMxDK3fYZFirgrMt8z5d.jpg", LOTR The Rings of Power S1 E03
-https://hello-si-kacak.buntai.workers.dev/0:/series/TLOTR/S1/The.Lord.of.the.Rings.The.Rings.of.Power.EP3.1080p.WEB-OMG.mp4
-
-#EXTINF:-1 type="series" group-title="ENGLISH SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mYLOqiStMxDK3fYZFirgrMt8z5d.jpg", LOTR The Rings of Power S1 E04
-https://hello-si-kacak.buntai.workers.dev/0:/series/TLOTR/S1/The.Lord.of.the.Rings.The.Rings.of.Power.EP4.1080p.WEB-OMG.mp4
-
-#EXTINF:-1 type="series" group-title="ENGLISH SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mYLOqiStMxDK3fYZFirgrMt8z5d.jpg", LOTR The Rings of Power S1 E05
-https://hello-si-kacak.buntai.workers.dev/0:/series/TLOTR/S1/The.Lord.of.the.Rings.The.Rings.of.Power.EP5.1080p.WEB-OMG.mp4
-
-#EXTINF:-1 type="series" group-title="ENGLISH SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mYLOqiStMxDK3fYZFirgrMt8z5d.jpg", LOTR The Rings of Power S1 E06
-https://hello-si-kacak.buntai.workers.dev/0:/series/TLOTR/S1/The.Lord.of.the.Rings.The.Rings.of.Power.EP6.1080p.WEB-OMG.mp4
-
-#EXTINF:-1 type="series" group-title="ENGLISH SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mYLOqiStMxDK3fYZFirgrMt8z5d.jpg", LOTR The Rings of Power S1 E07
-https://hello-si-kacak.buntai.workers.dev/0:/series/TLOTR/S1/The.Lord.of.the.Rings.The.Rings.of.Power.EP7.1080p.WEB-OMG.mp4
-
-#EXTINF:-1 type="series" group-title="ENGLISH SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mYLOqiStMxDK3fYZFirgrMt8z5d.jpg", LOTR The Rings of Power S1 E08
-https://hello-si-kacak.buntai.workers.dev/0:/series/TLOTR/S1/The.Lord.of.the.Rings.The.Rings.of.Power.EP8.1080p.WEB-OMG.mp4
-
-#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://i.imgur.com/VfcjV6g.jpeg", Nak Dengar Cerita Hantu (2023)  S1 E01
-https://dtacmuar-my.sharepoint.com/personal/series4_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EYDNUgn4_k1IrkvYEzPy4NYBz0-P7lYmWYNUvGHv8auxaw
-
-#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://i.imgur.com/VfcjV6g.jpeg", Nak Dengar Cerita Hantu (2023)  S1 E02
-https://dtacmuar-my.sharepoint.com/personal/series4_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EZN9WFi8OmdHrpuS02-w9mIBus1nvDootdOa18QYdWKYiw
-
-#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://i.imgur.com/VfcjV6g.jpeg", Nak Dengar Cerita Hantu (2023)  S1 E03
-https://dtacmuar-my.sharepoint.com/personal/series4_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=Ea6Jt2F12iVOvnIwwTJ06u4BxOKvN2saW8vCmmo-tlL3Iw
-
-#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://i.imgur.com/VfcjV6g.jpeg", Nak Dengar Cerita Hantu (2023)  S1 E04
-https://dtacmuar-my.sharepoint.com/personal/series4_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EZGdRiNxeUxGhu16ZVmS1q8BslJmCaHSt-Yn6ENJfVUKFQ
-
-#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://i.imgur.com/VfcjV6g.jpeg", Nak Dengar Cerita Hantu (2023)  S1 E05
-https://dtacmuar-my.sharepoint.com/personal/series4_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EUaVc4WIeXtCs1V8AOpSFpkByIygnhyrQ7VsYTLOKboNJg
-
-#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://i.imgur.com/VfcjV6g.jpeg", Nak Dengar Cerita Hantu (2023)  S1 E06
-https://dtacmuar-my.sharepoint.com/personal/series4_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EQq-G2wt3OFCtYsMrZ-jNGoB8iiWonprUota2ZJPw7-Oqw
-
-#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://i.imgur.com/VfcjV6g.jpeg", Nak Dengar Cerita Hantu (2023)  S1 E07
-https://dtacmuar-my.sharepoint.com/personal/series4_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=ETrhigf5AalEmz7hu8zkkloBPzmxwatY1b4Gweyt2rT9Ow
-
-#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://i.imgur.com/VfcjV6g.jpeg", Nak Dengar Cerita Hantu (2023)  S1 E08
-https://dtacmuar-my.sharepoint.com/personal/series4_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EZO3CRyWMbFFvATpaGl8pBwBt9UDSZD5ZnCwB5j-ofHXzw
 
 #EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://i.imgur.com/IdtMinV.jpg", Layang Layang Perkahwinan (2024)  S1 E01
 https://worker-kasyah.buntai.workers.dev/0:/series/Layang%20Layang%20Perkahwinan/Layang%20Layang%20Perkahwinan%20(2024)%20EP1.mp4
@@ -1393,124 +1182,6 @@ https://worker-delicate-rain-inas.buntai.workers.dev/0:/series/Layang%20Layang%2
 #EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://i.imgur.com/IdtMinV.jpg", Layang Layang Perkahwinan (2024)  S1 E28
 https://worker-delicate-rain-inas.buntai.workers.dev/0:/series/Layang%20Layang%20Perkahwinan/Layang%20Layang%20Perkahwinan%20(2024)%20EP28%20Akhir.mp4
 
-ROCK
-
-#EXTINF:-1 type="movie" group-title="Rock" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/thumb/8/84/Rock_01.jpg/220px-Rock_01.jpg", Rock 1
-https://hello-si-kacak.buntai.workers.dev/0:/movie/Malay/Rock.mp4
-
-#EXTINF:-1 type="movie" group-title="Rock" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/d/d1/Rock_Oo_Poster_01.png", Rock 2
-https://hello-si-kacak.buntai.workers.dev/0:/movie/Malay/Rock%20Oo!%20Rimba%20Bara%20is%20back.mp4
-
-#EXTINF:-1 type="movie" group-title="Rock" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzAyNTg0NTAtNTRmYy00YzhkLWI3MzUtYWY1OTc1ZDE1YWY4L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMzQyMjc3ODI@._V1_.jpg", Rock 3
-https://hello-si-kacak.buntai.workers.dev/0:/movie/Malay/Rock%20Bro.mp4
-
-#EXTINF:-1 type="movie" group-title="Rock" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTkyMGZjMDEtYTc4Yi00MzUzLWEzYjUtNWU1N2M2OWE2MmU1XkEyXkFqcGdeQXVyODc1ODUxNjE@._V1_.jpg", Rock 4
-https://hello-si-kacak.buntai.workers.dev/0:/movie/Malay/Rock%204-%20Rockers%20Never%20Dai.mkv
-
-FAST & FURIOUS
-
-#EXTINF:-1 type="VOD ENGLISH" group-title="The Fast and The Furious" tvg-logo="https://www.themoviedb.org/t/p/w500/gqY0ITBgT7A82poL9jv851qdnIb.jpg", The Fast and The Furious 1
-https://dtacmuar-my.sharepoint.com/personal/mubi1_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=Ed_85BTygldFo0BVmMnOA5QBBwb8Iu9zlZKmJf-Gju5Ezw
-
-#EXTINF:-1 type="VOD ENGLISH" group-title="The Fast and The Furious" tvg-logo="https://www.themoviedb.org/t/p/w500/qC167IbZpSrwX7wWgg3BeDQbTDr.jpg", The Fast and The Furious 2
-https://dtacmuar-my.sharepoint.com/personal/mubi1_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=ETO1JXohTiFEmIFcko69eWQBes5gVGjjK1WU5m_djKENKA
-
-#EXTINF:-1 type="VOD ENGLISH" group-title="The Fast and The Furious" tvg-logo="https://www.themoviedb.org/t/p/w500/cm2ffqb3XovzA5ZSzyN3jnn8qv0.jpg", The Fast and The Furious 3
-https://dtacmuar-my.sharepoint.com/personal/mubi1_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EW9C5Y9CnkZNs_00AzmzLQsBJJEzq4D3SZab5UP1okWgTA
-
-#EXTINF:-1 type="VOD ENGLISH" group-title="The Fast and The Furious" tvg-logo="https://www.themoviedb.org/t/p/original/pk8TyMix5QtQ1ND5MROfIPvx4XJ.jpg", The Fast and The Furious 4
-https://dtacmuar-my.sharepoint.com/personal/mubi1_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EaH8dIVoIApEjeGV0AhUug8BvhyIsmFgo5-EUVEJ2zKKuA
-
-#EXTINF:-1 type="VOD ENGLISH" group-title="The Fast and The Furious" tvg-logo="https://www.themoviedb.org/t/p/w500/vDztZS30sheoqnJnKyO4QMnf3f8.jpg", The Fast and The Furious 5
-https://dtacmuar-my.sharepoint.com/personal/mubi1_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EQIqVF8BScJKpfwcaYJHcRoBvHfm2re3miK4YuVSqN5OKg
-
-#EXTINF:-1 type="VOD ENGLISH" group-title="The Fast and The Furious" tvg-logo="https://www.themoviedb.org/t/p/w500/n31VRDodbaZxkrZmmzyYSFNVpW5.jpg", The Fast and The Furious 6
-https://dtacmuar-my.sharepoint.com/personal/mubi1_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EWBgbiVY0JxPoZx3yZ5DN58BAr_xqFNvltCTC9iSRT-BJA
-
-#EXTINF:-1 type="VOD ENGLISH" group-title="The Fast and The Furious" tvg-logo="https://www.themoviedb.org/t/p/original/jPFsjmFlTFmpIY41BP3C4sVYOKw.jpg", The Fast and The Furious 7
-https://dtacmuar-my.sharepoint.com/personal/mubi1_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=Ea889maKkjVDge6x6VcSBogBccvvv5w4MnvSZaFPhsAphA
-
-#EXTINF:-1 type="VOD ENGLISH" group-title="The Fast and The Furious" tvg-logo="https://www.themoviedb.org/t/p/w500/dImWM7GJqryWJO9LHa3XQ8DD5NH.jpg", The Fast and The Furious 8
-https://dtacmuar-my.sharepoint.com/personal/mubi1_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EQ74OIUwaZ9Li3OWr4Le5XwBjO36Da8p4MPFAoIFWl6uCA
-
-#EXTINF:-1 type="VOD ENGLISH" group-title="The Fast and The Furious" tvg-logo="https://www.themoviedb.org/t/p/w500/qRyy2UmjC5ur9bDi3kpNNRCc5nc.jpg", The Fast and The Furious 9
-https://dtacmuar-my.sharepoint.com/personal/mubi1_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EYFJJhoqTdJOnXSIglFaOkUBV3yWfkGLT3gOj1s5HIeMKg
-
-#EXTINF:-1 type="VOD ENGLISH" group-title="The Fast and The Furious" tvg-logo="https://image.tmdb.org/t/p/original/fiVW06jE7z9YnO4trhaMEdclSiC.jpg", The Fast and The Furious 10
-https://storage.dewanonton.online/hls/37f2b3ab-e639-474a-a890-b9e951cd640a.mp4/index.m3u8
-
-TRANSPOTER
-
-#EXTINF:-1 type="VOD ENGLISH" group-title="Transporter" tvg-logo="https://www.themoviedb.org/t/p/w500/v3QIFUWgtVN4wejVuDZowuyJ20W.jpg", The Transporter (2002)
-https://dtacmuar-my.sharepoint.com/personal/mubi1_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=Ec-qP4rgQAlGkh5IR8Y-ByQBrclpeMGZ0dv_KSHBcCmW4Q
-
-#EXTINF:-1 type="VOD ENGLISH" group-title="Transporter" tvg-logo="https://www.themoviedb.org/t/p/w500/cdm17vK8PxHfTi7ayZf6WKbOgUO.jpg", Transporter 2 (2005)
-https://dtacmuar-my.sharepoint.com/personal/mubi1_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=Ecn5kiQ4R7BAnqvmHrWtLOABFwMApPpOeZK7D-iBIwcXUg
-
-#EXTINF:-1 type="VOD ENGLISH" group-title="Transporter" tvg-logo="https://www.themoviedb.org/t/p/w500/ngpLhUccj6mlvAVpiIa7jUcFxhT.jpg", Transporter 3 (2008)
-https://dtacmuar-my.sharepoint.com/personal/mubi1_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EVRurJvLQPRCgNtkzY2xtywBC_KYUepK-3W_3SSaQ-QyPA
-
-#EXTINF:-1 type="VOD ENGLISH" group-title="Transporter" tvg-logo="https://www.themoviedb.org/t/p/w500/71kaQfdrMy0LHSeLRADsvlDGCgb.jpg", The Transporter Refueled (2015)
-https://dtacmuar-my.sharepoint.com/personal/mubi1_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EZKqF7A79n1EhTb_xpg34DABHV6OZYPSdKA6kDIhkYCvRg
-
-JOHN WICK
-
-#EXTINF:-1 type="VOD ENGLISH" group-title="John Wick" tvg-logo="https://www.themoviedb.org/t/p/w500/fZPSd91yGE9fCcCe6OoQr6E3Bev.jpg", John Wick 01
-https://dtacmuar-my.sharepoint.com/personal/mubi2_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EUTDiYr__YRMi1m5qWQtVvEBlT6RN0N9mXW-jePR7uz2Bg
-
-#EXTINF:-1 type="VOD ENGLISH" group-title="John Wick" tvg-logo="https://www.themoviedb.org/t/p/original/vn4vJSzAvkHeVp6TSnjppotoLqQ.jpg", John Wick 02
-https://dtacmuar-my.sharepoint.com/personal/mubi2_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EcL4ZBQgbl5Ep6eAGyhVBdwBq3Xw_deL3yg_u2pPrcBAtg
-
-#EXTINF:-1 type="VOD ENGLISH" group-title="John Wick" tvg-logo="https://www.themoviedb.org/t/p/original/skprszS1enWcPFQk6eQ3k29pU29.jpg", John Wick 03
-https://dtacmuar-my.sharepoint.com/personal/mubi2_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=ER-PE-XMXGpGroHbkv9E2mABS61INyWFJ6j5FIS_EvfMww
-
-#EXTINF:-1 type="VOD ENGLISH" group-title="John Wick" tvg-logo="https://image.tmdb.org/t/p/original/vZloFAK7NmvMGKE7VkF5UHaz0I.jpg", John Wick 04
-https://storage.dewanonton.online/hls/3e3d79c3-a19d-46c3-a231-c3df79c92673.mp4/index.m3u8
-
-PLANET OF THE APES
-
-#EXTINF:-1 type="VOD ENGLISH" group-title="The Apes" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2IZcJHsTugOdyg0Y8ejj4CM2X3a.jpg", The Apes 01
-https://dtacmuar-my.sharepoint.com/personal/sitamil_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EUqLJfn_TiJIvtljGjYk6BgBaATH6gRB6gMBluv4SnNKjw
-
-#EXTINF:-1 type="VOD ENGLISH" group-title="The Apes" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cjLsuP75UDlRdJVMXzXg3TJ4umX.jpg", The Apes 02
-https://dtacmuar-my.sharepoint.com/personal/sitamil_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EQJkGc-h4VVJpW06b9mYic0BbcogiEIthDAODDiSvFVzwA
-
-#EXTINF:-1 type="VOD ENGLISH" group-title="The Apes" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kScdQEwS9jPEdnO23XjGAtaoRcT.jpg", The Apes 03
-https://dtacmuar-my.sharepoint.com/personal/sitamil_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EbjLkoBo6j1OoIj80_ni6ksBIAPzJmsQG1QjMTNO1y9mUA
-
-#EXTINF:-1 type="VOD ENGLISH" group-title="The Apes" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pbPwGTyiH5TjoTtarY5gM0z56kQ.jpg", The Apes 04
-https://dtacmuar-my.sharepoint.com/personal/sitamil_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EbrFwptjxe1FtqUYwpJfvp8BaLoO4h1mCrmdUAeugwBZuw
-
-#EXTINF:-1 type="VOD ENGLISH" group-title="The Apes" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Kingdom_of_the_Planet_of_the_Apes_poster.jpg/220px-Kingdom_of_the_Planet_of_the_Apes_poster.jpg",  Kingdom of the Planet of the Apes (2024)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=  2fc1ae9870d9f413395b4d29f76dac8d:9ec077feb1d763ce2e4662ecbb06404f
-https://z.pollllop.com/_v11/eb653fef7e523c20b2ac3809db802acb7d7283afad96523d768378bcc0fbfa8598fbabbc42f192d7bd80c3b6a1d083472a4141f8582133db77b9e9bfce65bd994d7d9af9dc0af7c924f21103137a88497732a73da633fc1fe496d384ff18b61a900088dbed6fc724fe355f5e764530012ab18da81cf4a9491bfe28d5aa3e0763/1080/index.m3u8 
-
-
-THE AVENGERS
-
-#EXTINF:-1 type="VOD ENGLISH" group-title="Avengers" tvg-logo="https://ww69.ohflix.net/uploads/video_thumb/955.jpg", The Avengers (2012)
-https://hello-si-kacak.buntai.workers.dev/0:/movie/English/The%20Avengers.mp4
-
-#EXTINF:-1 type="VOD ENGLISH" group-title="Avengers" tvg-logo="https://ww69.ohflix.net/uploads/video_thumb/1806.jpg", Avengers : Age Of Ultron (2015)
-https://hello-si-kacak.buntai.workers.dev/0:/movie/English/AVENGERS%20AGE%20OF%20ULTRON%20(2015)%20.mp4
-
-#EXTINF:-1 type="VOD ENGLISH" group-title="Avengers" tvg-logo="https://ww69.ohflix.net/uploads/video_thumb/1041.jpg", Avengers : Ifinity War (2018)
-https://hello-si-kacak.buntai.workers.dev/0:/movie/English/Avengers-%20Infinity%20War.mp4
-
-#EXTINF:-1 type="VOD ENGLISH" group-title="Avengers" tvg-logo="https://ww69.ohflix.net/uploads/video_thumb/638.jpg", Avengers : Endgame (2019)
-https://hello-si-kacak.buntai.workers.dev/0:/movie/English/Avengers-%20Endgame.mp4
-
-ant man
-
-#EXTINF:-1 type="VOD ENGLISH" group-title="Ant-Man" tvg-logo="https://ww69.ohflix.net/uploads/video_thumb/2786.jpg", Ant-Man (2015)
-https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/English/Ant-Man.mp4
-
-#EXTINF:-1 type="VOD ENGLISH" group-title="Ant-Man" tvg-logo="https://ww69.ohflix.net/uploads/video_thumb/3262.jpg", Ant-Man and the Wasp (2018)
-https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/English/Ant-Man%20and%20the%20Wasp.mp4
-
-#EXTINF:-1 type="VOD ENGLISH" group-title="Ant-Man" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ngl2FKBlU4fhbdsrtdom9LVLBXw.jpg", Ant-Man and the Wasp: Quantumania (2023)
-https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/English/Ant-Man%20and%20the%20Wasp-%20Quantumania.mp4
 
 
 #EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1rkM4tLoNKC33sLVyAWgogZGo3B.jpg", Mechamato S1 E01
@@ -2949,429 +2620,5 @@ https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/
 https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/Upin&Ipin/S16/Upin&Ipin_S16E14_Episode%2014.mp4
 
 
-
-
-#EXTVLCOPT:http-referrer=https://emturbovid.com/
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/Referer=https://emturbovid.com/
-#EXTINF:-1 type="VOD MALAY" group-title="Hantu Kak Limah" tvg-logo="https://s5.lk21static.xyz/wp-content/uploads/2019/10/film-hantu-kak-limah-2018-lk21.jpg",Hantu Kak Limah (2018)
-https://ss288.quenedi.com/stream/C/1F/yibTC6AOPhohEMCrpS9EWpiuFEbNNDfa79MKGfOI/master.m3u8
-
-#EXTVLCOPT:http-referrer=https://emturbovid.com/
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/Referer=https://emturbovid.com/
-#EXTINF:-1 type="VOD MALAY" group-title="Hantu Kak Limah" tvg-logo="https://s2.lk21static.xyz/wp-content/uploads/2018/01/film-hantu-kak-limah-2-husin-mon-dan-jin-pakai-toncit-2013.jpg",Husin, Mon & Jin Pakai Toncit (Hantu kak limah 2: Husin, Mon dan Jin Pakai Toncit) (2013)
-https://ss01.fantayuba.com/stream/B/42/B9eBlnWi9PHXOpftu7oSEocwkNc02VmIOFZ/master.m3u8
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=74fb8c71b796d01e04355267a174b910:ecf96eae99421f1c836f454512183cf8
-#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-#EXTINF:-1 type="VOD MALAY" group-title="Hantu Kak Limah" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDhjMzU5MjktNjNkYS00NDQ5LTk5YjAtZWQ5ZWQ3ZjFmYmRlXkEyXkFqcGdeQXVyMjgzNDQyMjE@._V1_.jpg",Hantu Kak Limah Balik Rumah
-https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/5d23d23c-c910-51a6-a1ae-a13d147ff7f2/default_primary.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"l+/T13+pAor5crRq3XpF0A","kid":"caDQeyunsF/11KIyV6uAAQ"}],"type":"temporary"}
-#EXTINF:-1 type="VOD ENGLISH" group-title="Teenage Mutant Ninja Turtles" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/018193X0-portrait.jpg",Teenage Mutant Ninja Turtles S1 E01
-https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6431f1fed940521074cdc825_hbovodhd/dash0/MYS_index.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"00p/00X91bPSw9FooHrJiA","kid":"PGqxgex8Ply+ntOo/uglvg"}],"type":"temporary"}
-#EXTINF:-1 type="VOD ENGLISH" group-title="Teenage Mutant Ninja Turtles" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/020118X0-portrait.jpg",Teenage Mutant Ninja Turtles S1 E02
-https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64375cdcd940521074ce4d58_hbovodhd/dash0/MYS_index.mpd
-
-#EXTINF:-1 type="VOD MALAY" group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Pendekar Bujang Lapok
-https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1959%5D%20Pendekar%20Bujang%20Lapok%20SDTV.mp4
-#EXTINF:-1 type="VOD MALAY" group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Seniman Bujang Lapok
-https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1961%5D%20Seniman%20Bujang%20Lapok%20SDTV.mp4
-#EXTINF:-1 type="VOD MALAY" group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Bujang Lapok
-https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1957%5D%20Bujang%20Lapok%20SDTV.mp4
-#EXTINF:-1 type="VOD MALAY" group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Ali Baba Bujang Lapok
-https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1961%5D%20Ali%20Baba%20Bujang%20Lapok%20SDTV.mp4
-#EXTINF:-1 type="VOD MALAY" group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Anak Bapak
- https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1968%5D%20Anak%20Bapak%20SDTV.mp4
-#EXTINF:-1 type="VOD MALAY" group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Keluarga 69
- https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1967%5D%20Keluarga%2069%20VCD.mp4
-#EXTINF:-1 type="VOD MALAY" group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Tiga Abdul
-https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1964%5D%20Tiga%20Abdul%20SDTV.mp4
-#EXTINF:-1 type="VOD MALAY" group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Ibu Mertuaku
-https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1969%5D%20Ibu%20Mertuaku%20SDTV.mp4
-#EXTINF:-1 type="VOD MALAY" group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Do Re Mi
-https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1966%5D%20Do%20Re%20Mi%20SDTV.mp4
-#EXTINF:-1 type="VOD MALAY" group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Nasib Do Re Mi
-https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1966%5D%20Nasib%20Do%20Re%20Mi%20SDTV.mp4
-#EXTINF:-1 type="VOD MALAY" group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Laksamana Do Re Mi
-https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1972%5D%20Laksamana%20Do%20Re%20Mi%20SDTV.mp4
-#EXTINF:-1 type="VOD MALAY" group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Masam Masam Manis
-https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1965%5D%20Masam%20Masam%20Manis%20SDTV.mp4
-#EXTINF:-1 type="VOD MALAY" group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Labu dan Labi
-https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1962%5D%20Labu%20dan%20Labi%20SDTV.mp4
-#EXTINF:-1 type="VOD MALAY" group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Nasib Si Labu Labi
-https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1963%5D%20Nasib%20Si%20Labu%20Labi%20SDTV.mp4
-#EXTINF:-1 type="VOD MALAY" group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Enam Jahanam
-https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1969%5D%20Enam%20Jahanam%20SDTV.mp4
-#EXTINF:-1 type="VOD MALAY" group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Nujum Pak Belalang
-https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1959%5D%20Nujum%20Pak%20Belalang%20SDTV.mp4
-#EXTINF:-1 type="VOD MALAY" group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Ahmad Albab
-https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1968%5D%20Ahmad%20Albab%20SDTV.mp4
-#EXTINF:-1 type="VOD MALAY" group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Madu Tiga
-https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1964%5D%20Madu%20Tiga%20SDTV.mp4
-#EXTINF:-1 type="VOD MALAY" group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Rachun Dunia
-https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1950%5D%20Rachun%20Dunia%20VCD.mp4
-#EXTINF:-1 type="VOD MALAY" group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Juwita
-https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1951%5D%20Juwita%20SDTV.mp4
-#EXTINF:-1 type="VOD MALAY" group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Anjuran Nasib
-https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1952%5D%20Anjoran%20Nasib%20VCD.mp4
-#EXTINF:-1 type="VOD MALAY" group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Hujan Panas
-https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1953%5D%20Hujan%20Panas%20SDTV.mp4
-#EXTINF:-1 type="VOD MALAY" group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Ibu
-https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1953%5D%20Ibu%20SDTV.mp4
-#EXTINF:-1 type="VOD MALAY" group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Merana
-https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1954%5D%20Merana%20SDTV.mp4
-#EXTINF:-1 type="VOD MALAY" group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Panggilan Pulau
-https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1954%5D%20Panggilan%20Pulau%20VCD.mp4
-#EXTINF:-1 type="VOD MALAY" group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Abu Hasan Penchuri
-https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1955%5D%20Abu%20Hasan%20Penchuri%20VCD.mp4
-#EXTINF:-1 type="VOD MALAY" group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Hang Tuah
-https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1955%5D%20Hang%20Tuah%20SDTV.mp4
-#EXTINF:-1 type="VOD MALAY" group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Penarek Becha
-https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1955%5D%20Penarek%20Becha%20VCD.mp4
-#EXTINF:-1 type="VOD MALAY" group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Anakku Sazali
-https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1956%5D%20Anakku%20Sazali%20SDTV.mp4
-#EXTINF:-1 type="VOD MALAY" group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Semerah padi
-https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1956%5D%20Semerah%20Padi%20VCD.mp4
-#EXTINF:-1 type="VOD MALAY" group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Sarjan Hassan
-https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1958%5D%20Sarjan%20Hassan%20SDTV.mp4
-#EXTINF:-1 type="VOD MALAY" group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Sumpah Orang Minyak
-https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1958%5D%20Sumpah%20Orang%20Minyak%20VCD.mp4
-#EXTINF:-1 type="VOD MALAY" group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Musang Berjanggut
-https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1959%5D%20Musang%20Berjanggut%20SDTV.mp4
-#EXTINF:-1 type="VOD MALAY" group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Antara Dua Darjat
-https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1960%5D%20Antara%20Dua%20Darjat%20SDTV.mp4
-#EXTINF:-1 type="VOD MALAY" group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Kanchan Tirana
-https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1968%5D%20Kanchan%20Tirana%20VCD.mp4
-#EXTINF:-1 type="VOD MALAY" group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Ragam P Ramlee
-https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1964%5D%20Ragam%20P%20Ramlee%20SDTV.mp4
-#EXTINF:-1 type="VOD MALAY" group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Ragam P Ramlee - Mintak Nombor Ekor
-https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1964%5D%20Ragam%20P%20Ramlee%20-%20Mintak%20Nombor%20Ekor%20VCD.mp4
-#EXTINF:-1 type="VOD MALAY" group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Sabarudin Tukang Kasut
-https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1966%5D%20Sabarudin%20Tukang%20Kasut%20SDTV.mp4
-#EXTINF:-1 type="VOD MALAY" group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Di Belakang Tabir
-https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1970%5D%20Di%20Belakang%20Tabir%20SDTV.mp4
-#EXTINF:-1 type="VOD MALAY" group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Dr Rushdi
-https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1970%5D%20Dr%20Rushdi%20VCD.mp4
-#EXTINF:-1 type="VOD MALAY" group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Gerimis
-https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1968%5D%20Gerimis%20VCD.mp4
-#EXTINF:-1 type="VOD MALAY" group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Jangan Tinggal Daku
-https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1971%5D%20Jangan%20Tinggal%20Daku%20SDTV.mp4
-#EXTINF:-1 type="VOD MALAY" group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Putus Sudah Kasih Sayang
-https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1971%5D%20Putus%20Sudah%20Kasih%20Sayang%20SDTV.mp4
-
-#EXTINF:-1 type="VOD ENGLISH" group-title="Iron Man" tvg-logo="http://tny.im/oQ7", Iron Man
-https://worker-kasyah.buntai.workers.dev/0:/movie/English/Iron%20Man%201.mp4
-#EXTINF:-1 type="VOD ENGLISH" group-title="Iron Man" tvg-logo="http://tny.im/oQ8", Iron Man 2
-https://worker-kasyah.buntai.workers.dev/0:/movie/English/Iron%20Man%202.mp4
-#EXTINF:-1 type="VOD ENGLISH" group-title="Iron Man" tvg-logo="http://tny.im/oQY", Iron Man 3 (2013)
-https://worker-kasyah.buntai.workers.dev/0:/movie/English/Iron%20Man%203.mp4
-#EXTINF:-1 type="VOD ENGLISH" group-title="THOR" tvg-logo="https://www.themoviedb.org/t/p/w500/prSfAi1xGrhLQNxVSUFh61xQ4Qy.jpg", THOR
-https://calm-rain-70b4.buntai.workers.dev/0:/Movie2/English/Marvel%20Collection/Thor%20(2011).mp4
-#EXTINF:-1 type="VOD ENGLISH" group-title="THOR" tvg-logo="https://www.themoviedb.org/t/p/w500/wp6OxE4poJ4G7c0U2ZIXasTSMR7.jpg", THOR The Dark World
-https://calm-rain-70b4.buntai.workers.dev/0:/Movie2/English/Marvel%20Collection/Thor-%20The%20Dark%20World%20(2013).mp4
-#EXTINF:-1 type="VOD ENGLISH" group-title="THOR" tvg-logo="https://www.themoviedb.org/t/p/w500/rzRwTcFvttcN1ZpX2xv4j3tSdJu.jpg", THOR Ragnarok
-https://calm-rain-70b4.buntai.workers.dev/0:/Movie2/English/Marvel%20Collection/Thor-%20Ragnarok%20(2017).mp4
-
-#EXTINF:-1 type="VOD ENGLISH" group-title="Insidious" tvg-logo="https://www.themoviedb.org/t/p/w500/tmlDFIUpGRKiuWm9Ixc6CYDk4y0.jpg", Insidious
-https://hello-si-kacak.buntai.workers.dev/0:/movie/English/Insidious.mp4
-#EXTINF:-1 type="VOD ENGLISH" group-title="Insidious" tvg-logo="https://www.themoviedb.org/t/p/original/w5JjiB3O1CLDXbTJe1QpU5RHmlU.jpg", Insidious Chapter II
-https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Insidious/Insidious%20Chapter%202%202013.mp4
-#EXTINF:-1 type="VOD ENGLISH" group-title="Insidious" tvg-logo="https://www.themoviedb.org/t/p/w500/iDdGfdNvY1EX0uDdA4Ru77fwMfc.jpg", Insidious Chapter III
-https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Insidious/Insidious%20Chapter%203%202015.mp4
-#EXTINF:-1 type="VOD ENGLISH" group-title="Insidious" tvg-logo="https://www.themoviedb.org/t/p/original/6c9ti2JcR3dHyR3qFXoZqVMx0SH.jpg", Insidious The Last Key
-https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Insidious/Insidious-%20The%20Last%20Key%20(2018).mp4
-
-#EXTINF:-1 type="VOD ENGLISH" group-title="Rambo" tvg-logo="https://www.themoviedb.org/t/p/w500/fVamGe8rfEQUrMbzumL1t0DslCA.jpg", Rambo First Blood Part 1
-https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Rambo/Rambo.First.Blood.Part.I.1982.mp4
-#EXTINF:-1 type="VOD ENGLISH" group-title="Rambo" tvg-logo="https://www.themoviedb.org/t/p/original/jD9RfNGLuC8kUrW7hxjKChDdctm.jpg", Rambo First Blood Part 2
-https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Rambo/Rambo%20First%20Blood%20Part%202%20(1985).mkv
-#EXTINF:-1 type="VOD ENGLISH" group-title="Rambo" tvg-logo="https://www.themoviedb.org/t/p/original/4JdznE7nvxEkDR4OfwdoRKIeXVX.jpg", Rambo III
-https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Rambo/Rambo.III.1988.mp4
-#EXTINF:-1 type="VOD ENGLISH" group-title="Rambo" tvg-logo="https://www.themoviedb.org/t/p/w500/bFjt1JwDRn98j03UQgQ005bNrti.jpg", Rambo
-https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Rambo/Rambo%20(2008).mp4
-#EXTINF:-1 type="VOD ENGLISH" group-title="Rambo" tvg-logo="https://www.themoviedb.org/t/p/w500/kTQ3J8oTTKofAVLYnds2cHUz9KO.jpg", Rambo Last Blood
-https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Rambo/Rambo_%20Last%20Blood%20(2019).mp4
-
-
-
-*****************************************************movie*****************************************************************
-
-#EXTINF:-1 type="VOD ENGLISH" group-title="Doctor Strange" tvg-logo="https://image.tmdb.org/t/p/w185/xfWac8MTYDxujaxgPVcRD9yZaul.jpg", Doctor Strange 1
-https://www.googleapis.com/drive/v3/files/1fMZK2nyeUTLEJaL_fWeFtMdu8CtNBNbj?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 type="VOD ENGLISH" group-title="Doctor Strange" tvg-logo="https://image.tmdb.org/t/p/w185/xZmHkFH3fcO26971jQgMonp1AM4.jpg", Doctor Strange 2 : Multiverse of Madness
-https://www.googleapis.com/drive/v3/files/1VID6YhiBK0xOse5R6v7yV6ol0QGAt5WJ?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1 type="VOD MALAY" group-title="Malay Movies" tvg-logo="https://i.imgur.com/tOtN2hG.jpg", Rampok (2024)
-https://dtacmuar-my.sharepoint.com/personal/sitamil_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=ETxqcmvy8H1Nre6zxjTHag4B80NbrEIiP48LdFPY1pJcgQ
-
-#EXTINF:-1 type="VOD MALAY" group-title="Malay Movies" tvg-logo="https://i.imgur.com/LD1shgE.jpg", Langgar Pantang (2024)
-https://worker-kasyah.buntai.workers.dev/0:/movie/Malay/Langgar.Pantang.2024.1080p.AAC.x264-KSO.mp4
-
-#EXTINF:-1 type="VOD ENGLISH" group-title="English Movies" tvg-logo="https://s7.lk21static.xyz/wp-content/uploads/2024/04/film-godzilla-x-kong-the-new-empire-2024-lk21-d21.jpg.webp",Godzilla x Kong: The New Empire (2024)
-https://stream.hownetwork.xyz/xxx/godzilla-x-kong-the-new-empire-2024-ts_X_a7cf43ad/22/480.m3u8
-
-#EXTINF:-1 type="VOD ENGLISH" group-title="English Movies" tvg-logo="https://s4.lk21static.xyz/wp-content/uploads/2023/07/film-indiana-jones-and-the-dial-of-destiny-2023-lk21-d21.jpg.webp",Indiana Jones and the Dial of Destiny (2023)
-https://stream.hownetwork.xyz/xxx/indiana-jones-and-the-dial-of-destiny-2023-bluray_X_a38998df/18/480.m3u8
-
-#EXTINF:-1 type="VOD ENGLISH" group-title="English Movies" tvg-logo="https://s4.lk21static.xyz/wp-content/uploads/2024/04/film-kung-fu-panda-4-2024-lk21-d21.jpg.webp",Kung Fu Panda 4 (2024)
-https://stream.hownetwork.xyz/xxx/kung-fu-panda-4-2024-webdl_X_0ca86d0f/21/480.m3u8
-
-#EXTINF:-1 type="VOD ENGLISH" group-title="English Movies" tvg-logo="https://s0.lk21static.xyz/wp-content/uploads/2024/01/film-wonka-2023-lk21-d21.jpg.webp",Wonka (2023)
-https://stream.hownetwork.xyz/xxx/wonka-2023-webdl_X_828b33e5/19/480.m3u8
-
-#EXTINF:-1 type="VOD ENGLISH" group-title="English Movies" tvg-logo="https://s6.lk21static.xyz/wp-content/uploads/2024/01/film-the-beekeeper-2024-lk21-d21.jpg.webp",The Beekeeper (2024)
-https://stream.hownetwork.xyz/xxx/the-beekeeper-2024-bluray_X_08ae710c/1000/480.m3u8
-
-#EXTINF:-1 type="VOD ENGLISH" group-title="English Movies" tvg-logo="https://i.imgur.com/5pIGPzi.jpeg", BEAUTY AND TEH BEAST(2017)
-https://stream.hownetwork.xyz/xxx/beauty-beast-2017-bluray/3/480.m3u8
-
-#EXTINF:-1 type="VOD ENGLISH" group-title="English Movies" tvg-logo="https://i.imgur.com/8QBeYDv.jpeg", ALADDIN (2019)
-https://stream.hownetwork.xyz/xxx/aladdin-2019-bluray/10/480.m3u8
-
-#EXTINF:-1 type="VOD ENGLISH" group-title="English Movies" tvg-logo="https://i.imgur.com/wMyh9mu.jpeg", CINDERELLA (2015)
-https://stream.hownetwork.xyz/xxx/cinderella-2015-bluray/2/480.m3u8
-
-#EXTINF:-1 type="VOD ENGLISH" group-title="MALEFICENT" tvg-logo="https://i.imgur.com/mZE95bo.jpeg", MALEFICENT 1 (2013)
-https://stream.hownetwork.xyz/xxx/maleficent-2013-bluray/7/480.m3u8
-#EXTINF:-1 type="VOD ENGLISH" group-title="MALEFICENT" tvg-logo="https://i.imgur.com/7RGudu8.jpeg", MALEFICENT 2 (2019) 
-https://stream.hownetwork.xyz/xxx/maleficent-mistress-of-evil-2019-2-bluray/7/480.m3u8
-
-#EXTINF:-1 type="VOD ENGLISH" group-title="NARNIA" tvg-logo="https://i.imgur.com/KXQz25D.jpeg", NARNIA LION WITCH WARDROBE 1
-https://stream.hownetwork.xyz/xxx/chronicles-narnia-lion-witch-wardrobe-2005-bluray/6/480.m3u8
-#EXTINF:-1 type="VOD ENGLISH" group-title="NARNIA" tvg-logo="https://i.imgur.com/GEQX1ca.jpeg", NARNIA THE CHRONICLES OF NARNIA: PRINCE CASPIAN 2
-https://stream.hownetwork.xyz/xxx/the-chronicles-of-narnia-prince-caspian-2008-bluray/11/480.m3u8
-#EXTINF:-1 type="VOD ENGLISH" group-title="NARNIA" tvg-logo="https://i.imgur.com/vswEjOX.jpeg", NARNIA THE CHRONICLES OF NARNIA: THE VOYAGE OF THE DAWN TREADER 3 (2010)
-https://stream.hownetwork.xyz/xxx/chronicles-narnia-voyage-dawn-treader-2010-bluray/6/480.m3u8
-
-
-#EXTINF:-1 type="VOD ENGLISH" group-title="AVATAR" tvg-logo="https://i.imgur.com/djgxIhT.jpeg", AVATAR 1 (2009)
-https://stream.hownetwork.xyz/xxx/avatar-2009-bluray/10/480.m3u8
-#EXTINF:-1 type="VOD ENGLISH" group-title="AVATAR" tvg-logo="https://i.imgur.com/BXnJa8e.jpeg", AVATAR : THE WAY OF WATER 2 (2022)
-https://stream.hownetwork.xyz/xxx/avatar-the-way-of-water-2022-bluray/2/480.m3u8
-
-
-#EXTINF:-1 type="VOD ENGLISH" group-title="TWILIGHT" tvg-logo="https://i.imgur.com/MgtBPjX.jpeg", TWILIGHT 1 (2008)
-https://stream.hownetwork.xyz/xxx/twilight-2008-bluray/3/480.m3u8
-#EXTINF:-1 type="VOD ENGLISH" group-title="TWILIGHT" tvg-logo="https://i.imgur.com/KeDBPny.jpeg", TWILIGHT 2 : NEW MOON (2009)
-https://stream.hownetwork.xyz/xxx/twilight-saga-new-moon-2009-bluray/2/480.m3u8
-#EXTINF:-1 type="VOD ENGLISH" group-title="TWILIGHT" tvg-logo="https://i.imgur.com/DsicM6a.jpeg", TWILIGHT 3 : ECLIPSE (2010)
-https://stream.hownetwork.xyz/xxx/the-twilight-saga-eclipse-2010-bluray/11/480.m3u8
-#EXTINF:-1 type="VOD ENGLISH" group-title="TWILIGHT" tvg-logo="https://i.imgur.com/QyEu6f4.jpeg", TWILIGHT 4 : BREAKING DAWN PART 1 (2011)
-https://stream.hownetwork.xyz/xxx/twilight-saga-breaking-dawn-part-1-2011-bluray/11/480.m3u8
-#EXTINF:-1 type="VOD ENGLISH" group-title="TWILIGHT" tvg-logo="https://i.imgur.com/vpZLMVR.jpeg", TWILIGHT 5 : BREAKING DAWN PART 2 (2012)
-https://stream.hownetwork.xyz/xxx/twilight-saga-breaking-dawn-part-2-2012-bluray/11/480.m3u8
-
-
-
-#EXTINF:-1 type="VOD ENGLISH" group-title="English Movies" tvg-logo="https://i.imgur.com/UD4kGnK.jpeg", JOHN CARTER (2012) 
-https://stream.hownetwork.xyz/xxx/john-carter-2012-bluray/2/480.m3u8
-  
-#EXTINF:-1 type="VOD ENGLISH" group-title="English Movies" tvg-logo="https://i.imgur.com/Yai0fMX.jpeg", MULAN (2020)
-https://stream.hownetwork.xyz/xxx/mulan-2020-bluray/7/480.m3u8
-#EXTINF:-1 type="VOD ENGLISH" group-title="English Movies" tvg-logo="https://i.imgur.com/1gvCVq4.jpeg", ALICE IN THE WONDERLAND (2010)
-https://stream.hownetwork.xyz/xxx/alice-in-wonderland-2010-2-bluray/2/480.m3u8
-
-#EXTINF:-1 type="VOD ENGLISH" group-title="English Movies" tvg-logo="https://i.ibb.co/D8WHHTG/shareext-tvku-0nline.jpg",ARTHUR.THE.KING.2024
-https://nontoncdn.com/Arthur.The.King.2024.720p.WEBRip.x264.AAC-YTS.MX.mp4
-
-<|-- Star Trek
-==============================================
-#EXTINF:-1 type="VOD ENGLISH" group-title="Star Trek" tvg-logo="http://pictures.my.id/images/trek1.png",Star Trek 1 : The Motion Picture (1979)
-http://abf.filmbluray.id/pj017ds
-#EXTINF:-1 type="VOD ENGLISH" group-title="Star Trek" tvg-logo="http://pictures.my.id/images/trek2.png",Star Trek 2 : The Wrath of Khan (1982)
-http://abf.filmbluray.id/fjhs7ss
-#EXTINF:-1 type="VOD ENGLISH" group-title="Star Trek" tvg-logo="http://pictures.my.id/images/trek3.png",Star Trek 3 : The Search for Spock (1984)
-http://abf.filmbluray.id/avx95k2
-#EXTINF:-1 type="VOD ENGLISH" group-title="Star Trek" tvg-logo="http://pictures.my.id/images/trek4.png",Star Trek 4 : The Voyage Home (1986)
-http://abf.filmbluray.id/qrk6xsd
-#EXTINF:-1 type="VOD ENGLISH" group-title="Star Trek" tvg-logo="http://pictures.my.id/images/trek5.png",Star Trek 5 : The Final Frontier (1989)
-http://abf.filmbluray.id/3ov6622
-#EXTINF:-1 type="VOD ENGLISH" group-title="Star Trek" tvg-logo="http://pictures.my.id/images/trek6.png",Star Trek 6 : The Undiscovered Country (1991)
-http://abf.filmbluray.id/ocxn2og
-#EXTINF:-1 type="VOD ENGLISH" group-title="Star Trek" tvg-logo="http://pictures.my.id/images/trek7.png",Star Trek Generations (1994)
-http://abf.filmbluray.id/9k35p2x
-#EXTINF:-1 type="VOD ENGLISH" group-title="Star Trek" tvg-logo="http://pictures.my.id/images/trek8.png",Star Trek First Contact (1996)
-http://abf.filmbluray.id/i0sv3tr
-#EXTINF:-1 type="VOD ENGLISH" group-title="Star Trek" tvg-logo="http://pictures.my.id/images/trek9.png",Star Trek Insurrection (1998)
-http://abf.filmbluray.id/5lyb6ky
-#EXTINF:-1 type="VOD ENGLISH" group-title="Star Trek" tvg-logo="http://pictures.my.id/images/trek10.png",Star Trek Nemesis
-http://abf.filmbluray.id/szmb3vz
-#EXTINF:-1 type="VOD ENGLISH" group-title="Star Trek" tvg-logo="http://pictures.my.id/images/trek11.png",Star Trek (2009)
-http://abf.filmbluray.id/g413vpc
-#EXTINF:-1 type="VOD ENGLISH" group-title="Star Trek" tvg-logo="http://pictures.my.id/images/trek12.png",Star Trek Into Darkness (2013)
-http://abf.filmbluray.id/z0u1m99
-#EXTINF:-1 type="VOD ENGLISH" group-title="Star Trek" tvg-logo="http://pictures.my.id/images/trek13.png",Star Trek Beyond (2016)
-http://abf.filmbluray.id/f7dz2d6
-
-<|-- Star Wars
-==============================================
-#EXTINF:-1 type="VOD ENGLISH" group-title="STAR WARS" tvg-logo="http://pictures.my.id/images/star1.png",The Phantom Menace (1999)
-http://abf.filmbluray.id/ez9abfh
-#EXTINF:-1 type="VOD ENGLISH" group-title="STAR WARS" tvg-logo="https://www.themoviedb.org/t/p/w500/6wkfovpn7Eq8dYNKaG5PY3q2oq6.jpg", STAR WARS: EPISODE I - THE PHANTOM MENACE (1999)
-https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Star%20Wars/Star_Wars__Episode_I_%E2%80%93_The_Phantom_Menace_1999.mp4
-
-#EXTINF:-1 type="VOD ENGLISH" group-title="STAR WARS" tvg-logo="http://pictures.my.id/images/star2.png",Attack of The Clones (2002)
-http://abf.filmbluray.id/252qe5d
-#EXTINF:-1 type="VOD ENGLISH" group-title="STAR WARS" tvg-logo="https://www.themoviedb.org/t/p/w500/oZNPzxqM2s5DyVWab09NTQScDQt.jpg", STAR WARS: EPISODE II - ATTACK OF THE CLONES (2002)
-https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Star%20Wars/Star_Wars__Episode_II_%E2%80%93_Attack_Of_The_Clones_2002.mp4
-
-#EXTINF:-1 type="VOD ENGLISH" group-title="STAR WARS" tvg-logo="http://pictures.my.id/images/star3.png",Revenge of Sith (2005)
-http://abf.filmbluray.id/wwi9kkp
-#EXTINF:-1 type="VOD ENGLISH" group-title="STAR WARS" tvg-logo="https://www.themoviedb.org/t/p/w500/xfSAoBEm9MNBjmlNcDYLvLSMlnq.jpg", STAR WARS: EPISODE III - REVENGE OF THE SITH (2005)
-https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Star%20Wars/Star_Wars__Episode_III_%E2%80%93_Revenge_of_the_Sith_2005.mp4
-
-#EXTINF:-1 type="VOD ENGLISH" group-title="STAR WARS" tvg-logo="http://pictures.my.id/images/star9.png",The Force Awakens (2015)
-http://abf.filmbluray.id/pvsce95
-#EXTINF:-1 type="VOD ENGLISH" group-title="STAR WARS" tvg-logo="https://www.themoviedb.org/t/p/w500/wqnLdwVXoBjKibFRR5U3y0aDUhs.jpg", STAR WARS: EPISODE VII - THE FORCE AWAKENS (2015)
-https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Star%20Wars/Star_Wars__Episode_VII_The_Force_Awakens_2015.mp4
-
-#EXTINF:-1 type="VOD ENGLISH" group-title="STAR WARS" tvg-logo="http://pictures.my.id/images/star10.png",The Last Jedi (2017)
-http://abf.filmbluray.id/9pvlrrq
-#EXTINF:-1 type="VOD ENGLISH" group-title="STAR WARS" tvg-logo="https://www.themoviedb.org/t/p/w500/kOVEVeg59E0wsnXmF9nrh6OmWII.jpg", STAR WARS: EPISODE VIII - THE LAST JEDI (2017)
-https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Star%20Wars/Star_Wars__Episode_VIII_The_Last_Jedi_2017.mp4
-
-#EXTINF:-1 type="VOD ENGLISH" group-title="STAR WARS" tvg-logo="http://pictures.my.id/images/star6.png",A New Hope (1977)
-http://abf.filmbluray.id/r2pg38k
-#EXTINF:-1 type="VOD ENGLISH" group-title="STAR WARS" tvg-logo="https://www.themoviedb.org/t/p/w500/6FfCtAuVAW8XJjZ7eWeLibRLWTw.jpg", STAR WARS: EPISODE IV - A NEW HOPE (1977)
-https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Star%20Wars/Star%20Wars_%20Episode%20IV%20-%20A%20New%20Hope%20(1977).mp4
-
-#EXTINF:-1 type="VOD ENGLISH" group-title="STAR WARS" tvg-logo="http://pictures.my.id/images/star7.png",The Empire Strikes Back (1980)
-http://abf.filmbluray.id/8bvzrbr
-#EXTINF:-1 type="VOD ENGLISH" group-title="STAR WARS" tvg-logo="https://www.themoviedb.org/t/p/w500/7BuH8itoSrLExs2YZSsM01Qk2no.jpg", STAR WARS: EPISODE V - THE EMPIRE STRIKES BACK (1980)
-https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Star%20Wars/Star_Wars__Episode_V_The_Empire_Strikes_Back_1980.mp4 
-
-#EXTINF:-1 type="VOD ENGLISH" group-title="STAR WARS" tvg-logo="http://pictures.my.id/images/star8.png",Return of The Jedi (1983)
-http://abf.filmbluray.id/02934re
-#EXTINF:-1 type="VOD ENGLISH" group-title="STAR WARS" tvg-logo="https://www.themoviedb.org/t/p/w500/mDCBQNhR6R0PVFucJl0O4Hp5klZ.jpg", STAR WARS: EPISODE VI - RETURN OF THE JEDI (1983)
-https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Star%20Wars/Star_Wars__Episode_VI_Return_of_the_Jedi_1983.mp4
-
-#EXTINF:-1 type="VOD ENGLISH" group-title="STAR WARS" tvg-logo="http://pictures.my.id/images/star11.png",The Rise of Skywalker (2019)
-http://abf.filmbluray.id/huhc7tg
-#EXTINF:-1 type="VOD ENGLISH" group-title="STAR WARS" tvg-logo="https://www.themoviedb.org/t/p/w500/db32LaOibwEliAmSL2jjDF6oDdj.jpg", STAR WARS: EPISODE IX - THE RISE OF SKYWALKER (2019)
-https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Star%20Wars/Star_Wars__Episode_IX_The_Rise_Of_Skywalker_2019.mp4
-
-#EXTINF:-1 type="VOD ENGLISH" group-title="STAR WARS" tvg-logo="http://pictures.my.id/images/star5.png",Rogue One (2016)
-http://abf.filmbluray.id/yxruwrt
-#EXTINF:-1 type="VOD ENGLISH" group-title="STAR WARS" tvg-logo="https://www.themoviedb.org/t/p/w500/5jX3p0apUG5bkMHtnKZch0xpkBS.jpg", ROGUE ONE: A STAR WARS STORY (2016) 
-https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Star%20Wars/Rogue%20One_%20A%20Star%20Wars%20Story%20(2016).mp4
-
-#EXTINF:-1 type="VOD ENGLISH" group-title="STAR WARS" tvg-logo="http://pictures.my.id/images/star4.png",Solo (2018)
-http://abf.filmbluray.id/8szfsti
-#EXTINF:-1 type="VOD ENGLISH" group-title="STAR WARS" tvg-logo="https://www.themoviedb.org/t/p/w500/4oD6VEccFkorEBTEDXtpLAaz0Rl.jpg", SOLO: A STAR WARS STORY (2018)
-https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Star%20Wars/Solo_%20A%20Star%20Wars%20Story%20(2018).mp4
-
-
-<|-- Terminator
-========================================
-#EXTINF:-1 type="VOD ENGLISH" group-title="Terminator" tvg-logo="http://pictures.my.id/images/terminator1.png",The Terminator (1984)
-http://abf.filmbluray.id/gdf8nq1
-#EXTINF:-1 type="VOD ENGLISH" group-title="Terminator" tvg-logo="http://pictures.my.id/images/terminator2.png",Judgment Day (1991)
-http://abf.filmbluray.id/0k0vn82
-#EXTINF:-1 type="VOD ENGLISH" group-title="Terminator" tvg-logo="http://pictures.my.id/images/terminator3.png",Rise of The Machines (2003)
-http://abf.filmbluray.id/tcmej34
-#EXTINF:-1 type="VOD ENGLISH" group-title="Terminator" tvg-logo="http://pictures.my.id/images/terminator4.png",Salvation (2009)
-http://abf.filmbluray.id/dn6lhr2
-#EXTINF:-1 type="VOD ENGLISH" group-title="Terminator" tvg-logo="http://pictures.my.id/images/terminator5.png",Genisys (2015)
-http://abf.filmbluray.id/hendldi
-#EXTINF:-1 type="VOD ENGLISH" group-title="Terminator" tvg-logo="http://pictures.my.id/images/terminator6.png",Dark Fate (2019)
-http://abf.filmbluray.id/td6xujc
-
-<|-- The History of Middle-earth
-==============================================
-#EXTINF:-1 type="VOD ENGLISH" group-title="The Lord of the Rings" tvg-logo="http://pictures.my.id/images/lotr1.png",The Lord of the Rings : The Fellowship of the Ring (2001)
-http://abf.filmbluray.id/m8j2bin
-#EXTINF:-1 type="VOD ENGLISH" group-title="The Lord of the Rings" tvg-logo="https://www.themoviedb.org/t/p/w500/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg", The Lord of the Rings : The Fellowship of the Ring (2001)
-https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Lord%20Of%20The%20Ring/The_Lord_of_the_Rings_The_Fellowship_of_the_Ring_2001.mp4
-
-#EXTINF:-1 type="VOD ENGLISH" group-title="The Lord of the Rings" tvg-logo="http://pictures.my.id/images/lotr2.png",The Lord of the Rings : The Two Towers (2002) 
-http://abf.filmbluray.id/b67096b
-#EXTINF:-1 type="VOD ENGLISH" group-title="The Lord of the Rings" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_multi_faces/5VTN0pR8gcqV3EPUHHfMGnJYN9L.jpg", The Lord of the Rings: The Two Towers (2002)
-https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Lord%20Of%20The%20Ring/The%20Lord%20of%20the%20Rings%20The%20Two%20Towers%20(2002).mp4
-
-#EXTINF:-1 type="VOD ENGLISH" group-title="The Lord of the Rings" tvg-logo="http://pictures.my.id/images/lotr3.png",The Lord of the Rings : The Return of the King (2003) 
-http://abf.filmbluray.id/x2dvwh0
-#EXTINF:-1 type="VOD ENGLISH" group-title="The Lord of the Rings" tvg-logo="https://www.themoviedb.org/t/p/w500/rCzpDGLbOoPwLjy3OAm5NUPOTrC.jpg", The Lord of the Rings: The Return of the King (2003)
-https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Lord%20Of%20The%20Ring/The_Lord_of_the_Rings_The_Return_of_the_King_2003.mp4
-
-#EXTINF:-1 type="VOD ENGLISH" group-title="The Hobbit" tvg-logo="http://pictures.my.id/images/hobbit1.png",The Hobbit : An Unexpected Journey (2012)
-http://abf.filmbluray.id/eo1gxi3
-#EXTINF:-1 type="VOD ENGLISH" group-title="The Hobbit" tvg-logo="https://www.themoviedb.org/t/p/w500/yHA9Fc37VmpUA5UncTxxo3rTGVA.jpg", The Hobbit: An Unexpected Journey (2012)
-https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Lord%20Of%20The%20Ring/The.Hobbit.2012.mp4
-
-#EXTINF:-1 type="VOD ENGLISH" group-title="The Hobbit" tvg-logo="http://pictures.my.id/images/hobbit2.png",The Hobbit : The Desolation of Smaug (2013)
-http://abf.filmbluray.id/n22qiig
-#EXTINF:-1 type="VOD ENGLISH" group-title="The Hobbit" tvg-logo="https://www.themoviedb.org/t/p/w500/xQYiXsheRCDBA39DOrmaw1aSpbk.jpg", The Hobbit: The Desolation of Smaug (2013)
-https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Lord%20Of%20The%20Ring/The.Hobbit.2013.mp4
-
-#EXTINF:-1 type="VOD ENGLISH" group-title="The Hobbit" tvg-logo="http://pictures.my.id/images/hobbit3.png",The Hobbit : The Battle of The Five Armies (2014)
-http://abf.filmbluray.id/n2c0l3q
-#EXTINF:-1 type="VOD ENGLISH" group-title="The Hobbit" tvg-logo="https://www.themoviedb.org/t/p/w500/xT98tLqatZPQApyRmlPL12LtiWp.jpg", The Hobbit: The Battle of the Five Armies (2014)
-https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Lord%20Of%20The%20Ring/The.Hobbit.2014.mp4
-
-<|-- Mission : Impossible
-==============================================
-#EXTINF:-1 type="VOD ENGLISH" group-title="Mission Impossible" tvg-logo="http://pictures.my.id/images/mi1.png",Mission Impossible 1 (1996)
-http://abf.filmbluray.id/rgqcs18
-#EXTINF:-1 type="VOD ENGLISH" group-title="Mission Impossible" tvg-logo="http://pictures.my.id/images/mi2.png",Mission Impossible 2 (2000)
-http://abf.filmbluray.id/li35vtc
-#EXTINF:-1 type="VOD ENGLISH" group-title="Mission Impossible" tvg-logo="http://pictures.my.id/images/mi3.png",Mission Impossible 3 (2006)
-http://abf.filmbluray.id/0sq8xya
-#EXTINF:-1 type="VOD ENGLISH" group-title="Mission Impossible" tvg-logo="http://pictures.my.id/images/mi4.png",Mission Impossible - Ghost Protocol (2011)
-http://abf.filmbluray.id/n3xh1fu
-#EXTINF:-1 type="VOD ENGLISH" group-title="Mission Impossible" tvg-logo="http://pictures.my.id/images/mi5.png",Mission Impossible - Rogue Nation (2015)
-http://abf.filmbluray.id/0nbbfrm
-#EXTINF:-1 type="VOD ENGLISH" group-title="Mission Impossible" tvg-logo="http://pictures.my.id/images/mi6.png",Mission Impossible - Fallout (2018)
-http://abf.filmbluray.id/fgp2klb
-
-<|-- James Bond
-==============================================
-#EXTINF:-1 type="VOD ENGLISH" group-title="James Bond" tvg-logo="http://pictures.my.id/images/James-Bond-2006.png",Casino Royale (2006)
-http://abf.filmbluray.id/8w1zyuz 
-#EXTINF:-1 type="VOD ENGLISH" group-title="James Bond" tvg-logo="http://pictures.my.id/images/James-Bond-2008.png",Quantum of Solace (2008)
-http://abf.filmbluray.id/tvysnw4 
-#EXTINF:-1 type="VOD ENGLISH" group-title="James Bond" tvg-logo="http://pictures.my.id/images/James-Bond-2012.png",Skyfall (2012)
-http://abf.filmbluray.id/q8u4ehc 
-#EXTINF:-1 type="VOD ENGLISH" group-title="James Bond" tvg-logo="http://pictures.my.id/images/James-Bond-2015.png",Spectre (2015)
-http://abf.filmbluray.id/a28t8d0
-
-<|-- IP Man
-========================================
-#EXTINF:-1 type="VOD ENGLISH" group-title="IP Man" tvg-logo="http://pictures.my.id/images/IP-Man-1.png",IP Man 1 (2008)
-http://abf.filmbluray.id/bloz71q
-#EXTINF:-1 type="VOD ENGLISH" group-title="IP Man" tvg-logo="https://i.imgur.com/2kKe7Nh.jpeg", IP MAN 1 (2008) 
-https://stream.hownetwork.xyz/xxx/ip-man-2008-bluray/7/480.m3u8
-
-#EXTINF:-1 type="VOD ENGLISH" group-title="IP Man" tvg-logo="http://pictures.my.id/images/IP-Man-2.png",IP Man 2 (2010)
-http://abf.filmbluray.id/bkdqz2o
-#EXTINF:-1 type="VOD ENGLISH" group-title="IP Man" tvg-logo="https://i.imgur.com/GRFFaBf.jpeg", IP MAN 2 (2010) 
-https://stream.hownetwork.xyz/xxx/ip-man-2-2010-bluray/7/480.m3u8
-
-#EXTINF:-1 type="VOD ENGLISH" group-title="IP Man" tvg-logo="http://pictures.my.id/images/IP-Man-3.png",IP Man 3 (2015)
-http://abf.filmbluray.id/vfqtu6e
-#EXTINF:-1 type="VOD ENGLISH" group-title="IP Man" tvg-logo="https://i.imgur.com/5FGv8IS.jpeg", IP MAN 3 (2015) 
-https://stream.hownetwork.xyz/xxx/ip-man-3-2015-bluray/7/480.m3u8
-
-#EXTINF:-1 type="VOD ENGLISH" group-title="IP Man" tvg-logo="http://pictures.my.id/images/zmaster.png",Master Z : IP Man Legacy (2018)
-http://abf.filmbluray.id/dxsy2yo
-
-#EXTINF:-1 type="VOD ENGLISH" group-title="IP Man" tvg-logo="http://pictures.my.id/images/IP-Man-4.png",IP Man 4 : The Final (2019)
-http://abf.filmbluray.id/q8age0v
-#EXTINF:-1 type="VOD ENGLISH" group-title="IP Man" tvg-logo="https://i.imgur.com/qGi8WQV.jpeg", IP MAN 4(2019) 
-https://stream.hownetwork.xyz/xxx/ip-man-4-the-finale-yip-man-4-2019-bluray/7/480.m3u8
-#EXTINF:-1 type="VOD ENGLISH" group-title="IP Man" tvg-logo="http://pictures.my.id/images/ipmanking.png",IP Man and Four Kings (2019)
-http://abf.filmbluray.id/9j1ki05
-
-#EXTINF:-1 type="VOD ENGLISH" group-title="IP Man" tvg-logo="http://pictures.my.id/images/legendip.png",The Legend is Born - IP Man (2010)
-http://abf.filmbluray.id/o6c3eqb
-
-#EXTINF:-1 type="VOD ENGLISH" group-title="IP Man" tvg-logo="http://pictures.my.id/images/ipmanfinal.png",IP Man : The Final Fight (2013)
-http://abf.filmbluray.id/isjthv7
 
 #EXTM3U billed-msg="😎 BijanBusuk 😎"
