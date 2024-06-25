@@ -68,8 +68,10 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/211/default_primary.mpd
 #EXTINF:-1 tvg-logo="https://rtm-images.glueapi.io/120x0/live_channel/okey_Trans.png",Okey 
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
 
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/SukaTV.png",SukeTV
-https://github.com/AqFad2811/randomlivefromyt2/raw/main/SukeTV.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/SukaTV.png",SukeTV
+#EXT-X-STREAM-INF:AVERAGE-BANDWIDTH=2490000,BANDWIDTH=3120000,RESOLUTION=1280x720,FRAME-RATE=60.000,CODECS="avc1.4d001f,mp4a.40.2",CLOSED-CAPTIONS=NONE
+https://live.mana2.my/SukeTv/tracks-v2a1/mono.m3u8?token=1716548252-8cca50adb3a24a2d907a4b11eff330bd-0-bd29beff7defc4786479ffb60bd5e7b5&auth_key=1716548252-8cca50adb3a24a2d907a4b11eff330bd-0-094dfa1ccb552d40a0d5301e033e16bf
+
 
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7051/CPS/images/universal/film/logo/202401/20240108/2024010804385071891k.png",TVS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
