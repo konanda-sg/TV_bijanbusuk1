@@ -104,8 +104,8 @@ https://bit.ly/3VhubWo
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png",PRIMA HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/1000/
-https://linears-playback.astro.com.my/vsg41bXPmm6Wfa7GHGd9QuNMpgemRSyUy2OsUrr-7stGIL_8=x8Ep/dash-wv/jitp-linearwm/1000/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"hBL0RP++NQzy7OBR+RUukA", "kid":"C2Uyau3j7b6B5vtAMX1TEA" } ], "type":"temporary" }
+https://linears-playback.astro.com.my/vsg/41bXPmm6Wfa7GHGd9QuNMpgemRSyUy2OsUrr-7stGIL_8=x8Ep/dash-wv/jitp-linearwm/1000/default_primary.mpd
 
 EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png",PRIMA HD
 https://bit.ly/4dWdzuz
