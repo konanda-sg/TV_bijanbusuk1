@@ -459,6 +459,9 @@ https://tgaadi-web.tech/jiotv.php?tv=1487
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/StarMoviesSelect.png",Star Movies Select 
 https://tgaadi-web.tech/zain_tv.php?tv=56244
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/StarMoviesSelect.png",Star Movies Select 
+https://raw.githubusercontent.com/FunctionError/Logos/main/PiratesTv/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/Syfy.png",Syfy 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"DQ31GJJWwL8ywM0JdrrFvQ", "kid":"leweJugMOCWKMBAdBsjL9w" } ], "type":"temporary" }
