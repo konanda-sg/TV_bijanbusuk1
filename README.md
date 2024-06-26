@@ -2651,6 +2651,60 @@ https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/
 #EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://static.wikia.nocookie.net/upinipin/images/7/74/Upin_dan_Ipin_Musim_16.png/revision/latest?cb=20221109181501&path-prefix=ms", Upin & Ipin S16 E14
 https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/Upin&Ipin/S16/Upin&Ipin_S16E14_Episode%2014.mp4
 
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTNhNDhiMTktYWViZC00ODBlLThlYzQtZTM3NDc4MGY2YTUyXkEyXkFqcGdeQXVyMzAxMzk1OTU@._V1_FMjpg_UX1000_.jpg",Projek: Anchor SPM 2021 Episod E01
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"1GNH1LgNhH/wUzTMsg/C4w", "kid":"50dfACGfSGW0ksaAJdKAEA" } ], "type":"temporary" }
+#EXTVLCOPT:http-user-agent=OTT_1/v4.11.3
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/89bf4a7b-ca44-5756-8505-c3db0a5471a1/default.mpd
 
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTNhNDhiMTktYWViZC00ODBlLThlYzQtZTM3NDc4MGY2YTUyXkEyXkFqcGdeQXVyMzAxMzk1OTU@._V1_FMjpg_UX1000_.jpg",Projek: Anchor SPM 2021 Episod E02
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"/fZ8tk2BIutMMihAoH+2kQ", "kid":"5LN1K65O/BoTl+uwgl72EA" } ], "type":"temporary" }
+#EXTVLCOPT:http-user-agent=OTT_1/v4.11.3
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/411b9ba4-2f25-5eee-90da-cf08e942d594/default.mpd
+
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTNhNDhiMTktYWViZC00ODBlLThlYzQtZTM3NDc4MGY2YTUyXkEyXkFqcGdeQXVyMzAxMzk1OTU@._V1_FMjpg_UX1000_.jpg",Projek: Anchor SPM 2021 Episod E03
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"0dQKX2c3FBZ+/kFExK5LPw", "kid":"7Y/UvIOYvgDt13XBhvqvEA" } ], "type":"temporary" }
+#EXTVLCOPT:http-user-agent=OTT_1/v4.11.3
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/e9cd2192-eb03-5fa9-8623-29413104f9d2/default.mpd
+
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTNhNDhiMTktYWViZC00ODBlLThlYzQtZTM3NDc4MGY2YTUyXkEyXkFqcGdeQXVyMzAxMzk1OTU@._V1_FMjpg_UX1000_.jpg",Projek: Anchor SPM 2021 Episod E04
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"YhnmHadCmbfne6OCJbnaVg", "kid":"htrpaoReDGATLWKwT7ZaEA" } ], "type":"temporary" }
+#EXTVLCOPT:http-user-agent=OTT_1/v4.11.3
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/3a2f1934-be73-536a-8dc6-7bdc82e1d810/default.mpd
+
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTNhNDhiMTktYWViZC00ODBlLThlYzQtZTM3NDc4MGY2YTUyXkEyXkFqcGdeQXVyMzAxMzk1OTU@._V1_FMjpg_UX1000_.jpg",Projek: Anchor SPM 2021 Episod E05
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5smDSuJszvSRq3Ob45RSCg", "kid":"UH/ED2Knq4ZP9Hrzom8yEA" } ], "type":"temporary" }
+#EXTVLCOPT:http-user-agent=OTT_1/v4.11.3
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/b1c3a6dc-22c6-52c3-8a53-ff40d01375a9/default.mpd
+
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTNhNDhiMTktYWViZC00ODBlLThlYzQtZTM3NDc4MGY2YTUyXkEyXkFqcGdeQXVyMzAxMzk1OTU@._V1_FMjpg_UX1000_.jpg",Projek: Anchor SPM 2021 Episod E06
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Q6XGTJDR+NL6Xy1Xkr/0oA", "kid":"2EsA/S772vukhNrOti/nEA" } ], "type":"temporary" }
+#EXTVLCOPT:http-user-agent=OTT_1/v4.11.3
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/2dcd64f6-c759-5aa2-9851-f2d50bea28d0/default.mpd
+
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTNhNDhiMTktYWViZC00ODBlLThlYzQtZTM3NDc4MGY2YTUyXkEyXkFqcGdeQXVyMzAxMzk1OTU@._V1_FMjpg_UX1000_.jpg",Projek: Anchor SPM 2021 Episod E07
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5cG4R4D/vFVqLmiDogSE7g", "kid":"DesGHFPfGnC4+pfS0JRfEA" } ], "type":"temporary" }
+#EXTVLCOPT:http-user-agent=OTT_1/v4.11.3
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/00be6e55-9a32-5273-ab06-2648ab68ec73/default.mpd
+
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTNhNDhiMTktYWViZC00ODBlLThlYzQtZTM3NDc4MGY2YTUyXkEyXkFqcGdeQXVyMzAxMzk1OTU@._V1_FMjpg_UX1000_.jpg",Projek: Anchor SPM 2021 Episod E08
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"tTtsuHZ4I6zIlm+mGrBZNg", "kid":"n9i4lXE2dqn6nPQo2mAgEA" } ], "type":"temporary" }
+#EXTVLCOPT:http-user-agent=OTT_1/v4.11.3
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/2f43cde6-a2a7-5853-8f70-1215b8d6bcf4/default.mpd
 
 #EXTM3U billed-msg="😎 BijanBusuk 😎"
