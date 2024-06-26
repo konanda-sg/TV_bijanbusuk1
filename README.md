@@ -2,24 +2,6 @@
 
 
 
-#EXTINF:-1 group-title="馬來西亞 Malaysia",Warna
-http://fm1077.serv00.net/Smart.php?id=Warna-O
-#EXTINF:-1 group-title="馬來西亞 Malaysia",Warna(備用)
-http://fm1077.serv00.net/Smart.php?id=Warna
-#EXTINF:-1 group-title="馬來西亞 Malaysia",Ria
-http://fm1077.serv00.net/Smart.php?id=Ria-0
-#EXTINF:-1 group-title="馬來西亞 Malaysia",Ria(備用)
-http://fm1077.serv00.net/Smart.php?id=Ria49
-#EXTINF:-1 group-title="馬來西亞 Malaysia",Ria-3
-http://fm1077.serv00.net/Smart.php?id=Ria_quanjia
-#EXTINF:-1 group-title="馬來西亞 Malaysia",Prima
-http://fm1077.serv00.net/Smart.php?id=Prima-0
-#EXTINF:-1 group-title="馬來西亞 Malaysia",Prima(備用)
-http://fm1077.serv00.net/Smart.php?id=Prima49
-#EXTINF:-1 group-title="馬來西亞 Malaysia",Citra
-http://fm1077.serv00.net/Smart.php?id=Citra
-#EXTINF:-1 group-title="馬來西亞 Malaysia",Sensasi
-http://fm1077.serv00.net/Smart.php?id=Sensasi
 *************************************************************************************************************************************************************************************************************************
 
 
