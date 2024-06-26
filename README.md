@@ -2633,6 +2633,87 @@ https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/
 #EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://static.wikia.nocookie.net/upinipin/images/7/74/Upin_dan_Ipin_Musim_16.png/revision/latest?cb=20221109181501&path-prefix=ms", Upin & Ipin S16 E14
 https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20KIDS/Upin&Ipin/S16/Upin&Ipin_S16E14_Episode%2014.mp4
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"hoF0TXegXRTcNSWARsN4Gg","kid":"nT2y2YzEthMs4kv3R1GUEA"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=OTT_1/v4.11.3
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KIQGB_P_IVP_PORT_750x1126_2023113_63331.jpg",Didi & Friends Kembara Muzikal E01
+https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/39081c6a-2e13-5327-8235-d395031a41f9/default_primary.mpd
+    
+ astro.com.my_47_PACK0000000000467789
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"j0kNp+gwtw962D1t0rpcQQ","kid":"ZrqEAWvh7F3vAUiEMpRtEA"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=OTT_1/v4.11.3
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KIQGB_P_IVP_PORT_750x1126_2023113_63331.jpg",Didi & Friends Kembara Muzikal E02
+https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/c3446079-eeb6-5a20-917e-f344791636bf/default_primary.mpd
+    
+ astro.com.my_47_PACK0000000000467789
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"U1jxR+kdOf3hHarLq3RwSA","kid":"UQgT/kLCZQAmvNPc6bcsEA"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=OTT_1/v4.11.3
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KIQGB_P_IVP_PORT_750x1126_2023113_63331.jpg",Didi & Friends Kembara Muzikal E03
+https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/896335f2-73ac-5c34-9da0-fb13dc5351f1/default_primary.mpd
+    
+ astro.com.my_47_PACK0000000000467789
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"b9tutvABLC2TR7cAfMydJQ","kid":"XkCaebenJbGK0jlbdVW2EA"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=OTT_1/v4.11.3
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KIQGB_P_IVP_PORT_750x1126_2023113_63331.jpg",Didi & Friends Kembara Muzikal E04
+https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/63c72a0f-a08b-534a-b20a-d67cf59e53f2/default_primary.mpd
+    
+ astro.com.my_47_PACK0000000000467789
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"E15O0FeFQiXPgw2msXtNmg","kid":"LAchUNgCwQPhSULE7LfwEA"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=OTT_1/v4.11.3
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KIQGB_P_IVP_PORT_750x1126_2023113_63331.jpg",Didi & Friends Kembara Muzikal E05
+https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/5b3ae134-f5dd-57d4-a7ce-919f7aca8f32/default_primary.mpd
+    
+ astro.com.my_47_PACK0000000000467789
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"ObK+lwqlHMwme9syJRVccA","kid":"92gU8qMLzXkBNN5pNzj8EA"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=OTT_1/v4.11.3
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KIQGB_P_IVP_PORT_750x1126_2023113_63331.jpg",Didi & Friends Kembara Muzikal E06
+https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/4a48313f-cead-5066-8c2d-256ca0d070aa/default_primary.mpd
+
+ astro.com.my_47_PACK0000000000467789
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"UH71h1hW0LkLRGRELnn/RA","kid":"dyBKrP645IMox6gM0lX3EA"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=OTT_1/v4.11.3
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KIQGB_P_IVP_PORT_750x1126_2023113_63331.jpg",Didi & Friends Kembara Muzikal E07
+https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/e398ad1d-2d97-5d2f-89c1-3a2edb25f014/default_primary.mpd
+
+ astro.com.my_47_PACK0000000000467789
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"gWscKIckgEtQuRdUxBhecw","kid":"V/rF6S+q/mVU2hWIEJL5EA"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=OTT_1/v4.11.3
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KIQGB_P_IVP_PORT_750x1126_2023113_63331.jpg",Didi & Friends Kembara Muzikal E08
+https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/04051a0b-0d20-5022-841d-bec0d9232f4b/default_primary.mpd
+
+ astro.com.my_47_PACK0000000000467789
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"hsuY7fKNlDbe9mz6xq2xvw","kid":"IHt/i67zTAV4v8rPDlroEA"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=OTT_1/v4.11.3
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KIQGB_P_IVP_PORT_750x1126_2023113_63331.jpg",Didi & Friends Kembara Muzikal E09
+https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/5c7ad61a-4ab7-55d8-af7f-22ad155e6094/default_primary.mpd
+
+ astro.com.my_47_PACK0000000000467789
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"3RO+3iroOJnsoeE+QNui0w","kid":"TwtcXIhgJtNPY2pdkVWZEA"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=OTT_1/v4.11.3
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTINF:-1 type="series" group-title="ANIME" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KIQGB_P_IVP_PORT_750x1126_2023113_63331.jpg",Didi & Friends Kembara Muzikal E10
+https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/180c830f-410e-5de4-9af9-0dc757b02773/default_primary.mpd
+
+
+
 #EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTNhNDhiMTktYWViZC00ODBlLThlYzQtZTM3NDc4MGY2YTUyXkEyXkFqcGdeQXVyMzAxMzk1OTU@._V1_FMjpg_UX1000_.jpg",Projek: Anchor SPM 2021 Episod E01
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"1GNH1LgNhH/wUzTMsg/C4w", "kid":"50dfACGfSGW0ksaAJdKAEA" } ], "type":"temporary" }
@@ -2688,5 +2769,419 @@ https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/00be6e55-
 #EXTVLCOPT:http-user-agent=OTT_1/v4.11.3
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/2f43cde6-a2a7-5853-8f70-1215b8d6bcf4/default.mpd
+
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27jpg%27&Quality=85&ImageId=%274538874%27&EntityType=%27Item%27&EntityId=%27249924%27&Width=1920&Height=1080", Misteri Jam 12 S01 E01
+https://vod.tonton.com.my/vod/379/6478767/playlist.mpd
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27jpg%27&Quality=85&ImageId=%274538874%27&EntityType=%27Item%27&EntityId=%27249924%27&Width=1920&Height=1080", Misteri Jam 12 S01 E02
+https://vod.tonton.com.my/vod/379/6478772/playlist.mpd
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27jpg%27&Quality=85&ImageId=%274538874%27&EntityType=%27Item%27&EntityId=%27249924%27&Width=1920&Height=1080", Misteri Jam 12 S01 E03
+https://vod.tonton.com.my/vod/379/6478775/playlist.mpd
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27jpg%27&Quality=85&ImageId=%274538874%27&EntityType=%27Item%27&EntityId=%27249924%27&Width=1920&Height=1080", Misteri Jam 12 S01 E04
+https://vod.tonton.com.my/vod/379/6478777/playlist.mpd
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27jpg%27&Quality=85&ImageId=%274538874%27&EntityType=%27Item%27&EntityId=%27249924%27&Width=1920&Height=1080", Misteri Jam 12 S01 E05
+https://vod.tonton.com.my/vod/379/6478779/playlist.mpd
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27jpg%27&Quality=85&ImageId=%274538874%27&EntityType=%27Item%27&EntityId=%27249924%27&Width=1920&Height=1080", Misteri Jam 12 S01 E06
+https://vod.tonton.com.my/vod/379/6478782/playlist.mpd
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27jpg%27&Quality=85&ImageId=%275302641%27&EntityType=%27Item%27&EntityId=%27323989%27&Width=1920&Height=1080", Misteri Jam 12 S02 E01
+https://vod.tonton.com.my/vod/379/6478786/playlist.mpd
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27jpg%27&Quality=85&ImageId=%275302641%27&EntityType=%27Item%27&EntityId=%27323989%27&Width=1920&Height=1080", Misteri Jam 12 S02 E02
+https://vod.tonton.com.my/vod/379/6478792/playlist.mpd
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27jpg%27&Quality=85&ImageId=%275302641%27&EntityType=%27Item%27&EntityId=%27323989%27&Width=1920&Height=1080", Misteri Jam 12 S02 E03
+https://vod.tonton.com.my/vod/379/6478795/playlist.mpd
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27jpg%27&Quality=85&ImageId=%275302641%27&EntityType=%27Item%27&EntityId=%27323989%27&Width=1920&Height=1080", Misteri Jam 12 S02 E04
+https://vod.tonton.com.my/vod/379/6478798/playlist.mpd
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27jpg%27&Quality=85&ImageId=%275302641%27&EntityType=%27Item%27&EntityId=%27323989%27&Width=1920&Height=1080", Misteri Jam 12 S02 E05
+https://vod.tonton.com.my/vod/379/6478800/playlist.mpd
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27jpg%27&Quality=85&ImageId=%275302641%27&EntityType=%27Item%27&EntityId=%27323989%27&Width=1920&Height=1080", Misteri Jam 12 S02 E06
+https://vod.tonton.com.my/vod/379/6478803/playlist.mpd
+
+
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://www.tvguide.com/a/img/catalog/provider/1/1/1-6738882439.jpg", Isteri Tuan Ihsan E01
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/DRAMA%20SIRI/ISTERI%20TUAN%20IHSAN/Isteri%20Tuan%20Ihsan%20Episod%2001%20HDTV.mp4
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://www.tvguide.com/a/img/catalog/provider/1/1/1-6738882439.jpg", Isteri Tuan Ihsan E02
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/DRAMA%20SIRI/ISTERI%20TUAN%20IHSAN/Isteri%20Tuan%20Ihsan%20Episod%2002%20HDTV.mp4
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://www.tvguide.com/a/img/catalog/provider/1/1/1-6738882439.jpg", Isteri Tuan Ihsan E03
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/DRAMA%20SIRI/ISTERI%20TUAN%20IHSAN/Isteri%20Tuan%20Ihsan%20Episod%2003%20HDTV.mp4
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://www.tvguide.com/a/img/catalog/provider/1/1/1-6738882439.jpg", Isteri Tuan Ihsan E04
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/DRAMA%20SIRI/ISTERI%20TUAN%20IHSAN/Isteri%20Tuan%20Ihsan%20Episod%2004%20HDTV.mp4
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://www.tvguide.com/a/img/catalog/provider/1/1/1-6738882439.jpg", Isteri Tuan Ihsan E05
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/DRAMA%20SIRI/ISTERI%20TUAN%20IHSAN/Isteri%20Tuan%20Ihsan%20Episod%2005%20HDTV.mp4
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://www.tvguide.com/a/img/catalog/provider/1/1/1-6738882439.jpg", Isteri Tuan Ihsan E06
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/DRAMA%20SIRI/ISTERI%20TUAN%20IHSAN/Isteri%20Tuan%20Ihsan%20Episod%2006%20HDTV.mp4
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://www.tvguide.com/a/img/catalog/provider/1/1/1-6738882439.jpg", Isteri Tuan Ihsan E07
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/DRAMA%20SIRI/ISTERI%20TUAN%20IHSAN/Isteri%20Tuan%20Ihsan%20Episod%2007%20HDTV.mp4
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://www.tvguide.com/a/img/catalog/provider/1/1/1-6738882439.jpg", Isteri Tuan Ihsan E08
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/DRAMA%20SIRI/ISTERI%20TUAN%20IHSAN/Isteri%20Tuan%20Ihsan%20Episod%2008%20HDTV.mp4
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://www.tvguide.com/a/img/catalog/provider/1/1/1-6738882439.jpg", Isteri Tuan Ihsan E09
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/DRAMA%20SIRI/ISTERI%20TUAN%20IHSAN/Isteri%20Tuan%20Ihsan%20Episod%2009%20HDTV.mp4
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://www.tvguide.com/a/img/catalog/provider/1/1/1-6738882439.jpg", Isteri Tuan Ihsan E10
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/DRAMA%20SIRI/ISTERI%20TUAN%20IHSAN/Isteri%20Tuan%20Ihsan%20Episod%2010%20HDTV.mp4
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://www.tvguide.com/a/img/catalog/provider/1/1/1-6738882439.jpg", Isteri Tuan Ihsan E11
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/DRAMA%20SIRI/ISTERI%20TUAN%20IHSAN/Isteri%20Tuan%20Ihsan%20Episod%2011%20HDTV.mp4
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://www.tvguide.com/a/img/catalog/provider/1/1/1-6738882439.jpg", Isteri Tuan Ihsan E12
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/DRAMA%20SIRI/ISTERI%20TUAN%20IHSAN/Isteri%20Tuan%20Ihsan%20Episod%2012%20HDTV.mp4
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://www.tvguide.com/a/img/catalog/provider/1/1/1-6738882439.jpg", Isteri Tuan Ihsan E13
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/DRAMA%20SIRI/ISTERI%20TUAN%20IHSAN/Isteri%20Tuan%20Ihsan%20Episod%2013%20HDTV.mp4
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://www.tvguide.com/a/img/catalog/provider/1/1/1-6738882439.jpg", Isteri Tuan Ihsan E14
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/DRAMA%20SIRI/ISTERI%20TUAN%20IHSAN/Isteri%20Tuan%20Ihsan%20Episod%2014%20HDTV.mp4
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://www.tvguide.com/a/img/catalog/provider/1/1/1-6738882439.jpg", Isteri Tuan Ihsan E15
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/DRAMA%20SIRI/ISTERI%20TUAN%20IHSAN/Isteri%20Tuan%20Ihsan%20Episod%2015%20HDTV.mp4
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://www.tvguide.com/a/img/catalog/provider/1/1/1-6738882439.jpg", Isteri Tuan Ihsan E16
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/DRAMA%20SIRI/ISTERI%20TUAN%20IHSAN/Isteri%20Tuan%20Ihsan%20Episod%2016%20HDTV.mp4
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://www.tvguide.com/a/img/catalog/provider/1/1/1-6738882439.jpg", Isteri Tuan Ihsan E17
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/DRAMA%20SIRI/ISTERI%20TUAN%20IHSAN/Isteri%20Tuan%20Ihsan%20Episod%2017%20HDTV.mp4
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://www.tvguide.com/a/img/catalog/provider/1/1/1-6738882439.jpg", Isteri Tuan Ihsan E18
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/DRAMA%20SIRI/ISTERI%20TUAN%20IHSAN/Isteri%20Tuan%20Ihsan%20Episod%2018%20HDTV.mp4
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://www.tvguide.com/a/img/catalog/provider/1/1/1-6738882439.jpg", Isteri Tuan Ihsan E19
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/DRAMA%20SIRI/ISTERI%20TUAN%20IHSAN/Isteri%20Tuan%20Ihsan%20Episod%2019%20HDTV.mp4
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://www.tvguide.com/a/img/catalog/provider/1/1/1-6738882439.jpg", Isteri Tuan Ihsan E20
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/DRAMA%20SIRI/ISTERI%20TUAN%20IHSAN/Isteri%20Tuan%20Ihsan%20Episod%2020%20HDTV.mp4
+
+
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://i.mydramalist.com/w8Wbnf.jpg",3am bangkok ghost E01
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/DRAMA%20SIRI/3AM%20BONGKOK%20GHOUST/3%20a.m%20bangkok%20ghoust%20episod%201.mp4
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://i.mydramalist.com/w8Wbnf.jpg",3am bangkok ghost E02
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/DRAMA%20SIRI/3AM%20BONGKOK%20GHOUST/3%20a.m%20bangkok%20ghoust%20episod%202.mp4
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://i.mydramalist.com/w8Wbnf.jpg",3am bangkok ghost E03
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/DRAMA%20SIRI/3AM%20BONGKOK%20GHOUST/3%20a.m%20bangkok%20ghoust%20episod%203.mp4
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://i.mydramalist.com/w8Wbnf.jpg",3am bangkok ghost E04
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/DRAMA%20SIRI/3AM%20BONGKOK%20GHOUST/3%20a.m%20bangkok%20ghoust%20episod%204.mp4
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://i.mydramalist.com/w8Wbnf.jpg",3am bangkok ghost E05
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/DRAMA%20SIRI/3AM%20BONGKOK%20GHOUST/3%20a.m%20bangkok%20ghoust%20episod%205.mp4
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://i.mydramalist.com/w8Wbnf.jpg",3am bangkok ghost E06
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/DRAMA%20SIRI/3AM%20BONGKOK%20GHOUST/3%20a.m%20bangkok%20ghoust%20episod%206.mp4
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://i.mydramalist.com/w8Wbnf.jpg",3am bangkok ghost E07
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/DRAMA%20SIRI/3AM%20BONGKOK%20GHOUST/3%20a.m%20bangkok%20ghoust%20episod%207.mp4
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://i.mydramalist.com/w8Wbnf.jpg",3am bangkok ghost E08
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/DRAMA%20SIRI/3AM%20BONGKOK%20GHOUST/3%20a.m%20bangkok%20ghoust%20episod%208.mp4
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://i.mydramalist.com/w8Wbnf.jpg",3am bangkok ghost E09
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/DRAMA%20SIRI/3AM%20BONGKOK%20GHOUST/3%20a.m%20bangkok%20ghoust%20episod%209.mp4
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://i.mydramalist.com/w8Wbnf.jpg",3am bangkok ghost E10
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/DRAMA%20SIRI/3AM%20BONGKOK%20GHOUST/3%20a.m%20bangkok%20ghoust%20episod%210.mp4
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://i.mydramalist.com/w8Wbnf.jpg",3am bangkok ghost E11
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/DRAMA%20SIRI/3AM%20BONGKOK%20GHOUST/3%20a.m%20bangkok%20ghoust%20episod%211.mp4
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://i.mydramalist.com/w8Wbnf.jpg",3am bangkok ghost E12
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/DRAMA%20SIRI/3AM%20BONGKOK%20GHOUST/3%20a.m%20bangkok%20ghoust%20episod%212.mp4
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://i.mydramalist.com/w8Wbnf.jpg",3am bangkok ghost E13
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/DRAMA%20SIRI/3AM%20BONGKOK%20GHOUST/3%20a.m%20bangkok%20ghoust%20episod%213.mp4
+
+
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGNjZjQ0ODQtN2QyYS00YzEzLTk4YjAtOTMzNTAwOThmMTllXkEyXkFqcGdeQXVyNzU5NDkzNTg@._V1_FMjpg_UX1000_.jpg", Histeria The Series S1 E01
+https://hello-si-kacak.buntai.workers.dev/0:/series/Histeria/Season%201/Histeria%20The%20Series%20(2022)%20EP01.mp4
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGNjZjQ0ODQtN2QyYS00YzEzLTk4YjAtOTMzNTAwOThmMTllXkEyXkFqcGdeQXVyNzU5NDkzNTg@._V1_FMjpg_UX1000_.jpg", Histeria The Series S1 E02
+https://hello-si-kacak.buntai.workers.dev/0:/series/Histeria/Season%201/Histeria%20The%20Series%20(2022)%20EP02.mp4
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGNjZjQ0ODQtN2QyYS00YzEzLTk4YjAtOTMzNTAwOThmMTllXkEyXkFqcGdeQXVyNzU5NDkzNTg@._V1_FMjpg_UX1000_.jpg", Histeria The Series S1 E03
+https://hello-si-kacak.buntai.workers.dev/0:/series/Histeria/Season%201/Histeria%20The%20Series%20(2022)%20EP03.mp4
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGNjZjQ0ODQtN2QyYS00YzEzLTk4YjAtOTMzNTAwOThmMTllXkEyXkFqcGdeQXVyNzU5NDkzNTg@._V1_FMjpg_UX1000_.jpg", Histeria The Series S1 E04
+https://hello-si-kacak.buntai.workers.dev/0:/series/Histeria/Season%201/Histeria%20The%20Series%20(2022)%20EP04.mp4
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGNjZjQ0ODQtN2QyYS00YzEzLTk4YjAtOTMzNTAwOThmMTllXkEyXkFqcGdeQXVyNzU5NDkzNTg@._V1_FMjpg_UX1000_.jpg", Histeria The Series S1 E05
+https://hello-si-kacak.buntai.workers.dev/0:/series/Histeria/Season%201/Histeria%20The%20Series%20(2022)%20EP05.mp4
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGNjZjQ0ODQtN2QyYS00YzEzLTk4YjAtOTMzNTAwOThmMTllXkEyXkFqcGdeQXVyNzU5NDkzNTg@._V1_FMjpg_UX1000_.jpg", Histeria The Series S1 E06
+https://hello-si-kacak.buntai.workers.dev/0:/series/Histeria/Season%201/Histeria%20The%20Series%20(2022)%20EP06.mkv
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGNjZjQ0ODQtN2QyYS00YzEzLTk4YjAtOTMzNTAwOThmMTllXkEyXkFqcGdeQXVyNzU5NDkzNTg@._V1_FMjpg_UX1000_.jpg", Histeria The Series S1 E07
+https://hello-si-kacak.buntai.workers.dev/0:/series/Histeria/Season%201/Histeria%20The%20Series%20(2022)%20EP07.mp4
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGNjZjQ0ODQtN2QyYS00YzEzLTk4YjAtOTMzNTAwOThmMTllXkEyXkFqcGdeQXVyNzU5NDkzNTg@._V1_FMjpg_UX1000_.jpg", Histeria The Series S1 E08
+https://hello-si-kacak.buntai.workers.dev/0:/series/Histeria/Season%201/Histeria%20The%20Series%20(2022)%20EP08.mp4
+
+
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kC0UnL0ddDX7ph8sGDQmlkDJg7J.jpg", Projek High Council S1 E01
+https://dtacmuar-my.sharepoint.com/personal/mubi1_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EWjBbqUOLypDgfxg7Fm8tWUBnt9G6yiIQu2UI7_uChsVew
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kC0UnL0ddDX7ph8sGDQmlkDJg7J.jpg", Projek High Council S1 E02
+https://dtacmuar-my.sharepoint.com/personal/mubi1_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EYygAqQZXVFMl_Qh3hfiZ8MB67kOi4_LsaJB3MwHtvLujA
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kC0UnL0ddDX7ph8sGDQmlkDJg7J.jpg", Projek High Council S1 E03
+https://dtacmuar-my.sharepoint.com/personal/mubi1_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EbzT0PbwxVtJpH79RynfTAoBWy9yQ2rfl-FoEf_k5wrdyw
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kC0UnL0ddDX7ph8sGDQmlkDJg7J.jpg", Projek High Council S1 E04
+https://dtacmuar-my.sharepoint.com/personal/mubi1_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EQm5-kjqqBtBq1gYx9L7qW8Bx-3tB4REovvkw7ussw8VfQ
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kC0UnL0ddDX7ph8sGDQmlkDJg7J.jpg", Projek High Council S1 E05
+https://dtacmuar-my.sharepoint.com/personal/mubi1_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=Eayl-eTaVzhHgdD8VqhzZ1wBzV9I2fRxk8n5vjyQXUfqQw
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kC0UnL0ddDX7ph8sGDQmlkDJg7J.jpg", Projek High Council S1 E06
+https://dtacmuar-my.sharepoint.com/personal/mubi1_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=ESnyaXNayv9IqfKOCQ0dR28BTxJqkK7y9J-_Ye_W13DMGw
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kC0UnL0ddDX7ph8sGDQmlkDJg7J.jpg", Projek High Council S1 E07
+https://dtacmuar-my.sharepoint.com/personal/mubi1_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=Ef1HE_bouC5JqK90SfuJxHUBfzxA_d2pp_adCBWqF7CxHQ
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kC0UnL0ddDX7ph8sGDQmlkDJg7J.jpg", Projek High Council S1 E08
+https://dtacmuar-my.sharepoint.com/personal/mubi1_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=Ec-a7J2V765HuI-j6aQ9ue4Bw5fGLPQ1uGMRpXptSbOQfw
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kC0UnL0ddDX7ph8sGDQmlkDJg7J.jpg", Projek High Council S1 E09
+https://dtacmuar-my.sharepoint.com/personal/mubi1_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EfKJAribTEBKtZ62Jk1Xxt0BHMlYe9t31rLmKxwN_03zlw
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kC0UnL0ddDX7ph8sGDQmlkDJg7J.jpg", Projek High Council S1 E10
+https://dtacmuar-my.sharepoint.com/personal/mubi1_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=ESRxHg21H4pOjPJZpu9vvcUBU9fOuPbGRnL5xEOjQ12J_A
+
+
+
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kYcux2OUygV2bAjhObcFaBIOhiw.jpg",  Liar (2023)  S1 E01
+https://dtacmuar-my.sharepoint.com/personal/series4_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EesjLnpCD_tBul7u6jVPi8cBkYBg6UFFW9E2NLeSqlF0Og
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kYcux2OUygV2bAjhObcFaBIOhiw.jpg",  Liar (2023)  S1 E02
+https://dtacmuar-my.sharepoint.com/personal/series4_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EdNmObORMzZFkzyrL9zr8dsBr1ad9B4c3l9jiIx6gMCTtg
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kYcux2OUygV2bAjhObcFaBIOhiw.jpg",  Liar (2023)  S1 E03
+https://dtacmuar-my.sharepoint.com/personal/series4_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EUt6yfSTlt1IgkfGbHtDcRMBJhsZNOipyolGW-JB_waPfg
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kYcux2OUygV2bAjhObcFaBIOhiw.jpg",  Liar (2023)  S1 E04
+https://dtacmuar-my.sharepoint.com/personal/series4_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EYpKU3m__lxEoz2gaHzYwQUBE4g9y4fEmg5onOoSQHYnnQ
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kYcux2OUygV2bAjhObcFaBIOhiw.jpg",  Liar (2023)  S1 E05
+https://dtacmuar-my.sharepoint.com/personal/series4_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=ERzKM-DEpKtCqD-tkKVG6iYBB9dEB5lCVCEPDkYtQMa34A
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kYcux2OUygV2bAjhObcFaBIOhiw.jpg",  Liar (2023)  S1 E06
+https://dtacmuar-my.sharepoint.com/personal/series4_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EVe6oVsMI49DtYcUSyGAMHYBquaKga2kpb7hMn4nkujU9Q
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kYcux2OUygV2bAjhObcFaBIOhiw.jpg",  Liar (2023)  S1 E07
+https://dtacmuar-my.sharepoint.com/personal/series4_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EUIYzCSkwQ9HqO-deYEw668BSo0lhFl25r9cdUX97_waJQ
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kYcux2OUygV2bAjhObcFaBIOhiw.jpg",  Liar (2023)  S1 E08
+https://dtacmuar-my.sharepoint.com/personal/series4_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EZqJCUQg0YpMrU_705EXwLIBhAyUtA23IlK_RA5QUC-K8Q
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kYcux2OUygV2bAjhObcFaBIOhiw.jpg",  Liar (2023)  S1 E09
+https://dtacmuar-my.sharepoint.com/personal/series4_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=ESIO1_TWHdtIgLgaxvNGqGMB0GXZw_AWPLqB_X5OfaLq0w
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kYcux2OUygV2bAjhObcFaBIOhiw.jpg",  Liar (2023)  S1 E10
+https://dtacmuar-my.sharepoint.com/personal/series4_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EXNDHhOf6mxOuCwQ20FHcfgBU9WR9e6KgOPOfs3vDJM0ww
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kYcux2OUygV2bAjhObcFaBIOhiw.jpg",  Liar (2023)  S1 E11
+https://dtacmuar-my.sharepoint.com/personal/series4_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EeM0h0KOULdFuTbnYnx5uQABTJNE9G9Wvia09GDws6OZxg
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kYcux2OUygV2bAjhObcFaBIOhiw.jpg",  Liar (2023)  S1 E12
+https://dtacmuar-my.sharepoint.com/personal/series4_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=ESIrucXd9zxLtvFEEG-OFHABC7c6mN0opUBJaRRQjpHKQg
+
+
+
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiw4yM3bwP8uK1NZogkFso4K-ivPVD9r32HJ7FwBWFuH9bVLXEAq3zzK0oekDcQGRY5O-6fAeOD76ifVgfHioh1bWf3akuGgtAOp7OZJ8D5VgNtLggMVdsmZkKV29NMIT8GA2cMjrvay9IC7LiHY2h46LQ1O5ruY8QZHcrBs4PsXoOKvS326QTkeVOh2em2/s16000/Puaka%20Cuti%20Semester.jpg", Puaka Cuti Semester S1 E01
+https://dtacmuar-my.sharepoint.com/personal/series1_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=Ee18QeEr-cBHs236kvoKatoBRH7CnttcwjV8s17ZEvqODQ
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiw4yM3bwP8uK1NZogkFso4K-ivPVD9r32HJ7FwBWFuH9bVLXEAq3zzK0oekDcQGRY5O-6fAeOD76ifVgfHioh1bWf3akuGgtAOp7OZJ8D5VgNtLggMVdsmZkKV29NMIT8GA2cMjrvay9IC7LiHY2h46LQ1O5ruY8QZHcrBs4PsXoOKvS326QTkeVOh2em2/s16000/Puaka%20Cuti%20Semester.jpg", Puaka Cuti Semester S1 E02
+https://dtacmuar-my.sharepoint.com/personal/series1_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EYiSyxre9NdAoUyGDLTOnSQBp6BftOVb82tAjL0odt7PAQ
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiw4yM3bwP8uK1NZogkFso4K-ivPVD9r32HJ7FwBWFuH9bVLXEAq3zzK0oekDcQGRY5O-6fAeOD76ifVgfHioh1bWf3akuGgtAOp7OZJ8D5VgNtLggMVdsmZkKV29NMIT8GA2cMjrvay9IC7LiHY2h46LQ1O5ruY8QZHcrBs4PsXoOKvS326QTkeVOh2em2/s16000/Puaka%20Cuti%20Semester.jpg", Puaka Cuti Semester S1 E03
+https://dtacmuar-my.sharepoint.com/personal/series1_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EdkH6Y9RkTVIqXRq6zESNKgBONewG7fYfsMrcqdqZ7M1Ew
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiw4yM3bwP8uK1NZogkFso4K-ivPVD9r32HJ7FwBWFuH9bVLXEAq3zzK0oekDcQGRY5O-6fAeOD76ifVgfHioh1bWf3akuGgtAOp7OZJ8D5VgNtLggMVdsmZkKV29NMIT8GA2cMjrvay9IC7LiHY2h46LQ1O5ruY8QZHcrBs4PsXoOKvS326QTkeVOh2em2/s16000/Puaka%20Cuti%20Semester.jpg", Puaka Cuti Semester S1 E04
+https://dtacmuar-my.sharepoint.com/personal/series1_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=Eeup3SXp_ZBIinj_5jtkQTsBQ4mTEYKeG6zfPNGqs3WxhA
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiw4yM3bwP8uK1NZogkFso4K-ivPVD9r32HJ7FwBWFuH9bVLXEAq3zzK0oekDcQGRY5O-6fAeOD76ifVgfHioh1bWf3akuGgtAOp7OZJ8D5VgNtLggMVdsmZkKV29NMIT8GA2cMjrvay9IC7LiHY2h46LQ1O5ruY8QZHcrBs4PsXoOKvS326QTkeVOh2em2/s16000/Puaka%20Cuti%20Semester.jpg", Puaka Cuti Semester S1 E05
+https://dtacmuar-my.sharepoint.com/personal/series1_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EWS_mZfUy7pCsiEUPYBrgvkB5Ooz8-AT-wTH17G1fQGXQQ
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiw4yM3bwP8uK1NZogkFso4K-ivPVD9r32HJ7FwBWFuH9bVLXEAq3zzK0oekDcQGRY5O-6fAeOD76ifVgfHioh1bWf3akuGgtAOp7OZJ8D5VgNtLggMVdsmZkKV29NMIT8GA2cMjrvay9IC7LiHY2h46LQ1O5ruY8QZHcrBs4PsXoOKvS326QTkeVOh2em2/s16000/Puaka%20Cuti%20Semester.jpg", Puaka Cuti Semester S1 E06
+https://dtacmuar-my.sharepoint.com/personal/series1_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EcB9SWMRgI9JitDYvOnbnVwBQSVo8fF4yWzwf8Zn25dW6g
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiw4yM3bwP8uK1NZogkFso4K-ivPVD9r32HJ7FwBWFuH9bVLXEAq3zzK0oekDcQGRY5O-6fAeOD76ifVgfHioh1bWf3akuGgtAOp7OZJ8D5VgNtLggMVdsmZkKV29NMIT8GA2cMjrvay9IC7LiHY2h46LQ1O5ruY8QZHcrBs4PsXoOKvS326QTkeVOh2em2/s16000/Puaka%20Cuti%20Semester.jpg", Puaka Cuti Semester S1 E07
+https://dtacmuar-my.sharepoint.com/personal/series1_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EZV__YI1FdtLjczhKNlVuXEB787rtUU5wTrihTtOLaBewA
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiw4yM3bwP8uK1NZogkFso4K-ivPVD9r32HJ7FwBWFuH9bVLXEAq3zzK0oekDcQGRY5O-6fAeOD76ifVgfHioh1bWf3akuGgtAOp7OZJ8D5VgNtLggMVdsmZkKV29NMIT8GA2cMjrvay9IC7LiHY2h46LQ1O5ruY8QZHcrBs4PsXoOKvS326QTkeVOh2em2/s16000/Puaka%20Cuti%20Semester.jpg", Puaka Cuti Semester S1 E08
+https://dtacmuar-my.sharepoint.com/personal/series1_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EQdpiMZBoMxFodYdd_d6pHoBTHp6I--ftgAS-h0a_XCGdA
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiw4yM3bwP8uK1NZogkFso4K-ivPVD9r32HJ7FwBWFuH9bVLXEAq3zzK0oekDcQGRY5O-6fAeOD76ifVgfHioh1bWf3akuGgtAOp7OZJ8D5VgNtLggMVdsmZkKV29NMIT8GA2cMjrvay9IC7LiHY2h46LQ1O5ruY8QZHcrBs4PsXoOKvS326QTkeVOh2em2/s16000/Puaka%20Cuti%20Semester.jpg", Puaka Cuti Semester S1 E09
+https://dtacmuar-my.sharepoint.com/personal/series1_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EZgFd7DnyEdMk-KJ0i5eMxYBzTN9O9O2O57KbC36hFHN1A
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiw4yM3bwP8uK1NZogkFso4K-ivPVD9r32HJ7FwBWFuH9bVLXEAq3zzK0oekDcQGRY5O-6fAeOD76ifVgfHioh1bWf3akuGgtAOp7OZJ8D5VgNtLggMVdsmZkKV29NMIT8GA2cMjrvay9IC7LiHY2h46LQ1O5ruY8QZHcrBs4PsXoOKvS326QTkeVOh2em2/s16000/Puaka%20Cuti%20Semester.jpg", Puaka Cuti Semester S1 E10
+https://dtacmuar-my.sharepoint.com/personal/series1_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EWtC9cxxsCJCjegOF6me0U4B7NwQsyur3Fx-UHOI8d0Gcw
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"HQVnbKfGO8nSPIIbkAdTHw","kid":"Kc2mNr3VUFkETuwMO179EA"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=OTT_1/v4.11.3
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KJXIN_p_IVP_PORT_750x1126_20231030_134025.jpg",Mystic Village E01
+https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/8beeecfa-d34d-5ef3-87d3-05505face941/default_primary.mpd
+
+ astro.com.my_47_PACK0000000000465567
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"uvRp0wdPxqU+2A5k088bFQ","kid":"GJpAQSJ3dTAis9kVm6G0EA"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=OTT_1/v4.11.3
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KJXIN_p_IVP_PORT_750x1126_20231030_134025.jpg",Mystic Village E02
+https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/53922852-b6b1-5edc-a225-7f799e0372e7/default_primary.mpd
+
+ astro.com.my_47_PACK0000000000465567
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"fuRnQXhNf6Krv2sjvtk20w","kid":"b05P8Ow3fc9jn475Juh3EA"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=OTT_1/v4.11.3
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KJXIN_p_IVP_PORT_750x1126_20231030_134025.jpg",Mystic Village E03
+https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/2a698bd5-33af-5819-97cc-96c2c8f76d1b/default_primary.mpd
+
+ astro.com.my_47_PACK0000000000465567
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"ltQnVoDl4kGgAJavMtMntQ","kid":"oEd4HYbz5IEOQkwoLUcxEA"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=OTT_1/v4.11.3
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KJXIN_p_IVP_PORT_750x1126_20231030_134025.jpg",Mystic Village E04
+https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/04cb1572-f290-5b02-9a04-ed4b87018aff/default_primary.mpd
+
+ astro.com.my_47_PACK0000000000465567
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"GVtO/Vt49uvCZCR/ufIkeQ","kid":"vU5Ej8GNGXHNQE3cBRXuEA"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=OTT_1/v4.11.3
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KJXIN_p_IVP_PORT_750x1126_20231030_134025.jpg",Mystic Village E05
+https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/2c461a46-aa87-5102-9930-29b5a74b3949/default_primary.mpd
+
+ astro.com.my_47_PACK0000000000465567
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"h1h2+dMzwqKsSQvCGcQCIQ","kid":"iF6tYwIRWs1lybHyn48AEA"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=OTT_1/v4.11.3
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KJXIN_p_IVP_PORT_750x1126_20231030_134025.jpg",Mystic Village E06
+https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/6ce244a9-2bd5-5ccb-aa45-1d886c5905d4/default_primary.mpd
+
+ astro.com.my_47_PACK0000000000465567
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"E1oWiyPdAsvvZniy03QoSg","kid":"0tzJtUeDCCa1bDlg85vSEA"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=OTT_1/v4.11.3
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KJXIN_p_IVP_PORT_750x1126_20231030_134025.jpg",Mystic Village E07
+https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/818d0144-2a1c-56d5-9eae-5be2c2be7703/default_primary.mpd
+
+ astro.com.my_47_PACK0000000000465567
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"QdBzE5JgmRHO5lyAJ8nVPA","kid":"bReqF/VzvGbXjECt+u1DEA"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=OTT_1/v4.11.3
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KJXIN_p_IVP_PORT_750x1126_20231030_134025.jpg",Mystic Village E08
+https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/bf9d80ec-587c-5954-a85a-4bc369ae381b/default_primary.mpd
+
+ astro.com.my_47_PACK0000000000465567
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"AseYdk+9CENrJGT7w1B0WA","kid":"ZxSrKil4y+vXdnQaIChYEA"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=OTT_1/v4.11.3
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KJXIN_p_IVP_PORT_750x1126_20231030_134025.jpg",Mystic Village E09
+https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/0af4eb44-f97b-5ffe-a2a5-c4421bf7c004/default_primary.mpd
+
+ astro.com.my_47_PACK0000000000465567
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"UyhKd8ehDDmIKG8mjFT2Yw","kid":"eubBbrJnn8xqon64kjqzEA"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=OTT_1/v4.11.3
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KJXIN_p_IVP_PORT_750x1126_20231030_134025.jpg",Mystic Village E10
+https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/ed69cc39-979d-52fa-838c-f89111bc3d98/default_primary.mpd
+
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://www.themoviedb.org/t/p/w500/vUnTdTlWJld4iuZgGDp494bVAsn.jpg", Sihir S1 E01
+https://hello-si-kacak.buntai.workers.dev/0:/series/Sihir%202021/Sihir%202021%20Episod%2001%20HDTV@PH-MDZ.mp4
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://www.themoviedb.org/t/p/w500/vUnTdTlWJld4iuZgGDp494bVAsn.jpg", Sihir S1 E02
+https://hello-si-kacak.buntai.workers.dev/0:/series/Sihir%202021/Sihir%202021%20Episod%C2%A002%20HDTV@PH-MDZ.mp4
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://www.themoviedb.org/t/p/w500/vUnTdTlWJld4iuZgGDp494bVAsn.jpg", Sihir S1 E03
+https://hello-si-kacak.buntai.workers.dev/0:/series/Sihir%202021/Sihir%202021%20Episod%C2%A003%20HDTV@PH-MDZ.mp4
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://www.themoviedb.org/t/p/w500/vUnTdTlWJld4iuZgGDp494bVAsn.jpg", Sihir S1 E04
+https://hello-si-kacak.buntai.workers.dev/0:/series/Sihir%202021/Sihir%202021%20Episod%C2%A004%20HDTV@PH-MDZ.mp4
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://www.themoviedb.org/t/p/w500/vUnTdTlWJld4iuZgGDp494bVAsn.jpg", Sihir S1 E05
+https://hello-si-kacak.buntai.workers.dev/0:/series/Sihir%202021/Sihir%202021%20Episod%C2%A005%20HDTV@PH-MDZ.mp4
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://www.themoviedb.org/t/p/w500/vUnTdTlWJld4iuZgGDp494bVAsn.jpg", Sihir S1 E06
+https://hello-si-kacak.buntai.workers.dev/0:/series/Sihir%202021/Sihir%202021%20Episod%C2%A006%20HDTV@PH-MDZ.mp4
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://www.themoviedb.org/t/p/w500/vUnTdTlWJld4iuZgGDp494bVAsn.jpg", Sihir S1 E07
+https://hello-si-kacak.buntai.workers.dev/0:/series/Sihir%202021/Sihir%202021%20Episod%C2%A007%20HDTV@PH-MDZ.mp4
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://www.themoviedb.org/t/p/w500/vUnTdTlWJld4iuZgGDp494bVAsn.jpg", Sihir S1 E08
+https://hello-si-kacak.buntai.workers.dev/0:/series/Sihir%202021/Sihir%202021%20Episod%C2%A008%20HDTV@PH-MDZ.mp4
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://www.themoviedb.org/t/p/w500/vUnTdTlWJld4iuZgGDp494bVAsn.jpg", Sihir S1 E09
+https://hello-si-kacak.buntai.workers.dev/0:/series/Sihir%202021/Sihir.EP9@malaydramaz.mp4
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://www.themoviedb.org/t/p/w500/vUnTdTlWJld4iuZgGDp494bVAsn.jpg", Sihir S1 E10
+https://hello-si-kacak.buntai.workers.dev/0:/series/Sihir%202021/Sihir.EP10@malaydramaz.mp4
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://www.themoviedb.org/t/p/w500/vUnTdTlWJld4iuZgGDp494bVAsn.jpg", Sihir S1 E11
+https://hello-si-kacak.buntai.workers.dev/0:/series/Sihir%202021/Sihir.EP11@malaydramaz.mp4
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://www.themoviedb.org/t/p/w500/vUnTdTlWJld4iuZgGDp494bVAsn.jpg", Sihir S1 E12
+https://hello-si-kacak.buntai.workers.dev/0:/series/Sihir%202021/Sihir.EP12@malaydramaz.mp4
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://www.themoviedb.org/t/p/w500/vUnTdTlWJld4iuZgGDp494bVAsn.jpg", Sihir S1 E13
+https://hello-si-kacak.buntai.workers.dev/0:/series/Sihir%202021/Sihir.EP13@malaydramaz.mp4
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://www.themoviedb.org/t/p/w500/vUnTdTlWJld4iuZgGDp494bVAsn.jpg", Sihir S1 E14
+https://hello-si-kacak.buntai.workers.dev/0:/series/Sihir%202021/Sihir.EP14@malaydramaz.mp4
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://www.themoviedb.org/t/p/w500/vUnTdTlWJld4iuZgGDp494bVAsn.jpg", Sihir S1 E15
+https://hello-si-kacak.buntai.workers.dev/0:/series/Sihir%202021/Sihir.EP15@malaydramaz.mp4
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://www.themoviedb.org/t/p/w500/vUnTdTlWJld4iuZgGDp494bVAsn.jpg", Sihir S1 E16
+https://hello-si-kacak.buntai.workers.dev/0:/series/Sihir%202021/Sihir.EP16@malaydramaz.mp4
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://www.themoviedb.org/t/p/w500/vUnTdTlWJld4iuZgGDp494bVAsn.jpg", Sihir S1 E17
+https://hello-si-kacak.buntai.workers.dev/0:/series/Sihir%202021/Sihir.EP17@malaydramaz.mp4
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://www.themoviedb.org/t/p/w500/vUnTdTlWJld4iuZgGDp494bVAsn.jpg", Sihir S1 E18
+https://hello-si-kacak.buntai.workers.dev/0:/series/Sihir%202021/Sihir.EP18@malaydramaz.mp4
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://www.themoviedb.org/t/p/w500/vUnTdTlWJld4iuZgGDp494bVAsn.jpg", Sihir S1 E19
+https://hello-si-kacak.buntai.workers.dev/0:/series/Sihir%202021/Sihir.EP19@malaydramaz.mp4
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://www.themoviedb.org/t/p/w500/vUnTdTlWJld4iuZgGDp494bVAsn.jpg", Sihir S1 E20
+https://hello-si-kacak.buntai.workers.dev/0:/series/Sihir%202021/Sihir.EP20@malaydramaz.mp4
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "sHxV8VmmTK5+IdTX9hU96Q", "kid": "eUVJvTppUn9eKNbPtJy0EA"}], "type": "temporary"}
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KIZVB_P_IVP_PORT_750x1126_202382_9928.jpg",Tanah Kubur Season16 E01
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTVLCOPT:http-user-agent=OTT_1/v4.11.3
+https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/d70a8508-a80a-5205-b24a-38f3614c0533/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "8dtmfiAKuAlTqPRz+fDQKA", "kid": "OqBSRr1YEEmHflQJHJR3EA"}], "type": "temporary"}
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KIZVB_P_IVP_PORT_750x1126_202382_9928.jpg",Tanah Kubur Season16 E02
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTVLCOPT:http-user-agent=OTT_1/v4.11.3
+https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/3a2097af-0128-5d48-b55c-f41b429b9813/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "eu799XssS87g6+Q8MrWfGw", "kid": "/OecJ0e2lRT//zlVUYMsEA"}], "type": "temporary"}
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KIZVB_P_IVP_PORT_750x1126_202382_9928.jpg",Tanah Kubur Season16 E03
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTVLCOPT:http-user-agent=OTT_1/v4.11.3
+https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/f6ee8b3a-ab41-56ad-9bbe-65f0f2f60f1d/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "wKR66p/MtPPx+AJR9uH6VQ", "kid": "zUZcW/E+obr9jHAnyf9XEA"}], "type": "temporary"}
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KIZVB_P_IVP_PORT_750x1126_202382_9928.jpg",Tanah Kubur Season16 E04
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTVLCOPT:http-user-agent=OTT_1/v4.11.3
+https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/a83fe030-426e-5af2-95d5-9a311e1a85bb/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"X+oNB9VtR9/5zbcuzzM4xQ","kid":"nXEVhCQfMthK+ew2T7eCEA"}],"type":"temporary"}
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KIZVB_P_IVP_PORT_750x1126_202382_9928.jpg",Tanah Kubur Season16 E05
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTVLCOPT:http-user-agent=OTT_1/v4.11.3
+https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/d86c4e9a-d4fb-5eac-8fc3-47299a4e65aa/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "UUKtlqgmEYCeCNqY7okx+g", "kid": "mecSPwKSh8p1q27Ju8dnEA"}], "type": "temporary"}
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KIZVB_Series_IVP_LAND_672x378_202382_9918.jpg",Tanah Kubur Season16 E06
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTVLCOPT:http-user-agent=OTT_1/v4.11.3
+https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/9e0738d8-2fc4-53ca-ab4e-fdfc8e6b091d/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "+uBqnpf+UeMPdgn96YL2Rg", "kid": "lqT5o5s8SRYGdg4dd/4/EA"}], "type": "temporary"}
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KIZVB_Series_IVP_LAND_672x378_202382_9918.jpg",Tanah Kubur Season16 E07
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTVLCOPT:http-user-agent=OTT_1/v4.11.3
+https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/c3c27423-3ebe-5245-a04c-cd70613b1bf0/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "kdlpcfRjICFHwc//L6ShAQ", "kid": "Tw2jzBpIKywiRRL7/zmNEA"}], "type": "temporary"}
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KIZVB_Series_IVP_LAND_672x378_202382_9918.jpg",Tanah Kubur Season16 E08
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTVLCOPT:http-user-agent=OTT_1/v4.11.3
+https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/74626c9d-0817-5d34-ac2b-c35034f60c1c/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "XNwTArYY7aCMK5W4u47wmA", "kid": "cem5b34nYRGQBCS57m/ZEA"}], "type": "temporary"}
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KIZVB_P_IVP_PORT_750x1126_202382_9928.jpg",Tanah Kubur Season16 E09
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTVLCOPT:http-user-agent=OTT_1/v4.11.3
+https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/5d3f3a82-df27-58cc-94d7-84ec8f68cbd2/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "nf9bj722u+wpecZB0FNaxQ", "kid": "EDh1fm1BbtXDPa3vJ9k8EA"}], "type": "temporary"}
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KIZVB_P_IVP_PORT_750x1126_202382_9928.jpg",Tanah Kubur Season16 E10
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTVLCOPT:http-user-agent=OTT_1/v4.11.3
+https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/7254c32d-c6a4-5037-8a3a-23f36d9857c6/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"4GV/nfuFGtaUJTSWVnz+6Q","kid":"mN2ul186FMkDEH7CpXCQEA"}],"type":"temporary"}
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KIZVB_P_IVP_PORT_750x1126_202382_9928.jpg",Tanah Kubur Season16 E11
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTVLCOPT:http-user-agent=OTT_1/v4.11.3
+https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/9666be5d-8647-5680-8fde-d7faf17c7d83/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"LlOcATnGjRBOr33n9YKGJA","kid":"iVu497RECfjZ8ExwXot7EA"}],"type":"temporary"}
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KIZVB_P_IVP_PORT_750x1126_202382_9928.jpg",Tanah Kubur Season16 E12
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTVLCOPT:http-user-agent=OTT_1/v4.11.3
+https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/d00410ac-b316-58ca-bd13-b72854db085c/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"BaVTcYSYnOTl3i5mvO3DKA","kid":"IZG4j+yfhPahAW1GVvtZEA"}],"type":"temporary"}
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KIZVB_P_IVP_PORT_750x1126_202382_9928.jpg",Tanah Kubur Season16 E13
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTVLCOPT:http-user-agent=OTT_1/v4.11.3
+https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/ecd70d24-a13e-5caa-824f-3e4b7a41f8fb/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"CLqbtHBa/j9G0MfFm4RSZw","kid":"HZP/pZTDbmACscfGbTUrEA"}],"type":"temporary"}
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KIZVB_P_IVP_PORT_750x1126_202382_9928.jpg",Tanah Kubur Season16 E14
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTVLCOPT:http-user-agent=OTT_1/v4.11.3
+https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/03da45cd-134f-5107-aa3e-e3bb54ba6a8a/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"/WeyAM6BgZDjUhGQjXGW8w","kid":"1SOat8xpt9VsCm3qxcOrEA"}],"type":"temporary"}
+#EXTINF:-1 type="series" group-title="MALAY SERIES" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KIZVB_P_IVP_PORT_750x1126_202382_9928.jpg",Tanah Kubur Season16 E15
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTVLCOPT:http-user-agent=OTT_1/v4.11.3
+https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/a4b2be63-8bb7-54c1-98be-470a06cbb0e8/default_primary.mpd
+
+
 
 #EXTM3U billed-msg="😎 BijanBusuk 😎"
