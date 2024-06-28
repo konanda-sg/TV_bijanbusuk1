@@ -12,7 +12,14 @@
 #EXTM3U url-tvg="https://azimabid00.github.io/epg/astro_epg.xml"
 
 
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jz82wz5m/20220927-065129.png" group-title="SPORTS", Astro Supersport 1
+http://195.26.87.217/live.ts?channelId=125429&uid=3453&deviceMac=00:1A:79:01:04:AC
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jz82wz5m/20220927-065129.png" group-title="SPORTS", Astro Supersport 2
+http://195.26.87.217/live.ts?channelId=125430&uid=3453&deviceMac=00:1A:79:01:04:AC
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jz82wz5m/20220927-065129.png" group-title="SPORTS", Astro Supersport 3
+http://195.26.87.217/live.ts?channelId=125431&uid=3453&deviceMac=00:1A:79:01:04:AC
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jz82wz5m/20220927-065129.png" group-title="SPORTS", Astro Supersport 4
+http://195.26.87.217/live.ts?channelId=125432&uid=3453&deviceMac=00:1A:79:01:04:AC
 
 *********
 
