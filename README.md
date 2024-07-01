@@ -474,10 +474,9 @@ https://web.hypp.tv:443/PLTV/88888888/224/3221227656/3221227656.mpd?rrsip=web.hy
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=OWM1ZGFlNWItNjNjZi0zZGVhLTkyN2YtYWRkYjFlMjM0MTVi
 https://web.hypp.tv:443/PLTV/88888888/224/3221227637/3221227637.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=P9WRHqSrUsuy%2BJikuzsnbLh6LO9cwFJbX0ifkqBLs1eEm6R1BFTj%2F%2B5BveDnXMJVLMXaMDHd%2BOB7wHYKNx8pLeV3eB1im9yO2zVHwdc0cAWVFRTQiCcWXuFIeO21qkbF%3A20230413072448%3AUTC%2C10001002129842%2C115.135.197.250%2C20230413072448%2Curn:Huawei:liveTV:iptv42337%2C10001002129842%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C10000104360778%2C0%2C10000103736904%2C884179594%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOwW7DIBQE_4YjCjgCfOCUqlKlyo0Ut9dqDQ9qBZsEnEj9-8ate93dWc1S4OjlyTrT6tYFTYPa740boGVAE5SAkF6bhlW6dtlK5pDSOMcu-xX7OB0-xY7vuJSCG9avb88JcRt2t2mgYsU_daJyHx1ZXwO_o3LEWChiGfPMjwnf7yVtE0b9ZiaUEY1WrVJKN2xZ0x71_GjYF-ohTxcU8q85_gI2IFViF7gzInWYyM63lP64t-IfNj_9atHa8wAAAA&tenantId=6003
 
-EXTINF:-1 tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/Paramount_Network.png?raw=true",Paramount Network 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn08jtedge.indihometv.com/dassdvr/133/paramount/manifest.mpd
+#EXTINF:-1 tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/Paramount_Network.png?raw=true",Paramount Network 
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff8c708653d080007361b14/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d14fc31252d35decbc4080b&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=873&terminate=false&userId=
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/Galaxy.png",Galaxy
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -827,50 +826,78 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_primary.mpd
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_primary.mpd
 
 
-#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArenaBola_v1.png",Arena Bola
+EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArenaBola_v1.png",Arena Bola
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=Miepalong7&channelid=5099
 https://linears-playback.astro.com.my/vsg/441Sxt3DWhZdej265n7aXR92Kv6oTSxktc4poXzaXTdffY=Wa-R/dash-wv/jitp-linearwm/5099/default_primary.mpd
 
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArenaBola_v1.png",Arena Bola
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IllURmhNbU5pWXpRdE5EUTJPUzAwWXpnMUxXRmxOalV0TVdaak5UaGhZMkprTjJRNCIsIndtb3BpZCI6MzIsImV4cCI6MTcyMDMyMjQyNCwiaWF0IjoxNzE5NzE4NDI0fQ.bn6qWTdBKIWsG0dkCxGEcLnsXcge78sLnljKw6gLgqc"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"4dQox/HKgjOabPodB1dCjg", "kid":"dIHT43OMRnaPE44gj+6Qdg" } ], "type":"temporary" }
+https://d1fk7kbmz4il3.cloudfront.net/CH1/masterCH1.mpd
 
-#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArenaBola2_v1.png",Arena Bola 2
+EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArenaBola2_v1.png",Arena Bola 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=Miepalong7&channelid=5100
 https://linears-playback.astro.com.my/vsg/41W9CerGIQW-wTXKgMyFzl6lC1GPrjxLjTXN1wBZQNOZ4=wxDA/dash-wv/jitp-linearwm/5100/default_primary.mpd
 
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArenaBola2_v1.png",Arena Bola 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IllURmhNbU5pWXpRdE5EUTJPUzAwWXpnMUxXRmxOalV0TVdaak5UaGhZMkprTjJRNCIsIndtb3BpZCI6MzIsImV4cCI6MTcyMDMyMjQyNCwiaWF0IjoxNzE5NzE4NDI0fQ.bn6qWTdBKIWsG0dkCxGEcLnsXcge78sLnljKw6gLgqc"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"eTnjNb+Mu9aIL59cnN6+GQ", "kid":"mWhVRUkdQLSTs6SyY8ckXg" } ], "type":"temporary" }
+https://d1fk7kbmz4il3.cloudfront.net/CH5/masterCH5.mpd
 
 EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroSuperSportUHD.png",SuperSport UHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"eupDzZPCSqmDTstJhPf9Wg", "kid":"IvvvHBzXJek5fsFkVfCCEA" } ], "type":"temporary" }
 https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1601/default.mpd
 
-#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png",Astro SuperSport
+EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png",Astro SuperSport
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"TxVBP35HZ7UMSOGbf5ovzA", "kid":"90mrcfInmZv7CY9zNZqsEA" } ], "type":"temporary" } 
 https://linears-playback.astro.com.my/vsg/41JpWADi6WU_jVc8PqEw8eqW7O8L8jxNW4kl2shxwmUuM=JgSF/dash-wv/jitp-linearwm/601/default_primary.mpd
 
-EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png",Astro SuperSport
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-https://cors-proxy.elfsight.com/https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/118
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png",Astro SuperSport
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IllURmhNbU5pWXpRdE5EUTJPUzAwWXpnMUxXRmxOalV0TVdaak5UaGhZMkprTjJRNCIsIndtb3BpZCI6MzIsImV4cCI6MTcyMDMyMjQyNCwiaWF0IjoxNzE5NzE4NDI0fQ.bn6qWTdBKIWsG0dkCxGEcLnsXcge78sLnljKw6gLgqc"}
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://sooka.my/&user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"lofZG3/WR6iBg9CkzJJfdw", "kid":"s8z3OnpmT4WudBE2f/svpw" } ], "type":"temporary" }
+https://d3j4fjrwclc3o8.cloudfront.net/CH1/masterCH1.mpd
 
-#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport2_v1.png",Astro SuperSport 2 
+EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport2_v1.png",Astro SuperSport 2 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"3fpujVSbTVF3qcref5oLIw", "kid":"wdyS8HifESUDwNs73i8SEA" } ], "type":"temporary" }
 https://linears-playback.astro.com.my/vsg/41cdUbtCHhS4CST_0SQ5LEm7V2gfnvFVQ6j8EDQDEltpY=46KF/dash-wv/jitp-linearwm/2104/default_primary.mpd
 
-EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport2_v1.png",Astro SuperSport 2 
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-https://cors-proxy.elfsight.com/https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/119
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport2_v1.png",Astro SuperSport 2 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IllURmhNbU5pWXpRdE5EUTJPUzAwWXpnMUxXRmxOalV0TVdaak5UaGhZMkprTjJRNCIsIndtb3BpZCI6MzIsImV4cCI6MTcyMDMyMjQyNCwiaWF0IjoxNzE5NzE4NDI0fQ.bn6qWTdBKIWsG0dkCxGEcLnsXcge78sLnljKw6gLgqc"}
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://sooka.my/&user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"QfI0+4hZCvOw0iQRGmG/cQ", "kid":"jx2jmTJSR+ymrN17r7lfog" } ], "type":"temporary" }
+https://d3j4fjrwclc3o8.cloudfront.net/CH4/masterCH4.mpd
 
 
-#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport3_v1.png",Astro SuperSport 3 
+EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport3_v1.png",Astro SuperSport 3 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Fo8/rfxzC6PfyTL3xDDifQ", "kid":"W+Zqb4jv7j1uMPcqnFjjEA" } ], "type":"temporary" }
 https://linears-playback.astro.com.my/vsg/41SxZSqxQoUXNO2Zb4SsAtYY-SvbvarxePWUmdg1K47lI=PvxW/dash-wv/jitp-linearwm/2701/default_primary.mpd
 
-EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport3_v1.png",Astro SuperSport 3 
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-https://cors-proxy.elfsight.com/https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/120
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport3_v1.png",Astro SuperSport 3 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IllURmhNbU5pWXpRdE5EUTJPUzAwWXpnMUxXRmxOalV0TVdaak5UaGhZMkprTjJRNCIsIndtb3BpZCI6MzIsImV4cCI6MTcyMDMyMjQyNCwiaWF0IjoxNzE5NzE4NDI0fQ.bn6qWTdBKIWsG0dkCxGEcLnsXcge78sLnljKw6gLgqc"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[{ "kty":"oct", "k":"O+3QvNEXVgFsmjzL559mZQ", "kid":"xeZBeMM+QYWjQG2EJSzXoA" }], "type":"temporary" }
+https://d3ey18635ukr4v.cloudfront.net/CH1/masterCH1.mpd
 
 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport4_v1.png",Astro SuperSport 4 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
