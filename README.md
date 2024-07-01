@@ -161,8 +161,7 @@ https://linearfast07.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f8
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5128/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/201907/20190716/20190716074123890vav.png",Dunia Sinema 
-#EXT-X-I-FRAME-STREAM-INF:BANDWIDTH=438000,CODECS="avc1.64001F",RESOLUTION=1280x720,VIDEO-RANGE=SDR,URI="keyframes/live27-720H.m3u8"
-https://unifi-live01.secureswiftcontent.com/UnifiHD/live27-720H.m3u8
+https://mifntechnology.github.io/siaranMy/channels/DuniaSinema/index.m3u8
 
 EXTINF:-1 tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/201907/20190716/20190716074123890vav.png",Dunia Sinema 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
