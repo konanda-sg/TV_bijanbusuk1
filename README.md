@@ -3268,5 +3268,10 @@ https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/03da45cd-
 https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/a4b2be63-8bb7-54c1-98be-470a06cbb0e8/default_primary.mpd
 
 
+#EXTINF:-1 type="movie" group-title="VOD MALAY" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KNJUS_P_IVP_PORT_476x716_2024618_163049.jpg", Narko Integriti 2024
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"t81/sMWfh1FxH1q7JCt3tg", "kid":"SJIWcIrN56ok2rxNNaioEA" } ], "type":"temporary" }
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/a6b7a042-0c3b-5264-9c13-01296926b67a/default_primary.mpd
 
 #EXTM3U billed-msg="😎 BijanBusuk 😎"
