@@ -155,6 +155,14 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5128/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/201907/20190716/20190716074123890vav.png",Dunia Sinema 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YmE1ODUyNDctMTU5NS0zMWEzLWJhYWYtZDVmMjI3Y2VjODIz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTINF:-1 group-title="Malaysia" tvg-id="Dunia Sinema HD"  tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-
+https://unifi-live01.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
+
+#EXTINF:-1 tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/201907/20190716/20190716074123890vav.png",Dunia Sinema 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=OWM1ZGFlNWItNjNjZi0zZGVhLTkyN2YtYWRkYjFlMjM0MTVi
 https://web.hypp.tv:443/PLTV/88888888/224/3221227631/3221227631.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=ZGlr1wUdBOOGDryKF0kvMbVYvPMGti8RF6MXybwThZ103cSgoBPi3FtzTzqXVvo6ZYVR%2Bqpagyz8EY%2FIIvO2zLA6Eaj%2F16opEwsmZHU78Ik%3D%3A20240707032947%3AUTC%2C1005926113%2C210.186.227.73%2C20240707032947%2Curn:Huawei:liveTV:XTV100001461%2C1005926113%2C-1%2C0%2C1%2C%2C%2C2%2C595%2C%2C%2C2%2C1615850%2C0%2C521145%2C144796741%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOwQ6CMBBE_6bHhi0i9tCTxsTEoAno1SztUomFYosm_r2ieJ2ZN3ljQE27jaLlQi9rIaXOs4VOa4lGZk0N0ODKQK5ZpHvhlWAanWt7W3gzYedyfYGEJ1wI4DmrpretQzsPi0dXU1Dwp0oKz1aTMrHhT4wcrQ1kcWx9z48OX6fg5gmjajaDXCRpKjMpARI2TmmF8fZp2BXj2ncDBjJ7b7-AatBFYgPqG1oqsCPVP5z7cYdgPjZv-58Qd_MAAAA&tenantId=6001
 
